@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>the applicable Indenture, may declare the principal amount of the Indenture Securities of that series to be due and payable immediately.
+If an Event of Default related to certain events of bankruptcy, insolvency or reorganization affecting any Issuer occurs with respect
+to the Indenture Securities of any series at the time outstanding, the principal amount of all the Indenture Securities of that series
+will automatically, and without any action by the applicable Trustee or any Holder, become immediately due and payable. After any such
+acceleration, but before a judgment or decree based on acceleration, the Holders of a majority in aggregate principal amount of the Outstanding
+Securities of that series may, under certain circumstances, rescind and annul such acceleration if all Events of Default, other than
+the non-payment of accelerated principal (or other specified amount), have been cured or waived as provided in the applicable
+Indenture. (Section 502 of the BN Indenture, Section 6.2 of the BFI Senior Indenture and the Other Indentures.) For information
+as to waiver of defaults, see “— Modification and Waiver”.</body></html>

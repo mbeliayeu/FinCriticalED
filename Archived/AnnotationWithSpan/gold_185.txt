@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Whenever in the Indenture
+there is mentioned, in any context, the payment of principal (and premium, if any), Redemption Price, Purchase Price, Change of
+Control Payment, interest or any other amount payable under or with respect to any note, such mention shall be deemed to include mention
+of the payment of Company Additional Amounts to the extent that, in such context, Company Additional Amounts are, were or would be payable
+in respect thereof.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Co-Obligors and/or Additional Guarantors</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Without the consent of any
+Holders, BFI, when authorized by a resolution of the board of directors of BFI, the Company and the Trustee, may enter into an indenture
+supplemental to the Indenture in respect of the notes, in form satisfactory to the Trustee, for the purpose of adding as a co-obligor
+(whether as an additional issuer or guarantor) of the notes, an Affiliate of BFI or the Company (each, a “<b>Co-Obligor</b>”);
+provided that any such Co-Obligor shall be organized or formed under the laws of (1) any state of the United States, (2) Canada
+or any province or territory thereof, (3) the United Kingdom, (4) Australia or (5) any country that is a member of the
+European Union and <i>provided further</i>, that BFI may only add a Co-O</p></body></html>

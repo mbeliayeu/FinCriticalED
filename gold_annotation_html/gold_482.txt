@@ -1,0 +1,33 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>0pt"&gt;<b>Securities
+    Offered	</b>
+<td style="padding-top: 2pt; padding-bottom: 2pt"><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">US$<number>500,000,000</number> principal amount of 5.813%
+    notes due March 3, 2055.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">One or more of the underwriters will sell
+    to affiliates of BWS and/or certain other institutional investors <monetaryunit>US$</monetaryunit><number>25</number> million aggregate principal amount of the notes at
+    the public offering price (for which no underwriting discount or commission will be paid).  </p>
+</td>
+<tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Format	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">SEC
+    registered.</font></td></tr>
+<tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Issue
+    and Delivery Date	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><temporal>March
+                                            3, 2025</temporal>.</p></td></tr>
+<tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Maturity
+    Date	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><temporal>March
+                                            3, 2055</temporal>.</p></td></tr>
+<tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Interest
+    Rate	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><number>5.813%</number>
+                                            per annum.</p></td></tr>
+<tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Yield	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><number>5.813%</number>
+                                            per annum if held to maturity.</p></td></tr>
+<tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10p&lt;/body&gt;&lt;/html&gt;"/></td></tr></body></html>

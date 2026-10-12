@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>statements include statements that are predictive in nature, depend
+upon or refer to future results, events or conditions, and include, but are not limited to, statements which reflect management’s
+current estimates, beliefs and assumptions regarding the operations, business, financial condition, expected financial results, performance,
+prospects, opportunities, priorities, targets, goals, ongoing objectives, strategies, capital management and outlook of Brookfield, as
+well as the outlook for North American and international economies for the current fiscal year and subsequent periods, and which in turn
+are based on management’s experience and perception of historical trends, current conditions and expected future developments,
+as well as other factors management believes are appropriate in the circumstances. The estimates, beliefs and assumptions of Brookfield
+are inherently subject to significant business, economic, competitive and other uncertainties and contingencies regarding future events
+and as such, are subject to change. Forward-looking statements are typically identified by words such as “expect”, “anticipate”,
+ “believe”, “foresee”, “could”, “estimate”, “goal”, “intend”,
+ “plan”, “seek”, “strive”, “will”, “may” and “should” and similar
+expressions.</body></html>

@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify"><b><i>Original Issue Discount</i></b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">It is expected, and this
+summary assumes, that the notes will not be issued with original issue discount (“<b>OID</b>”) for U.S. federal income tax
+purposes. If, however, the stated redemption price of a note were to exceed its issue price by more than a de minimis amount, then
+a U.S. Holder would be required to treat such excess amount as OID, which would be treated for U.S. federal income tax purposes
+as accruing over the term of the note as interest income. Thus, a U.S. Holder would be required to include OID in income in advance
+of the receipt of the cash to which such OID is attributable. The U.S. Holder’s adjusted tax basis in a note would be increased
+by the amount of any OID included in the U.S. Holder’s gross income.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify"><b><i>Sale, Exchange, Redemption or
+Other Taxable Disposition of Notes</i></b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p></body></html>

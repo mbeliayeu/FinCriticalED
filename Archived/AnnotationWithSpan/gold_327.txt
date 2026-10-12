@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Registered Global Securities</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Registered Debt Securities of a particular series may be issued in the form of one or more Registered Global Securities which will be
+registered in the name of, and deposited with, one or more Depositories or nominees, each of which will be identified in the Prospectus
+Supplement relating to such series. Unless and until exchanged, in whole or in part, for Indenture Securities in definitive registered
+form, a Registered Global Security may not be transferred except as a whole by the Depositary for such Registered Global Security to
+a nominee of such Depositary, by a nominee of such Depositary to such Depositary or another nominee of such Depositary or by such Depositary
+or any such nominee to a successor of such Depositary or a nominee of such successor. (Section 305 of the BN Indenture, and Section 3.5
+of the BFI Senior Indenture and Other Indentures.)</p></body></html>

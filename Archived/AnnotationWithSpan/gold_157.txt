@@ -1,0 +1,21 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>ze:<number> 10pt"</number>&gt;<font style="font-size: 0pt"> </font><td style="padding-bottom: 1pt; font-size: 10pt"><font style="font-size: 0pt"> </font></td><td style="font-size: 10pt; padding-bottom: 1pt"><font style="font-size: 0pt"> </font></td>
+<td colspan="2" style="text-align: center; font-size: 10pt"><font style="font-size: 0pt"> </font></td><td style="padding-bottom: 1pt; font-size: 10pt"><font style="font-size: 0pt"> </font></td>
+<tr style="vertical-align: bottom">
+<td style="font-size: 10pt; text-align: center"> </td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td colspan="6" style="font: 10pt Times New Roman, Times, Serif; text-align: center">(US$ amounts in millions)</td><td style="font: 10pt Times New Roman, Times, Serif"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 74%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Corporate
+    borrowings<sup>(2)</sup> </font></td><td style="font: 10pt Times New Roman, Times, Serif; width: 1%"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; width: 1%; text-align: left">$</td><td style="font: 10pt Times New Roman, Times, Serif; width: 10%; text-align: right">14,232</td><td style="font: 10pt Times New Roman, Times, Serif; width: 1%; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; width: 1%"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; width: 1%; text-align: left"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">$</font></td><td style="font: 10pt Times New Roman, Times, Serif; width: 10%; text-align: right">14,227</td><td style="font: 10pt Times New Roman, Times, Serif; width: 1%; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Non-recourse borrowings</td><td style="font-size: 10pt"> </td>
+<td style="font-size: 10pt; text-align: left"> </td><td style="font-size: 10pt; text-align: right"> </td><td style="font-size: 10pt; text-align: left"> </td><td style="font-size: 10pt"> </td>
+<td style="font-size: 10pt; text-align: left"> </td><td style="font-size: 10pt; text-align: right"> </td><td style="font-size: 10pt; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; padding-left: 0.125in; text-align: left">Subsidiary borrowings	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">16,002</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">16,002</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; padding-left: 0.125in; text-align: left">Property-specific borrowings	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">204,558</td><td style="font: 10pt Times New R&lt;/body&gt;&lt;/html&gt;"/></tr></body></html>

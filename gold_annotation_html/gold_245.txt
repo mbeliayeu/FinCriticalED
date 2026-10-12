@@ -1,0 +1,57 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) an amount equal to Class B Monthly Interest for
+such Distribution Date, <i>plus</i> the amount of any Class B Outstanding Monthly Interest, <i>plus</i> the amount of any Class B Additional Interest for such Distribution Date and any Class B Additional Interest previously due but
+not distributed to the Class B certificateholders on a prior Distribution Date, will be distributed to the Class B certificateholders; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) if <reportingentity>TRS</reportingentity> or an affiliate of TRS is no longer the servicer, an amount equal to the Class B Servicing
+Fee for such Distribution Date, <i>plus</i> the amount of any Class B Servicing Fee previously due but not distributed to the servicer on a prior Distribution Date, will be distributed to the servicer; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) the balance, if any, shall constitute Excess Spread and shall be allocated and distributed as described
+under  <i>Excess Spread; Excess Finance Charge Collections</i> below. </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="4%"> </td>
+<td width="5%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">(C)</p></td>
+<td align="left" valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " align="justify">an amount equal to the Collateral Available Funds will be distributed in the following priority:
+</p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) if <reportingentity>TRS</reportingentity> or an affiliate of TRS is no longer the servicer, an amount equal to the
+Collateral Interest Servicing Fee for such Distribution Date, <i>plus</i> the amount of any Collateral Interest Servicing Fee previously due but not distributed to the servicer on a prior Distribution Date, will be paid to the servicer; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the balance, if any, will constitute a portion of Excess Spread and will be allocated and distributed as
+described under  <i>Excess Spread; Excess Finance Charge Collections</i> below. </p> <p style="margin-top:18pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Excess Spread;
+Excess Finance Charge Collections </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, the trustee, acting pursuant to the servicers
+instructions, will apply Excess Spread and Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1</font> for the related Monthly Period to make the following distributions in the following priority: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) an amount equal to the Class A Required Amount, if any, for such Distribution Date will be used to
+fund the Class A Required Amount, and if the Class A Required Amount for such Distribution Date exceeds the amount of Excess Spread and Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1,</font>
+such Excess Spread and Excess Finance Charge Collections will be applied: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">first, to pay shortfalls in the payment of amounts described in clause (A)(i) under  <i>Payment of
+Interest, Fees and Other Items</i> in this prospectus, </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">second, to pay shortfalls in the payment of amounts described in clause (A)(ii) under  <i>Payment
+of Interest, Fees and Other Items</i> in this prospectus, and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">third, to pay shortfalls in the payment of amounts described in clause (A)(iii) under  <i>Payment
+of Interest, Fees and Other Items</i> in this prospectus; </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) an amount equal to
+the aggregate amount of Class A Investor Charge-Offs that have not been previously reimbursed will be treated as a portion of Available Principal Collections for such Distribution Date as described under  <i>Payments of
+Principal</i> in this prospectus; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c) an amount equal to the interest accrued with respect to the
+aggregate outstanding principal balance of the Class B certificates not otherwise distributed to the Class B certificateholders on such Distribution Date will accrue at the Class B certificate rate and be paid to Class B
+certificateholders, except that any such interest previously due but not paid will accrue at the Class B certificate rate plus <number>2%</number> per year; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(d) an amount equal to the Class B Required Amount, if any, for such Distribution Date will be
+(I) used to fund the Class B Required Amount and applied <i>first</i>, to pay shortfalls in the payment of amounts described in clause (B)(i) under  <i>Payment of Interest, Fees and Other Items</i> in this prospectus, and
+<i>second</i>, to pay shortfalls in the payment of amounts described in clause (B)(ii) under  <i>Payment of Interest, Fees and </i> </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">66 </p>
+
+</div></center></div></html>

@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>ess each Holder (including, as applicable, the beneficial owners in respect of any
+such Holder) and, upon written request, will reimburse each such Holder (including, as applicable, the beneficial owners in respect of
+any such Holder) for the amount of (i) any Taxes (other than any Taxes for which Company Additional Amounts would not be payable
+pursuant to clauses (a) through (g) above) levied or imposed and paid by such Holder (including, as applicable, the beneficial
+owners in respect of any such Holder) as a result of payments made under or with respect to the notes which have not been withheld or
+deducted and remitted by BFI or the Company (as applicable) in accordance with applicable law, (ii) any liability (including penalties,
+interest and expenses) arising therefrom or with respect thereto, and (iii) any Taxes (other than any Taxes for which Company Additional
+Amounts would not be payable pursuant to clauses (a) through (g) above) imposed with respect to any reimbursement
+under clause (i) or (ii) above, but excluding any such Taxes on such Holder’s (including, as applicable, the
+beneficial owners in respect of any such Holder’s) net income.</body></html>

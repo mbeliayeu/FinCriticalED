@@ -1,0 +1,37 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+<i>patterns of account holders may not be consistent over time and variations in these payment patterns may result in reduced payment of principal, or receipt of payment of principal earlier or
+later than expected in this prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_25"/>Series Provisions </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On or about <temporal>February [●], 2025</temporal>, the trust will issue <monetaryunit>$</monetaryunit>500,000,000 of Class A Series
+<font style="white-space:nowrap">2025-1</font> [●]% Asset Backed Certificates and $21,429,000 of Class B Series <font style="white-space:nowrap">2025-1</font> [●]% Asset Backed Certificates. In addition, the trust will issue a
+specified undivided Collateral Interest in the trust assets in an initial amount equal to $50,001,000, or approximately 8.75% of the Initial Invested Amount which will be subordinated to the Series <font style="white-space:nowrap">2025-1</font>
+certificates as described herein. Only the Class A certificates are being offered by this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest will be issued pursuant to the pooling and servicing agreement and the Series <font style="white-space:nowrap">2025-1</font> supplement specifying the principal terms
+of the certificates, the forms of which have been filed as exhibits to the registration statement of which this prospectus are a part. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">This prospectus presents Series <font style="white-space:nowrap">2025-1</font> with an Initial Invested Amount of
+<monetaryunit>$</monetaryunit>571,430,000. However, the Initial Invested Amount of this series may be increased or decreased. Any such increase or decrease will be applied <i>pro rata</i> among the Class A certificates, the Class B certificates and the Collateral
+Interest and will be reflected in the final prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Class B certificates are not offered by this prospectus.
+The Class B certificates will initially be retained by the transferor or an affiliate of the transferor. Information about the Class B certificates is set forth herein solely to provide a better understanding of the Class A
+certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Collateral Interest is not offered by this prospectus. The Collateral Interest will initially be
+retained by the transferor but may in the future be transferred, including in a Note Trust Transfer. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The following
+summary describes certain terms applicable to the Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest. <i>See The Pooling and Servicing Agreement Generally in this prospectus for additional
+information concerning the Series <font style="white-space:nowrap">2025-1</font> certificates, the Collateral Interest and the pooling and servicing agreement.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_26"/>Interest Payments </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Interest on the Class A certificates and the Class B certificates will accrue from the closing date on the
+outstanding principal balances of the Class A certificates and the Class B certificates at the Class A certificate rate and Class B certificate rate, respectively. Interest will be distributed on each Distribution Date, beginning
+<temporal>March 17, 2025</temporal> to the Series <font style="white-space:nowrap">2025-1</font> certificateholders in whose names the Series <font style="white-space:nowrap">2025-1</font> certificates were registered on the relevant Record Date. Interest for any
+Distribution Date will accrue from and including the 15<sup style="font-size:75%; vertical-align:top">th</sup> day of the preceding month (or, in the case of the first Distribution Date, from and including the closing date) to but excluding the 15<sup style="font-size:75%; vertical-align:top">th</sup> day of the current month. Interest on the Class A certificates and the Class B certificates will be calculated on the basis of a <font style="white-space:nowrap">360-day</font> year
+consisting of twelve <font style="white-space:nowrap">30-day</font> months. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, interest due to
+the Class A certificateholders will be equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the Class A certificate rate; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the outstanding principal balance of the Class A certificates as of the preceding
+Record Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">For the first Distribution Date, however, interest on the Class A certificates will equal <monetaryunit>$</monetaryunit>[●]. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Interest due on the Class A certificates but not paid on any Distribution Date will be payable on the next succeeding
+Distribution Date together with additional interest on such amount at the Class A certificate rate plus <number>2%</number> per year. Such additional interest shall accrue on the same basis as interest on the Class A certificates, and shall
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">58 </p>
+
+</div></center></div></html>

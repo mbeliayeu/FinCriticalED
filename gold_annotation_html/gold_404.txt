@@ -1,0 +1,19 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table id="header" role="presentation"><tbody><tr><td class="title">Form 24F-2NT Filer Information</td><td class="center" rowspan="2">
+						UNITED STATES
+						<br/>
+						SECURITIES AND EXCHANGE COMMISSION
+						<br/>
+						Washington, D.C. 20549
+						<br/><br/>
+						FORM 24F-2
+						<br/>
+						Annual Notice of Securities Sold Pursuant to Rule 24f-2 or Rule 456(e)
+					</td><td class="title">OMB APPROVAL</td></tr><tr><td class="side" style="text-align: center;"><p><br/>
+								Form 24F-2NT<br/></p></td><td class="side" width="25%"><p>OMB Number:  3235-0456</p><hr/><p>Estimated average burden hours per response: <temporal>2</temporal></p></td></tr></tbody></table><div style="display:none">
+			schemaVersion:
+				</div><div id="info"><div class="contentwrapper"><div class="content"><h1>24F-2NT: Filer Information</h1><table class="filerInformation" role="presentation"><tbody><tr><td class="label">Filer CIK</td><td><div class="fakeBox2">0001000249<span> </span></div></td></tr><tr><td class="label">Filer CCC</td><td><div class="fakeBox2">
+								           
+										     ********
+								     	  <span> </span></div></td></tr><tr><td class="label">Filer Investment Company Type</td><td><div class="fakeBox">Form N-1A Filer (Mutual Fund)<span> </span></div></td></tr><tr><td class="label">
+								Is this a LIVE or TEST Filing?
+							</td><td><span class="yesNo"><img alt="Radi&lt;/body&gt;&lt;/html&gt;"/></span></td></tr></tbody></table></div></div></div></body></html>

@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the commencement of the Early Amortization
+Period for that series, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   payment in full of the invested amount of that series, and
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   the series termination date for that series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Early Amortization Period</b> means, for any applicable series or class of such series, the period that begins
+on the day on which a <font style="white-space:nowrap">Pay-Out</font> Event for that series occurs or is deemed to occur and continues until the earlier of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   payment in full of the certificates of that series or class, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the series termination date for that series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Eligible Account</b><b> </b>means each credit or charge account or line of credit (if, with respect to the line
+of credit, the full receivable balance is not due upon receipt of a monthly billing statement (excluding the billing statement with respect to the final payment of such balance) and the line of credit contains a code designation in the related
+securitization field as described in the Pooling and Servicing Agreement) owned by the account owner and its successors and permitted assignees which, as of the respective date of designation, is a credit or charge account or line of credit: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   in existence and maintained by the account owner or such successors or assignees, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   is payable in United States dollars, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   has not been sold or pledged to any other party except for any other account owner that
+has entered into a purchase agreement, the transferor or an additional transferor, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv)
+  does not have receivables which have been sold or pledged to any party other than the transferor, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v)   except as provided below, has an account holder who has not been confirmed by the servicer
+in its computer files as being involved in any voluntary or involuntary bankruptcy proceeding, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi)
+  has an account holder who has provided as his or her most recent billing address an address located in the United States, its territories or possessions or Canada or a United States military address (provided, however, that, at any
+time, up to <number>3%</number> of the accounts may have account holders who have provided as their most recent billing addresses, addresses outside of such jurisdictions), </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vii)   has not been identified as an account or product with respect to which the related card
+has been lost or stolen (if such account or product is a credit card account or product), </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(viii)
+  does not have receivables that are Defaulted Receivables and does not have any receivables that have been identified by the servicer as having been incurred as a result of fraudulent use of any related credit card, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ix)   with respect to Aggregate Addition Accounts, certain other accounts or products which shall
+have satisfied the Rating Agency Condition. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Eligible Deposit Account</b><b> </b>means either: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   a segregated account with an Eligible Institution (other than the account owner), or </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   a segregated trust account with the corporate trust department of a depository institution
+(other than the account owner) organized under the laws of the United States or any one of the states thereof, including the District of Columbia (or any domestic branch of a foreign bank), and acting as a trustee for funds deposited in such
+account, so long as the rating of any of the unsecured or unguaranteed senior debt securities of such </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">141 </p>
+
+</div></center></div></html>

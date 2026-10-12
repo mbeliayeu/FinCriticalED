@@ -1,0 +1,21 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Coupon:</b></font></td>
+<td><font style="font-size: 10pt"><number>5.813%</number></font></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Interest Payment Dates:</b></font></td>
+<td><font style="font-size: 10pt"><temporal>March 3</temporal> and September 3, commencing <temporal>September 3, 2025</temporal></font></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Price to Public:</b></font></td>
+<td><font style="font-size: 10pt"><number>100.000%</number></font></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Benchmark Treasury:</b></font></td>
+<td><font style="font-size: 10pt">UST <number>4.500%</number> due November 15, 2054</font></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Benchmark Treasury Price &amp; Yield:</b></font></td>
+<td><font style="font-size: 10pt"><number>98</number>-31; <number>4.563%</number> </font></td></tr></body></html>

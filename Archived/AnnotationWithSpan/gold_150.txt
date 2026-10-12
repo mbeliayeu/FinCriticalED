@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The Company’s borrowing cost requirements for the <date>12-month</date> periods ended December 31, 2023 and September 30, 2024 amounted to US$3,672
+million and US$3,276 million, respectively, after giving effect to (i) the issuance of the notes, without giving effect to the application
+of the net proceeds thereof, (ii) repayment at maturity of US$500 million principal amount of 4.000% senior unsecured notes of the Company
+due January 15, 2025 (the “2025 notes”), (iii) the issuance by BFI of US$700 million principal amount of 6.300% fixed-to-fixed
+reset rate subordinated notes due January 15, 2055 (the “ 2055 hybrid notes”), (iv) the issuance by BFI of US$450 million
+principal amount of 5.675% notes due January 15, 2035 (the “2035 notes”), (v) the re-opening issuance by BFI of US$200 million
+principal amount of 5.968% notes due March 4, 2054 (the “additional 2054 notes”), (vi) repayment at maturity of the outstanding
+US$200 million principal amount of 4.000% senior unsecured notes of BFI and Brookfield Finance LLC due April</p></body></html>

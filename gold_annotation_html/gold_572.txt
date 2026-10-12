@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">This summary is not applicable
+to a Note Holder (i) that is a “financial institution” (as defined in the Tax Act for purposes of the “mark-to-market”
+property rules), (ii) an interest in which is a “tax shelter investment” (as defined in the Tax Act), (iii) that
+has elected to report its “Canadian tax results” (as defined in the Tax Act) in a functional currency in accordance with
+the provisions of the Tax Act or (iv) that enters into or will enter into a “derivative forward agreement” (as defined
+in the Tax Act) in respect of the notes. Such Note Holders should consult their own tax advisors having regard to their particular
+circumstances. This summary does not address the split income rules in section 120.4 of the Tax Act. Note Holders should consult
+their own tax advisors in this regard. In addition, this summary does not address the deductibility of interest by a Note Holder who
+has borrowed money or otherwise incurred debt in connection with the acquisition of the notes. Note Holders should consult their own
+tax advisors in that regard.</p></body></html>

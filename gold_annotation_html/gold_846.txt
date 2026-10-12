@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z2b8b527e2d69472a84142bbb4d316eff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 72pt; vertical-align: top; font-style: italic;">3.2.3</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-style: italic;"><u>Characteristics of the Share Capital Increase Reserved to the Offer</u></div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">On 23 January 2025, the Board of Directors of the Offeror resolved to submit to the extraordinary shareholders’ meeting of the Offeror – convening it for 17 April 2025 – the proposal to delegate to
+      the administrative body (board of directors) of MPS, pursuant to Article 2443 of the Italian Civil Code (the “<font style="font-weight: bold;">Delegation</font>”), the increase of the Offeror’s share capital at the service of the Offer, in divisible
+      form and also in several <font style="font-style: italic;">tranches</font>, to be paid up by means of (and against) the contribution in kind of the Issuer’s Shares tendered to the Offer (or however contributed to MPS in execution of the purchase
+      obligation and/or right to purchase under articles 108 and 111, of the TUF, if the requirements thereof are met), and therefore with the exclusion of the option right pursuant to Article 2441, paragraph 4, of the Italian Civil Code (the “<font style="font-weight: bold;">Share Capital Increase Reserved to the Offer</font>”).</div></body></html>

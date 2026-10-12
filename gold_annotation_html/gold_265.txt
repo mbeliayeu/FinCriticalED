@@ -1,0 +1,71 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+scheduled deposits into the principal funding account, as applicable, or to avoid the occurrence of a <font style="white-space:nowrap">Pay-Out</font> Event or a Reinvestment Event relating to the
+existence of such shortfalls. Any such designation would result in an increase in the amount of collections of principal receivables and a lower yield on the portfolio with respect to collections of finance charge receivables than would otherwise
+occur. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">After any such designation, pursuant to the pooling and servicing agreement, the transferor may, without notice to
+or consent of the certificateholders, from time to time increase, reduce or withdraw the premium percentage. The transferor must provide <temporal>30 days</temporal> prior written notice to the servicer, the trustee, each Rating Agency and any provider of Series
+Enhancement of any such designation or increase, reduction or withdrawal. Such designation or increase, reduction or withdrawal will become effective on the date specified therein only if: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transferor delivers to the trustee and certain providers of Series Enhancement a certificate of an
+authorized officer of that transferor to the effect that, based on the facts known to that transferor at the time, such designation or increase, reduction or withdrawal will not at the time of its occurrence cause a
+<font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event or an event that, with notice or the lapse of time or both, would constitute a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event, to occur with
+respect to any series, </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the Rating Agency Condition will have been satisfied with respect to such designation or increase, reduction
+or withdrawal, </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">in the case of a designation or increase of the premium percentage, the transferor will have delivered to the
+trustee an opinion of counsel to the effect that such designation or increase of the premium percentage will not adversely affect the tax characterization as debt of any certificates of any outstanding series or class that were characterized as debt
+at their time of issuance, and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">in certain circumstances, the transferor will have obtained the prior written consent of each provider of
+Series Enhancement entitled to consent thereto. </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On the Date of Processing of any collections on or
+after the date the exercise of the premium option takes effect, the product of: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the premium percentage then in effect, and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">collections of receivables with respect to the accounts on or after the date such option is exercised that
+otherwise would be finance charge receivables, will be deemed collections of principal receivables and will be applied accordingly, unless otherwise provided in the related supplement. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The premium percentage is currently <number>0%</number>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_55"/>Indemnification </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement provides that the servicer will indemnify the trust and the trustee from and against any
+loss, liability, expense, damage or injury suffered or sustained arising out of certain of the servicers actions or omissions with respect to the trust pursuant to the pooling and servicing agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement, the transferor has agreed to be liable directly to an injured party for the entire
+amount of any liabilities of the trust (other than those incurred by a certificateholder in the capacity of an investor in the certificates of any series) arising out of or based on each of the arrangements created by the pooling and servicing
+agreement and the actions of the transferor taken pursuant thereto as though the pooling and servicing agreement created a partnership under the New York Uniform Partnership Act in which the transferor was a general partner. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Except as provided in the two preceding paragraphs, the pooling and servicing agreement provides that neither the transferor
+nor the servicer nor any of their respective directors, officers, employees or agents will be under any other liability to the trust, the trustee, the certificateholders, any provider of Series Enhancement or any other person
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">86 </p>
+
+</div></center></div></html>

@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Delinquency Threshold will initially equal <number>7.79%</number>, although
+the Delinquency Threshold will be reviewed and may be adjusted as described below. The initial Delinquency Threshold is calculated as the product of the historical peak percentage of receivables in the Trust Portfolio that were more than 60 days
+contractually delinquent (not including any Defaulted Receivables) as of the end of any Monthly Period from the formation of the trust in May 1996 to December 2024 (3.9%) and a multiplier of 2. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In determining the manner in which the Delinquency Threshold is calculated, we sought to identify a circumstance when rising
+delinquencies might begin to cause a reasonable investor concern that the receivables in the Trust Portfolio might not have complied with the representations and warranties made with respect to those receivables in the pooling and servicing
+agreement and the purchase agreement. We considered two primary factors: (i) the historical peak percentage of receivables in the Trust Portfolio that were more than <temporal>60 days</temporal> contractually delinquent and (ii) the history of repurchase
+demands for receivables in the Trust Portfolio where the breach of a representation or warranty had been asserted. During the period from the formation of the trust in May 1996 to December 2024, the historical peak percentage of receivables in the
+Trust Portfolio that were more than 60 days contractually delinquent was 3.9%. During that same period, neither the trustee nor any certificateholder has made a repurchase demand or asserted a breach of a representation or warranty concerning the
+receivables. We believe that delinquency percentages that do not exceed the historical peak delinquency percentage by a reasonable margin are far less likely to bear either a causal or a correlative relationship to any putative or actual breaches of
+representations and warranties concerning delinquent receivables, particularly in the case of the issuing entity, where no repurchase demand has ever been made nor breach of a representation or warranty been asserted. Further, we believe that
+establishing a reasonable margin above the historical peak delinquency percentage will reduce the likelihood that the Delinquency Threshold is breached due to general fluctuations in consumer credit cycles or other factors that are unrelated to
+breaches of representations and warranties, such as changes in the macro-economic environment or underwriting decisions. Based on these considerations, we believe that the Delinquency Threshold, calculated as described above, is an appropriate
+measure to trigger a review by the asset representations reviewer for a securitization platform that was established over 20 years ago and with no history of repurchase demands. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Delinquency Threshold will be reviewed and may be adjusted upon the occurrence of either of the following events: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the filing of a registration statement with the <reportingentity>SEC</reportingentity> relating to any certificates to be offered and sold
+from time to time by the transferor, on behalf of the issuing entity; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) a change in law or
+regulation (including any new or revised interpretation of an existing law or regulation) that, in the judgment of the transferor, could reasonably be expected to have a material effect on the delinquency rate for payments on the credit card
+accounts comprising the Trust Portfolio or the manner by which delinquencies are defined or determined; </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><i>provided</i>, <i>however</i>,
+that, once the <font style="white-space:nowrap"><temporal>60-Day</temporal></font> Delinquency Percentage for any Monthly Period exceeds the Delinquency Threshold, a review of the Delinquency Threshold that would otherwise be undertaken as described above will be
+delayed until the date on which it is first reported in the trusts monthly distribution report on Form <font style="white-space:nowrap">10-D</font> that the <font style="white-space:nowrap">60-Day</font> Delinquency Percentage for the related
+Monthly Period no longer exceeds the Delinquency Threshold. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the case of a review undertaken upon the occurrence of an
+event described in clause (i) above, we may increase or decrease the Delinquency Threshold, including by increasing or decreasing the multiplier used to calculate the Delinquency Threshold, by any amount we reasonably determine to be
+appropriate based on the composition of the Trust Portfolio at the time of the review. In the case of a review undertaken upon the occurrence of an event described in clause (ii) above, we may increase or decrease the Delinquency Threshold,
+including by increasing or decreasing the multiplier used to calculate the Delinquency Threshold, by any amount we reasonably determine to be appropriate as a result of the related change in law or regulation. Any adjustment to the Delinquency
+Threshold will be disclosed in the trusts monthly distribution report on Form <font style="white-space:nowrap">10-D</font> relating to the Monthly Period in which the adjustment occurs, which report will include a description of how the
+adjusted Delinquency Threshold rate was determined to be appropriate. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">109 </p>
+
+</div></center></div></html>

@@ -1,0 +1,21 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 9%"> </td>
+<td style="vertical-align: top; width: 4%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(d)</font></td>
+<td style="text-align: justify; vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1001085/000100108524000013/a2024-q1interimreportbn.htm" style="-sec-extract: exhibit"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">the
+    Company’s<b> </b>unaudited comparative interim consolidated financial statements for the three months ended March 31,
+    2024 and 2023;</font></a></td></tr>
+</tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 9%"> </td>
+<td style="vertical-align: top; width: 4%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(e)</font></td>
+<td style="vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1001085/000100108524000013/a2024-q1interimreportbn.htm" style="-sec-extract: exhibit"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">the
+    management’s discussion and analysis for the unaudited comparative interim consolidated financial statements referred to in
+    paragraph (d) above (the “<b>Interim MD&amp;A</b>”); and</font></a></td></tr>
+</tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 9%"> </td>
+<td style="vertical-align: top; width: 4%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(f)</font></td>
+<td style="text-align: justify; vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1001085/000119312524133293/d828927dex992.htm" style="-sec-extract: exhibit"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">the
+    Company’s management information circular dated April 25, 2024.</font></a></td></tr>
+</tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"/></body></html>

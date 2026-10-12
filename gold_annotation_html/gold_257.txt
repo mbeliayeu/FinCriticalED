@@ -1,0 +1,52 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+in accordance with normal procedures for <font style="white-space:nowrap">same-day</font> funds settlement applicable to <reportingentity>DTC</reportingentity>. Clearstream Banking customers and Euroclear participants may not
+deliver instructions directly to DTC. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Because of time-zone differences, credits to certificates in <reportingentity>Clearstream Banking</reportingentity> or
+Euroclear as a result of a transaction with a DTC participant will be made during subsequent securities settlement processing and will be credited the business day following a DTC settlement date. The credits to or any transactions in the
+certificates settled during processing will be reported to the relevant Euroclear participants or Clearstream Banking customers on that business day. Cash received in Clearstream Banking or Euroclear as a result of sales of certificates by or
+through a Clearstream Banking customer or a Euroclear participant to a DTC participant will be received with value on the DTC settlement date, but will be available in the relevant Clearstream Banking or Euroclear cash account only as of the
+business day following settlement in DTC. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Although <reportingentity>DTC</reportingentity>, Clearstream Banking and Euroclear have agreed to these procedures
+in order to facilitate transfers of certificates among participants of DTC, Clearstream Banking and Euroclear, they are under no obligation to perform or continue to perform these procedures and these procedures may be discontinued at any time. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_45"/>Definitive Certificates </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Beneficial owners of book-entry certificates may exchange those certificates for definitive certificates registered in their
+name only if: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">DTC is unwilling or unable to continue as depository for the global certificates or ceases to be a registered
+clearing agency and the trust is unable to find a qualified replacement for DTC; </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transferor, at its option, elect to terminate the book-entry system through DTC; or </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">after the occurrence of a servicer default, certificate owners evidencing not less than <number>50%</number> of the unpaid
+outstanding principal amount of the certificates advise the trustee and DTC that the continuation of a book-entry system is no longer in the best interests of those certificate owners. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If any of these three events occurs, <reportingentity>DTC</reportingentity> is required to notify the beneficial owners through the chain of intermediaries that
+the definitive certificates are available. The appropriate global certificate will then be exchangeable in whole for definitive certificates in registered form of like tenor and of an equal aggregate stated principal amount, in specified
+denominations. Definitive certificates will be registered in the name or names of the person or persons specified by DTC in a written instruction to the registrar of the certificates. DTC may base its written instruction upon directions it receives
+from its participants. Thereafter, the holders of the definitive certificates will be recognized as the holders of the certificates under the pooling and servicing agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Definitive certificates will be transferable and exchangeable at the offices of the transfer agent and registrar, which will
+initially be the trustee. No service charge will be imposed for any registration of transfer or exchange, but the transfer agent and registrar may require payment of a sum sufficient to cover any tax or other governmental charge imposed in
+connection with that registration. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="tx764677_46"/>The Pooling and Servicing Agreement Generally </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_47"/>Conveyance of Receivables </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>RFC III</reportingentity>, as transferor to the trust (and Centurion, RFC II and RFC IV, as former transferors to the trust), has sold and
+assigned to the trust its interest in the receivables in the accou<reportingentity>nts exi</reportingentity>sting at the applicable <font style="white-space:nowrap">cut-off</font> dates, all receivables thereafter created from time to time under the accounts, all Recoveries allocable
+to the trust and the proceeds of all of the foregoing. From time to time, RFC III may assign to the trust the receivables in designated Additional Accounts existing at the close of business on the applicable
+<font style="white-space:nowrap">cut-off</font> dates. In addition, RFC III may assign to the trust all insurance proceeds, all Recoveries allocable to the trust, and the proceeds of all of the foregoing. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">78 </p>
+
+</div></center></div></html>

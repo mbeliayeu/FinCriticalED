@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->10<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Defeasance</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Each
+Indenture provides that, at the option of the applicable Issuer, the Issuer and, in the case of the BFI Senior Indenture and the Other
+Indentures, the Company will be discharged from any and all obligations in respect of any Outstanding Securities upon irrevocable deposit
+with the applicable Trustee(s), in trust, of money and/or Government Obligations which will provide money in an amount sufficient, in
+the opinion of a nationally recognized firm of independent public accountants, to pay the principal of or premium, if any, and each instalment
+of interest, if any, on such Outstanding Securities (“<b>Defeasance</b>”). Such trust may only be established if certain
+customary conditions precedent are satisfied, including, among other things, confirmation that Holders will not recognize gain or loss
+for U.S. federal income tax purposes as a result of such Defeasance. The Issuer may exercise its Defeasance option notwithstanding its
+prior exercise of its Covenant Defeasance (as defined below) option described in the following paragraph if the Issuer meets the conditions
+precedent at the time the Issuer exercises the Defeasance option.</p></body></html>

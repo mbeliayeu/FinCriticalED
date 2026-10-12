@@ -1,0 +1,18 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zb89145532833423f8dea43a79d443ad8" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(iii)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>application to be filed with the European Central Bank and to the Bank of Italy for a prior verification that the amendments to the Offeror’s by-laws simultaneous to and in relation to the Capital Increase Reserved to the Offer (and the
+              related Delegation, as defined below) do not conflict with the sound and prudent management of the Offeror, pursuant to Articles 56 and 61 of the TUB, and the prior authorization to count the new shares issued in the context of the aforesaid
+              Capital Increase Reserved to the Offer as Offeror’s common equity tier 1, pursuant to Articles 26 and 28 of Regulation (EU) 575/2013 of the European Parliament and of the Council of <date>26 June 2013</date>;</div>
+</td>
+</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zf090c4d8da4f4bcc9eba94f97a7ce4b2" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(iv)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>application to the Bankof Italy and the European Central Bank for the authorization of the acquisition, by the Offeror, of direct and indirect shareholdings which, in the aggregate, exceed <number>10%</number> of the consolidated equity of the Offeror’s
+              banking group, pursuant to Articles 53 and 67 of the TUB, as implemented in Part Three, Chapter I, Section V, of the Bank of Italy Circular no. 285 of <date>17 December 2013</date>, as subsequently amended and supplemented;</div>
+</td>
+</tr>
+</tbody></table></body></html>

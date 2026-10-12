@@ -1,0 +1,39 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+Card Members enrolled in a Pay Over Time feature have an APR equal to the prime rate plus a margin ranging from <number>12.74%</number> to 20.74%, with a cap of 29.99%. Pay Over Time balances are billed on a
+cycle basis at the same time as the rest of the Card Members account. Payments  up to the minimum payment due  first apply to the Pay In Full new balance and then to any plan amounts included in the minimum payment due, then to the
+Pay Over Time and/or Cash Advance new balance, first to the balance with the lowest interest rate and then to balances with higher interest rates. After the minimum payment due has been paid, we apply payments first to the Pay Over Time and/or Cash
+Advance balances with the highest interest rate and then to balances with lower interest rates, and then to any plan balances. For eligible cards with Pay Over Time, the minimum payment due is the sum of the Pay In Full new balance, any Pay Over
+Time and/or Cash Advance minimum due, and any plan payment due. The Pay Over Time and/or Cash Advance minimum due is the sum of any Pay Over Time and/or Cash Advance amount past due plus the highest of: (1) $40; (2) 2% of the Pay Over Time and/or
+Cash Advance new balance; or (3) the total calculated by following these steps: use the Pay Over Time and/or Cash Advance new balance minus interest as the amount to calculate the sum of (a) through (c) below: (a) 1% of the amount from $0
+through $20,000, (b) 2% of the amount from $20,000.01 through $35,000, and (c) 5% of the amount above $35,000. Then divide the sum from steps (a) through (c) by the amount and round to four decimals, multiply by the amount, and add the interest
+charged on the statement. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_21"/>Collection Efforts </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Efforts to collect delinquent <reportingentity>American Express</reportingentity> credit card accounts and Pay Over Time accounts are made by the issuing bank,
+TRS and collection agencies and attorneys retained by the issuing bank. Under current practice, AENB includes a request for payment of overdue amounts on all billing statements upon delinquency. AENB uses its proprietary risk evaluation systems to
+determine the appropriate collection strategy. Account holders may be contacted by either a letter or a telephone call when the account becomes delinquent or sooner based on a number of factors, including the account holders tenure and the
+amount owed in relation to prior spending and payment behavior. An account is generally considered to be delinquent if the minimum payment specified in the account holders most recent billing statement is not received by the due date. If it is
+determined that the account holder is unable to pay the outstanding balance, the account is <font style="white-space:nowrap">pre-empted</font>  <i>i.e., </i>the card is cancelled, credit privileges are revoked, and more intensive
+collection action is initiated. For all other account holders, credit privileges are generally cancelled no later than 120 days from initial billing. If an account remains delinquent, it may be sent to collection agencies or attorney firms to
+continue collection efforts including letters, telephone calls, and legal action. AENB may enter into arrangements with account holders to extend or otherwise change payment schedules to maximize collections. AENB may sell its rights to certain
+collections to its affiliates, collection agencies, or debt buyers. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Generally, it is <reportingentity>AENB</reportingentity>s practice to<temporal> cause t</temporal>he
+receivables in an account <reportingentity>to b</reportingentity>e charged off no later than the date on which such account becomes seven contractual payments past due (<i>i.e., </i>approximately 180 days past the first due date), although charge-offs may be made earlier in some
+circumstances, such as confirmed bankruptcies. The credit evaluation, servicing, <font style="white-space:nowrap">charge-off</font> and collection practices of AENB may change over time in accordance with its business judgment and applicable law.
+</p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_22"/>Issuer Rate Fees </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity>, in its capacity as issuer of American Express cards, receives certain fees (referred to in this prospectus as
+Issuer Rate Fees), collected by the American Express network, in connection with account holder charges for merchandise and services. These Issuer Rate Fees are individually negotiated directly between AENB and TRS and may change from
+time to time. The amount of Issuer Rate Fees included in finance charge collections for each Monthly Period during calendar year 2024, as a percentage of total finance charge collections for each such Monthly Period (excluding collections of
+discount option receivables), ranged from a high of 39.98% to a low of 36.15%. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Issuer Rate Fees payable to <reportingentity>AENB</reportingentity> will be
+allocated and sold to RFC III for each month in an amount equal to the sum of: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the product of: </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">54 </p>
+
+</div></center></div></html>

@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+capacity to service the trust, (3) has, in the sole determination of the trustee, demonstrated the ability to service professionally and competently a portfolio of similar accounts in
+accordance with high standards of skill and care, (4) is qualified to use the software that is then being used to service the accounts or obtains the right to use or has its own software which is adequate to perform its duties under the pooling
+and servicing agreement and other securitization agreements and (5) has a net worth of at least $50,000,000 as of the end of its most recent fiscal quarter. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Excess Allocation Series</financialconcepts></b><b> </b>means any series that, as specified in the related supplement, is entitled
+to receive Excess Finance Charge Collections as more fully described under <i>The Pooling and Servicing Agreement Generally  Sharing of Excess Finance Charge Collections Among Excess Allocation Series </i>in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Excess Finance Charge Collections</financialconcepts></b><b> </b>means collections of finance charge receivables and certain other
+amounts allocable to the certificateholders interest of any Excess Allocation Series in excess of the amounts necessary to make required payments with respect to such series (including payments to the provider of any related Series
+Enhancement) that are payable out of collections of finance charge receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Excess Spread</financialconcepts></b> means,
+for any Distribution Date, an amount equal to the sum of the amounts described in clause (A)(iv), clause (B)(iii) and clause (C)(ii) in <i>Series Provisions  Application of Collections  Payment of Interest, Fees and Other
+Items</i> in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Expected Final Payment Date</financialconcepts></b> means the December 2027 Distribution
+Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Floating Allocation Percentage</financialconcepts></b> means, with respect to any Monthly Period, the percentage
+equivalent (which percentage shall never exceed 100%) of a fraction: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the numerator of which is the
+Adjusted Invested Amount as of the last day of the preceding Monthly Period (or, with respect to the first Monthly Period, the Initial Invested Amount), and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the denominator of which is the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) the sum of the total amount of the principal receivables in the trust as of such day (or, with respect to
+the first Monthly Period, the total amount of principal receivables in the trust on the closing date) and the principal amount on deposit in the Special Funding Account, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the Series Allocation Percentage for such Monthly Period. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">However, the amount calculated above pursuant to clause (a) of the denominator shall be increased by the aggregate amount of principal
+receivables in Additional Accounts added to the trust during such Monthly Period and decreased by the aggregate amount of principal receivables in Additional Accounts removed from the trust during such Monthly Period, as though such receivables had
+been added to or removed from, as the case may be, the trust as of the first day of such Monthly Period. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Funding
+Period</financialconcepts></b><b> </b>means, for the applicable series, a period beginning on the series closing date for that series and ending on a specified date before the start a Controlled Amortization Period or a Controlled Accumulation Period for that
+series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Goods</b><b/><b> &amp; Services</b> means spend in merchant categories other than
+Travel &amp; Entertainment-related merchant categories. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Group Investor Additional Amounts</financialconcepts></b><b>
+</b>means, for any Distribution Date, the sum of the amounts determined with respect to each series in such group equal to: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) an amount equal to the amount by which the invested amount of any class of certificates or any collateral
+invested amounts have been reduced as a result of investor charge-offs, subordination of principal </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">143 </p>
+
+</div></center></div></html>

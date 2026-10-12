@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+and enforcement by the Consumer Financial Protection Bureau (CFPB) with respect to the marketing and sale of consumer financial products and compliance with certain federal consumer
+financial laws, including, among others, the Consumer Financial Protection Act and the Truth in Lending Act. <i>See  Regulatory oversight and supervision could adversely affect the trust or your certificates, including by impeding
+origination or collection efforts, changing account holder use patterns, or reducing collections and  Changes to consumer protection laws, including in the application or interpretation thereof, may impede origination or collection
+efforts, change account holder use patterns, or reduce collections, any of which may result in acceleration of or reduction in payment on the certificates. </i>These regulatory authorities, as well as others, have broad powers of enforcement
+with respect to the bank, TRS and their affiliates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If any regulatory authority were to conclude that an obligation under
+the transaction documents were an unsafe or unsound practice or violated any law, regulation, written condition, or agreement applicable to a bank or its affiliates, that authority may have the power to order that bank or the related affiliate to
+rescind the transaction document, to refuse to perform the obligation, to amend the terms of the obligation, to sell or transfer assets, or to take any other action determined by that authority to be appropriate. In addition, that bank or the
+related affiliate probably would not be liable to you for contractual damages for complying with such an order, and you would be unlikely to have any recourse against the regulatory authority. Therefore, if such an order were issued, payments to you
+could be delayed or reduced. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In one case, the OCC issued a cease and desist order against a national banking association
+that was found to have been servicing credit card receivables on terms that were inconsistent with safe and sound banking practices. That order required the financial institution to cease performing its duties as servicer within approximately 120
+days, to immediately withhold and segregate funds from collections for payment of its servicing fee (notwithstanding the priority of payments in the securitization documents and the perfected security interest of the relevant trust in those funds),
+and to increase its servicing fee percentage above that which was specified in the securitization documents. AENB has no reason to believe that its servicing arrangements are contrary to safe and sound banking practices or otherwise violate any law,
+regulation, written condition, or agreement applicable to AENB or its affiliates. If a regulatory authority were to conclude otherwise, however, you could suffer a loss on your investment. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Changes to consumer protection laws, including in the application or interpretation thereof, may impede origination or collection
+efforts, change account holder use patterns, or reduce collections, any of which may result in acceleration of or reduction in payment on the certificates. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Credit card receivables that do not comply with consumer protection laws may not be valid or enforceable under their terms
+against the obligors of those credit card receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Federal and state consumer protection laws regulate the creation
+and enforcement of consumer loans, including credit card receivables. For example, the Credit Card Accountability Responsibility and Disclosure Act of 2009, as modified by a series of implementing rules (the CARD Act), amends the federal
+Truth in Lending Act to require additional disclosure and imposes certain substantive requirements relating to, among other things, marketing, underwriting, pricing, and billing practices. Among other things, the CARD Act and its implementing rules
+prevent increases in the annual percentage rate (APR) on outstanding balances except under limited circumstances, require creditors to allocate payments in excess of the minimum payment first to the portion of the balance with the
+highest outstanding rate, and then to the remaining balances in descending interest rate order, and require card issuers to review accounts at least every six months when an APR has been increased to determine whether the APR should be reduced. U.S.
+federal law also regulates abusive debt collection practices, which along with bankruptcy and debtor relief laws, can affect the ability to collect amounts owed by Card Members and subject TRS and AENB to regulatory scrutiny. The ability of AENB to
+recover debt previously <font style="white-space:nowrap">written-off</font> may be limited. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Military Lending Act of
+2006 and its implementing regulations (the MLA) apply to consumer credit cards offered by card issuers to covered borrowers, comprising active duty, active guard, and reserve personnel and their spouses and dependents.
+Specifically, credit card issuers are barred from imposing a military annual percentage rate (MAPR) greater than 36 percent in any covered borrowers billing cycle, with MAPR calculated by including not only the
+covered borrowers periodic rate but also credit insurance premiums, debt cancellation and suspension fees, ancillary product fees, and other fees which are not bona fide and reasonable. Card issuers may need to
+proactively identify covered borrowers by reference to a Department of Defense online database or a </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">32 </p>
+
+</div></center></div></html>

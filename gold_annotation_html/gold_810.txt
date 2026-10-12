@@ -1,0 +1,18 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="text-align: justify; margin-bottom: 9pt;">The Offeror shall, no later than the date of submission of the Offer Document to Consob, submit to the competent authorities the following applications to obtain the prior authorizations required by
+      the applicable laws and sector regulations in relation to the Offer:</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z760c11cadc264eaab93ef141ab87b1e8" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(i)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>application to be filed with the <reportingentity>European Central Bank</reportingentity> and the Bank of Italy for prior authorizations for the acquisition of the direct controlling shareholding in the Issuer, as well as the acquisition of the indirect controlling
+              shareholdings in Mediobanca Premier S.p.A. and Compass Banca S.p.A., pursuant to Articles 19 and 22 of Legislative Decree no. 385 of <temporal>1 September 1993</temporal> (“<font style="font-weight: bold;">TUB</font>”);</div>
+</td>
+</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z1d118f80f76940c8be0de0711d67ad97" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(ii)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>application / prior notice to be filed to the Bank of Italy for prior authorizations / clearance for the acquisition of indirect <financialconcepts>controlling shareholdings</financialconcepts> in Mediobanca SGR S.p.A, MBCredit Solutions S.p.A., MBFACTA S.p.A., SelmaBipiemme
+              Leasing S.p.A. and Spafid S.p.A., pursuant, as applicable, to Articles 19 and 22 of TUB, as referred to in Article 110 of the TUB and Article 15 of the TUF;</div>
+</td>
+</tr>
+</tbody></table></body></html>

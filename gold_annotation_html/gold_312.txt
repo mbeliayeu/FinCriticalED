@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) any Class A Additional Interest, <i>plus</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv) if TRS or an affiliate is no longer the servicer, the Class A Servicing Fee for the related
+Distribution Date and any unpaid Class A Servicing Fee, <i>plus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v) the Class A Investor
+Default Amount, if any, for the related Distribution Date, <i>minus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi) Class A Available Funds for
+the related Monthly Period. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> A Servicing Fee</b> has the meaning described in
+<i>Series Provisions  Servicing Compensation and Payment of Expenses</i> in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Additional Interest</b> means an amount paid on each Distribution Date, if
+applicable, equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the
+Class B certificate rate <i>plus</i> <number>2.0%</number> per year, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the amount payable on interest amounts
+that were due but not distributed to the Class B certificateholders on a prior Distribution Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Adjusted Invested Amount</b> for any date of determination means an amount equal to
+the Class B Invested Amount <i>minus</i> the funds on deposit in the Principal Funding Account (up to the Class B Invested Amount) on such date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Available Funds</b> means, with respect to any Monthly Period, an amount equal to
+the sum of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the Class B Floating Percentage of Reallocated Investor Finance Charge Collections
+allocated to the Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest with respect to such Monthly Period (including any investment earnings and certain other amounts that are to be treated as collections of
+finance charge receivables allocable to Series <font style="white-space:nowrap">2025-1</font> in accordance with the pooling and servicing agreement and the Series <font style="white-space:nowrap">2025-1</font> supplement), and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) if such Monthly Period relates to a Distribution Date with respect to the Controlled Accumulation Period,
+the Class B Floating Percentage of net investment earnings, if any, in the Principal Funding Account for such Distribution Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Floating Percentage</b> means, with respect to any Monthly Period, the percentage
+equivalent (which percentage shall never exceed 100%) of a fraction: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the numerator of which is equal
+to the Class B Adjusted Invested Amount as of the close of business on the last day of the preceding Monthly Period (or, with respect to the first Monthly Period, the Class B Initial Invested Amount), and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the denominator of which is equal to the Adjusted Invested Amount as of the close of business on such day
+(or, with respect to the first Monthly Period, the Initial Invested Amount). </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Initial
+Invested Amount</b> means <monetaryunit>$</monetaryunit><number>60,000,000</number>. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Invested Amount</b> for any date
+of determination means an amount equal to: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the Class B Initial Invested Amount, <i>minus</i>
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the amount of principal payments made to Class B certificateholders on or prior to such date,
+<i>minus</i> </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">133 </p>
+
+</div></center></div></html>

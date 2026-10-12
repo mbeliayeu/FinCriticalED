@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The ability of the Series <font style="white-space:nowrap">2025-1</font>
+certificateholders and the holder of the Collateral Interest to receive payments of principal on the Expected Final Payment Date depends on the payment rates of the receivables, the amount of outstanding receivables, delinquencies, charge-offs and
+new borrowings on the accounts, the potential issuance by the trust of additional series and the availability of Shared Principal Collections. Monthly payment rates of the receivables may vary because, among other things, account holders may fail to
+make required minimum payments, may only make payments as low as the minimum required amount or may make payments as high as the entire outstanding balance. Monthly payment rates may also vary due to seasonal purchasing and payment habits of account
+holders and due to changes in any terms of incentive programs in which account holders participate. <i>See the table entitled Account Holder Monthly Payment Rates of the Trust Portfolio under The Trust Portfolio  Payment
+Rates in Annex I to this prospectus</i>. The transferor cannot predict, and no assurance can be given, as to the account holders monthly payment rates that will actually occur in any future period, as to the actual rate of payment of
+principal of the Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest or whether the terms of any subsequently issued series might have an impact on the amount or timing of any such payment of principal.
+<i>See Risk Factors  Business Risks Relating to <reportingentity>AENB</reportingentity>s Revolving Credit Business  Payment patterns of account holders may not be consistent over time and variations in these payment patterns may result in reduced payment of
+principal, or receipt of payment of principal earlier or later than expected and The Pooling and Servicing Agreement Generally  Sharing of Principal Collections Among Principal Sharing Series in this prospectus.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, the amount of outstanding receivables and the delinquencies, charge-offs and new borrowings on the accounts may
+vary from month to month due to seasonal variations, the availability of other sources of credit, legal factors, general economic conditions and spending and borrowing habits of individual account holders. There can be no assurance that collections
+of principal receivables with respect to the Trust Portfolio, and thus the rate at which Series <font style="white-space:nowrap">2025-1</font> certificateholders and the holder of the Collateral Interest could expect to receive payments of principal
+on the Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest during an Early Amortization Period or the rate at which the Principal Funding Account could be funded during the Controlled Accumulation Period,
+will be similar to the historical experience set forth in the table entitled <i>Account Holder Monthly Payment Rates of the Trust Portfolio</i><i> </i>under<i> </i><i>The Trust Portfolio  Payment Rates</i><i> </i>in
+Annex I to this prospectus<i>. </i>As described under <i>Series Provisions  Principal Payments</i> in this prospectus, the transferor may shorten the Controlled Accumulation Period and, in such event, there can be no assurance that
+there will be sufficient time to accumulate all amounts necessary to pay the Class A Invested Amount and the Class B Invested Amount on the Expected Final Payment Date. In addition, the trust, as a master trust, has issued, and from time
+to time may issue, additional series, and there can be no assurance that the terms of any such series might not have an impact on the timing or amount of payments received by the Series <font style="white-space:nowrap">2025-1</font>
+certificateholders. Further, if a <font style="white-space:nowrap">Pay-Out</font> Event occurs and the Early Amortization Period begins, the average life and maturity of the Class A certificates and the Class B certificates could be
+significantly reduced, thereby reducing the anticipated yield on such certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Due to the reasons set forth above,
+there can be no assurance that deposits in the Principal Funding Account will be made on or prior to the Expected Final Payment Date in an amount equal to the sum of the Class A Invested Amount and the Class B Invested Amount or that the
+actual number of months elapsed from the date of issuance of the Class A certificates and Class B certificates to their respective final distribution dates will equal the expected number of months. <i>See Risk Factors  Business
+Risks Relating to <reportingentity>AENB</reportingentity>s Revolving Credit Business  Payment patterns of account holders may not be consistent over time and variations in these payment patterns may result in reduced payment of principal, or receipt of payment of
+principal earlier or later than expected in this prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="tx764677_25"/>Series Provisions </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On or about <temporal>February 11, 2025</temporal>,<number> the </number>t<number>rust </number>will issue $1,400,000,000 of Class A Series
+<font style="white-space:nowrap">2025-1</font> 4.56% Asset Backed Certificates and $60,000,000 of Class B Series <font style="white-space:nowrap">2025-1</font> 4.96% Asset Backed Certificates. In addition, the trust will issue a specified
+undivided Collateral Interest in the trust assets in an initial amount equal to $140,000,000, or approximately 8.75% of the Initial Invested Amount which will be subordinated to the Series <font style="white-space:nowrap">2025-1</font> certificates
+as described herein. Only the Class A certificates are being offered by this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest will be issued pursuant to the pooling and servicing agreement and the Series <font style="white-space:nowrap">2025-1</font> supplement specifying the principal terms
+of the certificates, the forms of which have been filed as exhibits to the registration statement of which this prospectus are a part. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">57 </p>
+
+</div></center></div></html>

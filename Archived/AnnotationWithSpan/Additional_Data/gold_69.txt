@@ -1,0 +1,40 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<div style="BORDER-BOTTOM:1.00pt solid #000000;BORDER-LEFT:1.00pt solid #000000;BORDER-RIGHT:1.00pt solid #000000;BORDER-TOP:1.00pt solid #000000;MARGIN-LEFT:0px; MARGIN-RIGHT:0px;max-width:100%"><div style="width:97%; margin-top:1.5%; margin-bottom:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">No payment of interest will be made on the Class B certificates until
+the required payment of interest has been made on the Class A certificates. <i>See</i> <i> Credit Enhancement and Series Provisions  Credit Enhancement  Subordination of the Class</i><i/><i> B
+Certificates and the Collateral Interest in this prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Principal </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Principal of the Series <font style="white-space:nowrap">2025-1</font> certificates is expected to be paid in full on the
+<temporal>December 2027</temporal> distribution date, which is the expected final payment date. On approximately December 1, 2026, we are scheduled to begin accumulating collections of principal receivables for payment to you, but we may begin accumulating at a
+later date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Although the Series <font style="white-space:nowrap">2025-1</font> certificates are expected to be paid on
+the date noted above, principal may be paid earlier or later. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">There is no penalty for early or late payment of principal.
+If certain adverse events known as <font style="white-space:nowrap">pay-out</font> events occur, principal may be paid earlier than expected. If collections of the credit card receivables are less than expected or are collected more slowly than
+expected, then principal payments may be delayed. No principal will be paid on the Class B certificates until the Class A certificates are paid in full. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The final payment of principal and interest on the Series <font style="white-space:nowrap">2025-1</font> certificates will be
+made no later than the <temporal>December 2029</temporal> distribution date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See Maturity Considerations and Series
+Provisions  Allocation Percentages and  Principal Payments in this prospectus for a discussion of the determination of amounts available to pay principal. </i></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b>The Collateral Interest </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">At the same time the Series <font style="white-space:nowrap">2025-1</font> certificates are issued, the trust will issue an
+interest in the assets of the trust known as the collateral interest. The initial amount of the collateral interest is <monetaryunit>$</monetaryunit><number>140,000,000</number>, which represents approximately 8.75% of the initial aggregate principal amount of the Series <font style="white-space:nowrap">2025-1</font> certificates plus the collateral interest. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The holder of the collateral interest
+will have voting and certain other rights as if the collateral interest were a subordinated class of certificates. The collateral interest will be subordinated to the Class A certificates and the Class B certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The collateral interest is not offered by this prospectus. The collateral interest will initially be retained by the
+transferor but may in the future be transferred, including to a trust established for the purpose of issuing notes collateralized by the collateral interest. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b>Credit Enhancement </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Subordination </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Subordination of the Class B certificates provides credit enhancement for the Class A certificates. Subordination of
+the collateral interest provides credit enhancement for both the Class A certificates and the Class B certificates. In addition, the portion of the collateral interest that exceeds the collateral senior invested amount provides credit
+enhancement for the portion of the collateral interest represented by the collateral senior invested amount. If, on any distribution date, there are insufficient funds available to make required Class A certificate payments, certain funds that
+would otherwise be used to make required collateral interest and Class B certificate payments will be used to make required Class A certificate payments, and the collateral invested amount and the Class B invested amount will be
+reduced accordingly. Similarly, if on any distribution date, there are insufficient funds available to make required Class B certificate payments, certain funds that would otherwise be used to make required collateral interest payments will be
+used to make required Class B certificate payments, and the collateral invested amount will be reduced accordingly. Similarly, if on any distribution date, there are insufficient funds available to make certain required payments on the portion
+of the collateral interest represented by the collateral </p>
+</div></div>
+
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">7 </p>
+
+</div></center></div></html>

@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">In the UK, this document
+is for distribution only to, and is only directed at, qualified investors (as defined in the UK Prospectus Regulation) who (i) are
+investment professionals falling within Article 19(5) of the Financial Services and Markets Act <temporal>2000</temporal> (Financial Promotion)
+Order 2005 (as amended, the “Financial Promotion Order”), (ii) are high net worth entities or other persons falling
+within Article 49(2)(a) to (d) of the Financial Promotion Order, or (iii) are persons to whom an invitation or inducement
+to engage in investment activity (within the meaning of section 21 of the FSMA) in connection with the issue or sale of any notes may
+otherwise lawfully be communicated or caused to be communicated (all such persons being referred to as “<b>relevant persons</b>”).
+This document is directed only at relevant persons and must not be acted on or relied on by persons who are not relevant persons. Any
+investment or investment activity to which this document relates is available only to relevant persons and will be engaged in only with
+relevant persons. Any person who is not a relevant person should not act or rely on this document or any of its contents.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"/></body></html>

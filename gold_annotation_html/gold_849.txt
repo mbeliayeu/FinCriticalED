@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><img src="picture3.jpg"/><div style="text-align: justify; margin-bottom: 9pt;"> <br/>
+</div><div style="text-align: justify; margin-bottom: 9pt;">The Offer may only commence subject to and following (i) the approval, by the extraordinary shareholders’ meeting of the Offeror, of the proposal of Delegation for the <financialconcepts>Capital Increase</financialconcepts> Reserved to
+      the Offer, as well as (ii) the resolution, by the Board of Directors of the Offeror, of the Capital Increase Reserved to the Offer, in exercise of the Delegation.  The effectiveness of such resolutions is subject to the obtaining of the Prior
+      Authorizations under point (iii) of paragraph 1.4 above.</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z949845d5490c476aa201e55cc9d201d8" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 72pt; vertical-align: top; font-style: italic;">3.2.4</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-style: italic;"><u>Offer Acceptance Period</u></div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">The Offer acceptance period – which, pursuant to Article 40, paragraph 2, let. b), of the Issuers’ Regulation, will be agreed with <reportingentity>Borsa Italiana</reportingentity> and will last between a minimum of 15 and a maximum
+      of 40 trading days, unless extended – will commence after the Publication Date of the Offer Document and the Exemption Document, in accordance with the provisions of law (the “<font style="font-weight: bold;">Acceptance Period</font>”).</div></body></html>

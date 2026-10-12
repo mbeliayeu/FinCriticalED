@@ -1,0 +1,37 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:15pt; font-family:Times New Roman" align="center"><b><reportingentity>American Express Credit Account Master Trust</reportingentity> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b>Issuing Entity </b></p> <p style="margin-top:8pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b>SERIES <font style="white-space:nowrap">2025-1</font> </b></p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b><monetaryunit>$</monetaryunit><number>1,400,000,000</number> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b>Class A <number>4.56%</number> Asset Backed Certificates </b></p>
+<p style="margin-top:24pt; margin-bottom:0pt; font-size:14pt; font-family:Times New Roman" align="center"><b><reportingentity>American Express Receivables Financing Corporation III LLC</reportingentity> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b>Depositor and Transferor </b></p>
+<p style="margin-top:6pt; margin-bottom:0pt; font-size:14pt; font-family:Times New Roman" align="center"><b><reportingentity>American Express Travel Related Services Company, Inc.</reportingentity> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b>Servicer </b></p> <p style="margin-top:6pt; margin-bottom:0pt; font-size:14pt; font-family:Times New Roman" align="center"><b><reportingentity>American
+Express National Bank</reportingentity> </b></p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b>Sponsor </b></p> <p style="font-size:6pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<p style="font-size:0pt;margin-top:0pt;margin-bottom:0pt"> </p> <p style="margin-top:0pt;margin-bottom:0pt; margin-left:2%" align="center">
+
+
+<img src="g764677g89f80.jpg" alt="LOGO" style="width:0.876194in;height:0.790297in;"/>
+ </p> <p style="font-size:6pt;margin-top:0pt;margin-bottom:0pt"> </p><center> <p style="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:24%"> </p></center>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b>P R O S P E C T U S </b></p><center>
+<p style="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:24%"> </p></center> <p style="margin-top:6pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b/><i>Joint
+Bookrunners</i><b> </b></p> <p style="margin-top:6pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b><reportingentity>Wells Fargo Securities</reportingentity> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b><reportingentity>Barclays</reportingentity> </b></p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b><reportingentity>Mizuho</reportingentity> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b><reportingentity>TD Securities</reportingentity> </b></p>
+<p style="margin-top:6pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" align="center"><b/><i>Co-Managers</i><b> </b></p>
+<p style="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><reportingentity>BNP PARIBAS</reportingentity> </b></p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><reportingentity>HSBC</reportingentity>
+</b></p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><reportingentity>R. Seelaus &amp; Co., LLC</reportingentity> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><reportingentity>SOCIETE GENERALE</reportingentity> </b></p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><reportingentity>Drexel
+Hamilton</reportingentity> </b></p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><reportingentity>Siebert Williams Shank</reportingentity> </b></p>
+<p style="margin-top:36pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">You should rely only on the information contained or incorporated by reference in this prospectus. We have not authorized
+anyone to provide you with different information. </p> <p style="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">We are not offering the offered certificates in any state where the
+offer is not permitted. </p> <p style="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">We do not claim the accuracy of the information in this prospectus as of any date other than the
+date stated on its cover. </p> <p style="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Dealers will deliver a prospectus when acting as underwriters of the offered certificates and
+with respect to their unsold allotments or subscriptions. In addition, until the date which is <temporal>90 days</temporal> after the date of this prospectus, all dealers selling the offered certificates will deliver a prospectus, such delivery obligation generally may
+be satisfied through the filing of the prospectus with the Securities and Exchange Commission. </p>
+</div></center>
+
+</div></html>

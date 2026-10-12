@@ -1,0 +1,95 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="text-align: justify; margin-bottom: 9pt;">As at the date of this Notice, the Offeror’s <financialconcepts>share capital</financialconcepts> is equal to Euro <number>7,453,450,788.44</number>, divided into no. 1,259,689,706 ordinary shares with no par value.  The Offeror’s shares are admitted to
+      trading on Euronext Milan, a regulated market organized and managed by Borsa Italiana, with ISIN code IT0005508921 and are dematerialized pursuant to Article <font style="font-style: italic;">83-bis</font> of the TUF.</div><div style="text-align: justify; margin-bottom: 9pt;">As at the date of this Notice, to the Offeror’s knowledge, there are no shareholders’ agreements among the shareholders of <reportingentity>MPS</reportingentity>, nor is there any individual or legal entity exercising control over
+      the Offeror pursuant to Article 93 of the TUF.</div><div style="text-align: justify; margin-bottom: 9pt;">As at the date of this Notice, on the basis of the notifications received pursuant to Article 120 of the TUF, the results of the shareholders’ register, as well as on the basis of other information
+      available to the Offeror, the shareholders holding a share of the Offeror’s share capital or voting rights exceeding <number>3%</number> of the Offeror’s share capital are indicated in the following table:</div><table cellpadding="0" cellspacing="0" id="zc6cb0a661e2f4247b061b7d2b597691f" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 35.26%; vertical-align: top; background-color: #BFBFBF; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-weight: bold;">Declarant or subject at the top of the participation chain</div>
+</td>
+<td style="width: 28.04%; vertical-align: top; background-color: #BFBFBF; border-bottom: #000000 1px solid;">
+<div style="text-align: center; font-weight: bold;">Direct Shareholder</div>
+</td>
+<td style="width: 36.7%; vertical-align: top; background-color: #BFBFBF; border-bottom: #000000 1px solid;">
+<div style="text-align: center; font-weight: bold;">% <financialconcepts>shareholding</financialconcepts></div>
+</td>
+</tr>
+<tr>
+<td style="width: 35.26%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;">DELFIN SARL</div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>DELFIN SARL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;"><number>9.780%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 35.26%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;">BANCO BPM SPA</div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>BANCO BPM SPA</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;"><number>5.003%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 35.26%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;">ANIMA HOLDING SPA</div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>ANIMA HOLDING SPA</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;"><number>3.992%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 35.26%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;">MINISTRY OF ECONOMY AND FINANCE</div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>MINISTRY OF ECONOMY AND FINANCE</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;"><number>11.731%</number></div>
+</td>
+</tr>
+<tr>
+<td rowspan="4" style="width: 35.26%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;">CALTAGIRONE FRANCESCO GAETANO</div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>AUSONIA SRL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.056%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>ESPERIA 15 SRL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.056%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>MK 87 SRL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.040%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>FINANCIAL INSTITUTION 2012 SPA</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.556%</number></div>
+</td>
+</tr>
+</tbody></table></body></html>

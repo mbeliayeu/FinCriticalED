@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>lspan="5" style="padding-top: 5pt; padding-right: 0.05in; padding-left: 0.05in; text-align: center"&gt;<font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Joint
+    Book-Running Managers</i></font>
+<tr>
+<td style="width: 20%; padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Deutsche
+    Bank Securities</b></font></td>
+<td style="width: 20%; padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>SMBC
+    Nikko</b></font></td>
+<td style="width: 20%; padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Citigroup</b></font></td>
+<td style="width: 20%; padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Mizuho</b></font></td>
+<td style="width: 20%; padding-top: 12pt; text-align: c&lt;/body&gt;&lt;/html&gt;"/></tr></body></html>

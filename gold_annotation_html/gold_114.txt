@@ -1,0 +1,83 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+products and services offered by <reportingentity>TRS</reportingentity> or any affiliate or subsidiary thereof, and all other transactions on which Issuer Rate Fees did not accrue to AENB, in each case with respect to such Monthly
+Period, and (II) the denominator of which is the aggregate amount of charges in all revolving credit accounts owned by AENB with respect to such Monthly Period, <i>multiplied by </i>(C) new principal receivables that arose during such
+Monthly Period in<reportingentity> the</reportingentity> accounts that constitute revolving credit accounts, <i>plus </i>(ii) the product of (A) the rate at which Issuer Rate Fees accrued to AENB during the second preceding Monthly Period on certain credit accounts that
+generally require balances to be paid in full or lines of credit owned by AENB, <i>multiplied by </i>(B) a fraction, (I) the numerator of which is the aggregate amount of obligor charges on all credit accounts that generally require
+balances to be paid in full or lines of credit owned by AENB, excluding balance transfer transactions, purchases made by convenience checks, cash advances, certain ineligible products and services offered by TRS or any affiliate or subsidiary
+thereof, and all other transactions on which Issuer Rate Fees did not accrue to AENB, in each case with respect to such Monthly Period, and (II) the denominator of which is the aggregate amount of obligor charges on all credit accounts that
+generally require balances to be paid in full or lines of credit owned by AENB with respect to such Monthly Period, multiplied by (C) new principal receivables that arose during such Monthly Period in the accounts that constitute credit
+accounts that generally require balances to be paid in full or lines of credit. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the pooling and servicing
+agreement, <reportingentity>RFC III</reportingentity> has assigned all of its right, title and interest in the purchase agreement, including its right to enforce the agreement against AENB, to the trustee, on behalf of the trust. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_83"/>Representations and Warranties </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the purchase agreement, <reportingentity>AENB</reportingentity> represents and warrants to the purchaser that, among other things: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">it is validly existing in good standing under the applicable laws of the applicable jurisdiction and has full
+power and authority to own its properties and conduct its business; </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">its execution and delivery of the purchase agreement and its performance of the transactions contemplated by
+that agreement will not conflict with or result in any breach of any of the terms of any material agreement to which it is a party or by which its properties are bound and will not conflict with or violate any requirements of law applicable to it;
+and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">all governmental authorizations, consents, orders, approvals, registrations or declarations required to be
+obtained by it in connection with its execution and delivery of, and its performance of the applicable purchase agreement, have been obtained. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_84"/>Repurchase Obligations </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the purchase agreement, <reportingentity>AENB</reportingentity> makes the following representations and warranties, among others: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">as of the applicable <font style="white-space:nowrap">cut-off</font> date with respect to the accounts, the
+list of accounts and information concerning the accounts provided by it is accurate and complete in all material respects, with certain permitted exceptions; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">each receivable conveyed by it to the purchaser has been conveyed free and clear of any lien or encumbrance,
+except liens permitted by the purchase agreement; </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">all governmental authorizations, consents, orders, approvals, registrations or declarations required to be
+obtained, effected or given by it in connection with the conveyance of receivables to the purchaser have been duly obtained, effected or given and are in full force and effect; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">as of each applicable selection date, each account was an Eligible Account; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">as of each applicable selection date, each of the receivables then existing in the accounts was an Eligible
+Receivable; </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">107 </p>
+
+</div></center></div></html>

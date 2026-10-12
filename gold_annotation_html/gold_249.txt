@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+the Collateral Invested Amount) by the amount of Excess Spread and Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1</font> allocated and available for
+that purpose as described above under  <i>Application of Collections  Excess Spread; Excess Finance Charge Collections.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_35"/>Paired Series </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Series <font style="white-space:nowrap">2025-1</font> may be paired with one or more other series (each called a paired
+series) at or after the commencement of the Controlled Accumulation Period if the Rating Agency Condition is satisfied. As funds are accumulated in the Principal Funding Account, the invested amount in the trust of such paired series will
+increase by up to a corresponding amount. Upon payment in full of the Series <font style="white-space:nowrap">2025-1</font> certificates, assuming that there have been no unreimbursed charge-offs with respect to any related paired series, the
+aggregate invested amount of such related paired series will have been increased by an amount up to an aggregate amount equal to the Invested Amount paid to or deposited for the benefit of the Series <font style="white-space:nowrap">2025-1</font>
+certificateholders after the Series <font style="white-space:nowrap">2025-1</font> certificates were paired with the paired series. The issuance of a paired series will be subject to the conditions described under <i>The Pooling and Servicing
+Agreement Generally  New Issuances</i> in this prospectus. There can be no assurance, however, that the terms of any paired series might not have an impact on the timing or amount of payments received by the Series <font style="white-space:nowrap">2025-1</font> certificateholders. <i>See Risk Factors  Transaction Structure Risks  Issuances of additional series or additional certificates in outstanding series by the trust may adversely affect your
+certificates and The Pooling and Servicing Agreement Generally  Paired Series in this prospectus</i>. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_36"/>Additional Issuances of Series <font style="white-space:nowrap">2025-1</font> Certificates </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and
+servicing agreement allows the transferor to reopen or later increase the amount of an outstanding series, including Series <font style="white-space:nowrap">2025-1,</font> without notice by issuing and selling additional certificates
+subject to the same terms as the original certificates of the related outstanding series. Any additional Series <font style="white-space:nowrap">2025-1</font> certificates will be treated, for all purpose, like the Series <font style="white-space:nowrap">2025-1</font> certificates that are described in this prospectus, except that any new Series <font style="white-space:nowrap">2025-1</font> certificates may begin to bear interest on a later date. Additional Series <font style="white-space:nowrap">2025-1</font> certificates may be issued only if the conditions to issuance described in <i>The Pooling and Servicing Agreement Generally  New Issuances</i> in this prospectus are satisfied. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_37"/><font style="white-space:nowrap">Pay-Out</font> Events </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The <font style="white-space:nowrap">Pay-Out</font> Events with respect to the Series
+<font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest will include each of the following: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) the occurrence of an insolvency event (as such term is defined in this prospectus) with respect to the
+transferor or other holder of the original transferor certificate; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the trust becomes an
+investment company within the meaning of the Investment Company Act of <temporal>1940</temporal>, as amended; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)
+a failure on the part of the transferor: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) to make any payment or deposit required under the pooling
+and servicing agreement or the Series <font style="white-space:nowrap">2025-1</font> supplement within five Business Days after the day such payment or deposit is required to be made; or </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) to observe or perform any other covenant or agreement of the transferor set forth in the pooling and
+servicing agreement or the Series <font style="white-space:nowrap">2025-1</font> supplement, which failure has a material adverse effect on the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the Collateral
+Interest and which continues unremedied for a period of <temporal>60 days</temporal> after written notice; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(d) any
+representation or warranty made by the transferor in the pooling and servicing agreement or the Series <font style="white-space:nowrap">2025-1</font> supplement or any information required to be given by the transferor to the trustee to identify the
+accounts proves to have been incorrect in any material respect when made or delivered and continues to be </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">70 </p>
+
+</div></center></div></html>

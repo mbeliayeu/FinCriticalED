@@ -1,0 +1,37 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the Collateral Floating Percentage, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the Servicing Fee Rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   the Servicing Base Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The remainder of the Servicing Fee shall be paid by the holders of the Transferor Certificates or the certificateholders of
+other series (as provided in the related supplements). In no event will the trust, the trustee, the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the Collateral Interest be liable for the share of the
+Servicing Fee to be paid by the holders of the Transferor Certificates or the certificateholders of any other series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The
+servicer will pay from its servicing compensation certain expenses incurred in connection with servicing the receivables including, without limitation, payment of the fees and disbursements of the trustee, paying agent, transfer agent and registrar
+and independent accountants. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_39"/>Optional Repurchase </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">So long as the transferor is the servicer or an affiliate of the servicer, on any Distribution Date occurring on or after the
+date that the sum of the Class A Invested Amount, the Class B Invested Amount and the Collateral Invested Amount is reduced to an amount equal to <number>5%</number> of the initial outstanding aggregate principal amount of the Class A certificates,
+the Class B certificates and the Collateral Interest or less, the transferor will have the option to repurchase the Class A certificateholders interest, the Class B certificateholders interest and the Collateral Interest.
+The purchase price will be equal to the sum of the Adjusted Invested Amount and accrued and unpaid interest on the Class A certificates, the Class B certificates and the Collateral Interest (and accrued and unpaid interest with respect to
+interest amounts that were due but not paid on such Distribution Date or any prior Distribution Date) through (a) if the day on which such repurchase occurs is a Distribution Date, the day preceding such Distribution Date or (b) if the day
+on which such repurchase occurs is not a Distribution Date, the day preceding the Distribution Date next following such day. Such proceeds will be allocated first to pay amounts due to the Class A certificateholders, then, to pay amounts due to
+the Class B certificateholders and finally, to pay amounts due to the holder of the Collateral Interest. Following any such repurchase, the Receivables will be assigned to the transferor and the Class A certificateholders, the Class B
+certificateholders and the holder of the Collateral Interest will have no further rights with respect thereto. In the event that the transferor fails for any reason to deposit the aggregate purchase price for such receivables, the trust will
+continue to hold the receivables and payments will continue to be made to the Class A certificateholders, Class B certificateholders and the holder of the Collateral Interest as described herein. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_40"/>Series Termination </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If on the Distribution Date which is two months prior to the Series <font style="white-space:nowrap">2025-1</font> Termination
+Date, the Invested Amount (after giving effect to all changes therein on such date) exceeds zero, the servicer will, within the <font style="white-space:nowrap"><temporal>40-day</temporal></font> period beginning on such date, solicit bids for the sale of interests in
+the principal receivables or certain principal receivables, together in each case with the related finance charge receivables, in an amount equal to the Invested Amount at the close of business on the last day of the Monthly Period preceding the
+Series <font style="white-space:nowrap">2025-1</font> Termination Date (after giving effect to all distributions required to be made on the Series <font style="white-space:nowrap">2025-1</font> Termination Date other than from the proceeds of the
+sale). No transferor, any affiliate thereof, any agent thereof or any other party consolidated with such transferor for purposes of United States generally accepted accounting principles will be entitled to participate in such bidding process or to
+purchase the receivables; <i>provided</i>, <i>however</i>, that, to the extent the holder of the Collateral Interest is not the transferor, an affiliate thereof, an agent thereof or any other party consolidated with the transferor for purposes of
+United States generally accepted accounting principles, the holder of the Collateral Interest may participate in such bidding process. Upon the expiration of such <font style="white-space:nowrap"><temporal>40-day</temporal></font> period, the trustee will determine
+(a) which bid is the highest cash purchase offer and (b) the amount which otherwise would be available in the Collection Account on the Series <font style="white-space:nowrap">2025-1</font> Termination Date for distribution to the Series <font style="white-space:nowrap">2025-1</font> certificate-holders and the holder of the Collateral Interest. The servicer will sell such receivables on the Series <font style="white-space:nowrap">2025-1</font> Termination Date to the bidder who provided
+the highest cash purchase offer and will deposit the proceeds of such sale in the Collection Account for allocation (together with the amount which otherwise would be available in the Collection Account on the Series
+<font style="white-space:nowrap">2025-1</font> Termination Date for distribution to the Series <font style="white-space:nowrap">2025-1</font> certificateholders and the holder of the Collateral Interest) to Series
+<font style="white-space:nowrap">2025-1.</font> </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">73 </p>
+
+</div></center></div></html>

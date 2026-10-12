@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zb5387797a64a49c38f65fa1b414998f0" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; font-weight: bold;">3.3</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-weight: bold;">Markets where the Offer is launched</div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">The Offer will be addressed indiscriminately and on equal terms to all shareholders of the Issuer.</div><div style="text-align: justify; margin-bottom: 9pt;">Without prejudice to the foregoing, the Offer will be made in Italy, as the Issuer’s Shares are listed exclusively on <reportingentity>Euronext Milan</reportingentity>, a regulated market organized and managed by Borsa Italiana.</div><div style="text-align: justify; margin-bottom: 9pt;">Acceptance of the Offer by persons resident in countries other than Italy may be subject to specific obligations or restrictions provided for by the applicable laws or regulations of such
+      countries.  It is the sole responsibility of the addressees of the Offer to comply with such provisions and, therefore, before accepting the Offer, they shall verify their existence and applicability by contacting their legal advisors and other
+      advisors.</div></body></html>

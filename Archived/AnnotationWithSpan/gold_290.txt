@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><a name="spaa_010"/><b>The
+UK Issuer</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+UK Issuer was incorporated on <date>September 25, 2020</date> under the UK Companies Act 2006 and is an indirect 100% owned subsidiary of the
+Company. The registered number of the UK Issuer is 12904555. The UK Issuer has no significant assets or liabilities, no subsidiaries
+and no ongoing business operations of its own, other than the issuance of the UK Issuer Debt Securities and the investm<number>ent</number>s it makes
+with the net proceeds of such UK Issuer Debt Securities. The UK Issuer has issued approximately US$600 million of unsecured senior
+debt securities (the “<b>Existing UK Issuer Senior Debt Securities</b>”) as of the date hereof. The Existing UK Issuer Senior
+Debt Securities are fully and unconditionally guaranteed by the Company. Subsequent to the issuance of the Existing UK Issuer Senior
+Debt Securities, BFI was added as a co-obligor of the Existing UK Issuer Senior Debt Securities. The UK Issuer has also issued
+approximately US$230 million of unsecured subordinated debt securities (the “<b>Existing UK Issuer Subordinated Debt Securities</b>”)
+as of the date hereof. The Existing UK Issuer Subordinated Debt Securities are fully and unconditionally guaranteed, on a subordinated
+basis, by the Company. The Existing UK Issuer Senior Debt Securities and the Existing UK Issuer Subordinated Debt Securities are listed
+for trading on the NYSE under the symbols “BN /32” and “BNJ”, respectively.</p></body></html>

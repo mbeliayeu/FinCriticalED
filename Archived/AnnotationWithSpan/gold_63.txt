@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><b>Ranking:</b><td><font style="font-size: 10pt">Senior Unsecured</font></td><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Size:</b></font></td>
+<td>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">US$<number>500,000,000</number></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">One or more of the underwriters may sell to affiliates of Brookfield
+    Wealth Solutions Ltd. and certain other institutional investors US$<number>25,000,000</number> aggregate principal amount (if any) of the Notes at the
+    public offering price (for which no underwriting discount or commissions will be paid).</p></td></tr></body></html>

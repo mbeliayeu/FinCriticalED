@@ -1,0 +1,70 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Payment patterns of account holders may not be consistent over time,
+and variations in these payment patterns may result in reduced payment of principal, or receipt of payment of principal earlier or later than expected. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The receivables may be paid at any time. We cannot assure you that the creation of additional receivables in the accounts will
+occur or that any particular pattern of account holder payments will occur. The timing of the payment of principal on your certificates may be different than expected if the principal payment pattern of the receivables is different than expected or
+if certain adverse events happen to the account owner, the transferor or the trust. A significant decline in the amount of receivables generated could result in the occurrence of a <font style="white-space:nowrap">pay-out</font> event for one or
+more series. If a <font style="white-space:nowrap">pay-out</font> event occurs for your series, you could receive payment of principal sooner than expected. <reportingentity>AENB</reportingentity>s ability to compete in the current industry environment will affect its ability
+to generate new receivables and might also affect payment patterns on the receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition to other factors
+discussed elsewhere in this <i>Risk Factors </i>section, changes in finance charges can alter the monthly payment rates of accountholders. A significant decrease in monthly payment rates could slow the return or accumulation of principal
+during an amortization or an accumulation period. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">One development which affects the level of finance charge collections
+is the increased convenience use of credit cards. Convenience use means that the customers pay their account balances in full on or prior to the due date. The customers, therefore, avoid all finance charges on their accounts. This decreases the
+effective yield on the accounts and could cause an early payment of your certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Substantial and increasingly
+intense competition in the credit card and payments industry may result in a decline in <reportingentity>AENB</reportingentity>s ability to generate new receivables. This may result in the payment of principal earlier or later than the expected final payment date, or in reduced
+amounts. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The payments industry is highly competitive. The <reportingentity>American Express</reportingentity>-branded proprietary credit card
+programs operated by American Express and its affiliates encounter substantial and intense competition. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express</reportingentity>
+competes with networks, issuers, acquirers, and other payment service providers and methods of payments, including paper-based transactions (e.g., cash and checks) and electronic transfers (e.g., wire transfers and Automated Clearing House, or ACH),
+as well as evolving and growing alternative mechanisms, systems and products (e.g., <font style="white-space:nowrap">web-</font> and mobile-based payment platforms). The payments industry continues to undergo dynamic changes in response to evolving
+technologies, consumer habits and merchant needs. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">As a card issuer, <reportingentity>American Express</reportingentity> competes in the United States with
+financial institutions that issue general-purpose credit and debit cards, as well as businesses that issue their own private label cards, operate mobile wallets, provide payment services or extend credit. American Express also faces intense
+competition in the premium space and for <font style="white-space:nowrap">co-brand</font> relationships. The principal competitive factors that affect the card-issuing business are: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the features, value and quality of the products and services, including customer care, rewards programs and
+offers, partnerships, travel and lifestyle-related benefits (including lounges, dining and other entertainment), banking services and digital and mobile services, as well as the costs associated with providing such features and services;
+</p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">reputation and brand recognition; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the quantity, diversity and quality of the establishments where the cards can be used; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the pricing, payment and other card account terms and conditions; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the number, quality and cost of other cards and other forms of payment and financing available to customers,
+as well as the integration and connectivity of those products; </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the security of customer information; </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">23 </p>
+
+</div></center></div></html>

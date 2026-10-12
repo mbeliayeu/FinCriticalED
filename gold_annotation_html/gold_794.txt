@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-bottom: 9pt;"><img src="picture3.jpg"/> </div><div style="text-align: justify; margin-bottom: 9pt;">As further detailed in paragraph 1.3 “Industrial and strategic considerations”, the success of the Offer will enable an acceleration in the utilization of the <reportingentity>DTA</reportingentity> (as defined below) held by MPS,
+      with an estimated effect for Mediobanca shareholders participating in the Offer of Euro <number>1.2</number> billion in net present value, equal to approximately <number>10%</number> of Mediobanca’s current market value.</div><div style="text-align: justify; margin-bottom: 9pt;">The Consideration was determined on the assumption that, prior to the Payment Date (as defined below):</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z65f5d7eb73f64683afb1ca279f04be3f" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">i</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>the Issuer and/or the Offeror do(es) not approve or initiate any <financialconcepts>ordinary distribution</financialconcepts> (including interim dividends) or extraordinary distribution of dividends taken from profits and/or other reserves; and</div>
+</td>
+</tr>
+</tbody></table></body></html>

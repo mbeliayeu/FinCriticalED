@@ -1,0 +1,102 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table border="1" cellpadding="4" cellspacing="0" width="100%">
+<thead>
+<tr><th align="center" class="FormTextC" colspan="11" valign="top" width="100%"><b>Table I - <financialconcepts>Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned</financialconcepts></b></th></tr>
+<tr>
+<th align="left" class="MedSmallFormText" rowspan="2" valign="top" width="36%">1. <financialconcepts>Title of Security</financialconcepts> (Instr. 
+      3)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="6%">2. <financialconcepts>Transaction Date</financialconcepts>
+      (Month/Day/Year)</th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="5%">2A. <financialconcepts>Deemed Execution Date</financialconcepts>, if any
+      (Month/Day/Year)</th>
+<th align="left" class="SmallFormText" colspan="2" valign="top" width="7%">3. <financialconcepts>Transaction Code</financialconcepts> (Instr. 
+      8)
+   </th>
+<th align="left" class="SmallFormText" colspan="3" valign="top" width="19%">4. Securities Acquired (A) or Disposed Of (D) (Instr. 
+      3, 4 and 5)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="11%">5. 
+      <financialconcepts>Amount of Securities Beneficially Owned Following Reported Transaction</financialconcepts>(s) (Instr. 
+      3 and 4)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="9%">6. Ownership Form: Direct (D) or Indirect (I) (Instr. 
+      4)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="8%">7. <financialconcepts>Nature of Indirect Beneficial Ownership</financialconcepts> (Instr. 
+      4)
+   </th>
+</tr>
+<tr>
+<th align="center" class="SmallFormText" width="4%">Code</th>
+<th align="center" class="SmallFormText" width="3%">V</th>
+<th align="center" class="SmallFormText" width="8%">Amount</th>
+<th align="center" class="SmallFormText" width="5%">(A) or (D)</th>
+<th align="center" class="SmallFormText" width="6%">Price</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><span class="FormData"><financialconcepts>Common Stock</financialconcepts></span></td>
+<td align="center"><span class="FormData"><temporal>02/06/2025</temporal></span></td>
+<td align="center"/>
+<td align="center"><span class="SmallFormData">A</span></td>
+<td align="center"/>
+<td align="center"><span class="FormData"><number>7,200</number></span></td>
+<td align="center"><span class="FormData">A</span></td>
+<td align="center">
+<span class="FormText"><monetaryunit>$</monetaryunit></span><span class="FormData"><number>0</number></span>
+</td>
+<td align="center"><span class="FormData"><number>168,506</number></span></td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="left"/>
+</tr></tbody>
+</table><table border="1" cellpadding="4" cellspacing="0" width="100%"><thead>
+<tr><th align="center" class="FormTextC" colspan="16" valign="top" width="100%">
+<b>Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned</b><br/><b>(e.g., puts, calls, warrants, options, convertible securities)</b>
+</th></tr>
+<tr>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="13%">1. <financialconcepts>Title of Derivative Security</financialconcepts> (Instr. 
+      3)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="5%">2. <financialconcepts>Conversion or Exercise Price of Derivative Security</financialconcepts>
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="5%">3. <financialconcepts>Transaction Date</financialconcepts>
+      (Month/Day/Year)</th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="5%">3A. <financialconcepts>Deemed Execution Date</financialconcepts>, if any
+      (Month/Day/Year)</th>
+<th align="left" class="SmallFormText" colspan="2" valign="top" width="9%">4. <financialconcepts>Transaction Code</financialconcepts> (Instr. 
+      8)
+   </th>
+<th align="left" class="SmallFormText" colspan="2" valign="top" width="10%">5. 
+      Number of Derivative Securities Acquired (A) or Disposed of (D) (Instr. 
+      3, 4 and 5)
+   </th>
+<th align="left" class="SmallFormText" colspan="2" valign="top" width="9%">6. <financialconcepts>Date Exercisable and Expiration Date</financialconcepts> 
+      (Month/Day/Year)</th>
+<th align="left" class="SmallFormText" colspan="2" valign="top" width="17%">7. <financialconcepts>Title and Amount of Securities Underlying Derivative Security</financialconcepts> (Instr. 
+      3 and 4)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="6%">8. <financialconcepts>Price of Derivative Security</financialconcepts> (Instr. 
+      5)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="6%">9. 
+      <financialconcepts>Number of derivative Securities Beneficially Owned Following Reported Transaction</financialconcepts>(s) (Instr. 
+      4)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="6%">10. Ownership Form: Direct (D) or Indirect (I) (Instr. 
+      4)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="7%">11. <financialconcepts>Nature of Indirect Beneficial Ownership</financialconcepts> (Instr. 
+      4)
+   </th>
+</tr>
+<tr>
+<th align="center" class="SmallFormText" valign="bottom" width="4%">Code</th>
+<th align="center" class="SmallFormText" valign="bottom" width="4%">V</th>
+<th align="center" class="SmallFormText" valign="bottom" width="5%">(A)</th>
+<th align="center" class="SmallFormText" valign="bottom" width="5%">(D)</th>
+<th align="center" class="SmallFormText" valign="bottom" width="5%"><financialconcepts>Date Exercisable</financialconcepts></th>
+<th align="center" class="SmallFormText" valign="bottom" width="4%"><financialconcepts>Expiration Date</financialconcepts></th>
+<th align="center" class="SmallFormText" valign="bottom" width="10%">Title</th>
+<th align="center" class="SmallFormText" valign="bottom" width="7%">Amount or Number of Shares</th>
+</tr>
+</thead></table></body></html>

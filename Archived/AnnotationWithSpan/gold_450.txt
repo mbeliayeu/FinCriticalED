@@ -1,0 +1,20 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div><img src="picture3.jpg"/></div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z5d69845f79da40b79642befe531fb954" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">one-off integration costs are estimated at approximately Euro <number>0.6</number> billion before tax, to be spent in the first year.</div>
+</td>
+</tr>
+</tbody></table>
+</div><div style="text-align: justify; margin-bottom: 9pt;">The transaction will also accelerate the utilization of the DTAs held by MPS, with an estimated net present value for the benefit of Mediobanca’s shareholders of Euro <number>1.2</number> billion, or about 10% of
+      Mediobanca’s current market capitalization.</div><div style="text-align: justify; margin-bottom: 9pt;">MPS expects to maintain a solid capital base (pro-forma Common Equity Tier 1 ratio equal to approximately <number>16%</number>) upon completion of the transaction, supported by increased organic capital generation.</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z2db3e64065164249b47caf2cf4cf5678" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; font-weight: bold;">1.4</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-weight: bold;">Authorizations</div>
+</td>
+</tr>
+</tbody></table></body></html>

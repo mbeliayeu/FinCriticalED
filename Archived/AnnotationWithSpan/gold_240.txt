@@ -1,0 +1,16 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The underwriters also may
+impose a penalty bid. This occurs when a particular underwriter repays to the underwriters a portion of the underwriting discount or
+commission received by it because the underwriters have repurchased notes sold by or for the account of such other underwriter in stabilizing
+or short-covering transactions.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">In the underwriting agreement,
+BFI and the Company have agreed that they will not, without the prior written consent of the Representatives, offer, sell, contract to
+sell, pledge, or otherwise dispose of (or enter into any transaction which is designed to, or might reasonably be expected to, result
+in the disposition (whether by actual disposition or effective economic disposition due to cash settlement or otherwise) by BFI, the
+Company or any affiliate of BFI, the Company or any person in privity with BFI, the Company or any affiliate of BFI or the Company),
+directly or indirectly, including the filing (or participation in the filing) of a registration statement with the SEC in respect
+of, or establish or increase a put equivalent position or liquidate or decrease a call equivalent position within the meaning of Section 16
+of the Exchange Act, any senior debt securities issued or guaranteed by BFI or the Company (other than the notes) or publicly announce
+an intention to effect any such transaction, until the closing of the offering of the notes. For the avoidance of doubt, this provision
+shall not prohibit the incurrence of indebtedness by Brookfield under any commercial paper program or under Brookfield’s revolving
+credit facilities in effect on the date of the underwriting agreement. BFI and the Company have agreed to indemnify the several underwriters
+against certain liabilities, including liabilities under the U.S. Securities Act of 1933, as amended, or contribute to payments that
+each underwriter may be required to make in respect thereof.</p></body></html>

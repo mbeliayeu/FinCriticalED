@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the amount of principal payments made to
+Class B certificateholders on or prior to such date, <i>minus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   the aggregate
+amount of Class B Investor Charge-Offs for all prior Distribution Dates, <i>minus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv)
+  the aggregate amount of Reallocated Principal Collections for all prior Distribution Dates which have been used to fund the Class A Required Amount with respect to such Distribution Dates (excluding any Reallocated Principal
+Collections that have resulted in a reduction of the Collateral Invested Amount), <i>minus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v)
+  an amount equal to the amount by which the Class B Invested Amount has been reduced to cover the Class A Investor Default Amount on all prior Distribution Dates as described under <i>Series Provisions  Defaulted
+Receivables; Investor Charge-Offs</i> in this prospectus, <i>plus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi)   the
+aggregate amount of Excess Spread and Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1</font> and applied on all prior Distribution Dates for the purpose of reimbursing amounts deducted as described in
+clauses (iii), (iv) and (v) above; <i>plus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vii)   the principal amount of any
+additional Class B certificates issued after the initial issuance; </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><i>provided</i>, <i>however</i>, that the Class B Invested
+Amount may not be reduced below zero. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Investor
+<font style="white-space:nowrap">Charge-Off</font></b> has the meaning described in <i>Series Provisions  Defaulted Receivables; Investor Charge-Offs  Reductions in Class</i><i/><i> B Invested Amount and Collateral
+Invested Amount</i> in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Investor Default Amount</b>
+means, for any Distribution Date, the portion of the Investor Default Amount allocated to the Class B certificates in an amount equal to the product of the Class B Floating Percentage applicable during the related Monthly Period and the
+Investor Default Amount for such Distribution Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Monthly Interest</b> means,
+for any Distribution Date, an amount equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the Class B certificate rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the Class B Invested Amount as of the preceding Record Date; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><i>provided</i>, <i>however</i>, that for the first Distribution Date, Class B Monthly Interest shall be equal to <monetaryunit>$</monetaryunit>[●]. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Outstanding Monthly Interest</b> means, for any Distribution Date, the amount of
+Class B Monthly Interest previously due but not paid to Class B certificateholders on a prior Distribution Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Principal Percentage</b> means, with respect to any Monthly Period: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   during the Revolving Period, the percentage equivalent (which percentage shall never exceed
+<number>100%</number>) of a fraction: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the numerator of which is the Class B Invested Amount as of
+the last day of the immediately preceding Monthly Period (or, with respect to the first Monthly Period, the Class B Initial Invested Amount), and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the denominator of which is the Invested Amount as of such day (or, with respect to the
+first Monthly Period, the Initial Invested Amount), and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   during the Controlled
+Accumulation Period or the Early Amortization Period, the percentage equivalent (which percentage shall never exceed <number>100%</number>) of a fraction: </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">135 </p>
+
+</div></center></div></html>

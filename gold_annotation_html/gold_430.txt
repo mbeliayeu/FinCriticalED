@@ -1,0 +1,4 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in"> </p><p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0">The Issuer and the Guarantor have filed a joint registration statement
+(including a prospectus) and a prospectus supplement with the <reportingentity>SEC</reportingentity> for the offering to which this communication relates. Before you invest,
+you should read the prospectus in that registration statement, the prospectus supplement and other documents the Issuer and the Guarantor
+have filed with the SEC for more complete information about the Issuer, the Guarantor and this offering.</p></body></html>

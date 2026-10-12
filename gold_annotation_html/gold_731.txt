@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b>Registrable
+Securities</b>”<b> </b>means Class A Shares issued in an exchange to a Selling Shareholder, and any equity securities
+of the Company issued or issuable with regard to such Class A Shares by way of dividend, distribution, split or combination of securities,
+or any recapitalization, merger, consolidation or other reorganization, in each case, unless and until (i) such Class A Shares
+are freely tradeable without volume or other limitation under Rule 144 of the Securities Act and (ii) such Selling Shareholder,
+together with all of his, her or its affiliates, owns less than <number>1%</number> of the outstanding Class A Shares.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Registration Rights Agreement provides a Selling Shareholder owning, together with his, her or its affiliates, more than <number>1%</number> of the outstanding
+Class A Shares with the right (the “<b>Demand Registration Right</b>”) to require the Company to qualify the distribution
+of 1% or more of the outstanding Registrable Securities held by such Selling Shareholder and his, her or its affiliates in an underwritten
+offering (a “<b>Demand Distribution</b>”). The Selling Shareholders are entitled to request one Demand Distribution, in the
+aggregate, during any <temporal>12-month</temporal> period.</p></body></html>

@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, under the pooling and servicing agreement, the transferor may,
+upon <temporal>90 days</temporal> notice to the servicer and the trustee, remove the servicer without cause and appoint a replacement servicer, subject to the satisfaction of certain additional conditions, including: (1) the replacement servicer is an
+Eligible Servicer; (2) the transferor has given each Rating Agency prior notice of the appointment of such replacement servicer; and (3) the servicer continues to perform all servicing functions under the pooling and servicing agreement
+until the transfer of servicing to the replacement servicer has been completed. The replacement servicer must accept its appointment by written instrument acceptable to the trustee. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_72"/>Servicer Default </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event of any Servicer Default, either the trustee or certificateholders holding certificates evidencing more than <number>50%</number>
+of the aggregate unpaid principal amount of all certificates, by written notice to the servicer (and to the trustee if given by the certificateholders), may terminate all of the rights and obligations of the servicer, as servicer, under the pooling
+and servicing agreement. The trustee will appoint a new servicer. Any such termination and appointment is called a service transfer. If the only Servicer Default is bankruptcy-, insolvency-, receivership-, or conservatorship-related, however, the
+bankruptcy trustee, the receiver or the conservator for the servicer or the servicer itself as <font style="white-space:nowrap"><font style="white-space:nowrap">debtor-in-possession</font></font> may have the power to prevent the trustee or
+certificateholders from appointing a successor servicer. <i>See Risk Factors  Insolvency and Security Interest Risks  The conservatorship, receivership, bankruptcy, or insolvency of <reportingentity>AENB</reportingentity>, TRS, the transferor, the trust, or any of
+their affiliates could result in accelerated, delayed, or reduced payments to you.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The rights and interest of
+the transferor under the pooling and servicing agreement in the transferors interest will not be affected by any termination notice or service transfer. If, within <temporal>60 days</temporal> of receipt of a termination notice, the trustee does not receive any
+bids from eligible servicers but receives an officers certificate from the transferor to the effect that the servicer cannot in good faith cure the Servicer Default which gave rise to the termination notice, then the trustee shall, except when
+the Servicer Default is caused by certain events of bankruptcy, insolvency, conservatorship or receivership of the servicer, offer the transferor a right of first refusal to purchase the certificateholders interest on the Distribution Date in
+the next calendar month. The purchase price for the certificateholders interest will be equal to the sum of the amounts specified therefor for each outstanding series in the related supplement to the pooling and servicing agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trustee will, as promptly as possible, appoint an Eligible Servicer as a successor servicer. The successor servicer shall
+accept its appointment by written instrument acceptable to the trustee. The successor servicer is entitled to compensation out of collections; however, that compensation will not be in excess of the servicing fee. <i>See Series Provisions
+ Servicing Compensation and Payment of Expenses in this prospectus for a discussion of the monthly servicing fee. </i>Because <reportingentity>TRS</reportingentity>, as servicer, has significant responsibilities with respect to the servicing of the receivables, the
+trustee may have difficulty finding a suitable successor servicer. Potential successor servicers may not have the capacity to adequately perform the duties required of a successor servicer or may not be willing to perform such duties for the amount
+of the servicing fee currently payable under the pooling and servicing agreement. If no successor servicer has been appointed by the trustee and has accepted such appointment by the time the servicer ceases to act as servicer, all rights, authority,
+power and obligations of the servicer under the pooling and servicing agreement will be vested in the trustee. The Bank of New York Mellon, the trustee, does not have credit card operations. If The Bank of New York Mellon is automatically appointed
+as successor servicer, it may not have the capacity to perform the duties required of a successor servicer and current servicing compensation under the pooling and servicing agreement may not be sufficient to cover its actual costs and expenses of
+servicing the accounts. Prior to any service transfer, the trustee will seek to obtain bids from potential servicers meeting certain eligibility requirements set forth in the pooling and servicing agreement to serve as a successor servicer for
+servicing compensation not in excess of the Servicing Fee plus any amounts payable to the transferor pursuant to the pooling and servicing agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_73"/>Evidence as to Compliance </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The fiscal year for the trust will end on <temporal>December 31 of each year</temporal>. The servicer will file with t<temporal>he SEC </temporal>an annual report
+on Form <font style="white-space:nowrap">10-K</font> on behalf of the trust within 90 days after the end of its fiscal year. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">98 </p>
+
+</div></center></div></html>

@@ -1,0 +1,341 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="toc"/>TABLE OF CONTENTS </b></p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="96%"/>
+
+<td valign="bottom" width="2%"/>
+<td/>
+<td/>
+<td/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Page</b></td>
+<td valign="bottom"> </td></tr>
+
+
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_1">Summary of Series Terms</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">1</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_2">Risk Factors</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">18</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_3">The Issuing Entity</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">43</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_4">The Trust Portfolio</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">44</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_5">General</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">44</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_6">Static Pool Information</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">44</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_7">Pool Asset Review</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">44</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_8">Repurchases and Replacements</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">46</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_9">The Accounts</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">46</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_10">Transaction Parties</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">47</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_11">Account Owner and Sponsor</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">47</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_12">Depositor and Transferor</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">48</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_13">U.S. Credit Risk Retention</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">48</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_14">Servicer</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">49</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_15">Bank Holding Company Status</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">50</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_16">The Trustee</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">50</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_17"><reportingentity>AENB</reportingentity>s Revolving Credit Businesses</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">50</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_18">General</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">50</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_19">Underwriting and Authorization Process</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">51</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_20">Billing and Payments</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">53</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_21">Collection Efforts</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">54</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_22">Issuer Rate Fees</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">54</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_23">Use of Proceeds</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">56</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_24">Maturity Considerations</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">56</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_25">Series Provisions</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">58</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_26">Interest Payments</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">58</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_27">Principal Payments</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">60</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_28">Credit Enhancement</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">61</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_29">Allocation Percentages</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">62</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_30">Principal Funding Account</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">63</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_31">Reserve Account</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">63</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_32">Reallocation of Cash Flows</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">64</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_33">Application of Collections</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">66</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_34">Defaulted Receivables; Investor Charge-Offs</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">69</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_35">Paired Series</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">70</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_36">Additional Issuances of Series <font style="white-space:nowrap">2025-1</font> Certificates</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">70</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_37"><font style="white-space:nowrap">Pay-Out</font> Events</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">71</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_38">Servicing Compensation and Payment of Expenses</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">72</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_39">Optional Repurchase</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">73</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_40">Series Termination</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">73</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_41">Reports</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">74</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_42">Description of the Certificates</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">74</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_43">General</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">74</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_44">Book-Entry Registration</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">75</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_45">Definitive Certificates</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">78</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_46">The Pooling and Servicing Agreement Generally</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">79</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_47">Conveyance of Receivables</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">79</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_48">Representations and Warranties</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">79</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_49">Resolution of Repurchase Disputes</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">81</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_50">The Transferor Certificates; Additional Transferors</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">82</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_51">Additions of Accounts</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">83</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><a href="#rom764677_52">Removal of Accounts</a></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">84</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+</table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">iv </p>
+
+</div></center></div></html>

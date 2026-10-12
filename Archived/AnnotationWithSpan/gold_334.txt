@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->8<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">No
+Registered Global Security may be exchanged in whole or in part for Indenture Securities registered, and no transfer of a Registered
+Global Security in whole or in part may be registered, in the name of any Person other than the Depositary for such Registered Global
+Security or a nominee thereof unless (A) such Depositary (i) has notified the particular Issuer that it is unwilling or unable
+to continue as Depositary for such Registered Global Security or (ii) has ceased to be a clearing agency registered under the Exchange
+Act, and a successor securities Depositary is not obtained, (B) there shall have occurred and be continuing an Event of Default
+with respect to such Registered Global Security, (C) the particular Issuer determines, in its sole discretion, that the Securities
+of such series shall no longer be represented by such Registered Global Security and executes and delivers to the applicable Trustee(s) an
+Issuer order that such Registered Global Security shall be so exchangeable and the transfer thereof so registerable or (D) there
+shall exist such circumstances, if any, in addition to or in lieu of the foregoing as have been specified for this purpose as contemplated
+in the applicable Indenture. (Section 305 of the BN Indenture, and Section 3.5.2 of the BFI Senior Indenture and the Other
+Indentures.)</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p></body></html>

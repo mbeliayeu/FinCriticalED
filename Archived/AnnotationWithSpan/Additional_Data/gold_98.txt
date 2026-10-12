@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+to time) (the EU Securitization Regulation) is directly applicable in member states of the European Union (the EU) and will be applicable in any <font style="white-space:nowrap">non-EU</font> states of the EEA in which it has been implemented. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Article 5 of the EU
+Securitization Regulation places certain conditions on investments in a securitisation (as defined in the EU Securitization Regulation) (the EU Due Diligence Requirements) by institutional investors, defined to
+include (a) a credit institution or an investment firm as defined in and for purposes of Regulation (EU) No 575/<temporal>2013</temporal>, as amended, known as the Capital Requirements Regulation (the CRR), (b) an insurance undertaking or a reinsurance
+undertaking as defined in Directive 2009/138/EC, as amended, known as Solvency II, (c) an alternative investment fund manager as defined in Directive 2011/61/EU that manages and/or markets alternative investment funds in the EU, (d) an
+undertaking for collective investment in transferable securities (UCITS) management company, as defined in Directive 2009/65/EC, as amended, known as the UCITS Directive, or an internally managed UCITS, which is an investment company
+that is authorized in accordance with that Directive and has not designated such a management company for its management, and (e) with certain exceptions, an institution for occupational retirement provision falling within the scope of
+Directive (EU) 2016/2341, or an investment manager or an authorized entity appointed by such an institution for occupational retirement provision as provided in that Directive. Pursuant to Article 14 of the CRR, the EU Due Diligence Requirements
+also apply to investments by certain consolidated affiliates, wherever established or located, of institutions regulated under the CRR (such affiliates, together with all institutional investors, the EU Affected Investors). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Prior to investing in (or otherwise holding an exposure to) a securitisation position (as defined in the EU
+Securitization Regulation), an EU Affected Investor, other than the originator, sponsor or original lender (each as defined in the EU Securitization Regulation) must, among other things: (i) verify that, where the originator, sponsor or
+original lender (each as defined in the EU Securitization Regulation) is established in a third country (i.e. not within the EU or the EEA), the originator, sponsor or original lender will retain, on an ongoing basis, a material net economic
+interest of not less than 5% in the securitization determined in accordance with Article 6 of the EU Securitization Regulation and such risk retention is disclosed to EU Affected Investors (the EU Risk Retention Requirements); (ii)
+verify that the originator, sponsor or SSPE (as defined in the EU Securitization Regulation) has, where applicable, made available the information required by Article 7 of the EU Securitization Regulation in accordance with the frequency and
+modalities provided for in that Article; (iii) verify that, where the originator or original lender is established in a third country (i.e. not within the EU or the EEA), the originator or original lender grants all the credits giving rise to
+the underlying exposures on the basis of sound and well-defined criteria and clearly established processes for approving, amending, renewing and financing those credits and has effective systems in place to apply those criteria and processes to
+ensure that credit-granting is based on a thorough assessment of the obligors creditworthiness, and (iv) carry out a <font style="white-space:nowrap">due-diligence</font> assessment which enables the EU Affected Investor to assess the
+risks involved, considering at least (A) the risk characteristics of the securitisation position and the underlying exposures, and (B) all the structural features of the securitisation that can materially impact the performance of the
+securitisation position. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><i>UK Securitization Regulation </i></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The UK left the EU as of <temporal>January 31, 2020</temporal> and the transition period referred to in the withdrawal agreement between the
+UK and the EU ended on December 31, 2020. The Securitisation Regulations 2024 (as amended, the SR 2024), together with (i) the securitisation sourcebook of the handbook of rules and guidance adopted by the Financial Conduct
+Authority (the FCA) of the UK (the SECN), (ii) the Securitisation Part of the rulebook of published policy of the Prudential Regulation Authority of the Bank of England (the PRA) (the PRASR) and
+(iii) relevant provisions of the Financial Services and Markets Act 2000 (as amended, the FSMA), set out the framework for the regulation of securitization in the UK (collectively, the UK Securitization Framework). The
+UK Securitization Framework came into force on November 1, 2024 and replaced the version of the EU Securitization Regulation which had been assimilated into UK law following the UKs departure from the European Union. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Regulations 32B to 32D (inclusive) of the SR <temporal>2024</temporal>, SECN 4 and Article 5 of Chapter 2 of the PRASR, as applicable, place
+certain conditions on investments in a securitisation (as defined in the UK Securitization Regulation) (the UK Due Diligence Requirements and, together with the EU Due Diligence Requirements, the Due Diligence
+Requirements (and references in this prospectus to the applicable Due Diligence Requirements shall mean such Due Diligence Requirements to which a particular Affected Investor is subject)) by an institutional investor,
+defined to include (a) an insurance undertaking as defined in section 417(1) of the Financial Services and </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">36 </p>
+
+</div></center></div></html>

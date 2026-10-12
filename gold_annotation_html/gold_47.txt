@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>The account owner may not be able to generate new receivables, or the transferor may
+not be able to designate new accounts to the trust when required by the pooling and servicing agreement. This could result in an acceleration of or reduction on payments on your certificates. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trusts ability to make payments on the certificates will be impaired if sufficient new receivables are not generated
+by <reportingentity>AENB</reportingentity>. We do not guarantee that new receivables will be created, that any receivables will be added to the trust or that receivables will be repaid at a particular time or with a particular pattern. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement requires that the balance of principal receivables in the trust not fall below a specified
+level. If the level of principal receivables does fall below the required level, an early payment of your certificates could occur. To maintain the level of principal receivables in the trust, the transferor periodically adds receivables through the
+designation of additional accounts for inclusion in the trust. Each such designation of additional accounts is subject to certain conditions, including that the Rating Agency Condition be satisfied. There is no guarantee that the transferor will
+have enough receivables to add to the trust or that the transferor will be able to satisfy such conditions. If the transferor is not able to add additional accounts when required, an early payment of your certificates will occur. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See Maturity Considerations, The Pooling and Servicing Agreement Generally  Additions of
+Accounts and  Removal of Accounts in this prospectus. </i></p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>The objective of the asset representations review
+process is to independently identify noncompliance with a representation or warranty concerning the receivables but no assurance can be given as to its effectiveness. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>Clayton Fixed Income Services LLC</reportingentity> will act as the asset representations reviewer under the asset representations review
+agreement. As more particularly described under <i>Asset Representations Review,</i> once both the delinquency event and the voting event have occurred, the asset representations reviewer will conduct a review of receivables in the Trust
+Portfolio that are more than 60 days contractually delinquent and the accounts relating to such receivables for compliance with certain representations and warranties concerning those receivables and accounts made in the related receivables purchase
+agreement and the pooling and servicing agreement. The objective of the review process, including the final determination by the asset representations reviewer, is to independently identify noncompliance with a representation or warranty concerning
+the receivables. The sponsor will investigate any findings of noncompliance contained in the asset representations reviewers final report to determine whether a contractual breach has occurred relating to the receivables or the accounts.
+<i>See The Pooling and Servicing Agreement Generally  Representations and Warranties, Description of the Purchase Agreement  Representations and Warranties and  Repurchase Obligations for a
+discussion of the obligations of the transferor and the sponsor, and the rights of the trustee and certificateholders, if the transferor or the sponsor breaches certain representations and warranties concerning the receivables made in the
+receivables purchase agreement and the pooling and servicing agreement.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">None of the accounts or receivables
+comprising the Trust Portfolio have been subject to the asset representations review process, and no assurance can be given that the asset representations review process will achieve the intended result of identifying noncompliance with
+representations and warranties concerning the receivables. A determination by the asset representations reviewer represents the analysis and the opinion of the reviewer based on the testing procedures related to the performance of its review, and
+there can be no assurance that any asset representations review will identify all inaccurate representations and warranties concerning the subject receivables. As a result, there can be no assurance that the asset representations review will provide
+the transferor or the trustee with an effective tool to identify a breach of any contractual provision. Neither investors nor the trustee will be able to change the scope of the testing procedures or any review using the testing procedures, or to
+contest any finding or determination by the asset representations reviewer. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The asset representations review agreement
+provides that, in connection with any review, the servicer will grant the asset representations reviewer access to copies of documentation related to the performance of its review of the accounts and receivables. The asset representations reviewer
+will conduct its review based on the information in the review materials and other generally available information. Therefore, the asset representations reviewers ability to determine if receivables have failed to comply with a representation
+or warranty will depend on whether the review materials for those receivables or the related accounts provide a sufficient basis for that conclusion. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">40 </p>
+
+</div></center></div></html>

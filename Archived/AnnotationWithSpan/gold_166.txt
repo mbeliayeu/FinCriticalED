@@ -1,0 +1,14 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>          constant maturities–Nominal” (or any successor caption or heading). In determining
+                                            the Treasury Rate, BFI shall select, as applicable: (a) the yield for the Treasury constant
+                                            maturity on H.15 exactly equal to the period from the redemption date to the Par Call Date
+                                            (the “<b>Remaining Life</b>”); or (b) if there is no such Treasury constant
+                                            maturity on H.15 exactly equal to the Remaining Life, the two yields – one yield corresponding
+                                            to the Treasury constant maturity on H.15 immediately shorter than and one yield corresponding
+                                            to the Treasury constant maturity on H.15 immediately longer than the Remaining Life –
+                                            and shall interpolate to the Par Call Date on a straight-line basis (using the actual number
+                                            of days) using such yields and rounding the result to three decimal places; or (c) if
+                                            there is no such Treasury constant maturity on H.15 shorter than or longer than the Remaining
+                                            Life, the yield for the single Treasury constant maturity on H.15 closest to the Remaining
+                                            Life. For purposes of this paragraph, the applicable Treasury constant maturity or maturities
+                                            on H.15 shall be deemed to have a maturity date equal to the relevant number of months or
+                                            years, as applicable, of such Treasury constant maturity from the redemption date.</body></html>

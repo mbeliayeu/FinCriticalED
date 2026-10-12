@@ -1,0 +1,19 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Each
+holder of Class A Shares has the right to cast a number of votes equal to the number of Class A Shares held by the holder multiplied
+by the number of directors to be elected by the holder and the holders of shares of the classes or series of shares entitled to vote
+with the holder of Class A Shares in the election of directors. A holder of Class A Shares may cast all such votes in favor
+of one candidate or distribute such votes among its candidates in any manner the holder of Class A Shares sees fit. Where a holder
+of Class A Shares has voted for more than one candidate without specifying the distribution of votes among such candidates, the
+holder of Class A Shares will be deemed to have divided the holder’s votes equally among the candidates for whom the holder
+of Class A Shares voted.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><a name="spaa_018"/><b>DESCRIPTION
+OF THE US PREF ISSUER PREFERRED SHARES</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+US Pref Issuer’s limited liability company agreement authorizes its board of managers to establish one or more series of US Preferred
+Shares representing limited liability company interests of the US Pref Issuer. The US Pref Issuer’s board of managers is able to
+determine, with respect to any series of US Preferred Shares, the terms and rights of that series, including:</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 5%"> </td>
+<td style="vertical-align: top; width: 3%"><font style="font-family: Symbol; font-size: 10pt">·</font></td>
+<td style="vertical-align: top; width: 1%"> </td>
+<td style="text-align: justify; vertical-align: top"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">the
+    designation of the series;</font></td></tr>
+</tbody></table></body></html>

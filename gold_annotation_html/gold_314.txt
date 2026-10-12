@@ -1,0 +1,37 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the denominator of which is the Invested Amount as of
+such day. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Required Amount</b> means, for any Determination Date, the amount
+equal to: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) Class B Monthly Interest for the related Distribution Date, <i>plus</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) any Class B Outstanding Monthly Interest, <i>plus</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) any Class B Additional Interest, <i>plus</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv) if <reportingentity>TRS</reportingentity> or an affiliate is no longer the servicer, the Class B Servicing Fee for the related
+Distribution Date and any unpaid <financialconcepts>Class B Servicing Fee</financialconcepts>, <i>plus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v) the Class B Investor
+Default Amount, if any, for the related Distribution Date, <i>minus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi) Class B Available Funds for
+the related Monthly Period. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Class</b><b/><b> B Servicing Fee</b> has the meaning described in
+<i>Series Provisions  Servicing Compensation and Payment of Expenses</i> in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Collateral Additional Interest</financialconcepts></b> means, for any Distribution Date, additional interest on Collateral Minimum
+Monthly Interest due but not paid to the holder of the Collateral Interest in respect of the Collateral Invested Amount on a prior Distribution Date at a rate equal to the Collateral Minimum Interest Rate. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Collateral Available Funds</financialconcepts></b> means, for any Monthly Period, an amount equal to the Collateral Floating
+Percentage of Reallocated Investor Finance Charge Collections (including any investment earnings and certain other amounts that are to be treated as collections of finance charge receivables allocable to Series
+<font style="white-space:nowrap">2025-1</font> in accordance with the pooling and servicing agreement and the Series <font style="white-space:nowrap">2025-1</font> supplement). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Collateral</financialconcepts> <font style="white-space:nowrap">Charge-Off</font></b> has the meaning described in <i>Series
+Provisions  <financialconcepts>Defaulted Receivables</financialconcepts>; <financialconcepts>Investor Charge-Offs</financialconcepts>  Reductions in Class</i><i/><i> B Invested Amount and Collateral Invested Amount</i> in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Collateral Default Amount</financialconcepts></b> means, with respect to any Distribution Date, the product of the Investor Default
+Amount for such Distribution Date and the Collateral Floating Percentage. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Collateral Floating
+Percentage</financialconcepts></b> means, with respect to any Monthly Period, the percentage equivalent (which percentage shall never exceed 100%) of a fraction: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the numerator of which is equal to the Collateral Invested Amount as of the close of business on the last
+day of the preceding Monthly Period (or, with respect to the first Monthly Period, the Collateral Initial Invested Amount), and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the denominator of which is equal to the Adjusted Invested Amount as of the close of business on such day
+(or, with respect to the first Monthly Period, the Initial Invested Amount). </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Collateral Initial Invested
+Amoun</financialconcepts>t</b> means <monetaryunit>$</monetaryunit><number>140,000,000</number>. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Collateral Interest</financialconcepts></b> means an uncertificated interest in the trust
+assets that is subordinated to, and serves as credit enhancement for, the Series <font style="white-space:nowrap">2025-1</font> certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Collateral Interest Servicing Fee</financialconcepts></b> has the meaning described in <i>Series Provisions  Servicing
+Compensation and Payment of Expenses</i> in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Collateral Invested Amount</financialconcepts></b> for any
+date of determination means an amount equal to: </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">135 </p>
+
+</div></center></div></html>

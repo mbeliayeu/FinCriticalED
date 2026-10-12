@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_102"/>Description of Opinions </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">As more fully described in this <i>Tax Matters </i>section, Special Tax Counsel is of the opinion generally to the
+effect that the trust will not be subject to federal income tax, and further that the certificates will be characterized as debt for federal income tax purposes. Additionally, Special Tax Counsel is of the opinion generally to the effect that the
+statements set forth in this section, to the extent that they constitute matters of law or legal conclusions, are correct in all material respects. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Special Tax Counsel has not been asked to opine on any other federal income tax matter, and the balance of this discussion
+does not purport to set forth any opinion of Special Tax Counsel concerning any other particular federal income tax matter. For example, the discussion of original issue discount below is a general discussion of federal income tax consequences
+relating to an investment in certificates that are treated as having original issue discount, which discussion Special Tax Counsel opines is correct in all material respects as described above; however, that discussion does not set forth any opinion
+as to whether any particular series of certificates will be treated as having original issue discount. Additionally, those matters as to which Special Tax Counsel renders opinions should be understood to be subject to the additional considerations
+in the discussions relating to those opinions set forth below. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Special Tax Counsel has not been asked to, and does not,
+render any opinion regarding the state or local income tax consequences of the purchase, ownership and disposition of a beneficial interest in the certificates. <i>See  State and Local Taxation below.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">This description of the substance of the opinions rendered by Special Tax Counsel is not intended as a substitute for an
+investors review of the remainder of this discussion of income tax consequences, or for consultation with its own advisors or tax return preparer. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_103"/>Treatment of the Trust </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>General </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement permits the issuance of certificates and certain other interests (including any collateral
+interest) in the trust, each of which may be treated for federal income tax purposes either as debt or as equity interests in the trust. If all of the certificates and other interests (other than the original transferor certificate) in the trust
+were characterized as debt, the trust might be characterized as a security arrangement for debt collateralized by the receivables and issued directly by the transferor (or other holders of the original transferor certificate). Under such a view, the
+trust would be disregarded for federal income tax purposes. Alternatively, if some of the Transferor Certificates, the certificates and other interests in the trust were characterized as equity therein, the trust might be characterized as a separate
+entity owning the receivables, issuing its own debt, and jointly owned by the transferor (or other holders of the original transferor certificate) and any other holders of equity interests in the trust. However, Special Tax Counsel is of the opinion
+that, under current law as in effect on the series closing date, any such entity constituted by the trust will not be an association or publicly traded partnership taxable as a corporation. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Possible Treatment of the Trust as a Partnership or a Publicly Traded Partnership </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Although, as described above, Special Tax Counsel is of the opinion that the certificates will properly be treated as debt for
+federal income tax purposes and that the trust will not be treated as an association or publicly traded partnership taxable as a corporation, such opinion does not bind the <reportingentity>IRS</reportingentity> and thus no assurance can be given that such treatment will prevail.
+Further, such opinion is made with respect to current law, which is subject to change. If the IRS were to contend successfully that some or all of the Transferor Certificates, the certificates or any other interests in the trust (including any
+collateral interest) were equity in the trust for federal income tax purposes, all or a portion of the trust could be classified as a partnership or as a publicly traded partnership taxable as a corporation for such purposes. Because Special Tax
+Counsel is of the opinion that the certificates will be characterized as debt for federal income tax purposes, no attempt will be made to comply with any tax reporting requirements that would apply as a result of such alternative characterizations.
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">117 </p>
+
+</div></center></div></html>

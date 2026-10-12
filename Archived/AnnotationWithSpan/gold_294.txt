@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><a name="spaa_007"/><b>The
+US LLC Issuer</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+US LLC Issuer was formed on <date>August 12, 2022</date> under the Delaware Limited Liability Company Act and is an indirect 100% owned subsidiary
+of the Company. The US LLC Issuer has no significant assets or liabilities, no subsidiaries and no ongoing business operations of its
+own, other than the issuance of the US LLC Debt Securities and the investments it makes with the net proceeds of such US LLC Debt Securities.
+The US LLC Issuer has issued approximately US$550 million of unsecured senior debt securities (the “<b>Existing US LLC Issuer
+Debt Securities</b>”) as of the date hereof. The Existing US LLC Issuer Debt Securities are fully and unconditionally guaranteed
+by the Company.</p></body></html>

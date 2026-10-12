@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tbody><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%">S-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->16<!-- Field: /Sequence --></td></tr></tbody></table></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Notice of any redemption
+will be delivered at least <temporal>10 days</temporal> but not more than 60 days before the redemption date to each holder of the notes to be redeemed
+and may be contingent upon such conditions as may be specified in the applicable notice of redemption and in accordance with the provisions
+of the Indenture. Unless BFI defaults in payment of the Redemption Price, on and after the applicable redemption date, interest will
+cease to accrue on the notes or portions thereof called for redemption. On or before any redemption date, BFI shall deposit with the
+Paying Agent (or the Trustee) money sufficient to pay the Redemption Price of the notes to be redeemed on such date. If less than all
+the notes are to be redeemed, the notes to be redeemed shall be selected, in the case of certificated notes, by the Trustee at BFI’s
+direction by such method as BFI and the Trustee shall designate, or in the case of global notes, by such policies and procedures of the
+applicable depository. BFI’s actions and determinations in determining the Redemption Price shall be conclusive and binding for
+all purposes, absent manifest error.</p></body></html>

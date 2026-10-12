@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+Express appealed to the <reportingentity>Second Circuit</reportingentity> requesting to stay pending arbitration all proceedings on claims brought by class members required to arbitrate their claims against <reportingentity>American Express</reportingentity>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_99"/>Tax Matters </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_100"/>Federal Income Tax Consequences  General </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The following is a discussion of material federal income tax consequences relating to the investment in a Class A
+certificate offered hereunder. The Class B certificates will not be outstanding for federal income tax purposes while retained by the transferor and the term certificates as used in this <i>Tax Matters </i>section refer
+to the Class A certificates only. This discussion is based on current law, which is subject to changes that could prospectively or retroactively modify or adversely affect the tax consequences summarized below. The discussion does not address
+all of the tax consequences relevant to a particular certificate owner in light of that certificate owners circumstances, and some certificate owners may be subject to special tax rules and limitations not discussed below. Further, certificate
+owners should be aware that this summary and the opinions contained herein may not be able to be relied upon to avoid any income tax penalties that may be imposed with respect to the certificates. Each prospective certificate owner is urged to
+consult its own tax adviser in determining the federal, state, local and foreign income and any other tax consequences of the purchase, ownership and disposition of a certificate. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">For purposes of this discussion, U.S. person means a citizen or resident of the United States, a corporation or
+partnership organized in or under the laws of the United States, any state thereof, or any political subdivision of either (including the District of Columbia), or an estate or trust the income of which is includible in gross income for U.S. federal
+income tax purposes regardless of its source. The term U.S. certificate owner means any U.S. person and any other person to the extent that the income attributable to its interest in a certificate is effectively connected with that
+persons conduct of a U.S. trade or business. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_101"/>Treatment of the Certificates as Debt </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor expresses in the pooling and servicing agreement the intent that for federal, state and local income and
+franchise tax purposes, the certificates will be debt secured by the receivables. The transferor, by entering into the pooling and servicing agreement, and each investor, by the acceptance of a beneficial interest in a certificate, will agree to
+treat the certificates as debt for federal, state and local income and franchise tax purposes. However, the pooling and servicing agreement generally refers to the transfer of receivables as a sale, and because different criteria are
+used in determining the <font style="white-space:nowrap">non-tax</font> accounting treatment of the transaction, the transferor will treat the pooling and servicing agreement for certain <font style="white-space:nowrap">non-tax</font> accounting
+purposes as causing a transfer of an ownership interest in the receivables and not as creating a debt obligation. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">A basic
+premise of federal income tax law is that the economic substance of a transaction generally determines its tax consequences. The form of a transaction, while a relevant factor, is not conclusive evidence of its economic substance. In appropriate
+circumstances, the courts have allowed taxpayers as well as the <reportingentity>Internal Revenue Service (the IRS)</reportingentity> to treat a transaction in accordance with its economic substance, as determined under federal income tax law, even though the participants
+in the transaction have characterized it differently for <font style="white-space:nowrap">non-tax</font> purposes. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The
+determination of whether the economic substance of a purchase of an interest in property is instead a loan secured by the transferred property has been made by the IRS and the courts on the basis of numerous factors designed to determine whether the
+transferor has relinquished (and the purchaser has obtained) substantial incidents of ownership in the property. Among those factors, the primary ones examined are whether the purchaser has the opportunity to gain if the property increases in value,
+and has the risk of loss if the property decreases in value. <reportingentity>Orrick, Herrington &amp; Sutcliffe LLP</reportingentity>, special federal income tax counsel to the transferor (Special Tax Counsel), is of the opinion that, under current law as in effect
+on the series closing date, although no transaction closely comparable to that contemplated herein has been the subject of any Treasury regulation, revenue ruling or judicial decision, for federal income tax purposes the certificates offered
+hereunder will not constitute an ownership interest in the receivables but will properly be characterized as debt. Except where indicated to the contrary, the following discussion assumes that the certificates offered hereunder are debt for federal
+income tax purposes. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">116 </p>
+
+</div></center></div></html>

@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 13pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"/><p style="font: 13pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Fully and unconditionally guaranteed by Brookfield
+Corporation</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><reportingentity>Br</reportingentity>ookfield
+Finance Inc. (“<b>BFI</b>”) is offering US<monetaryunit>$</monetaryunit><number>500,000,000</number> aggregate principal amount of 5.813% notes due March 3, 2055
+(the “<b>notes</b>”). BFI will pay interest on the notes each March 3 and September 3. BFI will make the first interest payment
+on the notes on  September 3, 2025. Unless BFI redeems the notes earlier, the notes will mature on March 3</font>, 2055. <reportingentity>BFI</reportingentity> may
+redeem some or all of the notes at any time at the applicable Redem<reportingentity>pti</reportingentity>on Price (as defined herein). <reportingentity>BFI</reportingentity> will be required to make
+an offer to purchase the notes at a price equal to 101% of their principal amount, plus accrued and unpaid interest to the date of repurchase
+upon the occurrence of a Change of Control Triggering Event (as defined herein). BFI may also redeem all of the notes at any time
+in the event that certain changes affecting Canadian income taxation occur. The notes will be fully and unconditionally guaranteed
+as to payment of principal, premium (if any) and interest and certain other amounts by Brookfield Corporation (the “<b>Company</b>”
+and collectively with its direct and indirect subsidiaries, including BFI, “<b><reportingentity>Brookfield</reportingentity></b>”).</p></body></html>

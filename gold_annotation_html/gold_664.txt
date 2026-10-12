@@ -1,0 +1,16 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Voting Rights</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Except
+as set out below under “— Election of Directors”, each holder of Class A Shares and Class B Shares is entitled
+to notice of, and to attend and vote at, all meetings of the Company’s shareholders (except meetings at which only holders of another
+specified class or series of shares are entitled to vote) and shall be entitled to cast one vote per share. Subject to applicable law
+and in addition to any other required shareholder approvals, all matters to be approved by shareholders (other than the election of directors),
+must be approved by: (i) a majority or, in the case of matters that require approval by a special resolution of shareholders, at
+least <number>66</number> </font><font style="font-size: 10pt"><sup>2/3</sup></font>%, of the votes cast by holders of Class A Shares who vote
+in respect of the resolution or special resolution, as the case may be, and (ii) a majority or, in the case of matters that require
+approval by a special resolution of shareholders, at least <number>66</number> <font style="font-size: 10pt"><sup>2/3</sup></font>%, of the votes
+cast by holders of Class B Shares who vote in respect of the resolution or special resolution, as the case may be.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Election of Directors</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">In
+the election of directors, holders of Class A Shares, together, in certain circumstances, with the holders of certain series of
+BN Preference Shares, are entitled to elect one-half of the board of directors of the Company, provided that if the holders
+of BN Preference Shares, Series 2 become entitled to elect two or three directors, as the case may be, the numbers of directors
+to be elected by holders of Class A Shares, together, in certain circumstances, with the holders of BN Preference Shares, shall
+be reduced by the number of directors to be elected by holders of BN Preference Shares, Series 2. Holders of Class B Shares
+are entitled to elect the other one-half of the board of directors of the Company.</p></body></html>

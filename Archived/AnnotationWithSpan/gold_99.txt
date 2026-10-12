@@ -1,0 +1,6 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tbody><tr style="vertical-align: top">
+<td style="width: 0.5in"><a href="https://www.sec.gov/Archives/edgar/data/1001085/000100108524000045/a2024-q3interimreportbn.htm" style="-sec-extract: exhibit">(d)</a></td><td style="text-align: justify"><a href="https://www.sec.gov/Archives/edgar/data/1001085/000100108524000045/a2024-q3interimreportbn.htm" style="-sec-extract: exhibit">the
+                                            Company’s unaudited comparative interim consolidated financial statements for the three
+                                            and nine month periods ended <date>September 30, 2024</date> and 2023 (the “<b>Interim Financial
+                                            Statements</b>”), filed as pages 65 to 94 of Exhibit 99.1 to the Company’s
+                                            Form 6-K dated November 14, 2024;</a></td></tr></tbody></table></body></html>

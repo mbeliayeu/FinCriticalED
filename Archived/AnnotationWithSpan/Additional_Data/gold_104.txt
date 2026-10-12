@@ -1,0 +1,31 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b>Risks Related to an Investment in the Certificates </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>There is no public market for the certificates. As a result, you may be unable to sell your certificates or the price of
+the certificates may suffer. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The underwriters may assist in resales of the certificates but they are not required
+to do so. A secondary market for any certificates may not develop. If a secondary market does develop, it might not continue or it might not be sufficiently liquid to allow you to resell any of your certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, some certificates have a more limited trading market and experience more price volatility. There may be a limited
+number of buyers when you decide to sell those certificates. This may affect the price you receive for the certificates or your ability to sell the certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Moreover, events in the financial markets, including increased illiquidity,
+<font style="white-space:nowrap">de-valuation</font> of various assets in secondary markets and the lowering of ratings on certain asset-backed securities, may adversely affect the liquidity and/or reduce the market price of your certificates. There
+can be no assurance that you will be able to sell your certificates at favorable prices or at all. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">You should not
+purchase certificates unless you understand and know you can bear these investment risks and you should consider that general market conditions may adversely affect the liquidity, marketability and overall market value of your certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>If your certificates are repaid prior to the expected final payment date, you may not be able to reinvest your principal
+in a comparable security. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If you receive an early payment of principal on your certificates at a time when
+prevailing interest rates are relatively low, you may not be able to reinvest the proceeds in a comparable security with an effective interest rate equivalent to that of your certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>The market value of the certificates could decrease if the ratings of the certificates are lowered or withdrawn or if
+there is an unsolicited issuance of a lower rating. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The initial rating of a certificate addresses the likelihood
+of the payment of interest on that certificate when due and the ultimate payment of principal of that certificate by its legal maturity date. The ratings do not address the likelihood of the payment of principal of a certificate on its expected
+final payment date. In addition, the ratings do not address the likelihood of early payment or acceleration of a certificate, which could be caused by a <font style="white-space:nowrap">pay-out</font> event. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The ratings of the certificates are not a recommendation to buy, hold or sell the certificates. The ratings of the
+certificates may be lowered or withdrawn entirely at any time by the applicable rating agency without notice from <reportingentity>AENB</reportingentity>, TRS or the transferor to certificateholders of such change in rating. It is possible that a rating agency could revise its models
+and ratings methodology (including its ratings or outlooks with respect to the various transaction parties) and, following the issuance date, downgrade its ratings on the certificates that were not subject to such revised models or ratings
+methodology as part of the ratings process. In addition, a rating agency could choose to provide an unsolicited rating on a series, class or tranche of certificates, without notice to or from the bank, TRS, the transferor or the issuing entity, and
+that unsolicited rating could be lower than the ratings provided by the other rating agencies. If a series, class or tranche of certificates has had its ratings lowered or withdrawn, or if a series, class or tranche of certificates has received an
+unsolicited rating that is lower than the other ratings of such series, class or tranche of certificates, the market value of the certificates could decrease. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">42 </p>
+
+</div></center></div></html>

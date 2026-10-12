@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, on each Distribution Date with respect to any Controlled
+Amortization Period or any Controlled Accumulation Period, the servicer may deduct the amount of any Shared Principal Collections not required to cover principal shortfalls (which will be distributed to the transferor, but not in an amount exceeding
+the transferors interest in principal receivables on such day, after giving effect to any new receivables transferred to the trust on such day) from the net amount to be deposited into the collection account. The trustee may not have a
+perfected security interest in collections held by the servicer that are commingled with other funds of the servicer or used by the servicer in the event of the bankruptcy, insolvency, liquidation, conservatorship or receivership of the servicer or,
+in certain circumstances, the lapse of certain time periods. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On the day any such deposit is made into the Collection
+Account, the servicer will withdraw from the Collection Account and pay to the transferor to the extent not deducted from collections as described above, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) an amount equal to the excess, if any, of the aggregate amount of such deposits in respect of principal
+receivables treated as Shared Principal Collections for all series over the aggregate amount of Principal Shortfalls for all series and, without duplication, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the aggregate amount of Series Allocable Principal Collections for all outstanding series to be paid to
+the transferor with respect to such date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Any amounts in respect of principal receivables not distributed to the
+transferor on any day because the Transferor Amount does not exceed zero on such day (after giving effect to any principal receivables transferred to the trust on such day) shall be deposited into the Special Funding Account. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_61"/>Allocations </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the pooling and servicing agreement, during each Monthly Period the servicer will allocate to each outstanding
+series its Series Allocable Finance Charge Collections, Series Allocable Principal Collections and Series Allocable Defaulted Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer will then allocate amounts initially allocated to a particular series between the certificateholders
+interest and the transferors interest for such Monthly Period as follows: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) Series Allocable
+Finance Charge Collections and the Series Allocable Defaulted Amount will at all times be allocated to the invested amount of a series based on the Floating Allocation Percentage of such series; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) Series Allocable Principal Collections will at all times be allocated to the invested amount of such
+series based on the Principal Allocation Percentage of such series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Amounts not allocated to the invested amount of any
+series as described above will be allocated to the transferors interest. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_62"/>Groups of Series </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The certificates of a series may be included in a Reallocation Group. Collections of finance charge receivables allocable to
+each series in a Reallocation Group will be aggregated and made available for certain required payments for all series in such group. Consequently, the issuance of new series in such group may have the effect of reducing or increasing the amount of
+collections of finance charge receivables allocable to the certificates of other series in such group. <i>See Risk Factors  Transaction Structure Risks  Issuances of additional series or additional certificates in outstanding
+series by the trust may adversely affect your certificates in this prospectus. </i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Series <font style="white-space:nowrap">2025-1</font> is included in Group I. Upon issuance, Series <font style="white-space:nowrap">2025-1</font> will be the twelfth outstanding series issued by the trust in Group I. Any issuance of a new series in Group I may
+reduce or increase the amount of finance charge collections allocated to your series. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">91 </p>
+
+</div></center></div></html>

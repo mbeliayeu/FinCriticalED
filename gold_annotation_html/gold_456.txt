@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tbody><tr style="vertical-align: top">
+<td style="width: 0.5in"><a href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1001085/000100108524000007/bn-20231231_d2.htm" style="-sec-extract: exhibit">(b)</a></td><td style="text-align: justify"><a href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1001085/000100108524000007/bn-20231231_d2.htm" style="-sec-extract: exhibit">the
+                                            Company’s audited comparative consolidated financial statements and the notes thereto
+                                            for the fiscal years ended December 31, 2023 and 2022, together with the accompanying
+                                            report of independent registered public accounting firm thereon, filed as Exhibit 99.2
+                                            to the Annual Report on Form 40-F;</a></td></tr></tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tbody><tr style="vertical-align: top">
+<td style="width: 0.5in"><a href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1001085/000100108524000007/bn-20231231_d2.htm" style="-sec-extract: exhibit">(c)</a></td><td style="text-align: justify"><a href="https://www.sec.gov/ix?doc=/Archives/edgar/data/1001085/000100108524000007/bn-20231231_d2.htm" style="-sec-extract: exhibit">the
+                                            management’s discussion and analysis of the Company for the fiscal years ended December 31,
+                                            2023 and 2022 (the “<b>MD&amp;A</b>”), filed as Exhibit 99.2 to the Annual
+                                            Report on Form 40-F;</a></td></tr></tbody></table></body></html>

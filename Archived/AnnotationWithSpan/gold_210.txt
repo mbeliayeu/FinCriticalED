@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">For purposes of the Tax Act,
+all amounts, including interest, adjusted cost base and proceeds of disposition, must be expressed in Canadian dollars. For purposes
+of the Tax Act, amounts denominated in U.S. dollars generally must be converted into Canadian dollars using the appropriate
+exchange rate determined in accordance with the detailed rules in the Tax Act in that regard.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><b><i>Residents of Canada</i></b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The following portion of
+the summary is generally applicable to a Note Holder who, at all relevant times, for the purposes of the Tax Act, is or is deemed
+to be resident in Canada, and holds the notes as capital property (a “<b>Resident Note Holder</b>”). Generally, the
+notes will be considered to be capital property to a Resident Note Holder provided that the Resident Note Holder does not hold the notes
+in the course of carrying on a business of buying and selling securities and has not acquired them in one or more transactions considered
+to be an adventure or concern in the nature of trade. Certain Resident Note Holders whose notes might not otherwise qualify as capital
+property may be entitled to have the notes, and all other “Canadian securities” (as defined in the Tax Act) owned by the
+Resident Note Holder in the year and in each subsequent taxation year, deemed to be capital property by making an irrevocable election
+permitted by subsection 39(4) of the Tax Act. Such Resident Note Holders should consult their own tax advisors as to whether
+this election is available and advisable, having regard to their own particular circumstances.</p></body></html>

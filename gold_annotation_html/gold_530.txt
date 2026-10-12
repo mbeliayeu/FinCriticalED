@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Affiliate Purchase on Maturity</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Notwithstanding the other
+provisions of the Indenture, <reportingentity>BFI</reportingentity> may, by providing notice to the Trustee at least three Business Days prior to the Maturity, elect to
+have one or more Affiliates of BFI or the Company purchase all, but not less than all, of the notes so to be redeemed or repaid at a
+price equal to the Redemption Price (excluding accrued and unpaid interest), in the case of notes called for redemption, or the principal
+amount, in the case of notes coming due at the Stated Maturity (in each case, the “<b><financialconcepts>Repayment Price</financialconcepts></b>”); <i>provided
+</i>that any accrued and unpaid interest thereon will be paid by BFI. Upon payment therefor of an amount equal to the Repayment Price,
+and payment by BFI of accrued interest and premium, if any, such notes shall be transferred to such Affiliate in accordance with the
+transfer provisions of the Indenture and such notes shall not become due and payable on Maturity, provided that such Affiliate shall
+not be permitted to vote such notes in any matter unless 100% of the notes entitled to be voted in respect of such matter are held by
+BFI, the Company or their Affiliates. Should such Affiliate and BFI, if applicable, fail to make full payment of the Repayment Price
+and accrued interest and premium, if any, on Maturity, then such notes shall become due and payable as otherwise provided for in the
+Indenture.</p></body></html>

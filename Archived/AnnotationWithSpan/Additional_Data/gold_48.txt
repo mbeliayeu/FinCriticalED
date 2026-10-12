@@ -1,0 +1,142 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+Corporation discloses only limited information about the variables it uses to assess credit risk, those variables likely include, but are not limited to, debt level, credit history, payment
+patterns (including delinquency experience), and level of utilization of available credit. FICO scores of an individual may change over time, depending on the conduct of the individual, including the individuals usage of his or her available
+credit and changes in credit score technology used by <reportingentity>Fair Isaac Corporation</reportingentity>. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">FICO scores are based on independent,
+third-party information, the accuracy of which we cannot verify. The account owner does not use standardized credit scores, such as a FICO score, alone to determine the amount of charges that should be approved on a credit card account. Rather, a
+FICO score is only one of many factors used by <reportingentity>AENB</reportingentity>, as account owner, to assess an individuals credit and default risk. In connection with its underwriting and authorization decisions, the account owner uses proprietary scoring models, which
+it generally has found to be more accurate predictors of credit and default risk than any single standardized credit score such as FICO. The use of proprietary models also enables the account owner to extend credit to an account holder with a lower
+FICO score without changing the account owners risk tolerance than would be the case if the account owner relied solely on FICO. <i>See <reportingentity>AENB</reportingentity>s Revolving Credit Businesses  Underwriting and Authorization Process in this
+prospectus. </i>The FICO scores presented below should not be used alone as a method of forecasting whether account holders will make payments in accordance with the terms of their accounts. References to Receivables Outstanding in the
+following table include both finance charge receivables and principal receivables. Because the future composition of the Trust Portfolio may change over time, this table is not necessarily indicative of the composition of the Trust Portfolio at any
+specific time in the future. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><financialconcepts>Composition by </financialconcepts>Standardized Credit Score(1) </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>Trust Portfolio </b></p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="69%"/>
+
+<td valign="bottom" width="6%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="6%"/>
+<td/>
+<td/>
+<td/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom" nowrap="nowrap"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; "><b><financialconcepts>FICO Score Range</financialconcepts></b></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage of Total<br/>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td></tr>
+
+
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Less than 560</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>258,234,861</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.91</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">560 -659</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,233,156,054</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4.36</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">660 -699</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">2,313,146,649</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>8.18</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">700 -759</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>8,617,777,768</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">30.48</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">760 and above</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>15,841,485,261</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>56.02</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Refreshed FICO Unavailable</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">14,096,931</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>0.05</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Total</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"><b/>$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><b/><number>28,277,897,524</number></td>
+<td nowrap="nowrap" valign="bottom"><b/> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td></tr>
+</table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p> <p style="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="4%" valign="top" align="left">(1)</td>
+<td align="left" valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " align="justify">Standardized Credit Score defined as the FICO score in the most recent Monthly Period.
+</p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">A-I-7 </p>
+
+</div></center></div></html>

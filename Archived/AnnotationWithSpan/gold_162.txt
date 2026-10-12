@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Interest on the notes will
+be computed on the basis of a <date>360-day year of twelve 30-day months</date>. In any case where any interest payment date is not a Business Day,
+payment will be made on the next succeeding Business Day, whether or not such date is a Business Day in Toronto, Ontario, unless such
+date is not a Business Day in New York, New York. “<b>Business Day</b>” means each weekday which is not a day on which banking
+institutions in the Place of Payment (as defined herein) are authorized or obligated by law or executive order to close.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Computershare Trust Company,
+N.A. will initially act as Paying Agent for the notes. Principal of, and premium, if any, and interest on, the notes will be payable
+at the Place of Payment, <i>provided</i> that at the option of BFI, payment of interest on the notes may be made by check mailed to the
+address of the Person entitled thereto as it appears in the Security Register or by wire transfer to an account maintained by the Person
+entitled thereto as specified in the Security Register. The notes may be presented for registration of transfer and exchange at the corporate
+trust office of the Trustee and the Place of Payment.</p></body></html>

@@ -1,0 +1,56 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table border="1" cellpadding="4" cellspacing="0" width="100%">
+<thead>
+<tr><th align="center" class="FormTextC" colspan="4" valign="top" width="100%"><b>Table I - Non-Derivative Securities Beneficially Owned</b></th></tr>
+<tr>
+<th align="left" class="MedSmallFormText" valign="top" width="44%">1. Title of Security (Instr. 
+      4)
+   </th>
+<th align="left" class="MedSmallFormText" valign="top" width="19%">2. 
+      Amount of Securities Beneficially Owned (Instr. 
+      4)
+   </th>
+<th align="left" class="MedSmallFormText" valign="top" width="11%">3. Ownership Form: Direct (D) or Indirect (I) (Instr. 
+      5)
+   </th>
+<th align="left" class="MedSmallFormText" valign="top" width="26%">4. Nature of Indirect Beneficial Ownership (Instr. 
+      5)
+   </th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><span class="FormData">Common Stock, par value <monetaryunit>$</monetaryunit><number>0.01</number> per share</span></td>
+<td align="center">
+<span class="FormData"><number>23,640</number></span><span class="FootnoteData"><sup>(1)</sup></span>
+</td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="left"/>
+</tr></tbody>
+</table><table border="1" cellpadding="4" cellspacing="0" width="100%"><thead>
+<tr><th align="center" class="FormTextC" colspan="8" valign="top" width="100%">
+<b>Table II - Derivative Securities Beneficially Owned</b><br/><b>(e.g., puts, calls, warrants, options, convertible securities)</b>
+</th></tr>
+<tr>
+<th align="left" class="MedSmallFormText" rowspan="2" valign="top" width="35%">1. Title of Derivative Security (Instr. 
+      4)
+   </th>
+<th align="left" class="MedSmallFormText" colspan="2" valign="top" width="9%">2. Date Exercisable and Expiration Date 
+      (Month/Day/Year)</th>
+<th align="left" class="MedSmallFormText" colspan="2" valign="top" width="26%">3. Title and Amount of Securities Underlying Derivative Security (Instr. 
+      4)
+   </th>
+<th align="left" class="MedSmallFormText" rowspan="2" valign="top" width="7%">4. Conversion or Exercise Price of Derivative Security
+   </th>
+<th align="left" class="MedSmallFormText" rowspan="2" valign="top" width="8%">5. Ownership Form: Direct (D) or Indirect (I) (Instr. 
+      5)
+   </th>
+<th align="left" class="MedSmallFormText" rowspan="2" valign="top" width="15%">6. Nature of Indirect Beneficial Ownership (Instr. 
+      5)
+   </th>
+</tr>
+<tr>
+<th align="center" class="MedSmallFormText" valign="bottom" width="4%">Date Exercisable</th>
+<th align="center" class="MedSmallFormText" valign="bottom" width="5%">Expiration Date</th>
+<th align="center" class="MedSmallFormText" valign="bottom" width="20%">Title</th>
+<th align="center" class="MedSmallFormText" valign="bottom" width="6%">Amount or Number of Shares</th>
+</tr>
+</thead></table></body></html>

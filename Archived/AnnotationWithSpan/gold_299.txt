@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><a name="spaa_015"/><b>DESCRIPTION
+OF CAPITAL STRUCTURE OF THE ISSUERS</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Company’s authorized share capital consists of an unlimited number of preference shares designated as Class A Preference Shares,
+issuable in series, an unlimited number of preference shares designated as Class AA Preference Shares, issuable in series, an unlimited
+number of Class A Shares, and <number>85,120</number> Class B Limited Voting Shares (“<b>Class B Shares</b>”). As of <date>May 29,
+2024</date>, the Company had <number>10,220,175</number> Class A Preference Shares, Series 2; 3,983,910 Class A Preference Shares, Series 4;
+8,792,596 Class A </p></body></html>

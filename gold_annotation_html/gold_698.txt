@@ -1,0 +1,6 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->9<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">If
+an Event of Default (other than an Event of Default related to certain events of bankruptcy, insolvency or reorganization affecting the
+Company and any Finance Debt Issuer, and the Company in its capacity as guarantor under the applicable Indenture of each Finance Debt
+Issuer) with respect to the Indenture Securities of any series at the time outstanding shall occur and be continuing either the applicable
+Trustee(s) or the Holders of at least <number>25%</number> in aggregate principal amount of Outstanding Securities of that series by notice, as provided
+in </p></body></html>

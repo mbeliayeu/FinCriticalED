@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Capital
+Lease Obligation</i></b>” of any Person means the obligation to pay rent or other payment amounts under a lease of (or other Debt
+arrangements conveying the right to use) real or personal property of such Person which is required to be classified and accounted for
+as a capital lease or a liability on the face of a balance sheet of such Person in accordance with generally accepted accounting principles
+and which has a term of at least <temporal>36 months</temporal>. The stated maturity of such obligation shall be the date of the last payment of rent or any
+other amount due under such lease prior to the first date upon which such lease may be terminated by the lessee without payment of a
+penalty.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"/></body></html>

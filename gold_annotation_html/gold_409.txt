@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><br/><table role="presentation"><tbody><tr><td class="label">6. Interest due -- if this Form is being filed more
+					than 90 days after
+					the end of the issuer’s fiscal year (see Instruction D):</td><td><p/><div class="fakeBox"><number>0.00</number><span> </span></div><p/></td></tr></tbody></table><br/><table role="presentation"><tbody><tr><td class="label">
+					7. Total of the amount of the registration fee due plus
+					any interest due [Item 5(viii) plus Item 6]:
+				</td><td><p/><div class="fakeBox"><number>0</number>.00<span> </span></div><p/></td></tr></tbody></table><br/><table role="presentation"><tbody><tr><td class="label">8. Explanatory Notes (if any):</td><td><p/><div class="fakeBox3"><span> </span></div><p/></td></tr></tbody></table><br/><h4><em>Signatures</em></h4><table role="presentation"><tbody><tr/><tr><td>
+					This report has been signed below by the following persons on
+					behalf of the issuer
+					and in the capacities and on the dates indicated. By (Signature and
+					Title)*
+				</td></tr></tbody></table><table role="presentation"><tbody><tr><td class="label">Name and Title</td><td><div class="fakeBox3">Shuang Wu, Treasurer<span> </span></div></td></tr><tr><td class="label">Date</td><td><div class="fakeBox2"><temporal>0</temporal>3/20/2025<span> </span></div></td></tr><tr><td class="label">Signature</td><td><div class="fakeBox3">/s/ Shuang Wu<span> </span></div></td></tr></tbody></table></body></html>

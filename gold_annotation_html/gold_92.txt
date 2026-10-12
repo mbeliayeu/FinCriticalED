@@ -1,0 +1,56 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the Rating Agency Condition shall have been satisfied with respect to such removal. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, the transferors designation of any account as a removed account shall be random, unless the removed
+accounts are accounts (i) originated or acquired under a specific affinity agreement, private label agreement, merchant agreement, <font style="white-space:nowrap">co-branding</font> agreement or other program which is <font style="white-space:nowrap">co-owned,</font> operated or promoted, provided that such agreement has terminated in accordance with the terms therein or (ii) being removed due to other circumstances caused by requirements of agreements in which
+the right to such removed accounts or control thereof is determined by a party or parties to such agreements other than the transferor, any affiliate of the transferor or any agent of the transferor. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_53"/>Discount Option </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement provides that the transferor may at any time and from time to time designate a fixed or
+variable percentage, known as the discount percentage, of the amount of principal receivables existing and arising in all or any specified portion of the accounts on and after the date such designation becomes effective to be treated as finance
+charge receivables, which will be called discount option receivables. Although there can be no assurance that the transferor will do so, such designation may occur because the transferor determines that the exercise of the discount option is needed
+to provide a sufficient yield on the receivables to cover interest and other amounts due and payable from collections of finance charge receivables or to avoid the occurrence of a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment
+Event relating to the reduction of the average yield on the portfolio of accounts in the trust, if the related supplement provides for such a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event. The existence of discount
+option receivables will result in an increase in the amount of collections of finance charge receivables, a reduction in the balance of principal receivables outstanding and a reduction in the Transferor Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">After any such designation, pursuant to the pooling and servicing agreement, the transferor may, without notice to or consent
+of the certificateholders, from time to time increase, reduce or withdraw the percentage of receivables subject to such designation. The transferor must provide <temporal>30 days</temporal> prior written notice to the servicer, the trustee, each Rating Agency and any
+provider of Series Enhancement of any such designation or increase, reduction or withdrawal. Such designation or increase, reduction or withdrawal will become effective on the date specified therein only if: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transferor delivers to the trustee and certain providers of Series Enhancement a certificate of an
+authorized officer of that transferor to the effect that, based on the facts known to that transferor at the time, such designation or increase, reduction or withdrawal will not at the time of its occurrence cause a
+<font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event or an event that, with notice or the lapse of time or both, would constitute a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event, to occur with
+respect to any series, </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the Rating Agency Condition is satisfied with respect to such designation or increase, reduction or
+withdrawal, and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">only in the case of a reduction or withdrawal of the discount percentage, the transferor will have:
+</p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   delivered to the trustee an opinion of counsel to the effect that
+such reduction of the percentage of discount option receivables will not adversely affect the tax characterization as debt of any certificates of any outstanding series or class that were characterized as debt at the time of their issuance and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   in certain circumstances, obtained the prior written consent of each provider of Series
+Enhancement entitled to consent thereto. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On the Date of Processing of any collections on or after the date the exercise
+of the discount option takes effect, the product of: </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">85 </p>
+
+</div></center></div></html>

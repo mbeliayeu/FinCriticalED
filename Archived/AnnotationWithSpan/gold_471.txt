@@ -1,0 +1,23 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="text-align: justify; margin-bottom: 9pt;">As at the date of this Notice, the Issuer’s share capital is equal to Euro <number>444,680,575</number>, divided into 833,279,689 ordinary shares with no par value.  The Issuer’s shares are admitted to trading on
+      Euronext Milan, a regulated market organized and managed by Borsa Italiana, with ISIN code IT0000062957 and are dematerialized pursuant to Article 83-<font style="font-style: italic;">bis</font> of the TUF.</div><div style="text-align: justify; margin-bottom: 9pt;">To Offeror’s knowledge, as at the date of <date>December 31, 2024</date>, Mediobanca holds <number>11,277,075</number> Mediobanca Shares, equal to about 1.35% of the Issuer’s share capital.</div><div style="text-align: justify; margin-bottom: 9pt;">The following table shows the persons who, as of the date of this Notice – based on the notifications pursuant to Article 120 of the TUF, as published on Consob’s website – hold shares of the
+      Issuer’s share capital or voting rights exceeding <number>3%</number> of the Issuer’s ordinary share capital:</div><table cellpadding="0" cellspacing="0" id="z5be89b4ba7764589ace697d0fef72990" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 35.26%; vertical-align: top; background-color: #BFBFBF; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-weight: bold;">Declarant or subject at the top of the participation chain</div>
+</td>
+<td style="width: 28.04%; vertical-align: top; background-color: #BFBFBF; border-bottom: #000000 1px solid;">
+<div style="text-align: center; font-weight: bold;">Direct Shareholder</div>
+</td>
+<td style="width: 36.7%; vertical-align: top; background-color: #BFBFBF; border-bottom: #000000 1px solid;">
+<div style="text-align: center; font-weight: bold;">% shareholding</div>
+</td>
+</tr>
+<tr>
+<td rowspan="4" style="width: 35.26%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;">CALTAG IRONE FRANCESCO GAETANO</div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;">FINCAL SPA</div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justi&lt;/body&gt;&lt;/html&gt;"/></td></tr></tbody></table></body></html>

@@ -1,0 +1,62 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<div style="BORDER-BOTTOM:1.00pt solid #000000;BORDER-LEFT:1.00pt solid #000000;BORDER-RIGHT:1.00pt solid #000000;BORDER-TOP:1.00pt solid #000000;MARGIN-LEFT:0px; MARGIN-RIGHT:0px;max-width:100%"><div style="width:97%; margin-top:1.5%; margin-bottom:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Offered Certificates </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express Credit Account Master Trust</reportingentity> is offering: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:9%; font-size:10pt; font-family:Times New Roman" align="justify"><monetaryunit>$</monetaryunit>500,000,000 of Class A certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>We refer to the Class A certificates as the offered certificates. </i></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The issuing entity will also issue <monetaryunit>$</monetaryunit>21,429,000 of Class B certificates. The Class B certificates are not offered by
+this prospectus. The Class B certificates will initially be retained by the transferor or an affiliate of the transferor. Information about the Class B certificates is set forth herein solely to provide a better understanding of the
+Class A certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">This prospectus presents Series <font style="white-space:nowrap">2025-1</font> with an
+invested amount of <monetaryunit>$</monetaryunit>571,430,000. However, the invested amount of this series may be increased or decreased. Any such increase or decrease will be applied <i>pro rata</i> among the Class A certificates, the Class B certificates and the
+collateral interest and will be reflected in the final prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In this document, references to Series <font style="white-space:nowrap">2025-1</font> certificates include only the Class A certificates and Class B certificates and references to Series <font style="white-space:nowrap">2025-1</font> include the Series
+<font style="white-space:nowrap">2025-1</font> certificates and the collateral interest. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Only the Class A
+certificates are offered by this prospectus. </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Beneficial interests in the Class A certificates may be purchased
+in minimum denominations of <monetaryunit>$</monetaryunit>100,000 and integral multiples of $1,000. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Series
+<font style="white-space:nowrap">2025-1</font> certificates are expected to be issued on <temporal>February [●], 2025</temporal>. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Distribution
+Dates </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Distribution dates for the Series <font style="white-space:nowrap">2025-1</font> certificates will commence
+on <temporal>March 17, 2025</temporal> and, after that, will be the 15th day of each month, if the 15th is a business day and, if not, the following business day. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Interest </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Interest on the Series <font style="white-space:nowrap">2025-1</font> certificates will be paid on each distribution date.
+</p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Class A certificates will bear interest at [●]% per year. The Class B certificates will bear interest
+at [●]% per year. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Interest on the Class A certificates for any distribution date will equal <font style="white-space:nowrap">one-twelfth</font> the product of: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the Class A certificate rate; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the principal amount of the Class A certificates as of the related record date. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">For the first distribution date, however, interest on the Class A certificates will equal <monetaryunit>$</monetaryunit>[●]. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Interest on the Class B certificates for any distribution date will equal
+<font style="white-space:nowrap">one-twelfth</font> the product of: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the Class B certificate rate; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the principal amount of the Class B certificates as of the related record date. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">For the first distribution date, however, interest on the Class B certificates will equal <monetaryunit>$</monetaryunit>[●]. </p>
+</div></div>
+
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">6 </p>
+
+</div></center></div></html>

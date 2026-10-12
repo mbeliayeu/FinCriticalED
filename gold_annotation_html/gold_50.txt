@@ -1,0 +1,58 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_3"/>The Issuing Entity </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express Credit Account Master Trust</reportingentity>, also referred to as the issuing entity or the trust, was formed in <temporal>1996</temporal> pursuant
+to a pooling and servicing agreement. This pooling and servicing agreement, as amended from time to time, most recently as of April 1, 2018, and as may be further amended from time to time, is among American Express Travel Related Services
+Company, Inc., or TRS, as servicer, RFC III, as transferor, and The Bank of New York Mellon, as trustee. The trust does not have any officers or directors. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">While <reportingentity>RFC III</reportingentity> is currently the transferor of receivables to the trust, each of American Express Centurion Bank
+(Centurion), American Express Receivables Financing Corporation II (RFC II) and American Express Receivables Financing Corporation IV LLC (RFC IV) has previously transferred receivables to the trust, directly or
+indirectly. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust, as a master trust, previously has issued other series of asset backed certificates and expects to
+issue additional series from time to time. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trusts activities are limited to: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">acquiring and holding the receivables and the other trust assets and the proceeds from these assets;
+</p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">issuing certificates; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">making payments on the certificates; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">engaging in other activities that are necessary or incidental to accomplish these limited purposes.
+</p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Consequently, the trust does not and is not expected to have any source of capital resources other than
+the trust assets. The trust is formed under and administered in accordance with the laws of the State of New York. The fiscal year for the trust will end on <temporal>December 31</temporal> of each year. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each transferor, being <reportingentity>RFC III</reportingentity> currently, and Centurion, RFC II and RFC IV previously, and any additional transferor
+designated under the pooling and servicing agreement in the future, has conveyed and will convey to the trust, without recourse, its interest in all receivables arising under the portfolio of accounts in the trust. The receivables consist of all
+amounts charged by account holders for goods and services and cash advances, called principal receivables, and all related periodic rate finance charges, annual membership fees, cash advance fees, late charge fees, returned check charges, overlimit
+fees, Issuer Rate Fees, and any other fees and charges billed on the accounts from time to time, collectively called finance charge receivables. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust assets consist of such receivables, all monies due or to become due thereunder, the proceeds of the receivables, all
+monies and other property on deposit in certain accounts maintained for the benefit of the certificateholders and Recoveries (net of collection expenses) received by the servicer including proceeds from the sale or securitization of Defaulted
+Receivables and proceeds of credit insurance policies relating to such receivables and related property conveyed to the trustee pursuant to an assignment, the right to receive Issuer Rate Fees attributed to the receivables, all monies on deposit in
+the Collection Account, the Special Funding Account and in certain accounts maintained for the benefit of the certificateholders, any series enhancements, and all of each transferors legal rights and remedies under the purchase agreement.
+Uniform Commercial Code financing statements have been and will be filed, to the extent appropriate, to perfect the ownership or security interests of the trust and the trustee described herein. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the pooling and servicing agreement, the transferor will have the right (subject to certain limitations and
+conditions set forth therein), and in some circumstances will be obligated, to designate from time to time additional eligible accounts to be included as accounts and to transfer to the trust all receivables of such additional accounts, whether such
+receivables are then existing or thereafter created. <i>See The Pooling and Servicing Agreement Generally  Additions of Accounts in this prospectus.</i> </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">43 </p>
+
+</div></center></div></html>

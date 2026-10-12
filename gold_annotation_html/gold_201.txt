@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+strategic or technological initiatives, such as ceasing to provide data to <reportingentity>American Express</reportingentity> or using American Express data in a way that was not authorized or diminishes the value of the
+transaction data American Express receive through its integrated payments platform. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The management and oversight of an
+increasing number of third parties increase <reportingentity>American Express</reportingentity> operational complexity and governance challenges and decreases its control. Additionally, third-party oversight and practices related to third parties such as outsourcing have become
+subject to heightened regulatory scrutiny, including in some cases restricting or requiring approval for outsourcing. A failure to exercise adequate oversight over third parties, including compliance with service level agreements or regulatory or
+legal requirements, could result in regulatory actions, fines, litigation, sanctions or economic and reputational harm to American Express. In addition, American Express may not be able to effectively monitor or mitigate operational risks relating
+to its third-party providers service providers. American Express is also exposed to the risk that a service disruption at a service provider common to its third parties could impede their ability to provide services to American Express.
+Notwithstanding any attempts to diversify American Express reliance on third parties, in certain cases there may be limited alternatives or high costs for diversification, and American Express also may not be able to effectively mitigate
+operational risks relating to the service providers of its third-party providers. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Any of the events and circumstances
+discussed above could have a material adverse effect on the perception of the <reportingentity>American Express</reportingentity> brands reliability and the trust, TRS, the bank, the transferor or their affiliates, including on their ability to originate new accounts and to
+generate and service receivables, the level of receivables in the trust, collections of such receivables and the amount of certificates issued in the future, which could result in a <font style="white-space:nowrap">pay-out</font> event and
+acceleration of payment or reduced payment on your certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Surcharging, steering or other differential
+acceptance practices by merchants could adversely impact the trust, <reportingentity>TRS</reportingentity>, AENB, the transferor or their affiliates. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The laws of a number of states in the United States permit merchants to engage in surcharging, steering or other differential
+acceptance practices for certain card purchases and certain merchants and merchant organizations continue to push for these practices in other jurisdictions. In jurisdictions allowing surcharging, <reportingentity>American Express</reportingentity> has seen an acceleration in
+merchant surcharging on American Express cards, particularly in certain merchant categories, and in some cases, either the surcharge is greater than that applied to cards issued on competing networks or cards issued on competing networks are not
+surcharged at all (practices that are known as differential surcharging), even though there are many cards issued on competing networks that have an equal or greater cost of acceptance for the merchant. American Express has also
+encountered merchants that accept American Express-branded cards, but tell their customers that they prefer to accept another type of payment or otherwise seek to suppress the use of American Express-branded cards or certain American Express-branded
+cards, such as limiting the use of our cards for certain transactions. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Recently introduced products could fail to gain
+market acceptance and <reportingentity>American Express</reportingentity> cards could become less desirable to consumers and businesses generally due to surcharging, steering or other forms of discrimination, which could result in a decrease in <font style="white-space:nowrap"><font style="white-space:nowrap">cards-in-force,</font></font> coverage and transaction volumes. The impact could vary depending on such factors as: the industry or manner in which a surcharge is levied; how Card Members are surcharged or steered to other
+card products or payment forms at the point of sale; the ease and speed of implementation for merchants, merchant acquirers, aggregators, processors or other merchant service providers, including as a result of new or emerging technologies; the size
+and recurrence of the underlying charges; and whether and to what extent these actions are applied to other forms of payment, including whether it varies depending on the type of card (e.g., credit or debit), product, network, acquirer or issuer.
+</p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Discrimination against <reportingentity>American Express</reportingentity> cards could negatively impact spending on American Express-branded cards,
+particularly where it only or disproportionately affects credit card usage or, card usage generally, or Card Members, which could adversely affect AENB or its affiliates ability to originate new accounts, to generate new receivables and the
+level of receivables in the trust. This could result in a reduction in the amount or timing of interest or principal payments on trust receivables and could result in a reduction of the amount available for distribution on the certificates of your
+series or in the early amortization of your series. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">22 </p>
+
+</div></center></div></html>

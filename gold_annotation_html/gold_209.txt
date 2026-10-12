@@ -1,0 +1,41 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If any of these events were to occur, payments to you could be delayed or
+reduced. You also may suffer a loss if the <reportingentity>FDIC</reportingentity> were to argue that any term of the transaction documents violates applicable regulatory requirements. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, you could suffer a loss on your investment if an orderly liquidation of <reportingentity>TRS</reportingentity>, AENB, the trust, the transferor or
+their affiliates affected by these transactions were commenced under the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act). In such a liquidation, the FDIC would be appointed as receiver and could exercise
+broad powers similar to those available to it as receiver under the Federal Deposit Insurance Act. Although some of the protections afforded to creditors under the Bankruptcy Code are included in the Dodd-Frank Act, the FDIC would have wide
+discretion and would be subject to only limited judicial review, and the proceedings, standards, powers of the receiver and many other substantive provisions of the orderly liquidation authority differ from those of the Bankruptcy Code in several
+respects. In addition, creditors generally would not be entitled to recover more than the amount that they would have received in a case under Chapter 7 of the Bankruptcy Code. Because the legislation remains subject to clarification through FDIC
+regulations and has yet to be applied by the FDIC in any receivership, it is unclear exactly what impact these provisions will have on any particular company, including AENB, the trust, TRS, the transferor or their affiliates. Furthermore, there is
+uncertainty about which companies will be subject to the orderly liquidation authority rather than the Bankruptcy Code. For a company to become subject to the orderly liquidation authority, the Secretary of the Treasury (in consultation with the
+President of the United States) must determine, among other things, that the company is in default or in danger of default, the failure of such company and its resolution under the Bankruptcy Code would have serious adverse effects on financial
+stability in the United States, no viable private sector alternative is available to prevent the default of the company and an orderly liquidation authority proceeding would mitigate these adverse effects. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Regardless of any decision made by the <reportingentity>FDIC</reportingentity> or ruling made by a court, moreover, the mere fact that AENB, TRS, the trust, the
+transferor or any of their affiliates has become insolvent or entered conservatorship, receivership, or bankruptcy could have an adverse effect on the value of the receivables and on the liquidity, marketability and overall market value of your
+certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If a condition required under the <reportingentity>FDIC</reportingentity>s Securitization Rule described above were not met (including
+as a result of future amendments to the Securitization Rule), AENB has taken and will take the necessary actions to ensure that the trustee has a perfected interest in the receivables. Regardless of this perfected interest, if a conservator, a
+receiver, or a bankruptcy trustee were appointed for AENB, TRS, the transferor or the trust, and if the administrative expenses of the conservator, the receiver, or the bankruptcy trustee were found to relate to the receivables or the transaction
+documents, those expenses could be paid from collections on the receivables before the trustee receives any payments, which could result in losses on your investment. <i>See  Some interests could have priority over the trustees
+interest in the receivables, which could cause delayed or reduced payments to you below.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Federal Deposit
+Insurance Act, as amended by FIRREA, and policy statements issued by the <reportingentity>FDIC</reportingentity> provide that the FDIC should respect a security interest granted by a bank where the security interest (a) is validly perfected before such banks insolvency and
+(b) was not taken in contemplation of such banks insolvency or with the intent to hinder, delay or defraud such bank or its creditors. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>FDIC</reportingentity> staff positions taken prior to the passage of FIRREA do not suggest that the FDIC would interrupt the timely transfer to
+the trust of payments collected on the receivables; however, these positions were taken prior to the adoption of, and the amendments to, the FDICs Securitization Rule, and the FDIC has not expressed its position since that time. Furthermore,
+the statutory injunction described above could apply to automatically prevent the trustee and the certificateholders from exercising their rights, remedies, and interests for up to 90 days. The FDIC also may be able to obtain a stay of any action to
+enforce the transaction documents or the certificates beyond the <font style="white-space:nowrap">90-day</font> statutory period. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the <reportingentity>FDIC</reportingentity> were to assert a different position, payments to you could be delayed or reduced. For example, in addition to the
+powers of the FDIC described above, under the FDIA, the FDIC could: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">require the trustee to go through an administrative claims procedure to establish its right to those payments;
+</p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">30 </p>
+
+</div></center></div></html>

@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p/><tr><td class="label">State</td><td><p/><div class="fakeBox">
+				NEW YORK
+			<span> </span></div><p/></td></tr><tr><td class="label">Country</td><td><p/><div class="fakeBox">
+				UNITED STATES
+			<span> </span></div><p/></td></tr><tr><td class="label">Zip code and zip code extension or foreign postal code</td><td><p/><div align="left"><div class="fakeBox2">10105<span> </span></div></div><p/></td></tr><br/><h4><em>2. The name and EDGAR identifier of each series or class of
+						securities for which this Form is filed.  If the Form is being
+						filed for all series and classes of securities of the issuer,
+						check the box but do not list series or classes:</em></h4></body></html>

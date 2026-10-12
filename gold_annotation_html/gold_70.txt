@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+certificateholders, the Class B certificateholders and the holder of the Collateral Interest based on the Class A Principal Percentage, the Class B Principal Percentage and the
+Collateral Principal Percentage, respectively. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_30"/>Principal Funding Account </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer will establish and maintain in the name of the trustee, on behalf of the trust, the Principal Funding Account as
+an Eligible Deposit Account held for the benefit of the Series <font style="white-space:nowrap">2025-1</font> certificateholders. During the Controlled Accumulation Period, the servicer will transfer collections in respect of principal receivables
+allocated to Series <font style="white-space:nowrap">2025-1,</font> Shared Principal Collections allocated to Series <font style="white-space:nowrap">2025-1</font> and other amounts described herein to be treated in the same manner as collections of
+principal receivables from the Collection Account to the Principal Funding Account as described below under  <i>Application of Collections</i>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Unless a <font style="white-space:nowrap">Pay-Out</font> Event has occurred and the Early Amortization Period has begun with
+respect to Series <font style="white-space:nowrap">2025-1,</font> all amounts on deposit in the Principal Funding Account on any Distribution Date (after giving effect to any deposits to, or withdrawals from, the Principal Funding Account to be made
+on such Distribution Date) will be invested through the following Distribution Date by the trustee at the direction of the servicer in Eligible Investments or, if no such direction is provided, will remain uninvested. On each Distribution Date with
+respect to the Controlled Accumulation Period, the interest and other investment income (net of investment expenses and losses) earned on such investments will be withdrawn from the Principal Funding Account and will be treated as a portion of
+Class A Available Funds. If such investments with respect to any such Distribution Date yield less than the Covered Amount, such shortfall will be funded from Class A Available Funds (including a withdrawal from the Reserve Account, if
+necessary, as described below under  <i>Reserve Account</i>) and from Class B Available Funds. The Available Reserve Account Amount at any time will be limited and there can be no assurance that sufficient funds will be
+available to fund any such shortfall. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_31"/>Reserve Account </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer will establish and maintain in the name of the trustee, on behalf of the trust, an Eligible Deposit Account for
+the benefit of the Class A certificateholders, the Class B certificateholders and the holder of the Collateral Interest. The Reserve Account is established to assist with the subsequent distribution of interest on the Class A
+certificates as provided in this prospectus during the Controlled Accumulation Period. On each Distribution Date from and after the funding of the Reserve Account begins, but prior to the termination of the Reserve Account, the trustee, acting
+pursuant to the servicers instructions, will apply Excess Spread and Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1</font> (in the order of priority described below under <i> 
+Application of Collections  Payment of Interest, Fees and Other Items</i>) to increase the amount on deposit in the Reserve Account (to the extent such amount is less than the Required Reserve Account Amount). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, after giving effect to any deposit to be made to, and any withdrawal to be made from, the Reserve
+Account on such Distribution Date, the trustee will withdraw from the Reserve Account an amount equal to the excess, if any, of the amount on deposit in the Reserve Account over the Required Reserve Account Amount and shall distribute such excess to
+the holder of the Collateral Interest. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the Reserve Account has not terminated as described below, all amounts
+remaining on deposit in the Reserve Account on any Distribution Date (after giving effect to any deposits to, or withdrawals from, the Reserve Account to be made on such Distribution Date) will be invested to mature on or before the following
+Distribution Date by the trustee at the direction of the servicer in Eligible Investments or, if no such direction is provided, will remain uninvested. The interest and other investment income (net of investment expenses and losses) earned on such
+investments will be retained in the Reserve Account (to the extent the amount on deposit therein is less than the Required Reserve Account Amount) or deposited in the Collection Account and treated as collections of finance charge receivables
+allocable to Series <font style="white-space:nowrap">2025-1.</font> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On or before each Distribution Date with respect to
+the Controlled Accumulation Period (on or prior to the Expected Final Payment date) and on the first Special Payment Date (if such Special Payment Date occurs on or prior to the Expected Final Payment Date), a withdrawal will be made from the
+Reserve Account, and the amount of such withdrawal will be deposited in the Collection Account and included in Class A Available Funds in an amount equal to the lesser of: </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">63 </p>
+
+</div></center></div></html>

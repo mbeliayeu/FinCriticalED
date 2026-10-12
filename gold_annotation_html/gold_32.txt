@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+financing providers, such as <font style="white-space:nowrap"><font style="white-space:nowrap">point-of-sale</font></font> lenders and buy now, pay later products. In addition, companies that
+control access to consumer and merchant payment method choices at the point of sale or through digital wallets, commerce-related experiences, mobile applications or other technologies could choose not to accept, suppress use of, or degrade the
+experience of using <reportingentity>American Express</reportingentity> payments products or could restrict American Express access to its customers and transaction data, which could also negatively affect spending on American Express cards. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The competitive nature of the payments and credit card industries may also result in reduced amounts of finance charge
+receivables collected and available to pay interest on the certificates. This competition also may affect <reportingentity>AENB</reportingentity>s ability to originate new accounts and generate new receivables. Such events could cause a
+<font style="white-space:nowrap">pay-out</font> event to occur and an early payment of your certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See
+Series Provisions  <font style="white-space:nowrap">Pay-Out</font> Events in this prospectus. </i></p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Negative
+impacts on how <reportingentity>American Express</reportingentity> is perceived in the marketplace could adversely impact the trust, TRS, AENB, the transferor or their affiliates. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express</reportingentity> ability to attract and retain Card Members is highly dependent upon the external perceptions of
+American Express level of service, trustworthiness, business practices, privacy and data protection, management, workplace culture, merchant acceptance, financial condition, response to political and social issues or catastrophic events and
+other subjective qualities. Negative perceptions or publicity regarding these matters  even if related to seemingly isolated incidents and whether or not factually correct  could erode trust and confidence and damage American
+Express reputation among existing and potential Card Members, merchants and partners, which could make it difficult for American Express to attract new customers and maintain existing ones, and consequently, adversely affect AENB or its
+affiliates ability to originate new accounts and generate new receivables. Negative public opinion could result from actual or alleged conduct in any number of activities or circumstances, including card practices, regulatory compliance, the
+use and protection of customer information, conduct by American Express employees and policy engagement and from actions taken by regulators or others in response thereto. Moreover, the speed with which information spreads through social media,
+enhanced technology and other news sources and the ease with which customers transact may amplify the onset and negative effects from such perceptions. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express brand and reputation</reportingentity> may also be harmed by actions taken by third parties that are outside its control.
+For example, any shortcoming of or controversy related to a third-party service provider, business partner, merchant acquirer or network partner may be attributed by Card Members and merchants to American Express, thus damaging American
+Express reputation and brand value. The American Express brand may also be negatively impacted by acceptance of American Express cards by merchants in certain industries, when American Express cards are used for payment for legal, but
+controversial, products and services or any government inquiries or legislative scrutiny related to card acceptance or usage. The lack of acceptance, suppression of card usage or surcharging by merchants can also negatively impact perceptions of the
+American Express brand and American Express products, lower overall transaction volume and increase the attractiveness of other payment products or systems. Adverse developments with respect to the credit card and payments industry, including the
+creation and implementation of new merchant categories codes, may also negatively impact American Express reputation, or result in greater regulatory or legislative scrutiny or litigation against American Express. Furthermore, political and
+ideological actors have increasingly targeted companies for certain of their business practices and policies, which has caused substantial harm to them with certain customers. Additionally, as a corporation with headquarters and operations located
+in the United States and a brand name referring to the United States, a negative perception of the United States arising from its political or other positions could harm the perception of American Express and its brand. These risks to American
+Express brand and reputation are heightened by the increasing sophistication and availability of artificial intelligence technology, including by assisting with the creation of deepfakes and increasing the velocity of distribution of
+disinformation. The negative perception of American Express and its brand or negative publicity could materially and adversely affect the trust, TRS, AENB, the transferor or their affiliates and their ability to originate new accounts and to
+generate and service receivables, the level of receivables in the trust, collections of such receivables and the amount of certificates issued in the future, which could result in a <font style="white-space:nowrap">pay-out</font> event and
+acceleration of payment or reduced payment on your certificates. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">25 </p>
+
+</div></center></div></html>

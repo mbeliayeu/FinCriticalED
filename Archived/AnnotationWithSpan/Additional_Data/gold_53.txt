@@ -1,0 +1,168 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="68%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="31%"/></tr>
+<tr style="font-size:1pt">
+<td height="32" colspan="3"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="bottom" colspan="3" align="center"><b>Series <font style="white-space:nowrap">2023-4</font></b></td></tr>
+
+
+<tr style="font-size:1pt">
+<td height="16"/>
+<td height="16" colspan="2"/></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Initial Invested Amount</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>971,433,000</number></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Class A Initial Invested Amount</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>850,000,000</number></td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Class A Certificate Rate</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><number>5.15%</number> per year</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Class B Initial Invested Amount</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>36,430,000</number></td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Class B Certificate Rate</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><number>5.46%</number> per year</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Controlled Accumulation Amount (subject to adjustment)</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>73,869,166.67</number></td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Approximate Commencement of Controlled Accumulation Period (subject to adjustment)</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><temporal>September 1, 2027</temporal></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Annual Servicing Fee Percentage</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">2.0% per year</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Collateral Initial Invested Amount</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>85,003,000</number></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Enhancement for the Class A and Class B Certificates</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Collateral Invested Amount</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Other enhancement for the Class A Certificates</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Subordination of the Class B Certificates</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Expected Final Payment Date</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><temporal>September 2028</temporal> Distribution Date</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Series Issuance Date</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><temporal>September 19, 2023</temporal></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Principal Sharing Series</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Yes</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Excess Allocation Series</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Yes</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Group</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Group I</td></tr>
+</table> <p style="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>Series <font style="white-space:nowrap">2024-1</font> </b></p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="68%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="31%"/></tr>
+
+
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Initial Invested Amount</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>1,142,859,000</number></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Class A Initial Invested Amount</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>1,000,000,000</number></td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Class A Certificate Rate</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><number>5.23%</number> per year</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Class B Initial Invested Amount</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>42,858,000</number></td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Class B Certificate Rate</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><number>5.50%</number> per year</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Controlled Accumulation Amount (subject to adjustment)</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>86,904,833.34</number></td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Approximate Commencement of Controlled Accumulation Period (subject to adjustment)</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><temporal>April 1, 2026</temporal></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Annual Servicing Fee Percentage</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">2.0% per year</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Collateral Initial Invested Amount</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">$<number>100,001,000</number></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Enhancement for the Class A and Class B Certificates</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Collateral Invested Amount</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Other enhancement for the Class A Certificates</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Subordination of the Class B Certificates</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Expected Final Payment Date</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><temporal>April 2027</temporal> Distribution Date</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Series Issuance Date</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right"><temporal>April 23, 2024</temporal></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Principal Sharing Series</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Yes</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Excess Allocation Series</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Yes</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Group</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">Group I</td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">A-II-5 </p>
+
+</div></center></div></html>

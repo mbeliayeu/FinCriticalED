@@ -1,0 +1,55 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi) if the assuming entity is not subject to Title 11 of
+the United States Code, the transferor shall have delivered notice to each Rating Agency of the assumption of the transferors obligations by the surviving entity. If the assuming entity is subject to Title 11 of the United States Code, the
+transferor shall have delivered the notice described above and the transferor shall have received notice that the Rating Agency Condition has been satisfied. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement provides that the transferor, the surviving entity and the trustee may enter into
+amendments to that agreement to permit the transfer and assumption described above without the consent of any certificateholders. After any permitted transfer and assumption, the assuming entity will be considered to be a transferor for
+all purposes hereof, and the transferor will have no further liability or obligation under the pooling and servicing agreement. Assumption of obligations by entities subject to Title 11 of the United States Code in accordance with the provisions
+described above may alter or increase certain insolvency risks described under <i>Risk Factors  Insolvency and Security Interest Risks  The conservatorship, receivership, bankruptcy, or insolvency of <reportingentity>AENB</reportingentity>, TRS, the transferor, the
+trust, or any of their affiliates could result in accelerated, delayed, or reduced payments to you </i>in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="tx764677_81"/>Description of the Purchase Agreement </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The following summarizes the material terms of the receivables purchase
+agreement between <reportingentity>AENB</reportingentity> and RFC III. We refer to the receivables purchase agreement as the purchase agreement and we refer to RFC III as the purchaser. The purchase agreement is filed as an exhibit to this registration
+statement, of which this prospectus is a part. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_82"/>Sale of Receivables </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> is the owner of the accounts which contain the receivables that are purchased by RFC III pursuant to the purchase
+agreement and then transferred by RFC III to the trust. In connection with the sale of receivables to RFC III, AENB has: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">filed appropriate UCC financing statements to evidence the sale to the purchaser and to perfect the right,
+title and interest of the purchaser in those receivables; and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">indicated in its books and records (including any related computer files) that the receivables have been sold
+by it to the purchaser. </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the purchase agreement, <reportingentity>AENB</reportingentity>: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">sold all of its right, title and interest, if any, in the receivables existing in the initial accounts at the
+close of business on the substitution date and in the receivables thereafter arising in those accounts, in each case including all Issuer Rate Fees, insurance proceeds and Recoveries allocable to such receivables, all monies due or to become due,
+all amounts received or receivable, all collections and all proceeds, each as it relates to such receivables; and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">will, from time to time, at the request of the purchaser, designate Additional Accounts and sell to the
+purchaser all of its right, title and interest in the receivables existing in the additional accounts on the applicable addition <font style="white-space:nowrap">cut-off</font> date and in the receivables arising thereafter in those accounts, in
+each case including all Issuer Rate Fees, insurance proceeds, Recoveries, all monies due or to become due, all amounts received or receivable, all collections and all proceeds, each as it relates to such receivables. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the purchase agreement, the allocated Issuer Rate Fees for each calendar month is to be paid by <reportingentity>AENB</reportingentity> to the purchaser in
+the second following calendar month. For each calendar month, the allocated Issuer Rate Fees will b<reportingentity>e an</reportingentity> amount equal to the sum of (i) the product of (A) the rate at which Issuer Rate Fees accrued to AENB during the second preceding
+Monthly Period on revolving credit accounts owned by AENB, <i>multiplied by </i>(B) a fraction, (I) the numerator of which is the aggregate amount of charges in all revolving credit accounts owned by AENB, excluding balance transfer
+transactions, purchases made by convenience checks, cash advances, certain ineligible </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">105 </p>
+
+</div></center></div></html>

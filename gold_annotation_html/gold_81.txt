@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_41"/>Reports </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">No later than the second Business Day prior to each Distribution Date, the servicer will forward to the trustee, the paying
+agent, the transferor, each Rating Agency and the holder of the Collateral Interest, a monthly report prepared by the servicer setting forth certain information with respect to the trust, the Class A certificates, the Class B certificates
+and the Collateral Interest, including: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the aggregate amount of principal receivables
+and finance charge receivables in the trust as of the end of such Monthly Period; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the
+Class A Invested Amount, the Class B Invested Amount and the Collateral Invested Amount at the close of business on the last day of the preceding Monthly Period; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   the Series Allocation Percentage, the Floating Allocation Percentage, the Class A
+Floating Percentage, the Class B Floating Percentage and the Collateral Floating Percentage and the Principal Allocation Percentage, the Class A Principal Percentage, the Class B Principal Percentage and the Collateral Principal
+Percentage; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(d)   the amount of collections of principal receivables and finance charge
+receivables processed during the related Monthly Period and the portion thereof allocated to the interest of the holders of the Series <font style="white-space:nowrap">2025-1</font> certificates and the holder of the Collateral Interest; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(e)   the aggregate outstanding balance of accounts that were <temporal>31, 61, 91 and 121 days</temporal> or more
+delinquent as of the end of such Monthly Period; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(f)   the Class A Investor Default
+Amount, the Class B Investor Default Amount and the Collateral Default Amount and the Defaulted Amount with respect to the related Distribution Date; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(g)   the aggregate amount, if any, of Class A Investor Charge-Offs, Class B Investor
+Charge-Offs, any reductions in the Class B Invested Amount pursuant to clauses (iii), (iv) and (v) of the definition of Class B Invested Amount, and the amounts by which the Collateral Invested Amount has been reduced pursuant to
+clauses (iii), (iv) and (v) of the definition of Collateral Invested Amount and any Class A Investor Charge-Offs, Class B Investor Charge-Offs or Collateral Charge-Offs reimbursed on the related Monthly Period, for such Monthly
+Period; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(h)   the Monthly Servicing Fee, Class A Servicing Fee, Class B Servicing
+Fee and Collateral Interest Servicing Fee for such Monthly Period; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the Series Adjusted
+Portfolio Yield for such Monthly Period; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(j)   the Base Rate for such Monthly Period; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(k)   Reallocated Principal Collections; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(1)   Shared Principal Collections. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_42"/>Description of the Certificates </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_43"/>General </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The certificates will evidence undivided beneficial interests in the trust assets allocated to such certificates, representing
+the right to receive from such trust assets funds up to (but not in excess of) the amounts required to make payments of interest and principal in the manner described below. The certificates will be issued in minimum denominations of <monetaryunit>$</monetaryunit>100,000 and
+integral multiples of $1,000 in book-entry form. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">74 </p>
+
+</div></center></div></html>

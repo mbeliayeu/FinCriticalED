@@ -1,0 +1,355 @@
+<div>SEC Form 4 
+   <table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tbody><tr>
+<td width="20%" colspan="2" valign="top" align="center" class="FormName">FORM 4</td>
+<td rowspan="2" width="60%" valign="middle" align="center">
+<span class="FormTitle">UNITED STATES SECURITIES AND EXCHANGE COMMISSION</span><br/><span class="MedSmallFormText">Washington, D.C. 20549</span><br/><br/><span class="FormTitle">STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP</span><br/><br/><span class="MedSmallFormText">Filed pursuant to Section 16(a) of the Securities Exchange Act of <temporal>1934</temporal></span><br/><span class="MedSmallFormText">or Section 30(h) of the Investment Company Act of <temporal>1940</temporal></span>
+</td>
+<td rowspan="2" width="20%" valign="top" align="center"><table width="100%" border="1" summary="OMB Approval Status Box">
+<tbody><tr><td class="FormTextC">OMB APPROVAL</td></tr>
+<tr><td><table width="100%" border="0" summary="OMB Interior Box">
+<tbody><tr>
+<td class="SmallFormText" colspan="3">OMB Number:</td>
+<td class="SmallFormTextR">3235-0287</td>
+</tr>
+<tr><td class="SmallFormText" colspan="4">Estimated average burden</td></tr>
+<tr>
+<td class="SmallFormText" colspan="3">hours per response:</td>
+<td class="SmallFormTextR"><temporal>0.5</temporal></td>
+</tr>
+</tbody></table></td></tr>
+</tbody></table></td>
+</tr>
+<tr valign="middle">
+<td><table width="100%" border="1" cellpadding="0" cellspacing="0"><tbody><tr><td>  </td></tr></tbody></table></td>
+<td class="SmallFormText">Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue. 
+         <i>See</i>
+
+         Instruction 1(b).</td>
+</tr>
+<tr valign="middle">
+<td><table width="100%" border="1" cellpadding="0" cellspacing="0"><tbody><tr><td>  </td></tr></tbody></table></td>
+<td class="SmallFormText">Check this box to indicate that a transaction was made pursuant to a contract, instruction or written plan for the purchase or sale of equity securities of the issuer that is intended to satisfy the affirmative defense conditions of Rule 10b5-1(c). See Instruction 10. </td>
+</tr>
+</tbody></table>
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+<tbody><tr>
+<td rowspan="4" width="35%" valign="top">
+<span class="MedSmallFormText">1. Name and Address of Reporting Person<sup>*</sup></span><table border="0" width="100%"><tbody><tr><td><a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000315090">BUFFETT WARREN E</a></td></tr></tbody></table>
+<hr width="98%"/>
+<table border="0" width="100%"><tbody><tr>
+<td width="33%" class="MedSmallFormText">(Last)</td>
+<td width="33%" class="MedSmallFormText">(First)</td>
+<td width="33%" class="MedSmallFormText">(Middle)</td>
+</tr></tbody></table>
+<table border="0" width="100%">
+<tbody><tr><td><span class="FormData">3555 FARNAM STREET</span></td></tr>
+<tr><td><span class="FormData"/></td></tr>
+</tbody></table>
+<hr width="98%"/>
+<span class="MedSmallFormText">(Street)</span><table border="0" width="100%"><tbody><tr>
+<td width="33%"><span class="FormData">OMAHA</span></td>
+<td width="33%"><span class="FormData">NE</span></td>
+<td width="33%"><span class="FormData">68131</span></td>
+</tr></tbody></table>
+<hr width="98%"/>
+<table border="0" width="100%"><tbody><tr>
+<td width="33%" class="MedSmallFormText">(City)</td>
+<td width="33%" class="MedSmallFormText">(State)</td>
+<td width="33%" class="MedSmallFormText">(Zip)</td>
+</tr></tbody></table>
+</td>
+<td width="35%" valign="top">
+<span class="MedSmallFormText">2. Issuer Name <b>and</b> Ticker or Trading Symbol
+      </span><br/><a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983">BERKSHIRE HATHAWAY INC</a>
+     [ <span class="FormData">BRK.A</span> ]
+   </td>
+<td rowspan="2" valign="top">
+<span class="MedSmallFormText">5. Relationship of Reporting Person(s) to Issuer
+      </span><br/><span class="MedSmallFormText">(Check all applicable)</span><table border="0" width="100%">
+<tbody><tr>
+<td width="15%" align="center"><span class="FormData">X</span></td>
+<td width="35%" class="MedSmallFormText">Director</td>
+<td width="15%" align="center"><span class="FormData">X</span></td>
+<td width="35%" class="MedSmallFormText"><number>10%</number> Owner</td>
+</tr>
+<tr>
+<td align="center"><span class="FormData">X</span></td>
+<td class="MedSmallFormText">Officer (give title below)</td>
+<td align="center"/>
+<td class="MedSmallFormText">Other (specify below)</td>
+</tr>
+<tr>
+<td width="15%" align="center"/>
+<td width="35%" align="left" style="color: blue">Chairman and CEO</td>
+<td width="15%" align="center"/>
+<td width="35%" align="left" style="color: blue"/>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr><td valign="top">
+<span class="MedSmallFormText">3. Date of Earliest Transaction
+         (Month/Day/Year)</span><br/><span class="FormData">11/10/2025</span>
+</td></tr>
+<tr>
+<td valign="top">
+<span class="MedSmallFormText">4. If Amendment, Date of Original Filed
+         (Month/Day/Year)</span><br/>
+</td>
+<td valign="top">
+<span class="MedSmallFormText">6. Individual or Joint/Group Filing (Check Applicable Line)
+      </span><table border="0" width="100%">
+<tbody><tr>
+<td width="15%" align="center"><span class="FormData">X</span></td>
+<td width="85%" class="MedSmallFormText">Form filed by One Reporting Person</td>
+</tr>
+<tr>
+<td width="15%" align="center"/>
+<td width="85%" class="MedSmallFormText">Form filed by More than One Reporting Person</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+<thead>
+<tr><th width="100%" valign="top" colspan="11" align="center" class="FormTextC"><b>Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned</b></th></tr>
+<tr>
+<th width="36%" valign="top" rowspan="2" align="left" class="MedSmallFormText">1. Title of Security (Instr. 
+      3)
+   </th>
+<th width="6%" valign="top" rowspan="2" align="left" class="SmallFormText">2. Transaction Date
+      (Month/Day/Year)</th>
+<th width="5%" valign="top" rowspan="2" align="left" class="SmallFormText">2A. Deemed Execution Date, if any
+      (Month/Day/Year)</th>
+<th width="7%" valign="top" colspan="2" align="left" class="SmallFormText">3. Transaction Code (Instr. 
+      8)
+   </th>
+<th width="19%" valign="top" colspan="3" align="left" class="SmallFormText">4. Securities Acquired (A) or Disposed Of (D) (Instr. 
+      3, 4 and 5)
+   </th>
+<th width="11%" valign="top" rowspan="2" align="left" class="SmallFormText">5. 
+      Amount of Securities Beneficially Owned Following Reported Transaction(s) (Instr. 
+      3 and 4)
+   </th>
+<th width="9%" valign="top" rowspan="2" align="left" class="SmallFormText">6. Ownership Form: Direct (D) or Indirect (I) (Instr. 
+      4)
+   </th>
+<th width="8%" valign="top" rowspan="2" align="left" class="SmallFormText">7. Nature of Indirect Beneficial Ownership (Instr. 
+      4)
+   </th>
+</tr>
+<tr>
+<th width="4%" align="center" class="SmallFormText">Code</th>
+<th width="3%" align="center" class="SmallFormText">V</th>
+<th width="8%" align="center" class="SmallFormText">Amount</th>
+<th width="5%" align="center" class="SmallFormText">(A) or (D)</th>
+<th width="6%" align="center" class="SmallFormText">Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><span class="FormData">Class B Common Stock</span></td>
+<td align="center"><span class="FormData"><temporal>11/10/2025</temporal></span></td>
+<td align="center"/>
+<td align="center"><span class="SmallFormData">C</span></td>
+<td align="center"/>
+<td align="center"><span class="FormData"><number>2,700,000</number></span></td>
+<td align="center"><span class="FormData">A</span></td>
+<td align="center">
+<span class="FormText"><monetaryunit>$</monetaryunit></span><span class="FormData"><number>0.00</number></span>
+</td>
+<td align="center"><span class="FormData"><number>2,701,114</number></span></td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"><span class="FormData">Class B Common Stock</span></td>
+<td align="center"><span class="FormData"><temporal>11/10/2025</temporal></span></td>
+<td align="center"/>
+<td align="center"><span class="SmallFormData">G</span></td>
+<td align="center"/>
+<td align="center">
+<span class="FormData"><number>1,500,000</number></span><span class="FootnoteData"><sup>(1)</sup></span>
+</td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="center">
+<span class="FormText"><monetaryunit>$</monetaryunit></span><span class="FormData"><number>0.00</number></span>
+</td>
+<td align="center"><span class="FormData"><number>1,201,114</number></span></td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"><span class="FormData">Class B Common Stock</span></td>
+<td align="center"><span class="FormData"><temporal>11/10/2025</temporal></span></td>
+<td align="center"/>
+<td align="center"><span class="SmallFormData">G</span></td>
+<td align="center"/>
+<td align="center">
+<span class="FormData"><number>400,000</number></span><span class="FootnoteData"><sup>(1)</sup></span>
+</td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="center">
+<span class="FormText"><monetaryunit>$</monetaryunit></span><span class="FormData"><number>0.00</number></span>
+</td>
+<td align="center"><span class="FormData"><number>801,114</number></span></td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"><span class="FormData">Class B Common Stock</span></td>
+<td align="center"><span class="FormData"><temporal>11/10/2025</temporal></span></td>
+<td align="center"/>
+<td align="center"><span class="SmallFormData">G</span></td>
+<td align="center"/>
+<td align="center">
+<span class="FormData"><number>400,000</number></span><span class="FootnoteData"><sup>(1)</sup></span>
+</td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="center">
+<span class="FormText"><monetaryunit>$</monetaryunit></span><span class="FormData"><number>0.00</number></span>
+</td>
+<td align="center"><span class="FormData"><number>401,114</number></span></td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="left"/>
+</tr>
+<tr>
+<td align="left"><span class="FormData">Class B Common Stock</span></td>
+<td align="center"><span class="FormData"><temporal>11/10/2025</temporal></span></td>
+<td align="center"/>
+<td align="center"><span class="SmallFormData">G</span></td>
+<td align="center"/>
+<td align="center">
+<span class="FormData"><number>400,000</number></span><span class="FootnoteData"><sup>(1)</sup></span>
+</td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="center">
+<span class="FormText"><monetaryunit>$</monetaryunit></span><span class="FormData"><number>0.00</number></span>
+</td>
+<td align="center"><span class="FormData"><number>1,114</number></span></td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="left"/>
+</tr>
+</tbody>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="4">
+<thead>
+<tr><th width="100%" valign="top" colspan="16" align="center" class="FormTextC">
+<b>Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned</b><br/><b>(e.g., puts, calls, warrants, options, convertible securities)</b>
+</th></tr>
+<tr>
+<th width="13%" valign="top" rowspan="2" align="left" class="SmallFormText">1. Title of Derivative Security (Instr. 
+      3)
+   </th>
+<th width="5%" valign="top" rowspan="2" align="left" class="SmallFormText">2. Conversion or Exercise Price of Derivative Security
+   </th>
+<th width="5%" valign="top" rowspan="2" align="left" class="SmallFormText">3. Transaction Date
+      (Month/Day/Year)</th>
+<th width="5%" valign="top" rowspan="2" align="left" class="SmallFormText">3A. Deemed Execution Date, if any
+      (Month/Day/Year)</th>
+<th width="9%" valign="top" colspan="2" align="left" class="SmallFormText">4. Transaction Code (Instr. 
+      8)
+   </th>
+<th width="10%" valign="top" colspan="2" align="left" class="SmallFormText">5. 
+      Number of Derivative Securities Acquired (A) or Disposed of (D) (Instr. 
+      3, 4 and 5)
+   </th>
+<th width="9%" valign="top" colspan="2" align="left" class="SmallFormText">6. Date Exercisable and Expiration Date 
+      (Month/Day/Year)</th>
+<th width="17%" valign="top" colspan="2" align="left" class="SmallFormText">7. Title and Amount of Securities Underlying Derivative Security (Instr. 
+      3 and 4)
+   </th>
+<th width="6%" valign="top" rowspan="2" align="left" class="SmallFormText">8. Price of Derivative Security (Instr. 
+      5)
+   </th>
+<th width="6%" valign="top" rowspan="2" align="left" class="SmallFormText">9. 
+      Number of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr. 
+      4)
+   </th>
+<th width="6%" valign="top" rowspan="2" align="left" class="SmallFormText">10. Ownership Form: Direct (D) or Indirect (I) (Instr. 
+      4)
+   </th>
+<th width="7%" valign="top" rowspan="2" align="left" class="SmallFormText">11. Nature of Indirect Beneficial Ownership (Instr. 
+      4)
+   </th>
+</tr>
+<tr>
+<th width="4%" valign="bottom" align="center" class="SmallFormText">Code</th>
+<th width="4%" valign="bottom" align="center" class="SmallFormText">V</th>
+<th width="5%" valign="bottom" align="center" class="SmallFormText">(A)</th>
+<th width="5%" valign="bottom" align="center" class="SmallFormText">(D)</th>
+<th width="5%" valign="bottom" align="center" class="SmallFormText">Date Exercisable</th>
+<th width="4%" valign="bottom" align="center" class="SmallFormText">Expiration Date</th>
+<th width="10%" valign="bottom" align="center" class="SmallFormText">Title</th>
+<th width="7%" valign="bottom" align="center" class="SmallFormText">Amount or Number of Shares</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><span class="SmallFormData">Class A Common Stock</span></td>
+<td align="center"><span class="FootnoteData"><sup>(2)</sup></span></td>
+<td align="center"><span class="SmallFormData">11/10/2025</span></td>
+<td align="center"/>
+<td align="center"><span class="SmallFormData">C</span></td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"><span class="SmallFormData"><number>1,800</number></span></td>
+<td align="center">
+<span class="SmallFormData">
+                
+            </span><span class="FootnoteData"><sup>(3)</sup></span>
+</td>
+<td align="center">
+<span class="SmallFormData">
+                
+            </span><span class="FootnoteData"><sup>(3)</sup></span>
+</td>
+<td align="center">
+<span class="SmallFormData">See footnote</span><span class="FootnoteData"><sup>(2)</sup></span>
+</td>
+<td align="center"><span class="FootnoteData"><sup>(2)</sup></span></td>
+<td align="center"><span class="FootnoteData"><sup>(3)</sup></span></td>
+<td align="center"><span class="SmallFormData"><number>196,317</number></span></td>
+<td align="center"><span class="SmallFormData">D</span></td>
+<td align="left"/>
+</tr></tbody>
+</table>
+<table border="0" width="100%">
+<tbody><tr><td class="MedSmallFormText"><b>Explanation of Responses:</b></td></tr>
+<tr><td class="FootnoteData">1. Each of these reported transactions was a gift from Warren E. Buffett to a charitable organization.</td></tr>
+<tr><td class="FootnoteData">2. Each share of Class A Common Stock is convertible at any time at the option of the holder into 1,500 shares of Class B Common Stock. In accordance with the instructions to Form 4, my holdings of shares of Class A Common Stock are reported in Table II.</td></tr>
+<tr><td class="FootnoteData">3. Not applicable.</td></tr>
+</tbody></table>
+<table width="100%" border="0">
+<tbody><tr>
+<td width="60%"/>
+<td width="20%"><u><span class="FormData">/s/ Warren E. Buffett</span></u></td>
+<td width="20%"><u><span class="FormData"><temporal>11/12/2025</temporal></span></u></td>
+</tr>
+<tr>
+<td/>
+<td class="MedSmallFormText">** Signature of Reporting Person</td>
+<td class="MedSmallFormText">Date</td>
+</tr>
+<tr><td colspan="3" class="MedSmallFormText">Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.</td></tr>
+<tr><td colspan="3" class="MedSmallFormText">* If the form is filed by more than one reporting person, 
+                  <i>see</i>
+
+                  Instruction 
+                  4
+
+                  (b)(v).</td></tr>
+<tr><td colspan="3" class="MedSmallFormText">** Intentional misstatements or omissions of facts constitute Federal Criminal Violations 
+                  <i>See</i>
+
+                  18 U.S.C. 1001 and 15 U.S.C. 78ff(a).</td></tr>
+<tr><td colspan="3" class="MedSmallFormText">Note: File three copies of this Form, one of which must be manually signed. If space is insufficient, 
+                  <i>see</i>
+
+                  Instruction 6 for procedure.</td></tr>
+<tr><td colspan="3" class="MedSmallFormText"><b>Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.</b></td></tr>
+</tbody></table>
+
+
+<style>html, :root, .aiinhbfoop.light, :host([class=light]) {--aiinhbfoop-main-color: 0, 102, 255;}.aiinhbfoop.dark, :host([class=dark]) {--aiinhbfoop-main-color: 0, 102, 255;}</style><style>html, :root, .aifnmjmchg.light, :host([class=light]) {--aifnmjmchg-main-color: 0, 0, 0;}.aifnmjmchg.light  .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover,.aifnmjmchg.light  .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover *,.aifnmjmchg.light .opener-logo:hover svg circle,.aifnmjmchg.light  .opener-logo:hover,.aifnmjmchg.light .opener-logo:hover svg circle,.aifnmjmchg.light  .opener-logo:hover *,.aifnmjmchg.light .tab-menu .active,.aifnmjmchg.light .tab-menu .active *,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\],.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\] *,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\],.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\] *,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover *,.aifnmjmchg.light .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover *,.aifnmjmchg.light .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover * *,.aifnmjmchg.light #aifnmjmchg-sidebar-opener:hover .ai-aifnmjmchgopener-close,.aifnmjmchg.light #aifnmjmchg-sidebar-opener:hover .ai-aifnmjmchgopener-close *,.aifnmjmchg.light .dark\:hover\:aifnmjmchg-text-white:hover,.aifnmjmchg.light .dark\:hover\:aifnmjmchg-text-white:hover * {color: #fff !important;}.aifnmjmchg.light  .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover svg path,.aifnmjmchg.light  .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover svg circle,.aifnmjmchg.light .opener-logo:hover svg circle,.aifnmjmchg.light  .opener-logo:hover svg path,.aifnmjmchg.light .opener-logo:hover svg circle,.aifnmjmchg.light  .opener-logo:hover svg circle,.aifnmjmchg.light .tab-menu .active svg path,.aifnmjmchg.light .tab-menu .active svg circle,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\] svg path,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\] svg circle,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\] svg path,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\] svg circle,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover svg path,.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover svg circle,.aifnmjmchg.light .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover * svg path,.aifnmjmchg.light .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover * svg circle,.aifnmjmchg.light #aifnmjmchg-sidebar-opener:hover .ai-aifnmjmchgopener-close svg path,.aifnmjmchg.light #aifnmjmchg-sidebar-opener:hover .ai-aifnmjmchgopener-close svg circle,.aifnmjmchg.light .dark\:hover\:aifnmjmchg-text-white:hover svg path,.aifnmjmchg.light .dark\:hover\:aifnmjmchg-text-white:hover svg circle {fill: #fff !important;}.aifnmjmchg.light .light\:aifnmjmchg-text-neutral-300.hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover,.aifnmjmchg.dark .aifnmjmchg-bg-neutral-900 .aifnmjmchg-text-white {color: #fff !important;}.aifnmjmchg.light .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\] .aifnmjmchg-bg-neutral-200 {background: #000 !important;}.aifnmjmchg.light .aifnmjmchg-peer:checked~.peer-checked\:after\:aifnmjmchg-border-white:after{background-color:#fff!important;}.aifnmjmchg.dark, :host([class=dark]) {--aifnmjmchg-main-color: 255, 255, 255;}.aifnmjmchg.dark  .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover,.aifnmjmchg.dark  .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover *,.aifnmjmchg.dark .opener-logo:hover svg circle,.aifnmjmchg.dark  .opener-logo:hover,.aifnmjmchg.dark .opener-logo:hover svg circle,.aifnmjmchg.dark  .opener-logo:hover *,.aifnmjmchg.dark .tab-menu .active,.aifnmjmchg.dark .tab-menu .active *,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\],.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\] *,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\],.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\] *,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover *,.aifnmjmchg.dark .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover *,.aifnmjmchg.dark .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover * *,.aifnmjmchg.dark #aifnmjmchg-sidebar-opener:hover .ai-aifnmjmchgopener-close,.aifnmjmchg.dark #aifnmjmchg-sidebar-opener:hover .ai-aifnmjmchgopener-close *,.aifnmjmchg.dark .dark\:hover\:aifnmjmchg-text-white:hover,.aifnmjmchg.dark .dark\:hover\:aifnmjmchg-text-white:hover * {color: #000 !important;}.aifnmjmchg.dark  .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover svg path,.aifnmjmchg.dark  .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover svg circle,.aifnmjmchg.dark .opener-logo:hover svg circle,.aifnmjmchg.dark  .opener-logo:hover svg path,.aifnmjmchg.dark .opener-logo:hover svg circle,.aifnmjmchg.dark  .opener-logo:hover svg circle,.aifnmjmchg.dark .tab-menu .active svg path,.aifnmjmchg.dark .tab-menu .active svg circle,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\] svg path,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\] svg circle,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\] svg path,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\] svg circle,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover svg path,.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\]:hover svg circle,.aifnmjmchg.dark .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover * svg path,.aifnmjmchg.dark .hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover * svg circle,.aifnmjmchg.dark #aifnmjmchg-sidebar-opener:hover .ai-aifnmjmchgopener-close svg path,.aifnmjmchg.dark #aifnmjmchg-sidebar-opener:hover .ai-aifnmjmchgopener-close svg circle,.aifnmjmchg.dark .dark\:hover\:aifnmjmchg-text-white:hover svg path,.aifnmjmchg.dark .dark\:hover\:aifnmjmchg-text-white:hover svg circle {fill: #000 !important;}.aifnmjmchg.dark .dark\:aifnmjmchg-text-neutral-300.hover\:aifnmjmchg-bg-\[var\(--aifnmjmchg-tab-menu-active-bg-color\)\]:hover {color: #000 !important;}.aifnmjmchg.dark .aifnmjmchg-from-\[\#28282b\] * {color: #fff !important;}.aifnmjmchg.dark .aifnmjmchg-bg-\[var\(--aifnmjmchg-link-color\)\] .dark\:aifnmjmchg-bg-neutral-950 {background: #fff !important;}.aifnmjmchg.light .aifnmjmchg-peer:checked~.peer-checked\:after\:aifnmjmchg-border-white:after{background-color:#fff!important;}.aifnmjmchg.dark .aifnmjmchg-peer:checked~.peer-checked\:after\:aifnmjmchg-border-white:after{background-color:#000!important;}</style></div></html>

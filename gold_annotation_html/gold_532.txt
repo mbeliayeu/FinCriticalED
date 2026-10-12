@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Change of Control</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">If a Change of Control Triggering
+Event occurs, unless <reportingentity>BFI</reportingentity> has exercised its right to redeem all of the notes as described above, BFI will be required to make an offer
+to repurchase all<number> of </number>each holder’s notes (or the portion thereof not subject to redemption, if BFI has exercised its right to redeem
+the notes in part) pursuant to the offer described below (the “<b>Change of Control Offer</b>”) on the terms set forth
+in the notes. In the Change of Control Offer, <reportingentity>BFI</reportingentity> will be required to offer payment in cash equal to 101% of the aggregate principal
+amount of notes repurchased plus accrued and unpaid interest, if any, on the notes repurchased (the “<b>Change of Control
+Payment</b>”), to the date of purchase.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; &lt;/body&gt;&lt;/html&gt;"/></body></html>

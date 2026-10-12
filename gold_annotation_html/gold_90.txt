@@ -1,0 +1,43 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the Rating Agency Condition is satisfied,
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the transferor shall have delivered to the trustee an officers certificate to the
+effect that the transferor reasonably believes that such transfer or assignment will not, based on the facts known to such officer at the time of such certification, have an Adverse Effect, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   the transferor shall have delivered to the trustee a Tax Opinion with respect to such
+transfer or assignment, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(d)   the aggregate amount of principal receivables in the trust as
+of the date of such transfer or assignment will be greater than the Required Minimum Principal Balance as of such date, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(e)   the transferor or other holders of the original transferor certificate as of the date of
+such transfer or assignment shall have a remaining interest in the trust of not less than, in the aggregate, <number>2%</number> of the total amount of principal receivables and funds on deposit in the Special Funding Account, the principal funding account and any
+other similar account. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The primary purpose for such a transfer would be to convey an interest in the original transferor
+certificate to another person. Any transfer or assignment of a Supplemental Certificate is subject to the condition set forth in (c) above. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If an affiliate of the transferor owns Eligible Accounts, the receivables of which are eligible for transfer to the trust, the
+transferor may wish to designate such affiliate to be included as a transferor under the pooling and servicing agreement (by means of an amendment to the pooling and servicing agreement that will not require the consent of any
+certificateholder; <i>see  Amendments below</i>). In connection with the designation of an additional transferor, the transferor will surrender the Transferor Certificate to the trustee in exchange for a newly issued Transferor
+Certificate modified to reflect such additional transferors interest in the transferors interest; <i>provided, however</i>, that: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the conditions set forth in clauses (a), (c) and (e) in the preceding paragraph with
+respect to a transfer of a Supplemental Certificate shall have been satisfied with respect to such designation and transfer, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   any applicable conditions described in <i> Additions of Accounts
+</i>below shall have been satisfied with respect to the transfer of receivables by any additional transferor to the trust. Following the inclusion of an additional transferor, the additional transferor will be treated in the same manner as the
+transferor, and each additional transferor generally will have the same obligations and rights as the transferor described herein. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_51"/>Additions of Accounts </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement, the transferor (without independent verification
+of its authority) may designate from time to time Additional Accounts to be included as accounts in the trust. Subject only to the eligibility requirements in the purchase agreement and the pooling and servicing agreement and applicable regulatory
+guidelines, the account owner has the discretion to select the accounts from the Total Portfolio for addition to the Trust Portfolio. In connection with any such designation, the transferor will convey to the trust all of its interests in all
+receivables arising from those Additional Accounts. The conveyance by the transferor is subject to the following conditions, among others: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">each such Additional Account must be an Eligible Account, and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">except for the addition of new accounts, </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">83 </p>
+
+</div></center></div></html>

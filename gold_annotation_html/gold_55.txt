@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_12"/>Depositor and Transferor </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>RFC III</reportingentity>, the depositor and the transferor, was formed under the laws of the State of Delaware on March 11, 2004. Its sole
+member is AENB. RFC III was formed for the limited purpose of issuing securities of the type offered hereby, purchasing, holding, owning and selling receivables and any activities incidental to and necessary or convenient for the accomplishment of
+such purposes. Neither AENB, as sole member of RFC III, nor RFC IIIs board of directors, intends to change the business purpose of RFC III. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Since its formation, <reportingentity>RFC III</reportingentity> has been engaged in these activities solely as (i) the purchaser of receivables from the
+account owner pursuant to the related purchase agreement, (ii) a transferor of receivables to the issuing entity pursuant to the pooling and servicing agreement, (iii) the holder of the transferors interest in the issuing entity and
+(iv) a transferor that executes underwriting, subscription and purchase agreements in connection with each issuance of certificates. RFC III may also act as a depositor for other master trusts or other securitization special purpose entities
+affiliated with AENB, but has not done so to date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">A description of <reportingentity>RFC III</reportingentity>s obligations as the transferor of the
+receivables to the trust can be found in <i>The Pooling and Servicing Agreement Generally  Conveyance of Receivables,  Representations and Warranties,  Additions of Accounts </i>and<i>
+ Removal of Accounts </i>in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">While <reportingentity>RFC III</reportingentity> is currently the transferor of receivables
+to the trust, each of Centurion, RFC II and RFC III has previously transferred receivables the trust, directly or indirectly. Immediately following the conversion of Centurion into AENB and FSBs merger with and into AENB described above, RFC
+IV, previously a wholly-owned subsidiary of FSB, also merged with and into RFC III, previously a wholly-owned subsidiary of Centurion. In connection with the merger, RFC III assumed all of the rights and obligations of RFC IV. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>RFC III</reportingentity> was initially capitalized by a cash contribution from Centurion. Pursuant to a revolving credit agreement between RFC
+III and AENB, RFC III may borrow funds from AENB for the sole purpose of purchasing receivables from AENB under the purchase agreement. Under the revolving credit agreement, payments from RFC III are due only to the extent that those funds are not
+required for any other purpose and so long as the payment will not cause RFC III to default under the pooling and servicing agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>RFC III</reportingentity>s executive offices are located at 115 W Towne Ridge Pkwy, Room 454, Sandy, Utah 84070, and its telephone number
+is (385) <font style="white-space:nowrap">308-6059.</font> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_13"/>U.S. Credit Risk Retention </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In accordance with the credit risk retention requirements of Regulation RR issued by the <reportingentity>SEC</reportingentity>, AENB, directly as sponsor, or
+RFC III, as depositor and as a wholly-owned affiliate of the sponsor, is required to retain an economic interest in the credit risk of the receivables in the trust. The sponsor and the depositor intend to satisfy the risk retention requirements by
+maintaining a sellers interest in the trust, as defined by and calculated in accordance with Regulation RR, that will equal not less than five percent of the aggregate unpaid principal balance of all investor certificates, other than any
+certificates and the collateral interests that have been at all times held by the sponsor or one or more wholly-owned affiliates of the sponsor, minus the aggregate amount of principal collections on deposit in a segregated principal accumulation
+account as permitted by Regulation RR (which amount we refer to as the adjusted outstanding investor ABS interests in this section). For purpose of the calculation described in the preceding sentence, a wholly-owned affiliate of the
+sponsor will include any person, other than the issuing entity, that directly or indirectly, wholly controls (i.e. owns 100% of the equity in the sponsor), is wholly controlled by, or is wholly under common control with, the sponsor. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The required sellers interest will be maintained by the sponsor and the depositor through the depositors ownership
+of the transferors interest, which represents the interest in the trust not represented by your series or by any other series. The transferors interest is entitled to share in allocations of certain amounts, including finance charge
+collections, principal collections and defaults, as described under <i>The Pooling and Servicing Agreement Generally  Allocations. </i>The amount of principal receivables in the trust will vary each day as new principal receivables
+are created and others are paid or charged off as uncollectible. Therefore, the amount of the transferors </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">48 </p>
+
+</div></center></div></html>

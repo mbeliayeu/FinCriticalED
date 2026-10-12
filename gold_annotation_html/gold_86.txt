@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+principal amount, in specified denominations. Definitive certificates will be registered in the name or names of the person or persons specified by <reportingentity>DTC</reportingentity> in a written instruction to the registrar
+of the certificates. DTC may base its written instruction upon directions it receives from its participants. Thereafter, the holders of the definitive certificates will be recognized as the holders of the certificates under the pooling
+and servicing agreement. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Definitive certificates will be transferable and exchangeable at the offices of the transfer
+agent and registrar, which will initially be the trustee. No service charge will be imposed for any registration of transfer or exchange, but the transfer agent and registrar may require payment of a sum sufficient to cover any tax or other
+governmental charge imposed in connection with that registration. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_46"/>The Pooling and Servicing Agreement
+Generally </b></p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_47"/>Conveyance of Receivables </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>RFC III</reportingentity>, as transferor to the trust (and Centurion, RFC II and RFC IV, as former transferors to the trust), has sold and
+assigned to the trust its interest in the receivables in the accou<reportingentity>nts exi</reportingentity>sting at the applicable <font style="white-space:nowrap">cut-off</font> dates, all receivables thereafter created from time to time under the accounts, all Recoveries allocable
+to the trust and the proceeds of all of the foregoing. From time to time, RFC III may assign to the trust the receivables in designated Additional Accounts existing at the close of business on the applicable
+<font style="white-space:nowrap">cut-off</font> dates. In addition, RFC III may assign to the trust all insurance proceeds, all Recoveries allocable to the trust, and the proceeds of all of the foregoing. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_48"/>Representations and Warranties </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement, <reportingentity>RFC III</reportingentity> makes representations and warranties to the trust and the trustee about the
+receivables, to the effect, among other things, that: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   as of the applicable <font style="white-space:nowrap">cut-off</font> date with respect to the accounts, the list of accounts and information concerning the accounts provided by it is accurate and complete in all material respects, with certain permitted exceptions; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   each receivable conveyed by it to the trust has been conveyed free and clear of any lien or
+encumbrance, except liens permitted by the pooling and servicing agreement; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   all
+governmental authorizations, consents, orders or approvals required to be obtained, effected or given by it in connection with the conveyance of receivables to the trust have been duly obtained, effected or given and are in full force and effect;
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv)   as of each applicable selection date, each account was an Eligible Account; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v)   as of each applicable selection date, each of the receivables then existing in the accounts
+was an Eligible Receivable; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi)   as of the date of creation of any new receivable, such
+receivable is an Eligible Receivable. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the transferor materially breaches any representation and warranty described in
+this paragraph, and such breach remains uncured for <temporal>60 days</temporal> (or such longer period as to which the servicer and the trustee agree) after the earlier to occur of the discovery of the breach by the transferor and receipt of written notice of the
+breach by the transferor, and the breach has a material adverse effect on the certificateholders interest in such receivable, all of the Ineligible Receivables will be reassigned to the transferor on the terms and conditions set forth below.
+In such case, the account will no longer be included as an account in the Trust Portfolio. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">An Ineligible Receivable will
+be reassigned to the transferor on or before the Monthly Period in which such reassignment obligation arises by the servicer deducting the portion of such Ineligible Receivable that is a principal receivable from the aggregate amount of principal
+receivables used to calculate the Transferor Amount. In the event that the exclusion of an Ineligible Receivable from the calculation of the Transferor Amount would cause the </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">79 </p>
+
+</div></center></div></html>

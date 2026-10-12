@@ -1,0 +1,521 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>The Receivables </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">As of <temporal>December 31, 2024</temporal>, the receivables in the accounts included in the Trust Portfolio totaled $28,277,897,524 comprised of
+$26,872,654,596 of principal receivables and $1,405,242,928 of finance charge receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">The following tables, together
+with the paragraph under <i> Composition by Geographic Distribution,</i>summarize the Trust Portfolio by various criteria as of <temporal>December 31, 2024</temporal>. Because the future composition of the Trust Portfolio may change over time, these
+tables are not necessarily indicative of the composition of the Trust Portfolio at any time subsequent to <temporal>December 31, 2024</temporal>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>Composition By Account Balance </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>Trust Portfolio </b></p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="55%"/>
+
+<td valign="bottom" width="3%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="3%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="3%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="3%"/>
+<td/>
+<td/>
+<td/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom" nowrap="nowrap"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; "><b>Account Balance Range</b></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage<br/>of Total<br/>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage<br/>of Total<br/>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td></tr>
+
+
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Credit Balance</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>111,418</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.77</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right">(39,923,381</td>
+<td nowrap="nowrap" valign="bottom">) </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">(0.14</td>
+<td nowrap="nowrap" valign="bottom">)% </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Zero Balance</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>8,688,756</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>60.27</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$0.01 to $1,000</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,348,760</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>16.29</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>748,358,203</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2.65</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$<number>1,000.01</number> to $5,000</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,707,137</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>11.84</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4,334,479,895</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>15.33</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$<number>5,000.01</number> to $10,000</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>707,716</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4.91</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>5,051,575,325</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>17.86</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$<number>10,000.01</number> or More</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>852,957</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>5.92</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>18,183,407,483</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>64.30</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Total</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">14,416,744</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right">28,277,897,524</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td></tr>
+</table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">The average account balance as of <temporal>December 31, 2024</temporal> was $1,961 for all accounts and $4,937 for
+all accounts other than accounts with a zero balance as of that date. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>Composition By Credit Limit </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>Trust Portfolio </b></p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="54%"/>
+
+<td valign="bottom" width="3%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="3%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="3%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="3%"/>
+<td/>
+<td/>
+<td/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom" nowrap="nowrap"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; "><b>Credit Limit Range</b></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage<br/>of Total<br/>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage<br/>of Total<br/>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td></tr>
+
+
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Less than $<number>1,000.99</number></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>692,504</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">4.80</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>36,139,621</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.13</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$<number>1,001</number> to $5,000.99</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,669,935</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>11.58</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>451,139,119</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1.60</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$5,001 to $<number>10,000.99</number></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,892,396</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>20.06</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,208,942,858</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4.28</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$<number>10,001</number> to $<number>15,000.99</number></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,721,994</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>11.94</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,570,812,644</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>5.55</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$<number>15,001</number> to $<number>20,000.99</number></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,216,213</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>8.44</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,646,822,310</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>5.82</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$<number>20,001</number> to $<number>25,000.99</number></p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>851,457</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>5.91</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,613,083,953</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>5.70</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">$<number>25,001</number> or More(1)</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>1,753,805</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>12.17</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>9,816,869,902</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>34.72</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Other</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">5</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Total (Credit Card)</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>10,798,309</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">74.90</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>16,343,810,407</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">57.80</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">No Pre-Set Spending Limit (Pay Over Time)</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>3,618,435</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">25.10</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>11,934,087,117</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>42.20</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Grand Total</p></td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">14,416,744</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right">28,277,897,524</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom">  </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td></tr>
+</table> <p style="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="4%" valign="top" align="left">(1)</td>
+<td align="left" valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " align="justify">The maximum credit limit generally is $<number>100,000</number>. </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">A-I-5 </p>
+
+</div></center></div></html>

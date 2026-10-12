@@ -1,0 +1,20 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table border="0" cellpadding="0" cellspacing="0" id="z2bc9ca3bb61c44a3a308e89f3e84f869" style="font-family: 'Times New Roman',Times,serif; font-size: 10pt; width: 100%; text-align: left; color: rgb(0, 0, 0);">
+<tbody><tr>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 37.48%; padding: 0px 2px;">
+<div style="text-align: justify; font-weight: bold;">Reference period</div>
+</td>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 26.96%; padding: 0px 2px;">
+<div style="text-align: justify; font-weight: bold;">Weighted average price per Issuer’s Share (Euro)</div>
+</td>
+<td style="border-left: 1px solid #000000; border-right: 1px solid; border-top: 1px solid #000000; vertical-align: top; width: 35.56%; padding: 0px 2px;">
+<div style="text-align: justify; font-weight: bold;">Premium</div>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 37.48%; padding: 0px 2px;">
+<div style="text-align: justify;"><date>23 January 2025</date></div>
+</td>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 26.96%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>15.227</number></div>
+</td>
+<td style="b&lt;/body&gt;&lt;/html&gt;"/></tr></tbody></table></body></html>

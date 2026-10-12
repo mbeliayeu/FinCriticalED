@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>bligor if <reportingentity>BFI</reportingentity> determines that adding such Co-Obligor would not
+result in a deemed sale or exchange of the notes by any holder for U.S. federal income tax purposes under applicable Treasury Regulations
+or a disposition of the notes by any holder or beneficial owner of notes for Canadian federal income tax purposes. Any such supplemental
+indenture entered into for the purpose of adding a Co-Obligor formed under any jurisdiction other than a state of the United States (each,
+a “<b>Non-U.S. Co-Obligor</b>”) shall include a provision for (i) the payment of additional amounts (“<b>Other
+Additional Amounts</b>”) in the form substantially similar to that described in “— Company Additional Amounts”,
+with such modifications as the Company and such Non-U.S. Co-Obligor reasonably determine are customary and appropriate for U.S. and Canadian
+bondholders to address then-applicable (o</body></html>

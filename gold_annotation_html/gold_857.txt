@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="text-align: justify; margin-bottom: 9pt;">Pursuant to Article 2.5.1, paragraph 6, of the Regulations of the Markets Organized and Managed by Borsa Italiana in force as at the date of this Notice (the “<font style="font-weight: bold;">Stock
+        Exchange Regulations</font>”), if the conditions are met, except as indicated in paragraph 4.2. below, the <reportingentity>Mediobanca</reportingentity> Shares shall be delisted from Euronext Milan (the “<font style="font-weight: bold; font-style: italic;"><financialconcepts>Delisting</financialconcepts></font>”)
+      starting from the trading day following the last day of payment of the Sell Out Procedure under article 108, paragraph 2, of the TUF.  In such a case, holders of Mediobanca Shares who did not accept the Offer and who did not intend to avail
+      themselves of the right to request the Offeror to proceed to purchase their Mediobanca Shares pursuant to the Sell Out Procedure under article 108, paragraph 2, of the TUF will remain holders of financial instruments not traded on any regulated
+      market, with the consequent difficulty of liquidating their investment.</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z1c38222e604944528089ec40a2531a9e" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; font-weight: bold;">4.2</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-weight: bold;">Obligation to purchase under Article 108 paragraph 1 of the TUF and Squeeze-out Right under Article 111 of the TUF</div>
+</td>
+</tr>
+</tbody></table></body></html>

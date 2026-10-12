@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">In
+connection with the sale of Securities, underwriters may receive compensation from the Issuers, the Selling Shareholders and/or from
+purchasers of Securities for whom they may act as agents in the form of fees, commissions or concessions. Underwriters, dealers and agents
+that participate in the distribution of Securities may be deemed to be underwriters and any such compensation received by them from the
+Issuers and/or the Selling Shareholders and any profit on the resale of Securities by them may be deemed to be underwriting commissions
+under the Securities Act. Any such person that may be deemed to be an underwriter with respect to Securities of any series will be identified
+in the Prospectus Supplement relating to such series.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p></body></html>

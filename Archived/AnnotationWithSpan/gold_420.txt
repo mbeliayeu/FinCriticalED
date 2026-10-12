@@ -1,0 +1,16 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt/150% Times New Roman, Times, Serif; margin: 0; text-align: justify">On the basis of the information provided by the
+intermediary appointed to make the purchases, here below a synthesis of transactions for the purchase of treasury shares on the Euronext
+Milan on a daily basis:</p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 21%; border: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Trade date<br/>
+(dd/mm/yy)</b></font></td>
+<td style="white-space: nowrap; width: 24%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Transaction <br/>
+quantity</b></font></td>
+<td style="white-space: nowrap; vertical-align: bottom; width: 29%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Transaction weighted <br/>
+average price (euro)</b></font></td>
+<td style="vertical-align: bottom; width: 26%; border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Transaction amount<br/>
+ (euro)</b></font></td></tr>
+<tr>
+<td style="vertical-align: top; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><date>23/12/2024</date></font></td>
+<td style="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><number>1,969,881</number> </font></td>
+<td style="white-space: nowrap; vertical-align: bottom; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"/></td></tr></tbody></table></body></html>

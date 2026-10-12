@@ -1,0 +1,52 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer will deliver to the trustee and, if required, file with the <reportingentity>SEC</reportingentity>
+as part of an annual report on Form <font style="white-space:nowrap">10-K</font> filed on behalf of the trust, the following documents: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">a report regarding its assessment of compliance during the preceding fiscal year with all applicable servicing
+criteria set forth in relevant SEC regulations with respect to asset backed securities transactions taken as a whole involving the servicer that are backed by the same types of assets as those backing the certificates; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">with respect to each assessment report described immediately above, a report by a registered public accounting
+firm that attests to, and reports on, the assessment made by the asserting party, as set forth in relevant SEC regulations; and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">a servicer compliance certificate, signed by an authorized officer of the servicer, to the effect that:
+</p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) a review of the servicers activities during the reporting period and of its
+performance under the pooling and servicing agreement has been made under such officers supervision; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) to the best of such officers knowledge, based on such review, the servicer has fulfilled all of its
+obligations under the pooling and servicing agreement in all material respects throughout the reporting period or, if there has been a failure to fulfill any such obligation in any material respect, specifying each such failure known to such officer
+and the nature and status thereof. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicers obligation to deliver any servicing assessment report or
+attestation report and, if required, to file the same with the <reportingentity>SEC</reportingentity>, is limited to those reports prepared by the servicer and, in the case of reports prepared by any other party, those reports actually received by the servicer. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Copies of all statements, certificates and reports furnished to the trustee may be obtained by a request in writing delivered
+to the trustee. Except as described in this prospectus, there will not be any independent verification that any duty or obligation to be performed by any transaction party  including the servicer  has been performed by that party. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_74"/>Transferor Insolvency </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition to the consequences of a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event discussed
+above, if an insolvency event occurs, the transferor immediately will stop transferring principal receivables to the trust. The transferor also will promptly notify the trustee of the insolvency event. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">An insolvency event shall occur if the transferor or other holder of the original transferor certificate shall
+consent to or fail to object to the appointment of a conservator or receiver or liquidator or trustee in any insolvency, bankruptcy, receivership, conservatorship, liquidation, readjustment of debt, marshaling of assets and liabilities or similar
+proceedings of or relating to the transferor or other holder or of or relating to all or substantially all of the transferors or other holders property, or a court or agency or supervisory authority having jurisdiction in the premises
+shall issue, or enter against the transferor or other holder a decree or order for the appointment of a conservator or receiver or liquidator or trustee in any insolvency, bankruptcy, receivership, conservatorship, liquidation, readjustment of debt,
+marshaling of assets and liabilities or similar proceedings or for the <font style="white-space:nowrap">winding-up</font> or liquidation of the transferors or other holders affairs; or the transferor or other holder shall admit in
+writing its inability, or shall be unable, to pay its debts generally as they become due, file a petition to take advantage of any applicable insolvency, bankruptcy, reorganization, liquidation, receivership, or conservatorship statute, make any
+assignment for the benefit of its creditors or voluntarily suspend payment of its obligations; or a proceeding shall have been instituted against the transferor or other holder by a court having jurisdiction in the premises seeking a decree or order
+for relief in respect of any such person in an involuntary case under any bankruptcy, insolvency, reorganization or liquidation statute, or for the appointment of a receiver, liquidator, assignee, trustee, custodian, sequestrator, conservator or
+other similar official, of the transferor or other holder or for any substantial part of the transferors or other holders property, or for the liquidation and winding up of the transferors or other holders affairs and, if
+instituted against the transferor or other holder, any such proceeding shall continue undismissed or </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">100 </p>
+
+</div></center></div></html>

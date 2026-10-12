@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">This summary does not constitute,
+and should not be considered as, legal or tax advice to holders of notes. Prospective investors are urged to consult their tax advisers
+with regard to the application of the tax considerations discussed below to their particular situations as well as the application of
+any state, local, non-U.S. or other tax laws, including gift and estate tax laws.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify"><b><i>Effect of Repurchase Upon a Change
+of Control Triggering Event</i></b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><reportingentity>BFI</reportingentity> will be required to make
+an offer to purchase the notes at a price equal to 101% of their principal amount, plus accrued and unpaid interest to the date of repurchase
+upon the occurrence of a Change of Control Triggering Event. It is possible that BFI’s offer to repurchase the notes at a premium
+could implicate the Treasury Regulations relating to “contingent payment debt instruments.” If the notes were characterized
+as contingent payment debt instruments, U.S. Holders might, among other things, be required to accrue interest income at a rate
+higher than the stated interest on the notes and to treat any gain recognized on the sale, exchange, retirement, redemption or other
+taxable disposition of a note as ordinary income rather than as capital gain.</p></body></html>

@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_91"/>Voting Event </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Following the disclosure in a monthly distribution report on Form <font style="white-space:nowrap">10-D</font> that the <font style="white-space:nowrap"><temporal>60-Day</temporal></font> Delinquency Percentage with respect to the related Monthly Period exceeded the Delinquency Threshold, investors in the Series <font style="white-space:nowrap">2025-1</font> certificates and all other
+outstanding series issued by the issuing entity will have the right to determine whether or not to initiate a vote to direct an asset representations review by providing written notice to the trustee of their desire to initiate such a vote. If any
+of the certificateholders providing such notice is not a record holder (including if such certificateholder owns a beneficial interest in a certificates in book-entry form), the trustee may require that certificateholder to provide (i) a
+written certification that it is a beneficial owner of certificates and (ii) one other form of documentation, such as a trade confirmation, an account statement, a letter from a broker or dealer or other similar document to verify that the
+certificateholder is, in fact, a beneficial owner of certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If, within <temporal>90 days</temporal> following the date of disclosure
+that the Delinq<number>ue</number>ncy Threshold has been exceeded, certificateholders holding certificates evidencing not less than 5% of the aggregate unpaid principal amount of all outstanding certificates (excluding any certificates held by the sponsor, the
+depositor, the servicer or any of their affiliates) provide written notice to the trustee of their desire to initiate a vote, the trustee will promptly provide notice of such occurrence to all certificateholders and commence a solicitation of votes
+of certificateholders to initiate a review. In addition, the transferor will disclose in the trusts monthly distribution report on Form <font style="white-space:nowrap">10-D</font> relating to the Monthly Period during which the 5% notice
+threshold was reached that a vote to direct an asset representations review has commenced. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The vote on whether to
+initiate an asset representations review will be completed within <temporal>90 days</temporal> of the delivery by the trustee of notice to certificateholders that a solici<number>tat</number>ion of votes has commenced. If, at the end of the <font style="white-space:nowrap"><temporal>90-day</temporal></font>
+voting period, certificateholders holding certificates evidencing more than 50% of the aggregate unpaid principal amount of all outstanding certificates participating in such vote (excluding any certificates held by the sponsor, the depositor, the
+servicer or any of their affiliates) elect to direct an asset representations review, the trustee will promptly provide notice of such occurrence to the transferor, the servicer and the sponsor, and the servicer will provide notice to the asset
+representations reviewer. In addition, the transferor will disclose the results of the vote in the trusts monthly distribution report on Form <font style="white-space:nowrap">10-D</font> relating to the Monthly Period during which the voting
+period ended. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_92"/>Asset Representations Review Process </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Following receipt of notice from the servicer that certificateholders have voted to direct an asset representations review,
+the asset representations reviewer will perform a review of all receivables in the Trust Portfolio that were more than <temporal>60 days</temporal> contractually delinquent (and the accounts relating to such receivables), as of the last day of the Monthly Period
+immediately preceding the monthly period during which the <font style="white-space:nowrap"><temporal>90-day</temporal></font> voting period ended, for compliance with the ARR Representations and Warranties on such receivables and the accounts. The asset representations
+review will be performed in accordance with the procedures set forth in the asset representations review agreement. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The
+asset representations review agreement provides that, in connection with any asset representations review, the servicer will grant the asset representations reviewer access to documentation related to the performance of its review of the applicable
+accounts and receivables. The servicer will generally grant access to the review documentation within <temporal>60 days</temporal> of the servicers notice to the asset representations reviewer, and the asset representations review will generally be completed
+within 60 days of the asset representations reviewer receiving access to the necessary documentation. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Upon the completion
+of an asset representations review, the asset representations reviewer will provide a report to the trustee, the sponsor and the transferor of the findings and conclusions of the review of the receivables and the accounts. A summary of the asset
+representations reviewers report will be included in the trusts distribution report on Form <font style="white-space:nowrap">10-D</font> for the distribution period in which the report is provided to the trustee, the sponsor and the
+transferor. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The asset representations reviewer will not be the party to determine whether any noncompliance with
+representations or warranties constitutes a breach of any contractual provision relating to the receivables or the </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">111 </p>
+
+</div></center></div></html>

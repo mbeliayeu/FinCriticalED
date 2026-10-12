@@ -1,0 +1,17 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-bottom: 10pt;"><img src="picture3.jpg"/> </div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zd10ae71679984d74868690c495ada96e" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; font-weight: bold;">3.2</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-weight: bold;">Offer Consideration</div>
+</td>
+</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zb4ddfdf55b77429597d71503adc77fff" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 72pt; vertical-align: top; font-style: italic;">3.2.1</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-style: italic;"><u>Offer Consideration per share</u></div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">If the Conditions of Effectiveness are fulfilled (or waived) and the Offer is therefore completed, the Offeror will pay, for each Issuer’s Share tendered to the Offer, the Consideration, not subject
+      to adjustment (except as set out below), consisting of no. <number>2.300</number> newly issued shares of the Offeror in execution of the Capital Increase Reserved to the Offer (as defined below).</div><div style="text-align: justify; margin-bottom: 9pt;">Based on the official price of the Offeror’s Shares recorded at the close of business on <date>23 January 2025</date> (the last trading day prior to the date of this Notice)<number> equal</number> to Euro <number>6.953</number><sup style="font-family: 'Times New Roman', serif; vertical-align: text-top; line-height: 1; font-size: smaller;">3</sup>, the Consideration expresses a valuation equal to Euro 15.992 per Issuer’s Share and incorporates the following premiums with respect to the volume- weighted arithmetic average of the official
+      prices of the Issuer’s Shares during the periods indicated below:</div></body></html>

@@ -1,0 +1,17 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="text-align: justify; margin-bottom: 9pt;">The Extraordinary Shareholders’ Meeting of the Issuer held on <date>28 October 2024</date> resolved to cancel up to a maximum of no. 30,000,000 treasury shares that may be acquired (and not utilized) pursuant to
+      the resolution passed at the ordinary shareholders’ meeting held on the same date.  Pursuant to the resolution passed, the cancellation may be carried out in several instalments or in one lump sum, however, within 18 months from the date of the
+      shareholders’ resolution.</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zd2ef9dfcb9de4fdd92bc78f8b372a022" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; font-weight: bold;">3.</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-weight: bold;">MAIN TERMS OF THE OFFER</div>
+</td>
+</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z3f2a33a6cecb4a209eb62c583e9631fa" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; font-weight: bold;">3.1</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-weight: bold;">Category and quantity of the financial instruments subject to the Offer</div>
+</td>
+</tr>
+</tbody></table></body></html>

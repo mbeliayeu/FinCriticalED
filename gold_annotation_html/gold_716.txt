@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Guarantee</i></b>”
+by any Person means any obligation, contingent or otherwise, of such Person guaranteeing or having the economic effect of guaranteeing
+any Debt of any other Person (the “<b>primary obligor</b>”) in any manner, whether directly or indirectly, and including,
+without limitation, any obligation of such Person (i) to purchase or pay (or advance or supply funds for the purchase or payment
+of) such Debt or to purchase (or to advance or supply funds for the purchase of) any security for the payment of such Debt, (ii) to
+purchase property, securities or services for the purpose of assuring the holder of such Debt of the payment of such Debt or (iii) to
+maintain working capital, equity capital or other financial statement condition or liquidity of the primary obligor so as to enable the
+primary obligor to pay such Debt (and “<b>Guaranteed</b>”, “<b>Guaranteeing</b>” and “<b>Guarantor</b>”
+shall have meanings correlative to the foregoing); provided, however, that the Guarantee by any Person shall not include endorsements
+by such Person for collection or deposit, in either case, in the ordinary course of business.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Holder</i></b>”
+means a Person in whose name a Security is registered in the applicable Security Register.</p></body></html>

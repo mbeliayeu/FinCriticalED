@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Regulation RR</financialconcepts></b> means the regulations required under
+Section 15G of the Securities Exchange Act, added pursuant to Section 941(b) of the Dodd-Frank Act. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Reinvestment Event</financialconcepts></b><b> </b>means, with respect to another applicable series, each event specified as such in
+the related supplement. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Required Minimum Principal Balance</financialconcepts></b>,<b> </b>as of any date of determination,
+means the sum of the series invested amounts for all outstanding series plus the sum of the Series Required Transferor Amounts for each such series minus the amount on deposit in the Special Funding Account. The series invested amount
+will generally equal the initial invested amount for a series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Required Reserve Account Amount</financialconcepts></b> for any
+Distribution Date on or after the Reserve Account Funding Date, an amount equal to: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) 0.50% of the
+Class A Invested Amount as of the preceding Distribution Date (after giving effect to all changes therein on such date), or </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) such other amount designated by the transferor, provided that the holder of the Collateral Interest shall
+have consented to such designation and such designation satisfies the Rating Agency Condition. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Required
+Transferor Amount</financialconcepts></b> means, as of any date of determination, an amount equal to the product of (A) the Required Transferor Percentage and (B) the aggregate amount of principal receivables in the trust. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Required Transferor Percentage</financialconcepts></b> shall mean <number>7%</number> or any other percentage specified in a supplement to the
+pooling and servicing agreement; provided, however, that the transferor may reduce the Required Transferor Percentage upon (x) 30 days prior notice to the trustee and each Rating Agency, (y) satisfaction of the Rating Agency Condition
+with respect thereto and (z) delivery to the trustee of a certificate of the transferor stating that the transferor reasonably believes that such reduction will not, based on the facts known at the time of such certification, have an Adverse
+Effect; provided further that the Required Transferor Percentage shall not be reduced if such reduction would cause the sellers interest to fall below the amount required for purposes of satisfying the risk retention requirements of Regulation
+RR, as described under Risk Retention in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Reserve Account Funding Date</financialconcepts></b>
+means the Distribution Date which occurs not later than the earliest of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the Distribution Date with
+respect to the Monthly Period that commences not later than three months prior to the Distribution Date with respect to the first Monthly Period in the Controlled Accumulation Period, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) in the event that the average Excess Spread Percentage for any three consecutive Monthly Periods ending
+in the <temporal>December 2025</temporal> Monthly Period or any Monthly Period thereafter is less than <number>2%</number>, the Distribution Date with respect to such Monthly Period, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) in the event that the average Excess Spread Percentage for any three consecutive Monthly Periods ending
+in the <temporal>June 2026</temporal> Monthly Period or any Monthly Period thereafter is less than 3%, the Distribution Date with respect to such Monthly Period and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv) such earlier Distribution Date as the transferor may determine by written notice to the trustee and the
+servicer. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">For this purpose, the Excess Spread Percentage for any Monthly Period will be equal to the Series
+Adjusted Portfolio Yield for such Monthly Period minus the Base Rate for such Monthly Period. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">147 </p>
+
+</div></center></div></html>

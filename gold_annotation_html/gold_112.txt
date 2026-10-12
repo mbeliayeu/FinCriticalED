@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi) if the surviving entity is not subject to Title 11 of
+the United States Code, the transferor shall have delivered notice to each Rating Agency of the assumption of the transferors obligations by the surviving entity. If the surviving entity is subject to Title 11 of the United States Code, the
+transferor shall have delivered the notice described above and the transferor shall have received notice that the Rating Agency Condition has been satisfied. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Assumption of obligations by entities subject to Title 11 of the United States Code in accordance with the provisions
+described above may alter or increase certain insolvency risks described under <i>Risk Factors  Insolvency and Security Interest Risks  The conservatorship, receivership, bankruptcy, or insolvency of <reportingentity>AENB</reportingentity>, TRS, the transferor, the
+trust, or any of their affiliates could result in accelerated, delayed, or reduced payments to you </i>in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement, the servicer may not consolidate with or merge into, or sell all or substantially
+all of its assets as an entirety to, any other entity unless, among other things: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the surviving
+entity is an eligible servicer under the pooling and servicing agreement; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the surviving entity is a
+corporation organized and existing under the laws of the United States of America, any state thereof or the District of Columbia; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) in a supplement to the pooling and servicing agreement, the surviving entity expressly assumes the
+servicers obligations under such agreement. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_80"/>Assumption of the Transferors Obligations </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement permits a transfer of all or a portion of the transferors credit accounts and the
+receivables arising thereunder. This transfer may include all (but not less than all) of the accounts and may also include the transferors remaining interest in the receivables arising thereunder and its interest in the trust, together with
+all servicing functions and other obligations under the pooling and servicing agreement or relating to the transactions contemplated thereby, to another entity that may or may not be affiliated with that transferor. Pursuant to the pooling and
+servicing agreement, the transferor is permitted to assign, convey, and transfer these assets and obligations to such other entity, without the consent or approval or any certificateholders, if the following conditions, among others, are satisfied:
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the assuming entity is organized under the laws of the United States of America, any state thereof or
+the District of Columbia; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the assuming entity, the transferor and the trustee shall have entered
+into a supplement to the pooling and servicing agreement or an assumption agreement providing for the entitys assumption of the transferors obligations under the pooling and servicing agreement; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) the transferor shall have delivered to the trustee: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) an officers certificate and an opinion of counsel regarding the enforceability of such assumption
+agreement against the assuming entity; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) a Tax Opinion; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv) all filings required to perfect the trustees interest in the receivables to be conveyed by the
+assuming entity shall have been duly made and copies thereof shall have been delivered to the trustee; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v) the trustee shall have received an opinion of counsel with respect to clause (iv) above and certain
+other matters specified in the pooling and servicing agreement; and </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">105 </p>
+
+</div></center></div></html>

@@ -1,0 +1,16 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->11<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Each
+Indenture provides that the Company or the Issuer (if other than the Company) may modify and amend such Indenture without the consent
+of any holder of Indenture Securities for any of the following purposes: (a) to evidence the succession of another person to the
+Issuer or the Company, as applicable, and the assumption by any such successor of the covenants of the Issuer or the Company, as applicable,
+under such Indenture and in the Indenture Securities; (b) in the case of the Other Indentures, to evidence the addition of a co-obligor or
+guarantor in respect of any or all series of the Indenture Securities under the Other Indentures, as may be permitted in accordance with
+the terms of such Indenture Securities; (c) to add to the covenants of the Finance Debt Issuer or the Company, as applicable, for
+the benefit of the holders of any series of Indenture Securities (and if such covenants are to be for the benefit of less than all series
+of Indenture Securities, stating that such covenants are expressly being included solely for the benefit of such series) or to surrender
+any right or power (but not, in the case of the Other Indentures, any obligation, except any obligation concomitant to such right or
+power) in such Indenture conferred upon the Finance Debt Issuer or the Company, as applicable; (d) to add any additional Events
+of Default for the benefit of the holders of all or any series of Indenture Securities (and if such additional Events of Default are
+to be for the benefit of less than all series of Indenture Securities, stating that such additional Events of Default are expressly being
+included solely for the benefit of such series); (e) to add to, change or eliminate any of the provisions of such Indenture in respect
+of one or more series of Indenture Securities, provided that any such addition, change or elimination (i) shall neither (A) apply
+to any Indenture Security of any series created prior to </p></body></html>

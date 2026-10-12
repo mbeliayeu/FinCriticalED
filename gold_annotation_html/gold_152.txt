@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman" align="justify">
+collections and funding the investor default amount for any other class of certificates or collateral invested amounts of such series, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   if the related supplement so provides, the amount of interest at the applicable certificate
+rate that has accrued on the amount described in the preceding clause (i). </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Group Investor Default
+Amount</b> means, for any Distribution Date, the sum of the amounts determined with respect to each series in such group equal to the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the Series Allocable Defaulted Amount for such Distribution Date and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the applicable Floating Allocation Percentage for such Distribution Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Group Investor Finance Charge Collections</b><b> </b>means, for any Distribution Date, the aggregate amount of
+Investor Finance Charge Collections for such Distribution Date for all series in such group. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Group Investor
+Monthly Fees</b><b> </b>means, for any Distribution Date, the Servicing Fee payable monthly for each series in such group, any series enhancement fees and any other similar fees which are paid out of Reallocated Investor Finance Charge
+Collections for such series pursuant to the applicable supplement. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Group Investor Monthly Interest</b><b>
+</b>means, for any Distribution Date, the sum of the aggregate amount of monthly interest, including overdue monthly interest and interest on such overdue monthly interest, if applicable, for all series in such group for such Distribution Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Ineligible Receivables</b><b> </b>means all receivables with respect to an affected account that has been
+reassigned to the transferor as a result of the transferors breach of certain representations and warranties described in <i>The Pooling and Servicing Agreement Generally  Representations and Warranties </i>in this
+prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Initial <font style="white-space:nowrap">Cut-Off</font> Date</b><b> </b>means <temporal>April 16,
+2004</temporal>. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Initial Invested Amount</b> means <monetaryunit>$</monetaryunit>571,430,000, subject to increase or decrease as discussed under
+<i>Series Provisions</i> in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Interest Period</b> means, for any Distribution
+Date, a period from and including the 15<sup style="font-size:75%; vertical-align:top">th</sup> day of the month of the preceding Distribution Date to but excluding the 15<sup style="font-size:75%; vertical-align:top">th</sup> day of the month of
+the current Distribution Date; <i>provided</i>, <i>however</i>, that with respect to the first Distribution Date, the Interest Period will be the period from and including the closing date to but excluding <temporal>March 17, 2025</temporal>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Invested Amount</b> for any date of determination means an amount equal to the sum of the Class A Invested
+Amount as of such date, the Class B Invested Amount as of such date and the Collateral Invested Amount as of such date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Investor Default Amount</b> means, for any Distribution Date, the product of (i) the Floating Allocation
+Percentage for the related Monthly Period and (ii) the Series Allocable Defaulted Amount for such Monthly Period. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Investor Finance Charge Collections</b>,<b> </b>for any series, means the collections of finance charge
+receivables allocable to the invested amount (including any collateral invested amount) of that series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Issuer
+Rate Fees</b><b> </b>has the meaning described in <i><reportingentity>AENB</reportingentity>s Revolving Credit Businesses  Issuer Rate Fees </i>in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Monthly Period</b><b> </b>means, with respect to each Distribution Date, the calendar month immediately
+preceding such Distribution Date; <i>provided</i>,<i> however</i>,<i> </i>that the initial Monthly Period with respect to any series will commence on the closing date with respect to such series. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">145 </p>
+
+</div></center></div></html>

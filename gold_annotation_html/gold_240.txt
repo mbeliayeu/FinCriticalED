@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If a <font style="white-space:nowrap">Pay-Out</font> Event with respect to
+Series <font style="white-space:nowrap">2025-1</font> occurs during the Controlled Accumulation Period, the Early Amortization Period will commence and any amount on deposit in the Principal Funding Account will be paid first to the Class A
+certificateholders on the first Special Payment Date and then, after the Class A Invested Amount is paid in full, to the Class B certificateholders. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If, on the Expected Final Payment Date, monies on deposit in the Principal Funding Account are insufficient to pay the
+Class A Invested Amount and the Class B Invested Amount or if there are insufficient collections of principal receivables to pay the Collateral Invested Amount, a <font style="white-space:nowrap">Pay-Out</font> Event will occur and the
+Early Amortization Period will commence. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date with respect to the Early Amortization Period until
+the Class A Invested Amount has been paid in full or the Series <font style="white-space:nowrap">2025-1</font> Termination Date occurs, the holders of the Class A certificates will be entitled to receive Available Principal Collections in
+an amount up to the Class A Invested Amount. After payment in full of the Class A Invested Amount, the holders of the Class B certificates will be entitled to receive, on each Distribution Date, Available Principal Collections until
+the earlier of the date the Class B Invested Amount is paid in full and the Series <font style="white-space:nowrap">2025-1</font> Termination Date. After payment in full of the Class B Invested Amount, the holder of the Collateral Interest
+will be entitled to receive, on each Distribution Date, Available Principal Collections until the earlier of the date the Collateral Invested Amount is paid in full and the Series <font style="white-space:nowrap">2025-1</font> Termination Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_28"/>Credit Enhancement </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The presence of credit enhancement for a class is intended to enhance the likelihood of receipt by certificateholders of such
+class of the full amount of principal and interest and to decrease the likelihood that such certificateholders will experience losses. However, the credit enhancement, if any, for a series will not provide protection against all risks of loss and
+will not guarantee repayment of the entire principal balance of the certificates and interest thereon. If losses occur that exceed the amount covered by the credit enhancement or that are not covered by the credit enhancement, certificateholders
+will bear their allocable share of such losses. In addition, if specific credit enhancement is provided for the benefit of more than one class or series, certificateholders of any such class or series will be subject to the risk that such credit
+enhancement will be exhausted by the claims of certificateholders of other classes or series. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Subordination of the
+Class B Certificates and the Collateral Interest </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">With respect to Series
+<font style="white-space:nowrap">2025-1,</font> credit enhancement is provided in the form of subordination. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The
+Class B certificates and the Collateral Interest will be subordinated to the extent necessary to fund certain payments with respect to the Class A certificates. In addition, the Collateral Interest will be subordinated to the extent
+necessary to fund certain payments with respect to the Class B certificates. Certain principal payments otherwise allocable to the Class B certificateholders may be reallocated to the Class A certificateholders and the Class B
+Invested Amount may be reduced. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Similarly, certain principal payments otherwise allocable to the Collateral Interest may
+be reallocated to the Class A certificateholders, the Class B certificateholders and, to the extent the Collateral Invested Amount exceeds the Collateral Senior Invested Amount, the holder of the Collateral Interest, and all such principal
+reallocations will reduce the Collateral Invested Amount. If the Collateral Invested Amount is reduced to zero, holders of the Class B certificates will bear directly the credit and other risks associated with their interest in the trust. To
+the extent the Class B Invested Amount is reduced, the percentage of collections of finance charge receivables allocated to the Class B certificateholders in subsequent Monthly Periods will be reduced. Moreover, to the extent the amount of
+such reduction in the Class B Invested Amount is not reimbursed, the amount of principal distributable to the Class B certificateholders will be reduced. If the Class B Invested Amount is reduced to zero, the Class A
+certificateholders will bear directly the credit and other risks associated with their undivided interest in the trust. In the event of a reduction in the Class A Invested Amount, the Class B Invested Amount or the Collateral Invested
+Amount, the amount of principal and interest available to fund payments with respect to the Class A certificates and the Class B certificates will be decreased. <i>See  Allocation Percentages,  Reallocation of
+Cash Flows and  Application of Collections  Excess Spread; Excess Finance Charge Collections below.</i> </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">61 </p>
+
+</div></center></div></html>

@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Series Allocable Finance Charge Collections</financialconcepts></b>,
+<b><financialconcepts>Series Allocable Principal Collections</financialconcepts></b><b> </b>and <b><financialconcepts>Series Allocable Defaulted Amount</financialconcepts></b><b> </b>mean, for any series and for any Monthly Period, the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the Series Allocation Percentage and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the amount of collections of finance charge receivables deposited in the Collection Account, the amount
+of collections of principal receivables deposited in the Collection Account and the amount of all Defaulted Amounts with respect to that Monthly Period, respectively. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Series Allocation Percentage</financialconcepts></b><b> </b>means, for any series and for any Monthly Period, the percentage
+equivalent (which percentage shall never exceed 100%) of a fraction: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the numerator of which is the
+Series Adjusted Invested Amount as of the last day of the immediately preceding Monthly Period, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)
+the denominator of which is the Trust Adjusted Invested Amount. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Series Enhancement</financialconcepts></b><b> </b>means any
+credit enhancement for the benefit of the certificateholders of a particular series or class of certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Series Required Transferor Amount</financialconcepts></b> for any date of determination means 7.0% of the Invested Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Servicer Default</financialconcepts></b><b> </b>refers to any of the following events: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) failure by the servicer to make any payment, transfer or deposit, or to give instructions to the trustee
+to make any payment, transfer or deposit, on the date the servicer is required to do so under the pooling and servicing agreement or any supplement, which is not cured within a five Business Day grace period; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) failure on the part of the servicer duly to observe or perform in any material respect any other
+covenants or agreements of the servicer in the pooling and servicing agreement or any supplement which has an Adverse Effect and which continues unremedied for a period of 60 days after written notice, or the servicer assigns its duties under the
+pooling and servicing agreement, except as specifically permitted thereunder; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) any representation,
+warranty or certification made by the servicer in the pooling and servicing agreement, any supplement or in any certificate delivered pursuant to the pooling and servicing agreement or any supplement proves to have been incorrect in any material
+respect when made, which has an Adverse Effect on the rights of the certificateholders of any series, and which Adverse Effect continues for a period of 60 days after written notice; or </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv) the occurrence of certain events of bankruptcy, insolvency, liquidation, receivership or conservatorship
+with respect to the servicer. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Notwithstanding the foregoing, a delay in or failure of performance referred to under
+clause (i) above for a period of 10 Business Days after the applicable grace period or referred to under clauses (ii) or (iii) for a period of 60 Business Days after the applicable grace period, will not constitute a Servicer Default
+if such delay or failure could not have been prevented by the exercise of reasonable diligence by the servicer and such delay or failure was caused by an act of God or other similar occurrence. Upon the occurrence of any such event, the servicer
+will not be relieved from using its best efforts to perform its obligations in a timely manner in accordance with the terms of the pooling and servicing agreement. The servicer must provide the trustee, the transferor and any provider of Series
+Enhancement prompt notice of such failure or delay by it, together with a description of its efforts to so perform its obligations. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Servicing Base Amount</financialconcepts></b> means, for any Distribution Date, (i) the Adjusted Invested Amount as of the
+last day of the Monthly Period preceding such Distribution Date, <i>minus</i> (ii) the product of the amount, if any, on deposit </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">149 </p>
+
+</div></center></div></html>

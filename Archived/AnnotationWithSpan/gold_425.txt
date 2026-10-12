@@ -1,0 +1,29 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 2pt solid"><table cellpadding="0" cellspacing="0" style="width: 100%"><tbody><tr><td style="text-align: center; width: 100%"> </td></tr></tbody></table></div><div style="break-before: page; margin-top: 6pt"><table cellpadding="0" cellspacing="0" style="width: 100%"><tbody><tr><td style="text-align: center; width: 100%"> </td></tr></tbody></table></div><p style="font: 10pt/150% Times New Roman, Times, Serif; margin: 0; text-align: justify">Details of the daily transactions made during
+the period from <date>23 to 27 December 2024</date> are reported below.</p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr style="vertical-align: top">
+<td colspan="4" style="border: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Transaction details</b></font></td></tr>
+<tr>
+<td style="width: 20%; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Trade date<br/>
+(dd/mm/yy)</b></font></td>
+<td style="white-space: nowrap; width: 20%; border-bottom: Black 1pt solid; border-right: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Execution time <br/>
+(UK time)</b></font></td>
+<td style="white-space: nowrap; width: 40%; border-bottom: Black 1pt solid; border-right: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Transaction quantity</b></font></td>
+<td style="width: 20%; border-bottom: Black 1pt solid; border-right: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Transaction <br/>
+price (euro)</b></font></td></tr>
+<tr>
+<td style="vertical-align: top; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><date>23/12/2024</date></font></td>
+<td style="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><date>08:00:31</date></font></td>
+<td style="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><number>228</number></font></td>
+<td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif">€ <number>12.6840</number></font></td></tr>
+<tr>
+<td style="vertical-align: top; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><date>23/12/2024</date></font></td>
+<td style="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><date>08:00:35</date></font></td>
+<td style="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><number>474</number></font></td>
+<td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif">€ <number>12.6800</number></font></td></tr>
+<tr>
+<td style="vertical-align: top; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><date>23/12/2024</date></font></td>
+<td style="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><date>08:01:00</date></font></td>
+<td style="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><number>729</number></font></td>
+<td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif">€ <number>12.6840</number></font></td></tr>
+<tr>
+<td style="vert&lt;/body&gt;&lt;/html&gt;"/></tr></tbody></table></body></html>

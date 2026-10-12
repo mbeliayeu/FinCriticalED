@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt"> </p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">In
+connection with any offering of Securities, other than an ATM Distribution, the underwriters or agents may over-allot or effect transactions
+which stabilize or maintain the market price of the Securities offered at a level above that which might otherwise prevail in the open
+market. Such transactions, if commenced, may be discontinued at any time. No agent of an ATM Distribution, and no person or company acting
+jointly or in concert with an agent of an ATM Distribution, may, in connection with the distribution, enter into any transaction that
+is intended to stabilize or maintain the market price of the securities or securities of the same class as the securities distributed
+pursuant to the ATM Distribution, including selling an aggregate number or principal amount of securities that would result in the agent
+creating an over-allocation position in the securities. See “Plan of Distribution”.</p></body></html>

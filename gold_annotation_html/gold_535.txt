@@ -1,0 +1,15 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The Paying Agent will deliver
+to each holder who properly tendered notes, the purchase price for such notes, and, upon written order of BFI, the Trustee will authenticate
+and deliver (or cause to be delivered) to each such holder a new note equal in principal amount to any unpurchased portion of the
+notes surrendered, if any; provided that each new note will be in a principal amount of <monetaryunit>US$</monetaryunit><number>2,000</number> or an integral multiple of <monetaryunit>US$</monetaryunit><number>1,000</number>
+in excess thereof.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">BFI will not be required
+to make a Change of Control Offer upon a Change of Control Triggering Event if another Person makes such an offer in the manner, at the
+times and otherwise in compliance with the requirements for an offer made by <reportingentity>BFI</reportingentity> and such other Person purchases all notes properly tendered
+and not withdrawn under its offer.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">For purposes of the foregoing
+discussion of a repurchase at the option of holders, the following definitions are applicable:</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">“<b>Below Investment
+Grade Rating Event</b>” means that on any day within the <temporal>60-day</temporal> period (which shall be extended during an Extension Period) after
+the earlier of (1) the occurrence of a Change of Control or (2) the first public notice of the occurrence of a Change of Control
+or the intention by the Company to effect a Change of Control, the notes are rated below an Investment Grade Rating by at least three
+out of four of the Rating Agencies if there are four Rating Agencies or all of the Rating Agencies if there are fewer than four Rating
+Agencies. Notwithstanding the foregoing, a Below Investment Grade Rating Event otherwise arising by virtue of a particular reduction
+or reductions in rating shall not </p></body></html>

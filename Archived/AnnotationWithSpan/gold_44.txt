@@ -1,0 +1,20 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table border="0" cellpadding="4" cellspacing="0" width="100%"><tbody><tr>
+<td align="center" class="FormName" colspan="2" valign="top" width="20%">FORM 3</td>
+<td align="center" rowspan="1" valign="middle" width="60%">
+<span class="FormTitle">UNITED STATES SECURITIES AND EXCHANGE COMMISSION</span><br/><span class="MedSmallFormText">Washington, D.C. 20549</span><br/><br/><span class="FormTitle">INITIAL STATEMENT OF BENEFICIAL OWNERSHIP OF SECURITIES</span><br/><br/><span class="MedSmallFormText">Filed pursuant to Section <number>16</number>(a) of the Securities Exchange Act of <date>1934</date></span><br/><span class="MedSmallFormText">or Section <number>30</number>(h) of the Investment Company Act of <date>1940</date></span>
+</td>
+<td align="center" rowspan="1" valign="top" width="20%"><table border="1" summary="OMB Approval Status Box" width="100%">
+<tbody><tr><td class="FormTextC">OMB APPROVAL</td></tr>
+<tr><td><table border="0" summary="OMB Interior Box" width="100%">
+<tbody><tr>
+<td class="SmallFormText" colspan="3">OMB Number:</td>
+<td class="SmallFormTextR">3235-0104</td>
+</tr>
+<tr><td class="SmallFormText" colspan="4">Estimated average burden</td></tr>
+<tr>
+<td class="SmallFormText" colspan="3">hours per response:</td>
+<td class="SmallFormTextR"><number>0.5</number></td>
+</tr>
+</tbody></table></td></tr>
+</tbody></table></td>
+</tr></tbody></table></body></html>

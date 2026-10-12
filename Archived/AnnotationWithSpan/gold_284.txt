@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Upon
+a new annual information form and new interim or annual financial statements being filed with and, where required, accepted by the applicable
+securities regulatory authorities during the currency of this Prospectus, the previous annual information form, the previous interim
+or annual financial statements and all material change reports filed prior to the commencement of the then current fiscal year will be
+deemed no longer to be incorporated by reference into this Prospectus for purposes of future offers and sales of Securities hereunder.
+Upon a new management information circular in connection with an annual meeting being filed with the applicable securities regulatory
+authorities during the currency of this Prospectus, the management information circular filed in connection with the previous annual
+meeting (unless such management information circular also related to a special meeting) will be deemed no longer to be incorporated by
+reference in this Prospectus for purposes of future offers and sales of Securities hereunder.</p></body></html>

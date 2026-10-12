@@ -1,0 +1,26 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="margin: 0"> </p><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tbody><tr style="vertical-align: top">
+<td style="width: 40%"><font style="font-size: 10pt"><b>Spread to Benchmark Treasury:</b></font></td>
+<td style="width: 60%"><font style="font-size: 10pt">+ 125 basis points </font></td></tr>
+<tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr>
+<tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Yield:</b></font></td>
+<td><font style="font-size: 10pt"><number>5.813%</number> </font></td></tr>
+<tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr>
+<tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Denominations:</b></font></td>
+<td><font style="font-size: 10pt">Initial denominations of US$<number>2,000</number> and subsequent multiples of US$1,000</font></td></tr>
+<tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr>
+<tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Covenants:</b></font></td>
+<td>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Change of control (put @ <number>101%</number>)</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Negative pledge</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0&lt;/body&gt;&lt;/html&gt;"/></td></tr></tbody></table></body></html>

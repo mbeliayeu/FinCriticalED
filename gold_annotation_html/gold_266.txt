@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+for any action taken, or for refraining from taking any action, in good faith pursuant to the pooling and servicing agreement. However, neither the transferor nor the servicer will be protected
+against any liability which would otherwise be imposed by reason of willful misfeasance, bad faith or gross negligence of any such person in the performance of duties or by reason of reckless disregard of its obligations and duties thereunder. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, the pooling and servicing agreement provides that the servicer is not under any obligation to appear in,
+prosecute or defend any legal action which is not incidental to its servicing responsibilities under the pooling and servicing agreement. The servicer may, in its sole discretion, undertake any such legal action which it may deem necessary or
+desirable for the benefit of certificateholders with respect to the pooling and servicing agreement and the rights and duties of the parties thereto and the interests of the certificateholders thereunder. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_56"/>Collection and Other Servicing Procedures </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><temporal>TRS</temporal> has been servicing credit card accounts since 1987 and charge card accounts since 1958 when American Express began
+offering such accounts. TRS has been the servicer for the trust since the trusts formation in 1996. It has been servicing securitized consumer card receivables since 1992 in its capacity as the servicer of the American Express Master Trust.
+TRS currently is the servicer of the American Express Issuance Trust II and, in the future, may be the servicer of other master trusts or other securitization special purpose entities. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the pooling and servicing agreement, the servicer, whether acting itself or through one or more subservicers, is
+responsible for servicing, collecting, enforcing and administering the receivables in accordance with customary and usual procedures for servicing similar card receivables. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Servicing activities to be performed by the servicer include collecting and recording payments, communicating with account
+holders, investigating payment delinquencies, evaluating the increase of credit limits and the issuance of credit cards and credit accounts, providing billing and tax records to account holders and maintaining internal records with respect to each
+account. Managerial and custodial services performed by the servicer on behalf of the trust include providing assistance in any inspections of the documents and records relating to the accounts and receivables by the trustee pursuant to the pooling
+and servicing agreement, maintaining the agreements, documents and files relating to the accounts and receivables as custodian for the trust and providing related data processing and reporting services for certificateholders and on behalf of the
+trustee. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If <reportingentity>TRS</reportingentity> were to become a debtor in a bankruptcy case, a Servicer Default would occur and TRS could be removed as
+servicer for the trust and a successor servicer would be appointed. <i>See  Servicer Default in this prospectus for more information regarding the appointment of a successor servicer.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_57"/>Outsourcing of Servicing </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the pooling and servicing agreement, <reportingentity>TRS</reportingentity>, as servicer, has the right to delegate its duties as servicer to any
+person who agrees to conduct such duties in accordance with the pooling and servicing agreement, the applicable account guidelines and the applicable account agreements. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>TRS</reportingentity> has outsourced certain of its servicing functions by contracting with affiliated and unaffiliated third parties. TRS has
+contracted with AENB to perform certain limited servicing functions with respect to the receivables arising in the accounts owned by AENB, consisting of collecting and depositing or causing to be deposited into the collection account payments
+received in respect of such receivables and, when appropriate, charging off as uncollectible such receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The
+performance of certain servicing functions has been outsourced by <reportingentity>TRS</reportingentity> and its affiliates to third-party service providers. Functions that are performed by outside service providers include, but are not limited to, card production and fulfillment,
+card replacement, contacting of customers to coll<reportingentity>ect</reportingentity> delinquent and <font style="white-space:nowrap">charged-off</font> balances, responding to telephone service center inquiries from customers and prospects, processing of customer disputes,
+preparing customer statements, data entry and imaging and remittance processing. Among other functions, TRS and its affiliates identify areas of risk, design, develop and implement models to minimize financial exposure and maximize customer
+spending, develop credit underwriting policies and procedures, underwrite and re-</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">87 </p>
+
+</div></center></div></html>

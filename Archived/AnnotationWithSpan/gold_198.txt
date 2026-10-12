@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">“<b><i>Consolidated
+Net Worth</i></b>” means the consolidated equity of the Company and its Subsidiaries determined on a consolidated basis in accordance
+with generally accepted accounting principles (including all preferred equity and all equity securities that are classified as liabilities
+for purposes of generally accepted accounting principles but are convertible, either at the option of the issuer or the holder of such
+securities, into equity and are not redeemable at the sole option of the holder for consideration other than equity), plus, without duplication,
+Qualifying Subordinated Debt and Deferred Credits.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">“<b><i>Deferred Credits</i></b>”
+means the deferred credits of the Company and its Subsidiaries determined on a consolidated basis in accordance with generally accepted
+accounting principles.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">“<b><i>Guarantee Obligations</i></b>”
+means the guarantee obligations of the Company pursuant to Article 5 of the Indenture but solely in respect of the notes.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">“<b><i>Holder</i></b>”
+means a Person in whose name a note is registered in the security register in respect of the notes.</p></body></html>

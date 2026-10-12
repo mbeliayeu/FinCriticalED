@@ -1,0 +1,5 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><financialconcepts>Realized disposition gains</financialconcepts>
+from principal investments are included in <financialconcepts>DE</financialconcepts> because we consider the purchase and sale of assets from our directly held investments
+to be a normal part of the Company’s business. Realized disposition gains include gains and losses recorded in net income and equity
+in the current period, and are adjusted to include fair value changes and revaluation surplus balances recorded in prior periods which
+were not included in prior period DE.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"/></body></html>

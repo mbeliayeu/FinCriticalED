@@ -1,0 +1,52 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The following provisions will apply to both mediations and third-party
+arbitrations: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Any mediation or arbitration will be held in New York, New York. </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Notwithstanding this dispute resolution provision, the parties will have the right to seek provisional or
+ancillary relief from a competent court of law, including a temporary restraining order, preliminary injunction or attachment order, provided such relief would otherwise be available by law. </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">The details and/or existence of any unfulfilled repurchase request, any informal meetings, mediations or
+arbitration proceedings, including all offers, promises, conduct and statements, whether oral or written, made in the course of the parties attempt to informally resolve an unfulfilled repurchase request, and any discovery taken in connection
+with any arbitration, will be confidential, privileged and inadmissible for any purpose, including impeachment, in any mediation, arbitration or litigation, or other proceeding; <i>provided, however</i>, that any discovery taken in any arbitration
+will be admissible in that particular arbitration. Such information will be kept strictly confidential and will not be disclosed or discussed with any third party (excluding a partys attorneys, experts, accountants and other agents and
+representatives, as reasonably required in connection with the related resolution procedure and who are bound by substantially equivalent confidentiality obligations). Information will not be subject to the foregoing obligation of confidentiality
+(a) to the extent that such information is or becomes publicly available through no wrongful act of the party making the disclosure and (b) to the extent a party is required to disclose such information under applicable law, regulatory
+requirement or court order, provided that such party where reasonably practicable and to the extent legally permissible, provides the other party to the resolution procedure with prompt prior notice of the required disclosure so that such other
+party may object to the production of its confidential information or seek a protective order or other appropriate remedy. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">A requesting party may not initiate a mediation or arbitration as described above with respect to a receivable that is, or has
+been, the subject of an ongoing or previous mediation or arbitration (whether by that requesting party or another requesting party) but will have the right to join an existing mediation or arbitration with respect to that receivable if the mediation
+or arbitration has not yet concluded. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_50"/>The Transferor Certificates; Additional Transferors </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement provides that the transferor may exchange a portion of the original transferor certificate
+for a Supplemental Certificate for transfer or assignment to a person designated by the transferor upon the execution and delivery of a supplement to the pooling and servicing agreement (which supplement shall be subject to the amendment section of
+the pooling and servicing agreement to the extent that it amends any of the terms of the pooling and servicing agreement; <i>see  Amendments)</i>; <i>provided </i>that prior to such transfer or assignment: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) the Rating Agency Condition is satisfied, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the transferor shall have delivered to the trustee an officers certificate to the effect that the
+transferor reasonably believes that such transfer or assignment will not, based on the facts known to such officer at the time of such certification, have an Adverse Effect, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c) the transferor shall have delivered to the trustee a Tax Opinion with respect to such transfer or
+assignment, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(d) the aggregate amount of principal receivables in the trust as of the date of such
+transfer or assignment will be greater than the Required Minimum Principal Balance as of such date, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(e) the transferor or other holders of the original transferor certificate as of the date of such transfer or
+assignment shall have a remaining interest in the trust of not less than, in the aggregate, <number>2%</number> of the total amount </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">82 </p>
+
+</div></center></div></html>

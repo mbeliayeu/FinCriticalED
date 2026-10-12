@@ -1,0 +1,14 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>: 0pt"&gt;<tbody><tr style="vertical-align: top">
+<td style="width: 0.5in"/><td style="width: 0.5in">(a)</td><td style="text-align: justify">Liens on any property or assets existing
+                                            at the time of acquisition thereof (including acquisition through merger or consolidation)
+                                            to secure, or securing, the payment of all or any part of the purchase price, cost of improvement
+                                            or construction cost thereof or securing any indebtedness incurred prior to, at the time
+                                            of or within 120 days after, the acquisition of such property or assets or the completion
+                                            of any such improvement or construction, whichever is later, for the purpose of financing
+                                            all or any part of the purchase price, cost of improvement or construction cost thereof or
+                                            to secure, or securing, the repayment of money borrowed to pay, in whole or in part, such
+                                            purchase price, cost of improvement or construction cost or any vendor’s privilege
+                                            or lien on such property securing all or any part of such purchase price, cost of improvement
+                                            or construction cost, including title retention agreements and leases in the nature of title
+                                            retention agreements (<i>provided</i> such Liens are limited to such property or assets and
+                                            to improvements on such property);</td></tr></tbody></body></html>

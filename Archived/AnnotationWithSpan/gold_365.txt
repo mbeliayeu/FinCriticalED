@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Unless
+otherwise specified in a Prospectus Supplement, each series or class of Securities will be a new issue of securities with no established
+trading market. Unless otherwise specified in a Prospectus Supplement relating to a series or class of Securities, the Securities will
+not be listed on any securities exchange. Certain broker-dealers may make a market in Securities but will not be obligated to do so and
+may discontinue any market making at any time without notice. No assurance can be given that any broker-dealer will make a market in
+the Securities of any series or as to the liquidity of the trading market for the Securities of any series.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">In
+connection with any offering of Securities, other than an ATM Distribution, the underwriters or agents may over-allot or effect transactions
+which stabilize or maintain the market price of the Securities offered at a level above that which might otherwise prevail in the open
+market. Such transactions, if commenced, may be discontinued at any time. No agent of an ATM Distribution, and no person or company acting
+jointly or in concert with an agent of an ATM Distribution, may, in connection with the distribution, enter into any transaction that
+is intended to stabilize or maintain the market price of the securities or securities of the same class as the securities distributed
+pursuant to the ATM Distribution, including selling an aggregate number or principal amount of securities that would result in the agent
+creating an over-allocation position in the securities.</p></body></html>

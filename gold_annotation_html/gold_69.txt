@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Subordination of the Class B Certificates and the Collateral Interest
+</i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">With respect to Series <font style="white-space:nowrap">2025-1,</font> credit enhancement is provided in the form
+of subordination. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Class B certificates and the Collateral Interest will be subordinated to the extent necessary
+to fund certain payments with respect to the Class A certificates. In addition, the Collateral Interest will be subordinated to the extent necessary to fund certain payments with respect to the Class B certificates. Certain principal
+payments otherwise allocable to the Class B certificateholders may be reallocated to the Class A certificateholders and the Class B Invested Amount may be reduced. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Similarly, certain principal payments otherwise allocable to the Collateral Interest may be reallocated to the Class A
+certificateholders, the Class B certificateholders and, to the extent the Collateral Invested Amount exceeds the Collateral Senior Invested Amount, the holder of the Collateral Interest, and all such principal reallocations will reduce the
+Collateral Invested Amount. If the Collateral Invested Amount is reduced to zero, holders of the Class B certificates will bear directly the credit and other risks associated with their interest in the trust. To the extent the Class B
+Invested Amount is reduced, the percentage of collections of finance charge receivables allocated to the Class B certificateholders in subsequent Monthly Periods will be reduced. Moreover, to the extent the amount of such reduction in the
+Class B Invested Amount is not reimbursed, the amount of principal distributable to the Class B certificateholders will be reduced. If the Class B Invested Amount is reduced to zero, the Class A certificateholders will bear
+directly the credit and other risks associated with their undivided interest in the trust. In the event of a reduction in the Class A Invested Amount, the Class B Invested Amount or the Collateral Invested Amount, the amount of principal
+and interest available to fund payments with respect to the Class A certificates and the Class B certificates will be decreased. <i>See  Allocation Percentages,  Reallocation of Cash Flows and
+ Application of Collections  Excess Spread; Excess Finance Charge Collections below.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_29"/>Allocation
+Percentages </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the pooling and servicing agreement, the servicer will allocate among Series <font style="white-space:nowrap">2025-1</font> and all other series outstanding all collections of finance charge receivables and principal receivables and the Defaulted Amount with respect to such Monthly Period as described under <i>The Pooling
+and Servicing Agreement Generally  Allocations</i> in this prospectus and, with respect to Series <font style="white-space:nowrap">2025-1</font> specifically, as described below. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the pooling and servicing agreement, during each Monthly Period, the servicer will allocate to Series <font style="white-space:nowrap">2025-1</font> its Series Allocable Finance Charge Collections, Series Allocable Principal Collections and Series Allocable Defaulted Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Series Allocable Finance Charge Collections and the Series Allocable Defaulted Amount for Series <font style="white-space:nowrap">2025-1</font> with respect to any Monthly Period will be allocated to the Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest based on the Floating Allocation Percentage and the
+remainder of such Series Allocable Finance Charge Collections and Series Allocable Defaulted Amount will be allocated to the interest of the holders of the Transferor Certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Investor Finance Charge Collections (which for any Monthly Period is equal to the product of the Floating Allocation
+Percentage and the Series Allocable Finance Charge Collections) will be reallocated among all series, including Series <font style="white-space:nowrap">2025-1,</font> in the first group of series known as Group I as set forth in <i>The Pooling
+and Servicing Agreement Generally  Reallocations Among Different Series Within a Reallocation Group</i> in this prospectus. Reallocated Investor Finance Charge Collections allocated to Series
+<font style="white-space:nowrap">2025-1</font> and the Investor Default Amount will be further allocated among the Class A certificateholders, the Class B certificateholders and the holder of the Collateral Interest in accordance with the
+Class A Floating Percentage, the Class B Floating Percentage and the Collateral Floating Percentage, respectively. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Series Allocable Principal Collections for Series <font style="white-space:nowrap">2025-1</font> will be allocated to the
+Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest based on the Principal Allocation Percentage and the remainder of such Series Allocable Principal Collections will be allocated to the holders of the
+Transferor Certificates. Such principal collections so allocated to the Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest will be further allocated to the Class A
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">62 </p>
+
+</div></center></div></html>

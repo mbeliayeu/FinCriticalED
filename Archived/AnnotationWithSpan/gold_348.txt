@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>isions
+of such Indenture to such extent as shall be necessary to permit or facilitate the issuance of Indenture Securities in bearer form, registrable
+or not registrable as to principal, and with or without interest coupons, or to permit or facilitate the issuance of Indenture Securities
+in uncertificated form; (j) in the case of the US LLC Indenture, the AUS Issuer Indenture and the UK Issuer Indentures, to comply
+with any requirements of the Trust Indenture Legislation including without limitation in connection with qualifying, or maintaining the
+qualification of, the US LLC Indenture, the AUS Issuer Indenture or the UK Issuer Indentures, as applicable, under the Trust Indenture
+Act; or (k) to cure any ambiguity, to correct or supplement any provision in such Indenture which may be defective or inconsistent
+with any other provision therein, or to make any other provisions with respect to matters or questions arising thereunder, provided that
+such action shall not adversely affect, in the case of the BFI Senior Indenture and the Other Indentures, in any material respect, the
+interests of the holders of Indentures Securities of any series. (Section 901 of the BN Indenture and Section 10.1 of the BFI
+Senior Indenture and the Other Indentures.)</body></html>

@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(3) certificates evidencing an interest in such other
+investment pools have been purchased by investors other than Plans for at least one year prior to any Plans acquisition of senior certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Moreover, the authorization provides relief from certain self-dealing/ <font style="white-space:nowrap"><font style="white-space:nowrap">conflict-of-interest</font></font> prohibited transactions that may occur when a Plan fiduciary causes a Plan to acquire senior certificates if the fiduciary (or its affiliate) is an obligor on the receivables held in the
+trust; <i>provided </i>that among other requirements: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(1) in the case of an acquisition in connection
+with the initial issuance of senior certificates, at least <number>50%</number> of each class of certificates in which Plans have invested is acquired by persons independent of the restricted group and at least 50% of the aggregate interest in the trust is acquired
+by persons independent of the restricted group; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(2) such fiduciary (or its affiliate) is an obligor with
+respect to <number>0.5%</number> or less of the fair market value of the obligations contained in the trust; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(3) the
+Plans investment in senior certificates does not exceed <number>25%</number> of all of the senior certificates outstanding after the acquisition; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(4) no more than <number>25%</number> of the assets of the Plan are invested in securities representing an interest in one or
+more trusts containing assets sold or serviced by the same entity. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The authorization does not apply to Plans sponsored by
+the restricted group which consists of the transferor, any underwriter of the senior certificates, the trustee, the servicer, any obligor with respect to obligations included in the trust constituting more than <number>0.5%</number> of the fair market
+value of the aggregate undivided interest in the trust allocated to the senior certificates of a series, determined on the date of the initial issuance of such series, or any affiliate of any such party. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The DOL has designated this authorization as an underwriter exemption. As a result, an insurance company investing
+solely assets of its general account may be able to acquire and hold certain subordinated certificates of a series; <i>provided </i>that (i) the senior certificates of that series are eligible for relief under the authorization and
+(ii) such acquisition and holding satisfies the conditions applicable under Sections I and III of DOL PTCE <font style="white-space:nowrap">95-60.</font> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor believes that the authorization will apply to the acquisition and holding of the Class A certificates by
+Plans and that all conditions of the authorization, other than those that are within the control of the investors (i.e., clauses (a) and (f) above in the third paragraph under <i> The Department of Labor Authorization</i>),
+will be met. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Moreover, as discussed above, while Special Tax Counsel has given its opinion that the certificates will
+properly be treated as debt for federal income tax purposes, if any certificates are treated as equity interests in a partnership in which other certificates are debt, all or part of a <font style="white-space:nowrap">tax-exempt</font>
+investors share of income from the certificates that are treated as equity could be treated as unrelated debt-financed income under the Internal Revenue Code taxable to the investor. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_112"/>Class A Certificates </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Subject to the considerations described above, the Class A certificates may be purchased by, on behalf of, or with
+plan assets of any Plan. Any Plan fiduciary that proposes to cause a Plan to acquire any of the Class A certificates should consult with its counsel with respect to the potential consequences of the Plans acquisition and
+ownership of such Class A certificates under ERISA and the Internal Revenue Code. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_113"/>Consultation With Counsel </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In light of the foregoing, fiduciaries of Plans, or other entities whose assets include plan assets considering
+the purchase of offered certificates, should consult their own counsel as to whether the acquisition of such offered certificates would constitute or result in a prohibited transaction, whether trust assets which are represented by such offered
+certificates would be considered plan assets, the consequences that would apply if the trust assets were </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">125 </p>
+
+</div></center></div></html>

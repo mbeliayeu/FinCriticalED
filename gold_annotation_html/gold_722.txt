@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Prospectus Supplement relating to each series of Securities will also set forth the terms of the offering of the Securities of such series,
+including, to the extent applicable, (i) the names of any underwriters or agents, (ii) the purchase price or prices of the
+offered Securities, (iii) the initial offering price, (iv) in the case of offers and sales by the Selling Shareholders, the
+names of such Selling Shareholders and the number of and prices at which such Class A Shares are proposed to be sold by them, (v) the
+proceeds to the applicable Issuer and/or Selling Shareholder from the sale of the offered Securities, (vi) the underwriting discounts
+and commissions and (vii) any discounts, commissions and concessions allowed or reallowed or paid by any underwriter to other dealers.</p></body></html>

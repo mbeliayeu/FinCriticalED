@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Further
+    Issues	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><reportingentity>BFI</reportingentity>
+    may from time to time, without the consent of the holders of the notes but with the consent of the Company, create and issue further
+    notes having the same terms and conditions in all respects as the notes being offered hereby, except for the issue date, the issue
+    price and the first payment of interest thereon. Additional notes issued in this manner will be consolidated with and will form a
+    single series with the notes being offered hereby; <i>provided</i> that if such additional notes are not fungible with the original
+    notes offered hereby for U.S. federal income tax purposes, then such additional notes will be issued with a separate CUSIP or ISIN
+    number so that they are distinguishable from the original notes.</font></td></tr></body></html>

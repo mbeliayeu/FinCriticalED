@@ -1,0 +1,15 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">All
+Debt Securities issued by <reportingentity>BFI</reportingentity>, the US LLC Issuer, BFI II, the AUS Issuer and the UK Issuer will be fully and unconditionally guaranteed
+by the Company.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+applicable Prospectus Supplement will set forth the following terms relating to the particular offered <financialconcepts>Debt Securities</financialconcepts>: (1) the
+specific designation of the offered <financialconcepts>Debt Securities</financialconcepts> and the Indenture under which they are issued; (2) any limit on the aggregate
+principal amount of the offered Debt Securities; (3) the date or dates, if any, on which the offered Debt Securities will mature
+and the portion (if less than all of the principal amount) of the offered Debt Securities to be payable upon declaration of acceleration
+of maturity; (4) the rate or rates per annum (which may be fixed or variable) at which the offered Debt Securities will bear interest,
+if any, the date or dates from which any such interest will accrue and on which any such interest will be payable and the Regular Record
+Dates for any interest payable on the offered Debt Securities which are in registered form (“<b><financialconcepts>Registered Debt Securities</financialconcepts></b>”);
+(5) any mandatory or optional redemption or sinking fund provisions, including the period or periods within which the price or prices
+at which and the terms and conditions upon which the offered <financialconcepts>Debt Securities</financialconcepts> may be redeemed or purchased at the option of the Issuer
+or otherwise; (6) whether the offered <financialconcepts>Debt Securities</financialconcepts> will be issuable in registered form or bearer form or both and, if issuable
+in bearer form, the restrictions as to the offer, sale and delivery of the offered Debt Securities in bearer form and as to exchanges
+between registered and bearer form; (7) whether the offer</p></body></html>

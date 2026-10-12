@@ -1,0 +1,35 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z99b0416b14834c27a79057a0b5a39ea6" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">accelerate the utilization of deferred tax assets (“<font style="font-weight: bold;"><reportingentity>DTA</reportingentity></font>”) on <reportingentity>MPS</reportingentity>’s past losses, leveraging on a higher consolidated tax base and by budgeting Euro
+                1.3 <monetaryunit>billion</monetaryunit> (currently off-budget), bringing the total to Euro <number>2.9</number> billion.  Over the next six years, the use of these DTAs will generate a significant capital benefit (Euro 0.5 billion per year), in addition to the net income;</div>
+</td>
+</tr>
+</tbody></table>
+</div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="ze2b807f588ce401dbc9504218a420f8e" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">extract synergies deriving from the combination of the two entities, estimated at EUR <number>0.7</number> billion per year before tax, as described in paragraph 1.3;</div>
+</td>
+</tr>
+</tbody></table>
+</div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z33304bb2dd4240ab9dbc8c3ad51076c6" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 10pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 10pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 10pt;">create value for all <financialconcepts>shareholders</financialconcepts> through the distribution of sustainable dividend flows over time, while confirming MPS’s solid capital position;</div>
+</td>
+</tr>
+</tbody></table>
+</div></body></html>

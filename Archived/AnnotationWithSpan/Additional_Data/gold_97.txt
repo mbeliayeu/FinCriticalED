@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>TRS</reportingentity> and AENB are also involved at any given time with governmental and
+regulatory inquiries, investigations and proceedings. Any such action could subject them to significant fines, penalties or other requirements resulting in Card Member reimbursements, increased expenses, limitations or conditions on their business
+activities, and damage to American Express reputation and brand, all of which could adversely affect their ability to originate new accounts and to generate and service receivables. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The current regulatory environment, including internal and regulatory reviews to assess compliance with these laws and
+regulations, has resulted in, and is likely to continue to result in, changes to pricing, business practices, products and procedures relating to the card products issued by <reportingentity>AENB</reportingentity>; and also to servicing and collection practices by TRS. They could
+also result in increased costs related to regulatory oversight, supervision and examination, additional remediation efforts and possible penalties. For example, in January 2025, American Express announced that it entered into agreements to resolve
+governmental investigations related to historical sales practices for certain U.S. small business customers. In addition, various regulatory agencies have announced they are reviewing credit card rewards programs for compliance with certain consumer
+protection laws and regulations and American Express is cooperating with regulatory agencies in their examination and investigation of the provision of rewards and benefits. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Supervision efforts and the enforcement of existing laws and regulations could limit <reportingentity>AENB</reportingentity> and its affiliates ability to
+pursue certain business opportunities and adopt new technologies, and affect their relationships with Card Members, partners, merchants, service providers and other third parties. New laws or regulations could similarly affect their business,
+increase their costs of doing business, impact what they are able to charge for, or offer in connection with, their products and services, and require them to change certain of their business practices, all of which could adversely affect their
+ability to originate new accounts, and to generate and service receivables.<i> See Certain Legal Aspects of the Receivables  Consumer Financial Products Regulation.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, state and federal legislators and/or regulators in the United States are increasingly adopting or revising
+privacy, data protection, data management, resiliency, data transfer, third party oversight, account access, artificial intelligence and machine learning and information security and cybersecurity laws. As such laws are interpreted and applied (in
+some cases, with significant differences or conflicting requirements across jurisdictions), compliance and technology costs will continue to increase, particularly in the context of ensuring that adequate privacy, data protection, data management,
+incident management, resiliency, third party management, data transfer, security controls, account access mechanism and controls related to artificial intelligence and machine learning are in place. Additionally, new laws and regulations related to
+automated decision making, artificial intelligence and machine learning as well as the application of existing laws and regulations to these technologies may restrict or impose burdensome and costly requirements on <reportingentity>American Express</reportingentity>. Compliance with
+current or future laws in the aforementioned areas could result in higher compliance and technology costs and could restrict the ability of AENB and its affiliates to fully maximize their platform or provide certain products and services, work with
+certain service providers and affect or limit how they collect, use, share, retain and safeguard consumer and colleague information. Failure to comply with such laws or to maintain sufficient governance and control structures could result in
+potentially significant regulatory and/or governmental investigations and/or actions, litigation, fines, sanctions, ongoing regulatory monitoring, customer attrition, decreases in the use or acceptance of American Express cards and damage to
+American Express reputation and brand. In recent years, there has been increasing regulatory enforcement and litigation activity in the areas of privacy, data protection, data management, artificial intelligence and machine learning and
+information security and cybersecurity in the United States. These developments could adversely impact AENB or its affiliates ability to originate additional accounts, to generate and service receivables and to collect payments on the
+receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Certain <font style="white-space:nowrap">EEA-regulated</font> and
+<font style="white-space:nowrap">UK-regulated</font> investors may be subject to due diligence and risk retention requirements, making the certificates unsuitable for their investment. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><i>EU Securitization Regulation </i></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Regulation (EU) <temporal>2017</temporal>/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general
+framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation and amending certain other European Union directives and regulations (as may be amended from time
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">35 </p>
+
+</div></center></div></html>

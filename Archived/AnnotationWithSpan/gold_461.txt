@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-bottom: 9pt;"><img src="picture3.jpg"/> </div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z9847969c24ff4c38bf0aeca995b0c293" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(viii)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>that, between the date of this Notice and the Payment Date (as defined below), the Issuer and/or its directly or indirectly controlled subsidiaries and/or affiliated companies do not resolve upon and in any case do not carry out, even if
+              resolved upon before the date of this Notice, nor undertake to carry out, acts or transactions that may counteract the achievement of the objectives of the Offer pursuant to Article 104 of the TUF, even if such acts or transactions have been
+              authorized by the shareholders’ meeting in ordinary or extraordinary session of the Issuer or are decided and implemented independently by the shareholders’ meeting in ordinary or extraordinary session and/or by the management bodies of the
+              Issuer’s subsidiaries and/or affiliated companies (the “<font style="font-weight: bold;">104 Condition</font>”);</div>
+</td>
+</tr>
+</tbody></table></body></html>

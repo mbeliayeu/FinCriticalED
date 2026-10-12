@@ -1,0 +1,55 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_87"/>Amendments </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The purchase agreement may be amended by <reportingentity>AENB</reportingentity> and the purchaser without consent of any investor certificateholders. No
+amendment, however, may be effective unless: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">written confirmation has been received by the purchaser from each rating agency that the amendment will not
+result in the reduction, qualification or withdrawal of the respective ratings of each rating agency for any certificates issued by the trust; and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">AENB will certify to the purchaser that it reasonably believes that the amendment will not cause a <font style="white-space:nowrap">Pay-Out</font> Event. </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_88"/>Termination </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The purchase agreement will not terminate at least until the earlier of (a) the termination of the trust pursuant to the
+pooling and servicing agreement and (b) an amendment to the pooling and servicing agreement to replace <reportingentity>RFC III</reportingentity> with an affiliate of RFC III as the transferor under the pooling and servicing agreement. Nevertheless, if a receiver or conservator
+is appointed for AENB or certain other liquidation, bankruptcy, insolvency or other similar events occur, AENB will cease to transfer receivables to the purchaser and promptly give notice of that event to the purchaser and the trustee, unless the
+receiver, conservator or bankruptcy court instructs otherwise. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="tx764677_89"/>Asset Representations Review </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">As discussed under <i>Description of the Purchase Agreement  Representations and Warranties</i> and
+<i>The Pooling and Servicing Agreement Generally  Representations and Warranties,</i> the sponsor and the transferor make certain representations and warranties regarding the receivables and the related accounts. As described
+below, the asset representations reviewer will be responsible for performing a review of all receivables in the Trust Portfolio that are more than <temporal>60 days</temporal> contractually delinquent (i.e., 60 days past the date a payment amount is first due under the
+applicable card member agreement) and the accounts relating to such receivables for compliance with certain of these representations and warranties if the following sequential events occur: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">as of the end of any Monthly Period, the <font style="white-space:nowrap">60-Day</font> Delinquency Percentage
+equals or exceeds the Delinquency Threshold, as described below under <i></i><i/><i> Delinquency Event</i>; and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the certificateholders have voted to direct a review of all receivables in the Trust Portfolio that are more
+than 60 days contractually delinquent and the accounts relating to such receivables for compliance with the ARR Representations and Warranties on the receivables and the accounts, as described below under <i></i><i/><i> Voting
+Event.</i> </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_90"/>Delinquency Event </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If, with respect to any Monthly Period, the <font style="white-space:nowrap"><temporal>60-Day</temporal></font> Delinquency Percentage equals or
+exceeds the Delinquency Threshold, the transferor will disclose such occurrence in the trusts monthly distribution report on Form <font style="white-space:nowrap">10-D</font> relating to such Monthly Period. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The <font style="white-space:nowrap"><temporal>60-Day</temporal></font> Delinquency Percentage for any Monthly Period will equal the
+average for the three consecutive Monthly Periods ending with such Monthly Period of the aggregate outstanding balance of receivables in the Trust Portfolio that are more than <temporal>60 days</temporal> contractually delinquent (not including any Defaulted
+Receivables), as a percentage of the total receivables outstanding in the Trust Portfolio, in each case as of the end of the applicable Monthly Period. We determined to base the delinquency event on the percentage of receivables in the Trust
+Portfolio that are more than 60 days contractually delinquent because it is a relatively stable metric by which to measure nonperforming assets at different points in time. We determined to use a rolling three-month average of monthly delinquency
+percentages because it is a measure of nonperforming assets over a period of time and is, therefore, a better measure of the significance of that nonperformance than is a measure of nonperforming assets at any particular point in time. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">108 </p>
+
+</div></center></div></html>

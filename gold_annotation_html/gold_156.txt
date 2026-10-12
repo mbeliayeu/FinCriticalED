@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Revolving Period</b> means: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   for Series <font style="white-space:nowrap">2025-1,</font> the period that begins on the
+series closing date and continues until the earlier of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the commencement of the Early
+Amortization Period for Series <font style="white-space:nowrap">2025-1;</font> and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the
+commencement of the Controlled Accumulation Period; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   for any other series of
+certificates, the period that begins on the series closing date or another date as specified in the related supplement and continues until the earlier of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the commencement of the Early Amortization Period or Early Accumulation Period for that
+series; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the date specified in the related supplement as the end of the Revolving
+Period. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Series <font style="white-space:nowrap">2025-1</font></b> means the series of Class A
+certificates, Class B certificates and Collateral Interest, the terms of which are described in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Series <font style="white-space:nowrap">2025-1</font> Termination Date</b> means the <temporal>December 2029</temporal> Distribution
+Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Series Adjusted Invested Amount</b><b> </b>means, for any series and for any Monthly Period: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the series invested amount for such series for that Monthly Period, less </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the excess, if any, of the cumulative amount (calculated in accordance with the terms of
+the related supplement) of investor charge-offs allocable to the invested amount for such series as of the last day of the immediately preceding Monthly Period over the aggregate reimbursement of such investor charge-offs as of such last day (or for
+any other series), or such lesser amount as may be provided in the supplement for such series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Series Adjusted
+Portfolio Yield</b> means, for any Monthly Period, the annualized percentage equivalent of a fraction: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the numerator of which is equal to: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   Reallocated Investor Finance Charge Collections (including any investment earnings and
+certain other amounts that are to be treated as collections of finance charge receivables allocable to Series <font style="white-space:nowrap">2025-1</font> in accordance with the pooling and servicing agreement) for such Monthly Period, <i>plus</i>
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the amount of investment earnings, if any, in the Principal Funding Account for the
+related Distribution Date, <i>plus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   any Excess Finance Charge Collections that are
+allocated to Series <font style="white-space:nowrap">2025-1,</font> <i>plus</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(d)   the
+amount of funds withdrawn from the Reserve Account and which are required to be deposited into the Collection Account and included as Class A Available Funds for the Distribution Date for such Monthly Period, <i>minus</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(e)   the Investor Default Amount for the Distribution Date for such Monthly Period, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the denominator of which is the Invested Amount as of the last day of the preceding Monthly
+Period. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">149 </p>
+
+</div></center></div></html>

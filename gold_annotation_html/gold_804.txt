@@ -1,0 +1,36 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div><img src="picture3.jpg"/></div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z41b073d6c90246309ece23a1cb4e7f22" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">realize a simple integration with limited employment impacts, while at the same time offering the employees of each institution the opportunity to develop their careers in a larger
+                organization;</div>
+</td>
+</tr>
+</tbody></table>
+</div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zdb3e4480ad7e43d7ae2799896360dfba" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">improve the positioning of all stakeholders, with a scale to serve them at European level;</div>
+</td>
+</tr>
+</tbody></table>
+</div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z3f2a234d66eb4d9e92e56a98e4b7ea25" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">increase support to households, businesses, territories and to the Italian economy, by strengthening overall support to Italian households, both in <financialconcepts>financing</financialconcepts> needs and in the generation,
+                preservation and protection of <financialconcepts>savings</financialconcepts>, and to businesses, by partnering with leading Italian companies to capture domestic and international growth opportunities; and</div>
+</td>
+</tr>
+</tbody></table>
+</div></body></html>

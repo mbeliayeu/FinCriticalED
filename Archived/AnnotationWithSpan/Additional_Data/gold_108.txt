@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+individual credit risk model should be made. Using an automated system that operates on a daily basis, <reportingentity>AENB</reportingentity> and its affiliates verify that the applications approved and credit lines granted by
+the automated system have correctly applied the decision logic established by the systems designers. On a monthly basis, employees of AENB and its affiliates measure the outcomes of the underwriting and authorization systems and specified
+portfolio level statistics against <font style="white-space:nowrap">pre-set</font> escalation metrics. Issues are escalated in accordance with policy to the individual credit risk committee or the appropriate subcommittee for evaluation to determine
+whether any changes to policies, strategies or models should be made.</p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Conclusion of Review </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">After undertaking the review described above, the transferor has concluded that it has reasonable assurance that the
+disclosure regarding the receivables in the Trust Portfolio in this prospectus, including the information provided in Annex I to this prospectus, is accurate in all material respects. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_8"/>Repurchases and Replacements </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement, the transferor makes certain representations and warranties to the trust about the
+receivables. If the transferor materially breaches certain of those representations or warranties, under certain circumstances, all of the Ineligible Receivables will be reassigned to the transferor and the related accounts will no longer be
+included in the Trust Portfolio. <i>See The Pooling and Servicing Agreement Generally  Representations and Warranties in this prospectus. </i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the purchase agreement, <reportingentity>AENB</reportingentity> makes certain representations and warranties to the purchaser about the receivables. If
+AENB breaches certain of those representations or warranties and, as a result, the purchaser is required under the pooling and servicing agreement to accept a reassignment of the related Ineligible Receivables as described above, then AENB will
+accept reassignment of such Ineligible Receivables. <i>See </i><i></i><i>Description of the Purchase Agreement  </i><i>Repurchase Obligations</i><i></i><i> in this prospectus.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the past three years, no assets securitized by the sponsor were the subject of a demand for reassignment or repurchase for
+breach of representations and warranties. All such demands for reassignment or repurchase are disclosed on Form <font style="white-space:nowrap">ABS-15G</font> and on the trusts monthly distribution reports on Form <font style="white-space:nowrap">10-D.</font> The most recent Form <font style="white-space:nowrap">ABS-15G</font> covering the receivables in the trust was filed on <temporal>February 9, 2024</temporal>, under the transferors CIK number, 0001283434. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under certain circumstances, certificateholders may direct an asset representations reviewer to perform a review of all
+receivables in the Trust Portfolio that are more than <temporal>60 days</temporal> contractually delinquent and the accounts relating to such receivables for compliance with certain representations and warranties on the receivables and the accounts. <i>See Asset
+Representations Review in this prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_9"/>The Accounts </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The receivables have arisen or will arise in certain revolving credit accounts that have been selected from the Total
+Portfolio, in each case, on the basis of criteria set forth in the purchase agreement and the pooling and servicing agreement. An account in the Total Portfolio must be an Eligible Account to be selected for inclusion in the portfolio of accounts,
+the receivables of which will be owned by the trust. The accounts include and may include all related accounts that satisfy certain conditions set forth in the pooling and servicing agreement or are originated as a result of (a) a card being
+lost or stolen or (b) the conversion of an account into another type of Eligible Account. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Accounts which relate to
+bankrupt obligors or certain <font style="white-space:nowrap">charged-off</font> receivables may be designated as accounts provided that the amount of principal receivables in any such account is deemed to be zero for purposes of all allocations
+under the pooling and servicing agreement. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the pooling and servicing agreement, in certain circumstances, the
+transferor will be obligated (subject to certain limitations and conditions) to designate, from time to time, eligible accounts to be included as accounts, the receivables of which will ultimately be conveyed to the trust. The transferor does not
+own accounts. If </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">46 </p>
+
+</div></center></div></html>

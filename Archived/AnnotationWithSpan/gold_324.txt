@@ -1,0 +1,6 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Payment</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Unless
+otherwise indicated in the applicable Prospectus Supplement, payment of the principal of, and any premium and interest on, Registered
+Debt Securities (other than a Registered Global Security) will be made at the Corporate Trust Office of the applicable Trustee(s) and
+the office or agency of the particular Issuer maintained for that purpose in Toronto, Canada (in the case of the BN Indenture, the BFI
+Indentures and the BFI II Indenture) or in Toronto, Canada or New York, New York (in the case of the US LLC Indenture, the AUS Issuer
+Indenture and the UK Issuer Indentu</p></body></html>

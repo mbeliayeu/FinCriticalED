@@ -1,0 +1,37 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Delivery of the notes, in book-entry form only, will be made through
+The Depository Trust Company on or about <temporal>March 3, 2025</temporal>.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><reportingentity>BFI</reportingentity>’s head and registered
+office is located at Brookfield Place, Suite 100, 181 Bay Street, Toronto, Ontario M5J 2T3.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"/><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr style="vertical-align: top">
+<td colspan="5" style="padding-top: 5pt; padding-right: 0.05in; padding-left: 0.05in; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Joint
+    Book-Running Managers</i></font></td></tr>
+<tr>
+<td style="width: 20%; padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Deutsche
+    Bank Securities</reportingentity></b></font></td>
+<td style="width: 20%; padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>SMBC
+    Nikko</reportingentity></b></font></td>
+<td style="width: 20%; padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Citigroup</reportingentity></b></font></td>
+<td style="width: 20%; padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Mizuho</reportingentity></b></font></td>
+<td style="width: 20%; padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>BofA
+    Securities</reportingentity></b></font></td></tr>
+<tr style="vertical-align: top">
+<td colspan="5" style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Co-Managers</i></font></td></tr>
+<tr>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Bradesco
+    BBI</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>BNP
+    PARIBAS</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Brookfield
+    Capital Solutions</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Desjardins
+    Capital Markets</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Itaú
+    BBA</reportingentity></b></font></td></tr>
+<tr>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>MUFG</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>National
+    Bank of Canada Financial Markets</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Natixis</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>S<reportingentity>antander</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>S<reportingentity>OCIETE
+    GENERALE</reportingentity></b></font></td></tr>
+</tbody></table></body></html>

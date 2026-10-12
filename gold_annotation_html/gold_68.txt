@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+in respect of the Collateral Invested Amount until the final principal payment has been made to the Class A certificateholders and the Class B certificateholders. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Controlled Accumulation Period is scheduled to begin at the close of business on the last day of the <temporal>November 2026</temporal> Monthly
+Period. However, the date on which the Controlled Accumulation Period actually begins may be delayed if  after making a calculation prescribed by the pooling and servicing agreement  the servicer determines, in effect, that enough Shared
+Principal Collections are expected to be available for your series from principal sharing series that will be in their revolving periods during the Controlled Accumulation Period to delay the start of the Controlled Accumulation Period, without
+affecting the payment in full of the certificates of your series by the Expected Final Payment Date. This calculation will take into account the then-current principal payment rate on the accounts and the principal amount of principal sharing series
+that are entitled to share principal with Series <font style="white-space:nowrap">2025-1.</font> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the beginning of your
+series Controlled Accumulation Period is delayed and then a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event occurs with respect to any outstanding principal sharing series, your series Controlled Accumulation
+Period will start on (i) the first day of the Monthly Period immediately succeeding the date on which the <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event occurred or, if sooner, (ii) the date on which the
+Controlled Accumulation Period is then scheduled to start. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If a <font style="white-space:nowrap">Pay-Out</font> Event
+with respect to Series <font style="white-space:nowrap">2025-1</font> occurs during the Controlled Accumulation Period, the Early Amortization Period will commence and any amount on deposit in the Principal Funding Account will be paid first to the
+Class A certificateholders on the first Special Payment Date and then, after the Class A Invested Amount is paid in full, to the Class B certificateholders. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If, on the Expected Final Payment Date, monies on deposit in the Principal Funding Account are insufficient to pay the
+Class A Invested Amount and the Class B Invested Amount or if there are insufficient collections of principal receivables to pay the Collateral Invested Amount, a <font style="white-space:nowrap">Pay-Out</font> Event will occur and the
+Early Amortization Period will commence. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date with respect to the Early Amortization Period until
+the Class A Invested Amount has been paid in full or the Series <font style="white-space:nowrap">2025-1</font> Termination Date occurs, the holders of the Class A certificates will be entitled to receive Available Principal Collections in
+an amount up to the Class A Invested Amount. After payment in full of the Class A Invested Amount, the holders of the Class B certificates will be entitled to receive, on each Distribution Date, Available Principal Collections until
+the earlier of the date the Class B Invested Amount is paid in full and the Series <font style="white-space:nowrap">2025-1</font> Termination Date. After payment in full of the Class B Invested Amount, the holder of the Collateral Interest
+will be entitled to receive, on each Distribution Date, Available Principal Collections until the earlier of the date the Collateral Invested Amount is paid in full and the Series <font style="white-space:nowrap">2025-1</font> Termination Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_28"/>Credit Enhancement </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The presence of credit enhancement for a class is intended to enhance the likelihood of receipt by certificateholders of such
+class of the full amount of principal and interest and to decrease the likelihood that such certificateholders will experience losses. However, the credit enhancement, if any, for a series will not provide protection against all risks of loss and
+will not guarantee repayment of the entire principal balance of the certificates and interest thereon. If losses occur that exceed the amount covered by the credit enhancement or that are not covered by the credit enhancement, certificateholders
+will bear their allocable share of such losses. In addition, if specific credit enhancement is provided for the benefit of more than one class or series, certificateholders of any such class or series will be subject to the risk that such credit
+enhancement will be exhausted by the claims of certificateholders of other classes or series. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">61 </p>
+
+</div></center></div></html>

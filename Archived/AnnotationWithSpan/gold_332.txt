@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Consolidation, Merger, Amalgamation and
+Sale of Assets</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Pursuant
+to the BN Indenture, the Company shall not enter into any transaction (whether by way of reorganization, reconstruction, consolidation,
+amalgamation, merger, transfer, sale or otherwise) whereby all or substantially all of its undertaking, property and assets would become
+the property of any other Person (the “<b>BN Successor Corporation</b>”) unless: (a) the Company and the BN Successor
+Corporation shall have executed, prior to or contemporaneously with the consummation of such transaction, such instruments and done such
+things as, in the opinion of counsel, are necessary or advisable to establish that, upon the consummation of such transaction, (i) the
+BN Successor Corporation will have assumed all the covenants and obligations of the Company under the BN Indenture in respect of the
+Indenture Securities of every series issued thereunder, and (ii) the Indenture Securities of every series issued under the BN Indenture
+will be valid and binding obligations of the BN Successor Corporation entitling the Holders thereof, as against the BN Successor Corporation,
+to all the rights of Holders of Indenture Securities under the BN Indenture; and (b) such transaction shall be on such terms and
+shall be carried out at such times and otherwise in such manner as shall not be prejudicial to the interests of the Holders of the Indenture
+Securities of each and every series or to the rights and powers of the Trustee under the BN Indenture. (Section 801 of the BN Indenture.)</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p></body></html>

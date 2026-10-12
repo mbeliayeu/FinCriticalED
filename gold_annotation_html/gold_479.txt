@@ -1,0 +1,20 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><b>Interest
+    Payment Dates	</b><td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><temporal>March
+                                            3</temporal> and September 3 of each year, beginning on <temporal>September 3, 2025</temporal>.</p></td><tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>CUSIP/ISIN	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">11271L
+    AP7 / US11271LAP76.</font></td></tr><tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Rank	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    notes will rank equally with the existing <reportingentity>BFI</reportingentity> senior notes and any future unsecured, unsubordinated senior obligations of BFI. BFI
+    has not issued or become an obligor under any unsecured senior debt securities since its inception except for the existing BFI senior
+    notes. The notes will be fully and unconditionally guaranteed by the Company and such guarantee will rank equally with the Company’s
+    other unsecured, unsubordinated senior obligations (including the existing BFI senior notes) and will effectively be subordinated
+    to all existing and future liabilities of the Company’s subsidiaries (other than BFI, to the extent of any of its indebtedness
+    that is guaranteed by the Company on parity with the Company’s guarantee of the notes offered hereby).</font></td></tr><tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Redemption	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    notes are redeemable, at any time at <reportingentity>BFI</reportingentity>’s option, at the redemption prices set forth under the heading “Description
+    of the Notes — Redemption and Repurchase”. The notes are also redeemable in the event of certain changes affecting
+    Canadian withholding tax, as more fully described under “Description of the Notes — Redemption for Changes in Canadian
+    Withholding Taxes”.</font></td></tr></body></html>

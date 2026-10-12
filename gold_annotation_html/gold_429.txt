@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><font style="font-weight: normal"> </font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><font style="font-weight: normal">* Note: A security rating is not
+a recommendation to buy, sell or hold securities and may be subject to revision or withdrawal at any time.</font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><font style="font-weight: normal"> </font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0in">** <font style="font-size: 10pt">Under Rule 15c6-1
+under the Exchange Act, trades in the secondary market generally are required to settle in one business day unless the parties to any
+such trade expressly agree otherwise. Accordingly, purchasers who wish to trade the Notes prior to the delivery of the Notes hereunder
+may be required, by virtue of the fact that the Notes initially will settle in T+<temporal>2</temporal>, to specify an alternative settlement cycle at the
+time of any such trade to prevent a failed settlement. Purchasers of the Notes who wish to trade the Notes prior to their date of delivery
+hereunder should consult their own advisors.</font></p></body></html>

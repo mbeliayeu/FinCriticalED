@@ -1,0 +1,37 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+the certificates are issued with original issue discount, the provisions of Sections 1271 through 1273 and 1275 of the Internal Revenue Code will apply to the certificates. Under those
+provisions, a U.S. certificate owner (including a cash basis holder) generally would be required to accrue the original issue discount on its interest in a certificate in income for federal income tax purposes on a constant yield basis, resulting in
+the inclusion of original issue discount in income in advance of the receipt of cash attributable to that income. In general, a certificate will be treated as having original issue discount to the extent that its stated redemption price
+exceeds its issue price, if such excess equals or exceeds a de minimis amount equal to <number>0.25 percent</number> multiplied by the weighted average life of the certificate (determined by taking into account only the number of
+complete years following issuance until payment is made for any partial principal payments). Under Section 1272(a)(6) of the Internal Revenue Code, special provisions apply to debt instruments on which payments may be accelerated due to
+prepayments of other obligations securing those debt instruments. However, no regulations have been issued interpreting those provisions, and the manner in which those provisions would apply to the certificates is unclear, but the application of
+Section 1272(a)(6) could affect the rate of accrual of original issue discount and could have other consequences to holders of interests in the certificates. Additionally, the <reportingentity>IRS</reportingentity> could take the position based on Treasury regulations that none
+of the interest payable on a certificate is unconditionally payable and hence that all of such interest should be included in the certificates stated redemption price at maturity. If sustained, such treatment should not
+significantly affect the tax liability of most certificate owners, but prospective U.S. certificate owners should consult their own tax advisers concerning the impact to them in their particular circumstances. The trust intends to take the position
+that interest on the certificates constitutes qualified stated interest and that the above consequences do not apply. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor may sell all or a portion of certain classes of the certificates (including any tranche or subclass of
+certificates) to one or more of its affiliates, and may have the right while the certificates are so held, subject to certain conditions, to reset the interest rate on those certificates (such certificates, the retained certificates).
+The analysis of the accrual of stated interest on, and the application of the original issue discount provisions of the Internal Revenue Code with respect to, any retained certificates is not completely certain; however, absent an actual sale at a
+discount equal to or exceeding the applicable de minimis amount of original issue discount, the trust generally does not intend to treat retained certificates as having been issued with original issue discount. Certificate owners
+acquiring retained certificates should consult their advisers with respect to the reporting of interest income in respect of retained certificates, whether retained certificates will be treated as issued with original issue discount, and the effect
+of any such treatment on them. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Market Discount </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">A U.S. certificate owner who purchases an interest in a certificate at a discount that exceeds any unamortized original issue
+discount may be subject to the market discount rules of Sections 1276 through 1278 of the Internal Revenue Code. These rules provide, in part, that gain on the sale or other disposition of a certificate and partial principal payments on
+a certificate are treated as ordinary income to the extent of accrued market discount. The market discount rules also provide for deferral of interest deductions with respect to debt incurred to purchase or carry a certificate that has market
+discount. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Market Premium </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">A U.S. certificate owner who purchases an interest in a certificate at a premium may elect to offset the premium against
+interest income over the remaining term of the certificate in accordance with the provisions of Section 171 of the Internal Revenue Code. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Sale or Exchange of Certificates </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Upon a disposition of an interest in a certificate, a U.S. certificate owner generally will recognize gain or loss equal to
+the difference between the amount realized on the disposition and the U.S. certificate owners adjusted basis in its interest in the certificate. A taxable exchange of a certificate could also occur as a result of the transferors
+substitution of money or investments for receivables. <i>See The Pooling and Servicing Agreement Generally  Defeasance in this prospectus. </i>Additionally, a U.S. certificate owner may recognize gain or loss as a result of any
+resetting of the interest rate payable on a retained certificate by the trust. The adjusted basis in the interest in the certificate will equal its cost, increased by any original issue discount or market discount includible in income with respect
+to the interest in the certificate prior to its sale and reduced by any principal payments previously received </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">119 </p>
+
+</div></center></div></html>

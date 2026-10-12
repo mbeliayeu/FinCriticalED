@@ -1,0 +1,50 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the selection of the Additional Accounts
+is done in a manner which the transferor reasonably believes will not result in an Adverse Effect, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the Rating Agency Condition will have been satisfied. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor will be obligated to designate Additional Accounts (to the extent available) if, as of the end of any Monthly
+Period, the aggregate amount of principal receivables in the trust is less than the Required Minimum Principal Balance or the sellers interest amount is less than the required sellers interest amount (for credit risk retention purposes).
+</p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Any Additional Accounts designated to the trust will be selected from accounts owned by <reportingentity>AENB</reportingentity>. Therefore, if Additional
+Accounts are to be designated, the transferor shall, under the purchase agreement, request that AENB designate accounts which qualify as Eligible Accounts to the transferor. The transferor will then designate such accounts to the trust. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each Additional Account must be an Eligible Account as of the applicable selection date. Because Additional Accounts may be
+created after the applicable selection dates with respect to the accounts already in the Trust Portfolio, they may not be of the same credit quality as the accounts currently in the Trust Portfolio. The Additional Accounts may have been originated
+at a later date using credit, origination or underwriting criteria different from those which were applied to the accounts currently in the Trust Portfolio. Furthermore, they may have been acquired from another revolving credit issuer or entity that
+had different credit, origination or underwriting criteria. Consequently, the performance of such Additional Accounts may be better or worse than the performance of the accounts already in the Trust Portfolio. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_52"/>Removal of Accounts </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On any day of any Monthly Period, the transferor (without independent verification of its authority) may, but shall not be
+obligated to, acquire all receivables and proceeds thereof with respect to removed accounts. The removal could occur for a number of reasons, including a determination by the transferor that the trust contains more receivables than the transferor is
+obligated to retain in the trust under the pooling and servicing agreement and any applicable supplements and a determination that the transferor does not desire to obtain additional financing through the trust at such time. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor is permitted to designate and require reassignment of the receivables from removed accounts upon satisfaction
+of the conditions listed in the pooling and servicing agreement, including: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">delivery by the transferor to the trustee of a computer file or microfiche list containing a true and complete
+list of all removed accounts, such accounts to be identified by, among other things, account number and their aggregate amount of receivables; </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the delivery by the transferor to the trustee of an officers certificate to the effect that, in the
+reasonable belief of the transferor, </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   no selection procedure believed
+by the transferor to be materially adverse to, or materially beneficial to, the interests of the certificateholders or the transferor was utilized in removing the removed accounts from among any pool of accounts of a similar type, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   such removal will not have an Adverse Effect, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   such removal will not result in the occurrence of a
+<font style="white-space:nowrap">Pay-Out</font> Event or a Reinvestment Event; </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">at least eight Business Days prior to the removal, the transferor shall have delivered written notice of the
+removal to each Rating Agency and the trustee; and </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">84 </p>
+
+</div></center></div></html>

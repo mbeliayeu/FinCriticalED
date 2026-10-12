@@ -1,0 +1,17 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Company’s obligation to make a guarantee payment may be satisfied by direct payment of the required amounts by the Company to the
+holders of US Preferred Shares or by causing the US Pref Issuer to pay the amounts to the holders. Each preferred share guarantee will
+be subordinated to all of the debt of the Company that is not stated to be <i>pari passu </i>or subordinate to the guarantees
+and will rank senior to the Class A Shares.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b><a name="spaa_019"/>DESCRIPTION
+OF <financialconcepts>DEBT SECURITIES</financialconcepts></b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+following description sets forth certain general terms and provisions of the <financialconcepts>Debt Securities</financialconcepts>. The particular terms and provisions of
+the series of Debt Securities offered by a Prospectus Supplement, and the extent to which the general terms and provisions described
+below may apply thereto, will be described in such Prospectus Supplement.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+<financialconcepts>BN Debt Securities</financialconcepts> will be issued under an indenture dated as of September 20, 1995, as amended, restated, supplemented or replaced
+from time to time (the “<b>BN Indenture</b>”), between the Company, as issuer, and Computershare Trust Company of Canada
+(formerly, Montreal Trust Company of Canada) (“<b>Computershare Canada</b>”), as trustee (the “<b>BN</b> <b>Trustee</b>”).
+The BFI <reportingentity>Deb</reportingentity>t Securities will be issued under either (1) the i<temporal>ndenture dated a</temporal>s of June 2, 2016 (as amended, restated, supplemented
+or replaced from time to time, the “<b>BFI Senior Indenture</b>”), between BFI, as issuer, the Company, as guarantor, and
+Computershare Canada, as trustee (the “<b>BFI Trustee</b>”), or (2) the subordinated indenture dated as of October 16,
+2020, as amended, restated, supplemented or replaced from time to time, between BFI, as issuer, the Company, as guarantor, and the BFI
+Trustee (the “<b>BFI Subordinated Indentu</b></p></body></html>

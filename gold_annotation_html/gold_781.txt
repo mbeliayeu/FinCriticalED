@@ -1,0 +1,6 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt/150% Times New Roman, Times, Serif; margin: 0; text-align: justify"><i><reportingentity>San Donato Milanese (Milan)</reportingentity>, <temporal>3 January 2025</temporal></i>
+– During the period from <temporal>23 to 27 December 2024</temporal>, <reportingentity>Eni</reportingentity> acquired on the Euronext Milan no. <number>3,914,579</number> shares (equal to <number>0.12%</number> of the
+<financialconcepts>share capital</financialconcepts>), at a weighted average price per share equal to 12.7728 euro, for a total consideration of 49,999,993.23 euro within the
+second tranche of the treasury shares program approved by the Shareholders' Meeting on 15 May 2024, previously subject to disclosure pursuant
+to art. 144-bis of Consob Regulation 11971/1999, for the purpose of paying to the Shareholders an additional remuneration compared to
+the distribution of dividends.</p></body></html>

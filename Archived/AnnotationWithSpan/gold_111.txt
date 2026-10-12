@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tbody><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%">S-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></td></tr></tbody></table></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">These financial measures
+should not be considered as the sole measure of our performance and should not be considered in isolation from, or as a substitute for,
+similar financial measures calculated in accordance with IFRS Accounting Standards. We caution readers that these non-IFRS financial
+measures or other financial metrics are not standardized under IFRS Accounting Standards and may differ from the financial measures or
+other financial metrics disclosed by other businesses and, as a result, may not be comparable to similar measures presented by other
+issuers and entities. Reconciliations of these non-IFRS financial measures to the most directly comparable financial measures calculated
+and presented in accordance with IFRS Accounting Standards, where applicable, are included on pages 68, 136, 138 and 139 of the
+MD&amp;A and on pages 37, 59, 61 and 62 of the Interim MD&amp;A, each incorporated by reference herein and available electronically
+under the Company’s SEDAR+ profile at www.sedarplus.ca and on EDGAR at www.sec.gov.</p></body></html>

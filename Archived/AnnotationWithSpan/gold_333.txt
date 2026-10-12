@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Events of Default</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Unless
+otherwise indicated in any Prospectus Supplement, each Indenture provides that the following will constitute an Event of Default under
+such Indenture (except subsection (f) below which is not an Event of Default under the BN Indenture and subsection (g) below
+which is not an Event of Default under the Other Indentures) with respect to Indenture Securities of any series issued by the Company
+and each Finance Debt Issuer: (a) failure to pay principal of, or any premium on, any Indenture Security of that series when due;
+(b) failure to pay any interest on any Indenture Securities of that series when due, which failure continues for <date>30 days</date>; (c) other
+than with respect to the US LLC Indenture, default in the payment of principal and interest on any Indenture Security required to be
+purchased pursuant to an Offer to Purchase made pursuant to the terms of the Indenture Securities of such series; (d) failure to
+deposit any sinking fund payment, when due, in respect of any Indenture Security of that series; (e) failure of any Finance Debt
+Issuer and/or the Company to perform, as applicable, any other covenant in the relevant Indenture (other than a covenant included in
+such indentures solely for the benefit of a series other than that series), which failure continues for 60 days after written notice
+has been given by the respec</p></body></html>

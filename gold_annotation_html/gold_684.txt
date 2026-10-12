@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">So
+long as the Depositary for a Registered Global Security or its nominee is the registered owner thereof, such Depositary or such nominee,
+as the case may be, will be considered the sole owner or Holder of the Indenture Securities represented by such Registered Global Security
+for all purposes under the applicable Indenture. Except as provided below, owners of beneficial interests in a Registered Global Security
+will not be entitled to have Indenture Securities of the series represented by such Registered Global Security registered in their names,
+will not receive or be entitled to receive physical delivery of Indenture Securities of such series in definitive form and will not be
+considered the owners or Holders thereof under the applicable Indenture.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Principal,
+premium, if any, and interest payments on a Registered Global Security registered in the name of a Depositary or its nominee will be
+made to such Depositary or nominee, as the case may be, as the registered owner of such Registered Global Security. None of the particular
+Issuer or Trustee or any paying agent for Indenture Securities of the series represented by such Registered Global Security will have
+any responsibility or liability for any aspect of the records relating to, or payments made on account of, beneficial interests in such
+Registered Global Security or for maintaining, supervising or reviewing any records relating to such beneficial interests.</p></body></html>

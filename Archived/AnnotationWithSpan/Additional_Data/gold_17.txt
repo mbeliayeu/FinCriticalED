@@ -1,0 +1,62 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<div style="BORDER-BOTTOM:1.00pt solid #000000;BORDER-LEFT:1.00pt solid #000000;BORDER-RIGHT:1.00pt solid #000000;BORDER-TOP:1.00pt solid #000000;MARGIN-LEFT:0px; MARGIN-RIGHT:0px;max-width:100%"><div style="width:97%; margin-top:1.5%; margin-bottom:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under certain limited circumstances, the transferor may be obligated to add
+additional receivables to the trust if required to maintain the required minimum principal balance or the required sellers interest amount (for credit risk retention purposes). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor may also remove receivables that previously were transferred to the trust as described in <i></i><i>The
+Pooling and Servicing Agreement Generally  </i><i>Removal of Accounts</i><i></i><i> </i>in this prospectus, provided that: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transferor reasonably believes that the removal will not result in an adverse effect;
+</p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the rating agencies confirm the ratings on the outstanding certificates; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the receivables subject to removal are selected randomly; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">only one removal occurs each month. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the transferor breaches certain representations and warranties relating to the eligibility of receivables included in the
+trust, however, the transferor may be required to remove immediately those receivables from the trust. <i>See The Pooling and Servicing Agreement Generally  Representations and Warranties in this prospectus.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Finally, on the date when any receivable in an account is charged off as uncollectible, the trust automatically transfers
+those receivables back to the transferor. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Asset Representations Review </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under certain circumstances, certificateholders may direct an asset representations reviewer to perform a review of all
+receivables in <reportingentity>the Trust Portfolio</reportingentity> that are more than 60 days contractually delinquent (i.e., 60 days past the date a payment amount is first due under the applicable card member agreement) and the accounts relating to such receivables for
+compliance with certain representations and warranties on the receivables and the accounts. Clayton Fixed Income Services LLC, a Delaware limited liability company, is the asset representations reviewer under the asset representations review
+agreement with respect to the receivables in the Trust Portfolio. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The asset representations reviewer will be paid an
+annual fee by the transferor, or the sponsor at the direction of the transferor, in accordance with the asset representations review agreement. However, the annual fee does not include the fees and expenses payable to the asset representations
+reviewer in connection with an asset representations review. Under the asset representations review agreement, the asset representations reviewer will be entitled to receive an additional fee in connection with an asset representations review, which
+fee will be paid by the transferor, or the sponsor at the direction of the transferor. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See Asset Representations
+Review in this prospectus. </i></p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Collections by the Servicer </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer will collect payments on the receivables, will deposit (or cause to be deposited) those collections in the
+collection account and will keep track of those collections that are finance charge receivables and those that are principal receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Allocations
+to you and your Series </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The following discussion is a simplified description of certain allocation provisions and is
+qualified by the full descriptions of these provisions in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each month, the servicer will allocate
+collections of finance charge receivables, collections of principal receivables and the amount of principal receivables that are not collected and are written off as uncollectible, called the defaulted amount. Set forth below, is a brief description
+of how these finance charge collections, principal collections and the defaulted amount are allocated to you and your series, addressed in four steps. Allocations of </p>
+</div></div>
+
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">10 </p>
+
+</div></center></div></html>

@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->14<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Interest
+Rate or Currency Protection Agreement</i></b>” of any Person means any interest rate protection agreement (including, without limitation,
+interest rate swaps, caps, floors, collars and similar agreements), and/or other types of interest hedging agreements, and any currency
+protection agreement (including foreign exchange contracts, currency swap agreements or other currency hedging arrangements).</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Qualifying
+Subordinated Debt</i></b>” means, with respect to the BN Indenture and the BFI Senior Indenture, Debt of the Company (i) which
+by its terms provides that the payment of principal of (and premium, if any) and interest on and all other payment obligations in respect
+of such Debt shall be subordinate to the prior payment in full of the Company’s obligations in respect of the Indenture Securities
+to at least the extent that no payment of principal of (or premium, if any) or interest on or otherwise due in respect of such Debt may
+be made for so long as there exists any default in the payment of principal (or premium, if any) or interest on the Indenture Securities
+or any other default that, with the passing of time or the giving of notice or both, would constitute an event of default with respect
+to the Indenture Securities and (ii) which expressly by its terms gives the Company the right to make payments of principal in respect
+of such Debt in Common Stock of the Company.</p></body></html>

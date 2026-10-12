@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+securities brokers and dealers and banks. Currently, <reportingentity>Clearstream Banking</reportingentity> has approximately 2,500 customers located in over 110 countries, including all major European countries, Canada, and the
+United States. Indirect access to Clearstream Banking is available to other institutions that clear through or maintain a custodial relationship with an account holder of Clearstream Banking. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Euroclear </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>Euroclear</reportingentity> was created in 1968 to hold securities for participants of Euroclear and to clear and settle transactions between
+Euroclear participants through simultaneous electronic book-entry delivery against payment. This system eliminates the need for physical movement of securities and any risk from lack of simultaneous transfers of securities and cash. Euroclear
+includes various other services, including securities lending and borrowing and interfaces with domestic markets in several countries. The Euroclear system is operated by Euroclear Bank, S.A./N.V. The Euroclear operator conducts all operations. All
+Euroclear securities clearance accounts and Euroclear cash accounts are accounts with the Euroclear operator. The Euroclear operator establishes policy for Euroclear on behalf of Euroclear participants. Euroclear participants include banks,
+including central banks, securities brokers and dealers and other professional financial intermediaries and may include the underwriters. Indirect access to Euroclear is also available to other firms that clear through or maintain a custodial
+relationship with a Euroclear participant, either directly or indirectly. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Securities clearance accounts and cash accounts
+with the <reportingentity>Euroclear</reportingentity> operator are governed by the Terms and Conditions Governing Use of Euroclear and the related Operating Procedures of the Euroclear System and applicable Belgian law. These Terms and Conditions govern transfers of securities and
+cash within Euroclear, withdrawals of securities and cash from Euroclear, and receipts of payments with respect to securities in Euroclear. All securities in Euroclear are held on a fungible basis without attribution of specific securities to
+specific securities clearance accounts. The Euroclear operator acts under the Terms and Conditions only on behalf of Euroclear participants, and has no record of or relationship with persons holding through Euroclear participants. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">This information about <reportingentity>DTC</reportingentity>, Clearstream Banking and Euroclear has been compiled from public sources for informational purposes
+only and is not intended to serve as a representation, warranty or contract modification of any kind. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Distributions on Book-Entry
+Certificates </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust will make distributions of principal of and interest on book-entry certificates to <reportingentity>DTC</reportingentity>.
+These payments will be made in immediately available funds by the trusts paying agent, The Bank of New York Mellon, at the office of the paying agent in New York City that the trust designates for that purpose. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the case of principal payments, the global certificates must be presented to the paying agent in time for the paying agent
+to make those payments in immediately available funds in accordance with its normal payment procedures. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Upon receipt of
+any payment of principal of or interest on a global certificate, <reportingentity>DTC</reportingentity> will immediately credit the accounts of its participants on its book-entry registration and transfer system. DTC will credit those accounts with payments in amounts proportionate
+to the participants respective beneficial interests in the stated principal amount of the global certificate as shown on the records of DTC. Payments by participants to beneficial owners of book-entry certificates will be governed by standing
+instructions and customary practices, as is now the case with securities held for the accounts of customers in bearer form or registered in street name, and will be the responsibility of those participants. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Distributions on book-entry certificates held beneficially through <reportingentity>Clearstream Banking</reportingentity> will be credited to cash accounts of
+Clearstream Banking customers in accordance with its rules and procedures, to the extent received by its U.S. depository. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Distribution on book-entry certificates held beneficially through <reportingentity>Euroclear</reportingentity> will be credited to the cash accounts of Euroclear
+participants in accordance with the Terms and Conditions, to the extent received by its U.S. depository. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">77 </p>
+
+</div></center></div></html>

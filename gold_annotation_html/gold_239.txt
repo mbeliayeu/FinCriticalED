@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_27"/>Principal Payments </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Revolving Period begins on the closing date and ends upon the commencement of the Controlled Accumulation Period or, if
+earlier, the Early Amortization Period. During the Revolving Period, no principal payments will be made to or for the benefit of the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the Collateral Interest.
+Unless a <font style="white-space:nowrap">Pay-Out</font> Event has occurred, the Controlled Accumulation Period is scheduled to begin at the close of business on the last day of the <temporal>November 2026</temporal> Monthly Period, but may be delayed as described
+herein, and ends on the earliest to occur of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) the commencement of an Early Amortization Period, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the payment in full of the Invested Amount, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c) the Expected Final Payment Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">During the Controlled Accumulation Period (on or prior to the Expected Final Payment Date), principal will be deposited in the
+Principal Funding Account as described below and on the Expected Final Payment Date will be distributed to Class A certificateholders up to the Class A Invested Amount and then to Class B certificateholders up to the Class B
+Invested Amount. During the Controlled Accumulation Period, no principal payments will be made to the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the Collateral Interest. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date with respect to the Controlled Accumulation Period, the trustee will deposit in the Principal
+Funding Account an amount equal to the least of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) Available Principal Collections on deposit in the
+Collection Account with respect to such Distribution Date, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the Controlled Deposit Amount for such
+Distribution Date, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c) the sum of the Class A Adjusted Invested Amount and the Class B
+Adjusted Invested Amount, </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">until the amount on deposit in the Principal Funding Account equals the sum of the Class A Invested Amount
+and the Class B Invested Amount. Amounts on deposit in the Principal Funding Account will be paid to the Class A certificateholders and, if the amount on deposit in the Principal Funding Account exceeds the Class A Invested Amount, to
+the Class B certificateholders on the Expected Final Payment Date. No principal payments will be made in respect of the Collateral Invested Amount until the final principal payment has been made to the Class A certificateholders and the
+Class B certificateholders. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Controlled Accumulation Period is scheduled to begin at the close of business on the
+last day of the <temporal>November 2026</temporal> Monthly Period. However, the date on which the Controlled Accumulation Period actually begins may be delayed if  after making a calculation prescribed by the pooling and servicing agreement  the servicer
+determines, in effect, that enough Shared Principal Collections are expected to be available for your series from principal sharing series that will be in their revolving periods during the Controlled Accumulation Period to delay the start of the
+Controlled Accumulation Period, without affecting the payment in full of the certificates of your series by the Expected Final Payment Date. This calculation will take into account the then-current principal payment rate on the accounts and the
+principal amount of principal sharing series that are entitled to share principal with Series <font style="white-space:nowrap">2025-1.</font> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the beginning of your series Controlled Accumulation Period is delayed and then a
+<font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event occurs with respect to any outstanding principal sharing series, your series Controlled Accumulation Period will start on (i) the first day of the Monthly Period
+immediately succeeding the date on which the <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event occurred or, if sooner, (ii) the date on which the Controlled Accumulation Period is then scheduled to start. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">60 </p>
+
+</div></center></div></html>

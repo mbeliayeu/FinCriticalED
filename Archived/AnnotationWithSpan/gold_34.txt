@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div id="info"><div class="contentwrapper"><div class="content"><h1>NPORT-P: Filer Information</h1><table class="filerInformation"><tbody><tr><td class="label">Filer CIK</td><td><div class="fakeBox2">0000100334<span> </span></div></td></tr><tr><td class="label">Filer CCC</td><td><div class="fakeBox2">
+								********
+									<span> </span></div></td></tr><tr><td class="label">Filer Investment Company Type</td><td><div class="fakeBox2"><span> </span></div></td></tr><tr><td class="label">
+								Is this a LIVE or TEST Filing?
+							</td><td><span class="yesNo"><img alt="live is not checked" src="/Images/radio-unchecked.jpg"/>
+											LIVE
+											<img alt="test is not checked" src="/Images/radio-unchecked.jpg"/>
+											TEST
+										</span></td></tr><tr><td class="label">
+								</td></tr></tbody></table></div></div></div></body></html>

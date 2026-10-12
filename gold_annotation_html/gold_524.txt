@@ -1,0 +1,21 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><tbody><tr style="vertical-align: top">
+<td style="width: 0.5in"/><td style="width: 0.5in">(2)</td><td style="text-align: justify">If on the third Business Day preceding
+                                            the redemption date H.15 or any successor designation or publication is no longer published,<reportingentity>
+                                            BF</reportingentity>I shall calculate the <financialconcepts>Treasury Rate</financialconcepts> based on the rate per annum equal to the semi-annual
+                                            equivalent yield to maturity at 11:00 a.m., New York City time, on the second Business Day
+                                            preceding such redemption date of the United States Treasury security maturing on, or with
+                                            a maturity that is closest to, the Par Call Date, as applicable. If there is no United States
+                                            Treasury security maturing on the Par Call Date but there are two or more United States Treasury
+                                            securities with a maturity date equally distant from the Par Call Date, one with a maturity
+                                            date preceding the Par Call Date and one with a maturity date following the Par Call Date,
+                                            BFI shall select the United States Treasury security with a maturity date preceding the Par
+                                            Call Date. If there are two or more United States Treasury securities maturing on the Par
+                                            Call Date or two or more United States Treasury securities meeting the criteria of the preceding
+                                            sentence, BFI shall select from among these two or more United States Treasury securities
+                                            the United States Treasury security that is trading closest to par based upon the average
+                                            of the bid and asked prices for such United States Treasury securities at 11:00 a.m., New
+                                            York City time. In determining the Treasury Rate in accordance with the terms of this paragraph,
+                                            the semi-annual yield to maturity of the applicable United States Treasury security shall
+                                            be based upon the average of the bid and asked prices (expressed as a percentage of principal
+                                            amount) at 11:00 a.m., New York City time, of such United States Treasury security, and rounded
+                                            to three decimal places.</td></tr></tbody></table></body></html>

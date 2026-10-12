@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+the transferor is required to designate accounts to the trust, it may give notice of the required addition directly or indirectly, as the case may be, to <reportingentity>AENB</reportingentity>. Under the purchase agreement, AENB
+will be obligated to designate accounts as requested. In addition, AENB may, with the consent of the transferor, designate accounts and sell the receivables in those accounts to the transferor, subject to the satisfaction of certain conditions.
+<i>See Description of the Purchase Agreement in this prospectus. </i>Such accounts designated for the trust must meet the eligibility criteria set forth in the purchase agreement and the pooling and servicing agreement as of the
+applicable selection date. <i>See The Pooling and Servicing Agreement Generally  Additions of Accounts in this prospectus for a more detailed discussion of the circumstances and manner in which the receivables arising in Additional
+Accounts will be conveyed to the trust.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">As of each date with respect to which the transferor transfers any
+receivables arising in Additional Accounts, the transferor will represent and warrant to the trust that such receivables meet the eligibility requirements set forth in the purchase agreement and the pooling and servicing agreement. <i>See The
+Pooling and Servicing Agreement Generally  Conveyance of Receivables in this prospectus</i>. The eligibility of accounts is assessed only on the applicable selection date, while the eligibility of receivables is assessed only on the
+applicable selection date (in the case of receivables then existing in Additional Accounts on such date) or as of the date of creation (in the case of new receivables arising in an account). Accordingly, there can be no assurance that all of such
+accounts and receivables will continue to meet the eligibility requirements as of any subsequent date, including any subsequent series closing date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Subject to certain limitations and restrictions, the transferor may also designate certain accounts for removal from the
+trust, in which case the receivables of the removed accounts will be reassigned to the transferor. Throughout the term of the trust, the receivables in the trust will consist of receivables generated under the accounts (including Additional
+Accounts). Such receivables will not include the receivables generated under removed accounts. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> transfers to RFC III
+and RFC III in turn transfers to the trust, the Issuer Rate Fees. Pursuant to the pooling and servicing agreement, these Issuer Rate Fees are treated as collections of finance charge receivables. <i>See <reportingentity>AENB</reportingentity>s Revolving Credit Businesses
+ Issuer Rate Fees below.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_10"/>Transaction Parties </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_11"/>Account Owner and Sponsor </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> is the sponsor of the tru<reportingentity>st </reportingentity>and, as such, organizes and initiates the asset-backed securities transactions of the trust.
+AENB also is the account owner of certain consumer credit card accounts or features, the receivables of which are included in the trust. <i>See <reportingentity>AENB</reportingentity>s Revolving Credit Businesses in this prospectus. </i>In addition, on behalf of TRS
+as servicer, AENB performs limited servicing functions with respect to receivables in the trust. <i>See</i> <i>The Pooling and Servicing Agreement Generally  Collection and Other Servicing Procedures in this prospectus for a
+description of certain matters relating to the servicing functions provided by <reportingentity>AENB</reportingentity>.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> <reportingentity>is t</reportingentity>he surviving entity
+that resulted from the conversion of Centurion, a Utah state-chartered industrial bank, into a national banking association, and the subsequent merger of FSB, a federal savings bank, with and into AENB as of April 1, 2018. In connection with
+the conversion and merger, AENB assumed all of the rights and obligations of Centurion and FSB, including with respect to the accounts they owned and the related receivables. AENBs principal office is located at 115 W Towne Ridge Pkwy, Sandy,
+Utah 84070, and its telephone number is (801) <font style="white-space:nowrap">945-5000.</font> AENB is a wholly-owned subsidiary of TRS. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Centurion, prior to its conversion into <reportingentity>AENB</reportingentity>, had been involved in the securitization of consumer revolving credit card
+receivables since 1996, when it formed the trust. FSB, prior to its merger with and into AENB, had been involved in the securitization of consumer revolving credit card receivables since 2004, when it was added as an account owner. Centurion had
+been involved in the securitization of card receivables since 1998, first in connection with the American Express Master Trust and then in connection with the American Express Issuance Trust, which was formed in 2005. FSB was also involved in the
+securitization of card receivables in connection with the American Express Issuance Trust and the American Express Issuance Trust II. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">47 </p>
+
+</div></center></div></html>

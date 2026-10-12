@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the trust were treated in whole or in part as a partnership in which some
+or all holders of interests in the publicly offered certificates were partners, that partnership could be classified as a publicly traded partnership, and so could be taxable as a corporation. Further, regulations published by the Treasury
+Department under the publicly traded partnership provisions of the Internal Revenue Code could cause the trust to constitute a publicly traded partnership even if all holders of interests in publicly offered certificates are treated as holding debt.
+If the trust were classified as a publicly traded partnership, whether by reason of the treatment of publicly offered certificates as equity or by reason of the publicly traded partnership regulations, it would avoid taxation as a corporation if its
+income was not derived in the conduct of a financial business; however, whether the income of the trust would be so classified is unclear. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the Internal Revenue Code and the publicly traded partnership regulations, a partnership will be classified as a
+publicly traded partnership if equity interests therein are traded on an established securities market, or are readily tradable on a secondary market or its substantial equivalent. The transferor has
+taken and intends to take measures designed to reduce the risk that the trust could be classified as a publicly traded partnership by reason of interests in the trust other than the publicly traded certificates. However, certain of the actions that
+may be necessary for avoiding the treatment of such interests as readily tradable on a secondary market (or the substantial equivalent thereof) are not fully within the control of the transferor. As a result, there can be no assurance
+that the measures the transferor intends to take will in all circumstances be sufficient to prevent the trust from being classified as a publicly traded partnership under the publicly traded partnership regulations. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the trust was treated as a partnership but nevertheless was not treated as a publicly traded partnership taxable as a
+corporation, that partnership would not be subject to federal income tax. Rather, each item of income, gain, loss and deduction of the partnership generated through the ownership of the related receivables would be taken into account directly in
+computing taxable income of the transferor (or the holders of the original transferor certificate) and any certificate owners treated as partners in accordance with their respective partnership interests therein. The amounts and timing of income
+reportable by any certificate owners treated as partners would likely differ from that reportable by such certificate owners had they been treated as owning debt. For example, individual certificate owners could be subject to limitations on their
+ability to deduct their share of partnership expenses to the extent partnership expenses are treated as investment expenses; on the other hand, to the extent the partnership expenses are treated as allocable to a trade or business, the amount of
+interest expense deductions available to a certificate owner could be limited under the rules of Section 163(j) of the Internal Revenue Code. In addition, new audit rules for partnerships require taxes arising from audit adjustments to be paid
+by the entity rather than by its partners or members unless an entity elects otherwise. It is unclear to what extent these elections would be available to the trust and how any such elections would affect the procedural rules available to challenge
+any audit adjustment that would otherwise be available in the absence of any such election. In addition, if the trust were treated in whole or in part as a partnership other than a publicly traded partnership taxable as a corporation, income derived
+from the partnership by any certificate owner that is a pension fund or other <font style="white-space:nowrap">tax-exempt</font> entity may be treated as unrelated business taxable income. Partnership characterization also may have adverse state and
+local income or franchise tax consequences for a certificate owner. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the arrangement created by the pooling and
+servicing agreement were treated in whole or in part as a publicly traded partnership taxable as a corporation, that entity would be subject to federal income tax at corporate tax rates on its taxable income generated by ownership of the related
+receivables. That tax could result in reduced distributions to certificate owners. No distributions from the trust would be deductible in computing the taxable income of the corporation, except to the extent that any certificates were treated as
+debt of the corporation and distributions to the related certificate owners were treated as payments of interest thereon. In addition, distributions to certificate owners not treated as holding debt would be dividend income to the extent of the
+current and accumulated earnings and profits of the corporation (and certificate owners may not be entitled to any dividends received deduction in respect of such income). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_104"/>Taxation of U.S. Certificate Owners </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Interest and Original Issue Discount </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Subject to the discussion in the immediately following paragraph, stated interest on a beneficial interest in a certificate
+will be includible in gross income in accordance with a U.S. certificate owners method of accounting. If </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">117 </p>
+
+</div></center></div></html>

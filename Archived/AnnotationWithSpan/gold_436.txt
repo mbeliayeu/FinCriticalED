@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zc6de5ccda4f244c5930de1e251e07615" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">ii</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>the Issuer does not approve or initiate any transaction on its share capital (including, by way of example, capital increases or reductions) and/or on Mediobanca Shares (including, but not limited to, the amalgamation or cancellation of
+              shares).</div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">If, prior to the Payment Date (as defined below), the Issuer and/or the Offeror should pay(s) a dividend (including an interim dividend) and/or make a distribution of reserves to its shareholders,
+      or in any event the ex coupon (<font style="font-style: italic;">cedola</font>) relating to dividends resolved upon but not yet paid by the Issuer and/or MPS, as the case may be, is detached from the Mediobanca Shares and/or the MPS shares, the
+      Consideration shall be adjusted to take into account the dividend distributed (or the interim dividend) or the reserve distributed.</div></body></html>

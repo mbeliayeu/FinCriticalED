@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>ent in amounts proportionate to their
+respective beneficial interests in the principal amount of the Global Notes as shown in the records of the Depositary, unless the Depositary
+has reason to believe that it will not receive payment on the payment date. Payments by Direct Participants and Indirect Participants
+to owners of beneficial interests in the Global Notes will be governed by standing instructions and customary practices, as is now the
+case with securities held for the accounts of customers in bearer form or registered in “street name”, and will be the responsibility
+of the Direct Participants or Indirect Participants, and not of the Depositary, the Trustee, BFI or the Company, subject to any statutory
+requirements as may be in effect from time to time. Payment of principal and interest to the Depositary is the responsibility of BFI
+or the Trustee, disbursement of such payments to Participants shall be the responsibility of the Depositary, and the disbursement of
+such payments to the owners of beneficial interests in the Global Notes shall be the responsibility of Participants.</body></html>

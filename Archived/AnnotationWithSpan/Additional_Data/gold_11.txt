@@ -1,0 +1,22 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<div style="BORDER-BOTTOM:1.00pt solid #000000;BORDER-LEFT:1.00pt solid #000000;BORDER-RIGHT:1.00pt solid #000000;BORDER-TOP:1.00pt solid #000000;MARGIN-LEFT:0px; MARGIN-RIGHT:0px;max-width:100%"><div style="width:97%; margin-top:1.5%; margin-bottom:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In limited cases, the servicer may resign or be removed, and either the
+trustee or a third party may be appointed as the new servicer. <i>See </i><i>The Pooling and Servicing Agreement Generally  Certain Matters Regarding the Servicer and  Servicer Default</i><i> in this
+prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer receives a servicing fee from the trust, and each series is obligated to pay a portion of
+that fee. <i>See Series Provisions  Servicing Compensation and Payment of Expenses in this prospectus for a description of the monthly servicing fee allocated to each series of certificates.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>We refer to <reportingentity>American Express Travel Related Services Company, Inc</reportingentity>. as TRS or the servicer. </i></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Trustee </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>The Bank of New
+York Mellon</reportingentity>, a New York banking corporation, is the trustee of the trust and each series of certificates issued by the trust. Its address is 240 Greenwich Street, Floor 7 West, New York, New York 10286, Attention: Asset-Backed Securities Unit. Its
+telephone number is (212) <font style="white-space:nowrap">815-6258.</font> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the terms of the pooling and servicing
+agreement, the role of the trustee is limited. <i>See The Pooling and Servicing Agreement Generally  The Trustee</i> <i>in this prospectus</i>. </p>
+</div></div>
+
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">4 </p>
+
+</div></center></div></html>

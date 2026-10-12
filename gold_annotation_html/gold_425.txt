@@ -1,0 +1,26 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><td> </td><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>CUSIP / ISIN:</b></font></td>
+<td>11271L AP7 / US11271LAP76</td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Joint Book-Running Managers:</b></font></td>
+<td>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>Deutsche Bank Securities Inc.</reportingentity></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>SMBC Nikko Securities America, Inc.</reportingentity></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>Citigroup Global Markets Inc.</reportingentity></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>Mizuho Securities USA LLC</reportingentity></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>BofA Securities, Inc.</reportingentity></p></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Co-Managers:</b></font></td>
+<td>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Banco Bradesco BBI S.A.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">BNP Paribas Securities Corp.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Brookfield Securities LLC</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Desjardins Securities Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Itau BBA USA Securities, Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>MUFG Securities America</reportingentity>s Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>National Bank of Canada Fina</reportingentity>ncial Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>Natixis Securities Americ</reportingentity>as LLC</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>Santander US Capital Marke</reportingentity>ts LLC</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><reportingentity>SG Americas Securities, LLC</reportingentity></p></td></tr></body></html>

@@ -1,0 +1,24 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>enter"&gt;<font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>BofA
+    Securities</reportingentity></b></font>
+<tr style="vertical-align: top">
+<td colspan="5" style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>Co-Managers</i></font></td></tr>
+<tr>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Bradesco
+    BBI</b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>BNP
+    PARIBAS</b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Brookfield
+    Capital Solutions</b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Desjardins
+    Capital Markets</b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Itaú
+    BBA</b></font></td></tr>
+<tr>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>MUFG</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>National
+    Bank of Canada Financial Markets</b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Natixis</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><reportingentity>Santander</reportingentity></b></font></td>
+<td style="padding-top: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>SOCIETE
+    GENERALE</b></font></td></tr>
+</body></html>

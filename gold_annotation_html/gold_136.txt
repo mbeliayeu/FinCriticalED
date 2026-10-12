@@ -1,0 +1,42 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the expression offer includes the communication in any form and by any means of sufficient
+information on the terms of the offer and the certificates to be offered so as to enable an investor to decide to purchase or subscribe the certificates. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_116"/>Legal Matters </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Certain legal matters relating to the certificates will be passed upon for <reportingentity>AENB</reportingentity>, RFC III and the trust by Catherine Lo,
+Counsel of American Express Company. Ms. Lo owns or has the right to acquire a number of shares of common stock of American Express which in the aggregate is equal to less than 0.05% of the outstanding common stock of American Express. Certain
+other legal matters will be passed upon for the transferor and the trust by Orrick, Herrington &amp; Sutcliffe LLP. Certain legal matters will be passed upon for the underwriters by Orrick, Herrington &amp; Sutcliffe LLP. Certain legal
+matters relating to the federal income tax consequences of the issuance of the certificates and certain other matters relating thereto will be passed upon for the transferor by Orrick, Herrington &amp; Sutcliffe LLP. In addition, opinions
+relating to the legality of the certificates and to federal income tax matters with respect to the issuance of the certificates have been provided by Orrick, Herrington &amp; Sutcliffe LLP and filed as exhibits to the registration statement
+relating to the certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_117"/>Reports to Certificateholders </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Monthly reports containing information on the certificates and the collateral securing the certificates will be filed with the
+<reportingentity>SEC</reportingentity> to the extent required by the SEC. These reports will not be sent to certificateholders. <i>See Description of the Certificates  Book-Entry Registration, The Pooling and Servicing Agreement Generally  Evidence as to
+Compliance and Series Provisions  Reports in this prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_118"/>Investor
+Communications </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor will include in each monthly distribution report on Form
+<font style="white-space:nowrap">10-D</font> any request received during the applicable reporting period from an investor to communicate with other investors related to investors exercising their rights under the terms of the pooling and servicing
+agreement. The information will include the name of the investor making the request, the date the request was received, a statement from the transferor regarding the receipt of such request stating that such investor is interested in communicating
+with other investors with regard to the possible exercise of rights under the pooling and servicing agreement and a description of the method other investors may use to contact the requesting investor. The transferor will be responsible for any
+expenses in connection with the filing of the monthly distribution reports on Form <font style="white-space:nowrap">10-D.</font> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If any requesting investor is a record holder of certificates at the time of such request to communicate, such investor will
+not be required to provide verification of ownership. If the investor is not a record holder of certificates (including if such investor owns a beneficial interest in a certificates in book-entry form), such investor will be required to provide a
+(i) written certification that it is a beneficial owner of certificates and (ii) one other form of documentation, such as a trade confirmation, an account statement, a letter from a broker or dealer or similar document to verify that the
+investor is, in fact, a beneficial owner of certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_119"/>Where You Can Find More Information </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">We have filed a registration statement on Form <font style="white-space:nowrap">SF-3</font> relating to the certificates with
+the <reportingentity>SEC</reportingentity> and have met the registrant requirements set forth in General Instruction I.A.1. to Form <font style="white-space:nowrap">SF-3.</font> This prospectus is part of the registration statement, but the registration statement includes additional
+information. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer will file with the <reportingentity>SEC</reportingentity> all required annual reports on Form
+<font style="white-space:nowrap">10-K,</font> monthly distribution reports on Form <font style="white-space:nowrap">10-D</font> and <reportingentity>cur</reportingentity>rent reports on Form <font style="white-space:nowrap">8-K.</font> Our SEC filings are available to the public on
+the SEC Internet Web site (http://www.sec.gov). Our SEC filings may be located by using the SEC Central Index Key (CIK) for American Express Credit Account Master Trust, 0001003509. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Reports that are filed with the <reportingentity>SEC</reportingentity> by the servicer pursuant to the Securities Exchange Act of 1934, as amended, may be
+accessed by any investor, free of charge, through an Internet Web site at </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">129 </p>
+
+</div></center></div></html>

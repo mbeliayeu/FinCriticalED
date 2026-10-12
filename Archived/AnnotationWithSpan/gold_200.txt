@@ -1,0 +1,15 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The following is based on
+information furnished by the Depositary: the Depositary is a limited-purpose trust company organized under the New York Banking
+Law, a “banking organization” within the meaning of the New York Banking Law, a member of the Federal Reserve System,
+a “clearing corporation” within the meaning of the New York Uniform Commercial Code, and a “clearing agency”
+registered pursuant to the provisions of Section 17A of the Exchange Act. The Depositary holds securities that its Participants
+deposit with the Depositary. The Depositary also facilitates the settlement among Participants of securities transactions, such as transfers
+and pledges, in deposited securities through electronic computerized book-entry changes in Participants’ accounts, thereby eliminating
+the need for physical movement of securities certificates. These direct Participants (“<b>Direct Participants</b>”) include
+securities brokers and dealers, banks, trust companies, clearing corporations and certain other organizations. The Depositary is a wholly-owned
+subsidiary of The Depository Trust &amp; Clearing Corporation (“<b>DTCC</b>”). DTCC is the holding company for the Depositary,
+National Securities Clearing Corporation and Fixed Income Clearing Corporation, all of which are registered clearing agencies. DTCC is
+owned by the users of its regulated subsidiaries. Access to the Depositary’s system is also available to others such as securities
+brokers and dealers, banks and trust companies that clear through or maintain a custodial relationship with a Direct Participant, either
+directly or indirectly (“<b>Indirect Participants</b>”, and together with Direct Participants, “<b>Participants</b>”).
+The rules applicable to the Depositary and its Participants are on file with the SEC.</p></body></html>

@@ -1,0 +1,15 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="margin: 0"> </p><p style="font-size: 10pt; text-align: right; margin: 0; font-weight: bold"><font style="font-size: 10pt"><b>Filed Pursuant to Rule 433<br/>
+Registration Nos. 333-279601 and 333-279601-02<br/>
+<temporal>February 27, 2025</temporal></b></font></p><p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"> </p><p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><reportingentity>BROOKFIELD FINANCE INC.</reportingentity><br/>
+US$<number>500,000,000</number> 5.813% NOTES DUE 2055</p><p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"> </p><p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">PRICING TERM SHEET<br/>
+<temporal>February 27, 2025</temporal></p><p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"> </p><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<tbody><tr style="vertical-align: top">
+<td style="width: 40%"><font style="font-size: 10pt"><b>Issuer:</b></font></td>
+<td style="width: 60%"><font style="font-size: 10pt"><reportingentity>Brookfield Finance Inc.</reportingentity></font></td></tr>
+<tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr>
+<tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Guarantor:</b></font></td>
+<td><font style="font-size: 10pt"><reportingentity>Brookfield Corporation</reportingentity></font></td></tr>
+<tr style=""/></tbody></table></body></html>

@@ -1,0 +1,41 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<div style="BORDER-BOTTOM:1.00pt solid #000000;BORDER-LEFT:1.00pt solid #000000;BORDER-RIGHT:1.00pt solid #000000;BORDER-TOP:1.00pt solid #000000;MARGIN-LEFT:0px; MARGIN-RIGHT:0px;max-width:100%"><div style="width:97%; margin-top:1.5%; margin-bottom:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+funds available to make required Class B certificate payments, certain funds that would otherwise be used to make required collateral interest payments will be used to make required
+Class B certificate payments, and the collateral invested amount will be reduced accordingly. Similarly, if on any distribution date, there are insufficient funds available to make certain required payments on the portion of the collateral
+interest represented by the collateral senior invested amount, certain funds that would otherwise be used to make required collateral interest payments will be used to make those required payments on the portion of the collateral interest
+represented by the collateral senior invested amount, and the collateral invested amount will be reduced accordingly. The collateral invested amount and the Class B invested amount must be reduced to zero before the Class A invested amount
+will suffer any loss of principal. The collateral invested amount must be reduced to zero before the Class B invested amount will suffer any loss of principal. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Credit enhancement for the Series <font style="white-space:nowrap">2025-1</font> certificates is for the benefit of Series <font style="white-space:nowrap">2025-1</font> only and you are not entitled to the benefits of any credit enhancement available to other series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See Series Provisions  Reallocation of Cash Flows,  Application of Collections and
+ Defaulted Receivables; Investor Charge-Offs in this prospectus for a description of the events which may lead to a reduction of the Class A invested amount, the Class B invested amount and the collateral invested amount.
+</i></p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Other Interests in the Trust </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Other Series of Certificates </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust has issued other series of certificates and expects to issue additional series. The trust may also issue additional
+Series <font style="white-space:nowrap">2025-1</font> certificates in the future. You can review a summary of each series previously issued and currently outstanding under the caption <i>Annex II: Other Series</i> included at the end of
+this prospectus. Future series and any additional Series <font style="white-space:nowrap">2025-1</font> certificates will be issued without prior notice to, or review or consent by, you or any other certificateholder. We cannot assure you that the
+terms of any future series or issuance of additional Series <font style="white-space:nowrap">2025-1</font> certificates might not have an impact on the timing or amount of payments received by a certificateholder. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>The Transferors Interest </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The interest in the trust not represented by your series or by any other series is the transferors interest, which is
+held by the transferor. The transferors interest may be held either in certificated form represented by the transferor certificates or in uncertificated form. Any reference in this prospectus to the transferor certificates means the
+transferors interest as held in either certificated or uncertificated form. The transferors interest does not provide credit enhancement for your series or any other series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>U.S. Credit Risk Retention </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In accordance with the credit risk retention requirements of <reportingentity>Regulation RR</reportingentity>, <reportingentity>AENB</reportingentity>, directly as sponsor, or RFC III, as
+depositor and as a wholly-owned affiliate of the sponsor, is required to retain an economic interest in the credit risk of the receivables in the trust. The sponsor and the depositor intend to satisfy the risk retention requirements by maintaining a
+sellers interest (as defined by and calculated in accordance with Regulation RR) in the trust through the depositors ownership of the transferors interest. <i>See Transaction Parties  U.S. Credit Risk Retention in
+this prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Trust Assets </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>The Trust Portfolio </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The primary assets of the trust are receivables in designated consumer <reportingentity>American Express</reportingentity> revolving credit card accounts and
+receivables generated with the use of revolving credit features associated with certain other American Express credit card accounts and, in the future, may include other charge or credit accounts or features or products. The receivables consist of
+principal receivables and finance charge receivables. </p>
+</div></div>
+
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">8 </p>
+
+</div></center></div></html>

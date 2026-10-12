@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>isions that would, generally, offset
+the increase in the capital gains inclusion rate for up to <monetaryunit>Cdn$</monetaryunit><number>250,000</number> of net capital gains realized (or deemed to be realized) by Resident
+Holders that are individuals (including certain trusts) in the year that are not offset by net capital losses carried back or forward
+from another taxation year. The Capital Gains Proposals also provide that capital losses which are deductible against capital gains will
+offset an equivalent capital gain regardless of the inclusion rate which applied at the time such capital losses were realized. On January 31,
+2025, the Department of Finance announced its intention to defer the date on which the capital gains inclusion rate would be increased
+pursuant to the Capital Gains Proposals from June 25, 2024 (as initially proposed) to January 1, 2026. Resident Holders should
+consult their own tax advisors with respect to the Capital Gains Proposals.</body></html>

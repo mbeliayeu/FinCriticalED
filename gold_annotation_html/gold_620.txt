@@ -1,0 +1,57 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="vertical-align: top; font-size: 10pt; width: 36%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><i><u>New
+    Issue and/or Secondary Offering</u></i></font></td>
+<td style="vertical-align: bottom; font-size: 10pt; width: 1%"> </td>
+<td style="vertical-align: top; width: 31%"> </td>
+<td style="vertical-align: bottom; font-size: 10pt; width: 1%"> </td>
+<td style="vertical-align: top; font-size: 10pt; text-align: right; width: 31%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">May 31,
+    2024</font></td></tr>
+</tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><font style="font-size: 10pt"> </font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><font style="font-size: 10pt"><b>SHORT
+FORM BASE SHELF PROSPECTUS</b></font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><font style="font-size: 8pt"> </font></p><p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><font style="font-size: 18pt"><b><monetaryunit>US$</monetaryunit><number>3,500,000,000</number></b></font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><font style="font-size: 10pt"> </font></p><p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><font style="font-size: 14pt"><b>BROOKFIELD</b> </font></p><p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><font style="font-size: 14pt"><b>CORPORATION</b></font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><font style="font-size: 10pt"> </font></p><p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><font style="font-size: 14pt"><b><financialconcepts>Debt
+Securities</financialconcepts></b> </font></p><p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><font style="font-size: 14pt"><b><financialconcepts>Class A
+Preference Shares</financialconcepts></b> </font></p><p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><font style="font-size: 14pt"><b><financialconcepts>Class A
+Limited Voting Shares</financialconcepts></b></font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><font style="font-size: 10pt"> </font></p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="vertical-align: top; width: 34%"><p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 14pt"><b><reportingentity>BROOKFIELD
+                                            FINANCE INC.</reportingentity></b></font></p>
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 12pt"><b><financialconcepts>Debt Securities</financialconcepts></b></font></p></td>
+<td style="vertical-align: bottom; font-size: 10pt"><font style="font-size: 10pt"> </font></td>
+<td style="vertical-align: top; width: 32%"><p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 14pt"><b><reportingentity>BROOKFIELD
+                                            FINANCE II INC.</reportingentity></b></font></p>
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 12pt"><b><financialconcepts>Debt Securities</financialconcepts></b></font></p></td>
+<td style="vertical-align: bottom; font-size: 10pt; width: 1%"><font style="font-size: 10pt"> </font></td>
+<td style="vertical-align: top; width: 32%"><p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 14pt"><b><reportingentity>BROOKFIELD
+                                            CAPITAL FINANCE LLC</reportingentity></b></font></p>
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 12pt"><b><financialconcepts>Debt Securities</financialconcepts></b></font></p></td></tr>
+<tr>
+<td><font style="font-size: 10pt"> </font></td>
+<td colspan="2"><font style="font-size: 10pt"> </font></td>
+<td colspan="2"><font style="font-size: 10pt"> </font></td></tr>
+<tr style="font-size: 14pt">
+<td style="vertical-align: top; font-size: 14pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 14pt"><b><reportingentity>BROOKFIELD
+    FINANCE II LLC</reportingentity></b></font></td>
+<td style="vertical-align: bottom; font-size: 14pt"><font style="font-size: 14pt"> </font></td>
+<td style="vertical-align: top; font-size: 14pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 14pt"><b><reportingentity>BROOKFIELD
+    FINANCE (AUSTRALIA) PTY LTD</reportingentity></b></font></td>
+<td style="vertical-align: bottom; font-size: 14pt"><font style="font-size: 14pt"> </font></td>
+<td style="font-size: 14pt; vertical-align: top"><p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 14pt"><b><reportingentity>BROOKFIELD
+                                            FINANCE I</reportingentity></b></font></p>
+<p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 12pt"><b>(UK)
+                                            PLC</b></font></p></td></tr>
+<tr>
+<td><font style="font-size: 10pt"> </font></td>
+<td colspan="2"><font style="font-size: 10pt"> </font></td>
+<td colspan="2"><font style="font-size: 10pt"> </font></td></tr>
+<tr style="font-size: 12pt">
+<td style="font-size: 12pt; vertical-align: top"><p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 12pt"><b><financialconcepts>Preferred
+                                            Shares</financialconcepts></b></font></p>
+<p style="font: 12pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="font-size: 12pt"><b>(representing
+    limited liability company interests)</b></font></p></td>
+<td style="vertical-align: bottom; font-size: 12pt"><font style="font-size: 12pt"> </font></td>
+<td style="vertical-align: top; font-size: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 12pt"><b><financialconcepts>Debt
+    Securities</financialconcepts></b></font></td>
+<td style="vertical-align: bottom; font-size: 12pt"><font style="font-size: 12pt"> </font></td>
+<td style="vertical-align: top; font-size: 12pt; text-align: center"><font style="font-family: Times New Roman, Times, Serif; font-size: 12pt"><b><financialconcepts>Debt
+    Securities</financialconcepts></b></font></td></tr>
+</tbody></table></body></html>

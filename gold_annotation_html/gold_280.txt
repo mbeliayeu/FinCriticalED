@@ -1,0 +1,54 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">change the definition or the manner of calculating the certificateholders interest or the invested
+amount without the consent of each certificateholder, </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">reduce the percentage required to consent to any such amendment without the consent of each certificateholder,
+or </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">adversely affect the rating of any series or class by any Rating Agency without the consent of the holders of
+certificates of such series or class evidencing not less than 66<sup style="vertical-align:top">2</sup>⁄<sub style="vertical-align:bottom">3</sub>% of the aggregate unpaid principal amount of the certificates of such series or class.
+</p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Promptly following the execution of any amendment to the pooling and servicing agreement (other than an
+amendment described in the first paragraph), the trustee will furnish written notice of the substance of such amendment to each certificateholder. Notwithstanding the foregoing, any supplement executed in connection with the issuance of one or more
+new series of certificates will not be considered an amendment to the pooling and servicing agreement. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition to
+being subject to amendment pursuant to the provisions described above, the pooling and servicing agreement and the related supplement may be amended by the transferor without the consent of the servicer, the trustee or any certificateholder to
+account for the transfer of assets as sales in accordance with FASB Statement No. 140, including providing for the transfer of receivables from <reportingentity>AENB</reportingentity> to a bankruptcy-remote special purpose entity and from that entity to the trust. Promptly after
+the effectiveness of any such amendment, the transferor shall deliver a copy of such amendment to each of the servicer, the trustee, each Rating Agency and any other party entitled to receive it pursuant to the relevant supplement. Furthermore, such
+amendment shall be subject to the delivery by the transferor of a Tax Opinion. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_76"/>Defeasance </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Only if so expressly provided in the applicable supplement, then pursuant to the pooling and servicing agreement, the
+transferor may terminate its substantive obligations in respect of a series or the pooling and servicing agreement by depositing with the trustee, under the terms of an irrevocable trust agreement satisfactory to the trustee, from amounts
+representing or acquired with collections on the receivables (allocable to the defeased series and available to purchase additional receivables) monies or Eligible Investments sufficient to make all remaining scheduled interest and principal
+payments on the defeased series on the dates scheduled for such payments and to pay all amounts owing to any provider of Series Enhancement. To achieve that end, the transferor has the right to use collections on receivables to purchase Eligible
+Investments rather than additional receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Prior to the first exercise of its right to substitute monies or Eligible
+Investments for receivables, the transferor shall deliver: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) to the trustee an opinion of counsel with
+respect to such deposit and termination of obligations to the effect that, for federal income tax purposes, such action would not cause the trust to be deemed to be an association (or publicly traded partnership) taxable as a corporation; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) to the servicer and the trustee written notice from each Rating Agency that the Rating Agency Condition
+shall have been satisfied. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, the transferor must comply with certain other requirements set forth in the
+pooling and servicing agreement, including requirements that the transferor deliver: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">to the trustee an opinion of counsel to the effect that the deposit and termination of obligations will not
+require the trust to register as an investment company within the meaning of the Investment Company Act of <temporal>1940</temporal>, as amended, and </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">101 </p>
+
+</div></center></div></html>

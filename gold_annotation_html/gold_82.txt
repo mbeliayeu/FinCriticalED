@@ -1,0 +1,60 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Payments of interest and principal will be made on each related interest
+payment date to the certificateholders in whose names the certificates were registered on the last day of the calendar month preceding such interest payment date, known as the record date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_44"/>Book-Entry Registration </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The certificates offered by this prospectus will be delivered in book-entry form. This means that, except in the limited
+circumstances described in <i> Definitive Certificates </i>below, purchasers of certificates will not be entitled to have the certificates registered in their names. Furthermore, these purchasers will not be entitled to receive
+physical delivery of the certificates in definitive paper form. Instead, upon issuance, all the certificates of a class will be represented by one or more fully registered permanent global certificates, without interest coupons. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each global certificate will be deposited with a securities depository named <reportingentity>The Depository Trust Company</reportingentity> and will be
+registered in the name of its nominee, Cede &amp; Co. No global certificate representing book-entry certificates may be transferred except as a whole by DTC to a nominee of DTC, or by a nominee of DTC to another nominee of DTC. Thus, DTC or its
+nominee will be the only registered holder of the certificates and will be considered the sole representative of the beneficial owners of certificates for purposes of the pooling and servicing agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The registration of the global certificates in the name of <reportingentity>Cede &amp; Co</reportingentity>. will not affect beneficial ownership and is
+performed merely to facilitate subsequent transfers. The book-entry system, which is also the system through which most publicly traded common stock is held, is used because it eliminates the need for physical movement of securities. The laws of
+some jurisdictions, however, may require some purchasers to take physical delivery of their certificates in definitive form. These laws may impair the ability to own or transfer book-entry certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Purchasers of certificates in the United States may hold interests in the global certificates through <reportingentity>DTC</reportingentity>, either directly, if
+they are participants in that system  such as a bank, brokerage house or other institution that maintains securities accounts for its customers with <reportingentity>DTC</reportingentity> or its nominee  or otherwise indirectly through a participant in DTC. Purchasers of
+certificates in Europe may hold interests in the global certificates through Clearstream Banking or through Euroclear Bank S.A./N.V., as operator of the Euroclear system. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Because <reportingentity>DTC</reportingentity> will be the only registered owner of the global certificates, Clearstream Banking and Euroclear will hold
+positions through their respective U.S. depositories, which in turn will hold positions on the books of DTC. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">As long as
+the certificates are in book-entry form, they will be evidenced solely by entries on the books of <reportingentity>DTC</reportingentity>, its participants and any indirect participants. <reportingentity>DTC</reportingentity> will maintain records showing: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the ownership interests of its participants, including the U.S. depositories; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">all transfers of ownership interests between its participants. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The participants and indirect participants, in turn, will maintain records showing: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the ownership interests of their customers, including indirect participants, that hold the certificates
+through those participants; and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">all transfers between these persons. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Thus, each beneficial owner of a book-entry certificate will hold its certificate indirectly through a hierarchy of
+intermediaries, with <reportingentity>DTC</reportingentity> at the top and the beneficial owners own securities intermediary at the bottom. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust, the trustee and their agents will not be liable for the accuracy of, and are not responsible for maintaining
+supervising or reviewing, <reportingentity>DTC</reportingentity>s records or any participants records relating to book-entry certificates. The trust, the trustee and their agents also will not be responsible or liable for payments made on account of the book-entry
+certificates. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">75 </p>
+
+</div></center></div></html>

@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>enforcing any rights in respect of such note as a non-resident
+or deemed non-resident of Canada or any province or territory thereof or therein, (iii) by reason of such Holder or beneficial owner
+being a “specified shareholder” of <reportingentity>BFI</reportingentity> or not dealing at arm’s length with a “specified shareholder” of
+BFI as defined in subsection 18(5) of the Tax Act, or (iv) by reason of such Holder or beneficial owner being an entity in
+respect of which BFI is a “specified entity” as defined in subsection 18.4(1) of the Tax Act; (b) any Tax that
+is levied or collected other than by withholding from payments on or in respect of the notes; (c) any note presented for payment
+(where presentation is required) more than 30 days after the later of (i) the date on which such payment first becomes due
+or (ii) if the full amount of the monies payable has not been paid to the Holders or beneficial owners of the notes on or prior
+to such date, the date on which the full amount of such monies has been paid to the Holders or beneficial owners of the notes, except
+to the extent that the Holder or beneficial owner of the notes would have been entitled to such Company Additional Amounts on presentation
+of the same for payment on the last day of such period of 30 days; (d) any estate, inheritance, gift, sales, transfer, excise
+or personal property Tax or any similar Tax;</body></html>

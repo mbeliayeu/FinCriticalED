@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 5%"> </td>
+<td style="vertical-align: top; width: 3%"><font style="font-family: Symbol">·</font></td>
+<td style="vertical-align: top; width: 1%"> </td>
+<td style="text-align: justify; vertical-align: top"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">the
+    voting rights, if any, of the holders of the preferred shares representing limited liability company interests of the series.</font></td></tr>
+</tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"> </p></body></html>

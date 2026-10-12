@@ -1,0 +1,32 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_48"/>Representations and Warranties </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement, <reportingentity>RFC III</reportingentity> makes representations and warranties to the trust and the trustee about the
+receivables, to the effect, among other things, that: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) as of the applicable <font style="white-space:nowrap">cut-off</font> date with respect to the accounts, the list of accounts and information concerning the accounts provided by it is accurate and complete in all material respects, with certain permitted exceptions; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) each receivable conveyed by it to the trust has been conveyed free and clear of any lien or encumbrance,
+except liens permitted by the pooling and servicing agreement; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) all governmental authorizations,
+consents, orders or approvals required to be obtained, effected or given by it in connection with the conveyance of receivables to the trust have been duly obtained, effected or given and are in full force and effect; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv) as of each applicable selection date, each account was an Eligible Account; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v) as of each applicable selection date, each of the receivables then existing in the accounts was an
+Eligible Receivable; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi) as of the date of creation of any new receivable, such receivable is an
+Eligible Receivable. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the transferor materially breaches any representation and warranty described in this paragraph,
+and such breach remains uncured for <temporal>60 days</temporal> (or such longer period as to which the servicer and the trustee agree) after the earlier to occur of the discovery of the breach by the transferor and receipt of written notice of the breach by the
+transferor, and the breach has a material adverse effect on the certificateholders interest in such receivable, all of the Ineligible Receivables will be reassigned to the transferor on the terms and conditions set forth below. In such case,
+the account will no longer be included as an account in the Trust Portfolio. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">An Ineligible Receivable will be reassigned
+to the transferor on or before the Monthly Period in which such reassignment obligation arises by the servicer deducting the portion of such Ineligible Receivable that is a principal receivable from the aggregate amount of principal receivables used
+to calculate the Transferor Amount. In the event that the exclusion of an Ineligible Receivable from the calculation of the Transferor Amount would cause the Transferor Amount to be less than the Required Transferor Amount, on the Distribution Date
+following the Monthly Period in which such reassignment obligation arises, the transferor will make a deposit into the Special Funding Account in immediately available funds in an amount equal to the amount by which the Transferor Amount would be
+reduced below the Required Transferor Amount. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The reassignment of any Ineligible Receivable to the transferor, and the
+obligation of the transferor to make deposits into the Special Funding Account as described in the preceding paragraph, is the sole remedy respecting any breach of the representations and warranties described in the preceding paragraphs with respect
+to such receivable available to the certificateholders or the trustee on behalf of the certificateholders. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor
+will also make representations and warranties to the trust to the effect, among other things, that, as of each series closing date: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) it is a corporation or a limited liability company, as applicable; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) it has the authority to consummate the transactions contemplated by the pooling and servicing agreement
+and each supplement; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) the pooling and servicing agreement and each supplement constitute: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) a valid, binding and enforceable agreement of the transferor and </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">79 </p>
+
+</div></center></div></html>

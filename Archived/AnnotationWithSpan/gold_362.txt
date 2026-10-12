@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Stated
+Maturity</i></b>”, when used with respect to any Indenture Security or any instalment of principal thereof or interest thereon,
+means the date specified in such Indenture Security as the fixed date on which the principal of such Indenture Security or such instalment
+of principal or interest is due and payable.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Trust
+Indenture Legislation</i></b>” means, at any time, (i) the provisions of the <i>Business Corporations Act</i> (Ontario)
+and regulations thereunder as amended or re-enacted from time to time, (ii) the provisions of any other statute of Canada
+or any province thereof and any regulations thereunder and (iii) the Trust Indenture Act<i> </i>and regulations thereunder,
+but, in the case of (i) the BN Indenture and the BFI Senior Indenture, only to the extent applicable under Rule 4d-9 under
+the Trust Indenture Act and (ii) the BFI Subordinated Indenture and the BFI II Indenture, only to the extent applicable to that
+indenture, in each case relating to trust indentures and to the rights, duties, and obligations of trustees under trust indentures and
+of corporations issuing debt obligations under trust indentures.</p></body></html>

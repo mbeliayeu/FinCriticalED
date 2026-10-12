@@ -1,0 +1,14 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tbody><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%">S-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->31<!-- Field: /Sequence --></td></tr></tbody></table></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">We expect that delivery of
+the notes will be made against payment therefor on or about the closing date specified on the cover page of this prospectus supplement,
+which will be the second business day following the date of pricing of the notes (this settlement cycle being referred to as “<b>T+2</b>”).
+Under Rule 15c6-1 under the Exchange Act, trades in the secondary market generally are required to settle in one business day, unless
+the parties to any such trade expressly agree otherwise. Accordingly, purchasers who wish to trade notes prior to the delivery date may
+be required, by virtue of the fact that the notes initially will settle in T+2, to specify an alternate settlement cycle at the time
+of any such trade to prevent a failed settlement. Purchasers of notes who wish to trade notes prior to the delivery date should consult
+their own advisor.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0in"><b>Conflicts of Interest</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0in"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif"><reportingentity>Brookfield
+Securities LLC</reportingentity>, one of the underwriters of this offering, is an affiliate of BFI and, therefore, has a conflict of interest under Rule
+5121 of the Financial Industry Regulatory Authority, Inc. (“</font><b>FINRA Rule 5121</b>”). Accordingly, this offering is
+being made in compliance with the requirements of FINRA Rule 5121. Pursuant to FINRA Rule 5121, <reportingentity>Brookfield Securities LLC</reportingentity> will not confirm
+sales of the notes to any account over which it exercises discretionary authority without the prior written approval of the customer.
+A qualified independent underwriter is not required to participate in this offering because the notes offered will be investment grade
+rated.</p></body></html>

@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt"><b>Conflicts of Interest</b></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0pt; margin-bottom: 0pt"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><reportingentity>Brookfield
+                                            Securities LLC</reportingentity>, one of the underwriters of this offering, is an affiliate of BFI and, therefore,
+                                            has a conflict of interest under FINRA Rule 5121 (as defined herein). Accordingly, this offering
+                                            is being made in compliance with the requirements of FINRA Rule 5121. Pursuant to FINRA Rule
+                                            5121, Brookfield Securities LLC will not confirm sales of the notes to any account over which
+                                            it exercises discretionary authority without the prior written approval of the customer.
+                                            See “Underwriting (Conflicts of Interest)  — Conflicts of Interest”.</font></p>
+</td></tr></body></html>

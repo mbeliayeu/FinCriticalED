@@ -1,0 +1,69 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table border="1" cellpadding="4" cellspacing="0" width="100%">
+<thead>
+<tr><th align="center" class="FormTextC" colspan="11" valign="top" width="100%"><b>Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned</b></th></tr>
+<tr>
+<th align="left" class="MedSmallFormText" rowspan="2" valign="top" width="36%">1. Title of Security (Instr. 
+      3)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="6%">2. Transaction Date
+      (Month/Day/Year)</th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="5%">2A. Deemed Execution Date, if any
+      (Month/Day/Year)</th>
+<th align="left" class="SmallFormText" colspan="2" valign="top" width="7%">3. Transaction Code (Instr. 
+      8)
+   </th>
+<th align="left" class="SmallFormText" colspan="3" valign="top" width="19%">4. Securities Acquired (A) or Disposed Of (D) (Instr. 
+      3, 4 and 5)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="11%">5. 
+      Amount of Securities Beneficially Owned Following Reported Transaction(s) (Instr. 
+      3 and 4)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="9%">6. Ownership Form: Direct (D) or Indirect (I) (Instr. 
+      4)
+   </th>
+<th align="left" class="SmallFormText" rowspan="2" valign="top" width="8%">7. Nature of Indirect Beneficial Ownership (Instr. 
+      4)
+   </th>
+</tr>
+<tr>
+<th align="center" class="SmallFormText" width="4%">Code</th>
+<th align="center" class="SmallFormText" width="3%">V</th>
+<th align="center" class="SmallFormText" width="8%">Amount</th>
+<th align="center" class="SmallFormText" width="5%">(A) or (D)</th>
+<th align="center" class="SmallFormText" width="6%">Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><span class="FormData">Common Stock</span></td>
+<td align="center"><span class="FormData"><temporal>12/31/2024</temporal></span></td>
+<td align="center"/>
+<td align="center"><span class="SmallFormData">S</span></td>
+<td align="center"/>
+<td align="center">
+<span class="FormData"><number>5,000</number></span><span class="FootnoteData"><sup>(1)</sup></span>
+</td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="center">
+<span class="FormText"><monetaryunit>$</monetaryunit></span><span class="FormData"><number>138.99</number></span>
+</td>
+<td align="center"><span class="FormData"><number>9,254</number></span></td>
+<td align="center"><span class="FormData">D</span></td>
+<td align="left"><span class="FormData"/></td>
+</tr>
+<tr>
+<td align="left"><span class="FormData">Common Stock</span></td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"><span class="FormData"><number>8,000</number></span></td>
+<td align="center"><span class="FormData">I</span></td>
+<td align="left"><span class="FormData"><reportingentity>John R. Jeffrey</reportingentity>, IRA</span></td>
+</tr>
+</tbody>
+</table></body></html>

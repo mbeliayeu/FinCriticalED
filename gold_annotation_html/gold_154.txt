@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the sum of the total amount of principal
+receivables in the trust as of the last day of the immediately preceding Monthly Period and the principal amount on deposit in the Special Funding Account as of such last day (or, with respect to the first Monthly Period, as of the closing date),
+and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the Series Allocation Percentage for Series
+<font style="white-space:nowrap">2025-1</font> as of the last day of the immediately preceding Monthly Period. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">However, the amount
+calculated above pursuant to clause (a) of the denominator shall be increased by the aggregate amount of principal receivables in Additional Accounts added to the trust during such Monthly Period and decreased by the aggregate amount of
+principal receivables in Additional Accounts removed from the trust during such Monthly Period, as though such receivables had been added to or removed from, as the case may be, the trust as of the first day of such Monthly Period. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Because the Series <font style="white-space:nowrap">2025-1</font> certificates are subject to being paired with a future
+series, if a <font style="white-space:nowrap">Pay-Out</font> Event or a Reinvestment Event occurs with respect to a paired series during the Controlled Accumulation Period for Series <font style="white-space:nowrap">2025-1,</font> the transferor
+may, by written notice to the trustee and the servicer, designate a different numerator for the foregoing fraction, provided that such numerator is not less than the Adjusted Invested Amount as of the last day of the Revolving Period for such paired
+series and the transferor shall have received written notice from each Rating Agency that such designation will satisfy the Rating Agency Condition and shall have delivered copies of each such written notice to the servicer and the trustee. In
+addition, the transferor shall have delivered to the trustee a certificate of an authorized officer to the effect that, based on the facts known to such officer at the time, in the reasonable belief of the transferor, such designation will not cause
+a <font style="white-space:nowrap">Pay-Out</font> Event or an event that, after the giving of notice or lapse of time, would constitute a <font style="white-space:nowrap">Pay-Out</font> Event, to occur with respect to Series <font style="white-space:nowrap">2025-1.</font> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Principal Funding Account</b> means the account established as
+described under <i>Series Provisions  Principal Funding Account</i> in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Rating
+Agency</b> is a nationally recognized statistical rating organization selected by the transferor to rate a series or class of certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Rating Agency Condition</b><b> </b>means, with respect to any action, that each Rating Agency shall have
+notified the transferor, the servicer and the trustee in writing that such action will not result in a reduction or withdrawal of the then existing rating of any outstanding series or class with respect to which it is a Rating Agency. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Reallocated Investor Finance Charge Collections</b><b> </b>means the amount of Group Investor Finance Charge
+Collections allocated to the certificateholders interest (including any collateral invested amount) for a particular series offered by this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Reallocated Principal Collections</b> means, for any Distribution Date, the collections of principal
+receivables allocable first to the Collateral Interest and then, in the case of the Class A Required Amount, to the Class B certificates that are used to fund the excess, if any, of the Class A Required Amount, the Class B
+Required Amount and the Collateral Senior Required Amount remaining after Excess Spread and Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1</font> and available for such purpose have been used to fund
+the Class A Required Amount and the Class B Required Amount. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Reallocation Group</b><b>
+</b>means, for any series, the group of series that will be subject to reallocations of collections of receivables and other amounts or obligations among the series in that group. Series <font style="white-space:nowrap">2025-1</font> is included in
+Group I. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Record Date</b> means, for any Distribution Date, the last day of the calendar month immediately
+preceding that Distribution Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Recoveries</b><b> </b>means all amounts received (net of expenses of
+collection), including insurance proceeds, with respect to Defaulted Receivables, including the net proceeds of any sale of such Defaulted Receivables. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">147 </p>
+
+</div></center></div></html>

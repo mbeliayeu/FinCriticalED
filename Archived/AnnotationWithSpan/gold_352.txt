@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Governing Law</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Indentures, Indenture Securities and the rights, powers, duties or responsibility of Computershare U.S. will be governed by the
+laws of the State of New York, except with respect to the rights, powers, duties or responsibility of the remaining Trustees (including
+Computershare Canada), which shall be governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein.
+(Section 113 of the BN Indenture and Section 1.13 of the BFI Senior Indenture and the Other Indentures.)</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>The Trustees</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Computershare
+Canada is currently, or is expected to be, the BN Trustee, the BFI Trustee, the BFI II Trustee and the Canadian trustee under the US
+LLC Indenture, the AUS Issuer Indenture and the UK Issuer Indentures. Computershare U.S. is, or is expected to be, the U.S. trustee under
+the US LLC Indenture, the AUS Issuer Indenture and the UK Issuer Indentures. None of the Trustees make any representation or warranty
+as to the accuracy or validity of the information contained herein.</p></body></html>

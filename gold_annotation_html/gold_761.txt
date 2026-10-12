@@ -1,0 +1,70 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>idth="100%"&gt;
+<tbody><tr><td><span class="FormData">C/O CONTIGROUP COMPANIES, INC.</span></td></tr>
+<tr><td><span class="FormData">767 FIFTH AVENUE</span></td></tr>
+</tbody>
+<hr width="98%"/>
+<span class="MedSmallFormText">(Street)</span><table border="0" width="100%"><tbody><tr>
+<td width="33%"><span class="FormData">NEW YORK</span></td>
+<td width="33%"><span class="FormData">NY</span></td>
+<td width="33%"><span class="FormData">10153</span></td>
+</tr></tbody></table>
+<hr width="98%"/>
+<table border="0" width="100%"><tbody><tr>
+<td class="MedSmallFormText" width="33%">(City)</td>
+<td class="MedSmallFormText" width="33%">(State)</td>
+<td class="MedSmallFormText" width="33%">(Zip)</td>
+</tr></tbody></table>
+
+<td valign="top" width="35%">
+<span class="MedSmallFormText">2. Issuer Name <b>and</b> Ticker or Trading Symbol
+      </span><br/><a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001001250"><reportingentity>EST</reportingentity>EE LAUDER COMPANIES INC</a>
+     [ <span class="FormData">EL</span> ]
+   </td>
+<td rowspan="2" valign="top">
+<span class="MedSmallFormText"><temporal>5. Relatio</temporal>nship of Reporting Person(s) to Issuer
+      </span><br/><span class="MedSmallFormText">(Check all applicable)</span><table border="0" width="100%">
+<tbody><tr>
+<td align="center" width="15%"><span class="FormData">X</span></td>
+<td class="MedSmallFormText" width="35%">Director</td>
+<td align="center" width="15%"/>
+<td class="MedSmallFormText" width="35%"><number>10%</number> Owner</td>
+</tr>
+<tr>
+<td align="center"/>
+<td class="MedSmallFormText">Officer (give title below)</td>
+<td align="center"/>
+<td class="MedSmallFormText">Other (specify below)</td>
+</tr>
+<tr>
+<td align="center" width="15%"/>
+<td align="left" style="color: blue" width="35%"/>
+<td align="center" width="15%"/>
+<td align="left" style="color: blue" width="35%"/>
+</tr>
+</tbody></table>
+</td>
+
+<tr><td valign="top">
+<span class="MedSmallFormText">3. Date of Earliest Transaction
+         (Month/Day/Year)</span><br/><span class="FormData">02/07/2025</span>
+</td></tr>
+<tr>
+<td valign="top">
+<span class="MedSmallFormText">4. If Amendment, Date of Original Filed
+         (Month/Day/Year)</span><br/>
+</td>
+<td valign="top">
+<span class="MedSmallFormText">6. Individual or Joint/Group Filing (Check Applicable Line)
+      </span><table border="0" width="100%">
+<tbody><tr>
+<td align="center" width="15%"><span class="FormData">X</span></td>
+<td class="MedSmallFormText" width="85%">Form filed by One Reporting Person</td>
+</tr>
+<tr>
+<td align="center" width="15%"/>
+<td class="MedSmallFormText" width="85%">Form filed by More than One Reporting Person</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</body></html>

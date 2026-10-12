@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+payable on the Collateral Senior Invested Amount on each Distribution Date, beginning <temporal>March 17, 2025</temporal>, to the holder of the Collateral Interest will equal to
+<font style="white-space:nowrap">one-twelfth</font> of the product of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the Collateral
+Senior Minimum Interest Rate; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the Collateral Senior Invested Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">For the first Distribution Date, however, interest on the Collateral Senior Invested Amount will equal <monetaryunit>$</monetaryunit>[]. The Collateral Interest will
+also provide for additional interest as provided herein and in the Series <font style="white-space:nowrap">2025-1</font> supplement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, Collateral Senior Outstanding Minimum Monthly Interest due but not paid to the holder of the
+Collateral Interest and any Collateral Senior Additional Interest will be paid, to the extent funds are available, to the holder of the Collateral Interest. Payments to the holder of the Collateral Interest in respect of interest on the Collateral
+Senior Invested Amount on any Distribution Date will be funded from Excess Spread and Excess Finance Charge Collections, but only after such amounts are applied to make certain other payments. To the extent Excess Spread and Excess Finance Charge
+Collections allocated to the holder of the Collateral Interest for such Monthly Period are insufficient to pay such interest, Reallocated Principal Collections allocable to the portion of Collateral Invested Amount not represented by the Collateral
+Senior Invested Amount and not required to make certain other payments will be used to make such interest payments to the holder of the Collateral Interest. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_27"/>Principal Payments </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Revolving Period begins on the closing date and ends upon the commencement of the Controlled Accumulation Period or, if
+earlier, the Early Amortization Period. During the Revolving Period, no principal payments will be made to or for the benefit of the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the Collateral Interest.
+Unless a <font style="white-space:nowrap">Pay-Out</font> Event has occurred, the Controlled Accumulation Period is scheduled to begin at the close of business on the last day of the <temporal>November 2026</temporal> Monthly Period, but may be delayed as described
+herein, and ends on the earliest to occur of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the commencement of an Early Amortization
+Period, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the payment in full of the Invested Amount, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   the Expected Final Payment Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">During the Controlled Accumulation Period (on or prior to the Expected Final Payment Date), principal will be deposited in the
+Principal Funding Account as described below and on the Expected Final Payment Date will be distributed to Class A certificateholders up to the Class A Invested Amount and then to Class B certificateholders up to the Class B
+Invested Amount. During the Controlled Accumulation Period, no principal payments will be made to the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the Collateral Interest. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date with respect to the Controlled Accumulation Period, the trustee will deposit in the Principal
+Funding Account an amount equal to the least of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   Available Principal Collections on
+deposit in the Collection Account with respect to such Distribution Date, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the
+Controlled Deposit Amount for such Distribution Date, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   the sum of the Class A
+Adjusted Invested Amount and the Class B Adjusted Invested Amount, </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">until the amount on deposit in the Principal Funding Account
+equals the sum of the Class A Invested Amount and the Class B Invested Amount. Amounts on deposit in the Principal Funding Account will be paid to the Class A certificateholders and, if the amount on deposit in the Principal Funding
+Account exceeds the Class A Invested Amount, to the Class B certificateholders on the Expected Final Payment Date. No principal payments will be made </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">60 </p>
+
+</div></center></div></html>

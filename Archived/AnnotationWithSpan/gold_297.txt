@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>Preference Shares, Series 13; <number>7,840,204</number> Class A Preference Shares, Series 17; 7,681,088 Class A
+Preference Shares, Series 18; 10,808,027 Class A Preference Shares, Series 24; 9,770,928 Class A Preference Shares,
+Series 26; 9,233,927 Class A Preference Shares, Series 28; 9,787,090 Class A Preference Shares, Series 30; 11,750,299
+Class A Preference Shares, Series 32; 9,876,735 Class A Preference Shares, Series 34; 7,842,909 Class A Preference
+Shares, Series 36; 7,830,091 Class A Preference Shares, Series 37; 7,906,132 Class A Preference Shares, Series 38;
+11,841,025 Class A Preference Shares, Series 40; 11,887,500 Class A Preference Shares, Series 42; 9,831,929
+Class A Preference Shares, Series 44; 11,740,797 Class A Preference Shares, Series 46; 11,885,972 Class A Preference
+Shares, Series 48; 3,320,486 Class A Preference Shares, Series 51; 1,177,580 Class A Preference Shares, Series 52;
+1,643,315,224 Class A Shares; and 85,120 Class B Shares issued and outstanding.</body></html>

@@ -1,0 +1,45 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+the extent that Shared Principal Collections exceed principal shortfalls, the balance will be allocated to the holders of the Transferor Certificates; <i>provided </i>that: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">such Shared Principal Collections will be distributed to the holders of the Transferor Certificates only to
+the extent that the Transferor Amount is greater than the Required Transferor Amount, and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">in certain circumstances described below under <i> Special Funding Account, </i>such Shared
+Principal Collections will be deposited in the Special Funding Account. </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Any such reallocation of
+collections of principal receivables will not result in a reduction in the invested amount of the series to which such collections were initially allocated. There can be no assurance that there will be any Shared Principal Collections with respect
+to any Monthly Period or that any other series will be designated as a principal sharing series. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_66"/>Paired Series </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">As described under <i>Series Provisions  Application of Collections  Paired Series</i> in this
+prospectus, a series of certificates may be paired with another series issued by the trust. As the invested amount of the series having a paired series is reduced, the invested amount in the trust of the paired series will increase by an equal
+amount. If a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event occurs with respect to the series having a paired series or with respect to the paired series when the series is in a Controlled Amortization Period or a
+Controlled Accumulation Period, the Series Allocation Percentage and the Principal Allocation Percentage for the series having a paired series and the Series Allocation Percentage and the Principal Allocation Percentage for the paired series will be
+reset as provided in the related supplement. In addition, the Early Amortization Period or Early Accumulation Period for such series could be lengthened. Series <font style="white-space:nowrap">2025-1</font> is not currently paired with another
+series. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_67"/>Special Funding Account </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If, on any date, the Transferor Amount is less than or equal to the Required Transferor Amount, the servicer will not
+distribute to the holders of the Transferor Certificates any collections of principal receivables allocable to a series or a group that otherwise would be distributed to such holders. Instead it will deposit such funds in an Eligible Deposit
+Account, called the Special Funding Account, established and maintained by the servicer for the benefit of the certificateholders of each series, in the name of the trustee, on behalf of the trust. The Special Funding Account will bear a designation
+clearly indicating that the funds deposited therein are held for the benefit of the certificateholders of each series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">So
+long as no series is in a Controlled Accumulation Period, Early Accumulation Period, Controlled Amortization Period or Early Amortization Period, funds on deposit in the Special Funding Account will be withdrawn and paid to the holders of the
+Transferor Certificates on any Distribution Date to the extent that, after giving effect to such payment, the Transferor Amount exceeds the Required Transferor Amount on such date. If a Controlled Accumulation Period, Early Accumulation Period,
+Controlled Amortization Period or Early Amortization Period starts and is continuing for any series, however, any funds on deposit in the Special Funding Account will be released, deposited in the Collection Account and treated as collections of
+principal receivables to the extent needed to make principal payments due to or for the benefit of the certificateholders of such series, but only to the extent that doing so would not cause the Transferor Amount to be less than the Required
+Transferor Amount. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the transferor determines that by decreasing the amount on deposit in the Special Funding Account,
+one or more series for which the related supplements permit partial amortization, may be prevented from experiencing a <font style="white-space:nowrap">Pay-Out</font> Event due to the insufficiency of yield, funds on deposit in the Special Funding
+Account may be applied to each such series (on a <i>pro rata </i>basis according to each series invested amount) to reduce the invested amount thereof. Such reduction would enable that series to avoid a yield insufficiency <font style="white-space:nowrap">Pay-Out</font> Event, but may be done only to the extent that it would not cause the Transferor Amount to be less than the Required Transferor Amount. The transferor, at its option, may instruct the trustee to deposit to
+the Special Funding Account any Shared Principal Collections that would otherwise be payable to the holders of the Transferor Certificates in accordance with the foregoing. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">96 </p>
+
+</div></center></div></html>

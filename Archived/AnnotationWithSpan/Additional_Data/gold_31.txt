@@ -1,0 +1,59 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the success of marketing and promotional campaigns; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the ability of issuers to manage credit and interest rate risk throughout the economic cycle and implement
+operational and cost efficiencies; </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the quality of customer service; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the speed of innovation and investment in systems, technologies, and product and service offerings.
+</p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express-branded cards</reportingentity> are issued on the American Express network. As a global netw<reportingentity>ork,
+American Ex</reportingentity>press competes in the payments industry with other card networks, including, among others, Visa, China UnionPay, Mastercard, JCB, Discover and Diners Club International<sup style="font-size:75%; vertical-align:top">®</sup> (which is
+owned by Discover). In addition to such networks, <reportingentity>American Express</reportingentity> competes against a range of companies globall<reportingentity>y, including mer</reportingentity>chant acquirers, processors and <font style="white-space:nowrap">web-</font> and mobile-based payment platforms (e.g.,
+Alipay, PayPal and Shop Pay). Card issuers and acquirers on some of these networks may be able to benefit from the dominant position, scale, resources, marketing and pricing of those networks. Some may offer richer value propositions or a wider
+range of programs and services than American Express or may use more effective strategies to acquire and retain more customers, capture a greater share of spending and borrowings, develop more attractive
+<font style="white-space:nowrap">co-brand</font> card and other partner programs, obtain more favorable terms with merchants and maintain greater merchant acceptance than American Express. Competition may also intensify as participants in the
+payments industry merge or enter into joint ventures or other business combinations that compete with American Express products and services. Government actions or initiatives may also provide competitors with increased opportunities to derive
+competitive advantages and may create new competitors, including in some cases a government entity. American Express may not be able to compete effectively against these threats or respond or adapt to changes in consumer spending and borrowing or
+merchant acceptance as effectively as its competitors. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Another aspect of competition is the dynamic and rapid growth of
+alternative payment and financing mechanisms, systems and products, which include payment facilitators and aggregators, digital payment, open banking and electronic wallet platforms,
+<font style="white-space:nowrap"><font style="white-space:nowrap">point-of-sale</font></font> lenders and buy now, pay later products, real-time settlement and processing systems, financial technology companies, digital currencies developed by both
+central banks and the private sector, blockchain and similar distributed ledger technologies, prepaid systems and gift cards, and systems linked to customer accounts or that provide payment solutions. The integration of new or evolving technologies,
+such as generative artificial intelligence, has the potential to create new or better competitor products, alter the competitive environment and disintermediate our relationship with customers. Additionally, various competitors are integrating more
+financial services into their product offerings and competitors are seeking to attain the benefits of an integrated payments platform, such as that of <reportingentity>American Express</reportingentity>. New payments competitors continue to emerge in response to evolving
+technologies, consumer habits and merchant needs. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Government actions or initiatives may also alter the competitive
+landscape and create new competitors. For example, the <reportingentity>CFPB</reportingentity> issued a final rule on personal financial data rights that requires financial institutions, including American Express, and other financial service providers to provide consumers and
+consumer-authorized third parties with access to consumers financial data in electronic form free of charge. At the earliest, for certain products, American Express will be required to comply with the rule beginning on April 1, 2026;
+however, the compliance timeline is subject to change due to the outcome of pending litigation challenging the rule. While the impact of the rule will depend upon a number of factors, including consumer behavior and the actions of data providers and
+recipients, open banking initiatives like this final rule have the potential to change the competitive landscape, presenting challenges to American Express, such as limiting advantages provided by its integrated payments platform. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Spending on <reportingentity>American Express cards</reportingentity> could continue to be impacted by increasing usage of credit and debit cards issued on other
+networks and real-time settlement transactions, such as bank transfers, as well as adoption of altern<reportingentity>ative payment mechanis</reportingentity>ms, systems and products. The fragmentation of customer spending, such as to take advantage of different merchant or card
+incentives, as a result of <font style="white-space:nowrap"><font style="white-space:nowrap">point-of-sale</font></font> practices that impact merchant acceptance (e.g., surcharging or differential acceptance) or for convenience with technological
+solutions, may continue to increase. Revolving credit balances on American Express cards could also be impacted by alternative </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">24 </p>
+
+</div></center></div></html>

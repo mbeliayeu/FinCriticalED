@@ -1,0 +1,66 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>fy;"&gt;<number>1.880%</number>
+
+
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;">FINANCIAL INSTITUTION 2012 SPA</div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;">3.203%</div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic; font-weight: bold;">GAMMA SRL</div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.416%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic; font-weight: bold;">Total</div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;"><number>5.499%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 35.26%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;">DELFIN SARL</div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;">DELFIN SARL</div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;"><number>19.390%</number></div>
+</td>
+</tr>
+<tr>
+<td rowspan="3" style="width: 35.26%; vertical-align: top; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-weight: bold;">BANCA MEDIOLANUM SPA</div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;">MEDIOLANUM VITA SPA</div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.741%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;">BANCA MEDIOLANUM SPA</div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;">2.602%</div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-style: italic; font-weight: bold;">Total</div>
+</td>
+<td style="width: 36.7%; vertical-align: top; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-weight: bold;">3.343%</div>
+</td>
+</tr>
+</body></html>

@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="right"><b><a name="tx764677_122"/><a name="rom764677_122"/>Annex I </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>The Trust Portfolio </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><i>The information provided in this Annex I forms an integral part of the prospectus. </i></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>General </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">The primary
+assets of the trust are receivables generated from time to time in a portfolio of designated consumer American Express credit card accounts and Pay Over Time revolving credit features associated with certain American Express credit card accounts
+and, in the future, may include other charge or credit accounts or products. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i/>The accounts in the Trust Portfolio
+were selected from the Total Portfolio based upon the eligibility criteria specified in the purchase agreement and the pooling and servicing agreement applied with respect to the accounts as of their selection date. <i>See The Pooling and
+Servicing Agreement Generally  Conveyance of Receivables,  Addition of Accounts and Risk Factors  Transaction Structure Risks  Addition or removal of accounts to the trust or other changes in the
+composition or performance of the trusts assets may decrease the credit quality of the assets securing the repayment of your certificates. If this occurs, your receipt of payments of principal and interest may be reduced, delayed or
+accelerated in this prospectus for a discussion of those eligibility criteria</i>. Subject only to these criteria and any applicable regulatory guidelines, the account owner has the discretion to select the accounts in the Total Portfolio for
+addition to the Trust Portfolio. The account owner has in the past considered, and may in the future consider, factors such as product type, tenure of an account and interest rate applicable to an account in determining the accounts to be added to
+the Trust Portfolio. Set forth below is certain information with respect to the Trust Portfolio. <i>See <reportingentity>AENB</reportingentity>s Revolving Credit Businesses and The Trust Portfolio  The Accounts in this prospectus. </i></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">Additional accounts were most recently designated for the Trust Portfolio on <temporal>October 1, 2018</temporal>, adding approximately $8
+billion of receivables in additional accounts. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">The Trust Portfolios yield, loss, delinquency and payment rate is
+comprised of segments which may, when taken individually, have yield, loss, delinquency and payment rate characteristics different from those of the overall Trust Portfolio. There can be no assurance that the yield, loss, delinquency and payment
+rate experience relating to the receivables in the Trust Portfolio in the future will be comparable to the historical experience relating to the receivables in the Trust Portfolio set forth below. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Loss and Delinquency Experience </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">The following tables set forth the loss and delinquency experience for the Trust Portfolio for each of the periods shown. The
+loss and delinquency rates at any time reflect, among other factors, the quality of the Trust Portfolio, the average seasoning of the accounts, the success of the account owners collection efforts, the product mix of the Trust Portfolio and
+general economic conditions. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">The following table sets forth the loss experience for the Trust Portfolio for each
+indicated period. Total gross charge-offs include charge-offs of principal receivables only, and do not include any charge-offs of finance charge and fee receivables or the amount of any reductions in principal receivables due to a rebate, refund,
+error, fraudulent charge or other miscellaneous adjustment described under <i>The Pooling and Servicing Agreement Generally  <financialconcepts>Defaulted Receivables</financialconcepts>; <financialconcepts>Rebates and Fraudulent Charges</financialconcepts></i>.<i></i> If finance charge and fee receivables
+that have been charged-off were included in total gross charge-offs, total gross charge-offs would be higher as an absolute number and as a percentage of the average principal receivables outstanding during the periods indicated. Recoveries are
+collections received in respect of charged-off accounts in the Trust Portfolio during the period indicated in the following table. Total recoveries for each indicated period include recoveries of principal,
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">A-I-1 </p>
+
+</div></center></div></html>

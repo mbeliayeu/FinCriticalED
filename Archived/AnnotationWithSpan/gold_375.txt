@@ -1,0 +1,16 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->17<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Registration Statement of which this Prospectus forms a part has been filed to provide solely for offerings by the Selling Shareholders
+upon exercise of the Demand Registration Right or Piggyback Registration Right.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><a name="spaa_022"/><b>EXEMPTIVE
+RELIEF</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Pursuant
+to a decision document dated <date>October 18, 2011</date> issued by the applicable securities regulators, the Company was granted exemptive
+relief from certain of the restricted securities requirements in National Instrument 51-102 — <i>Continuous Disclosure
+Obligations</i>, NI 41-101 and Ontario Securities Commission Rule 56-501 — <i>Restricted Shares </i>(collectively,
+the “<b>restricted security provisions</b>”), including the requirements to refer to the Class A Shares and the Class B
+Shares using a prescribed restricted security term. The Class A Shares and Class B Shares may qualify as “restricted
+securities” under the restricted security provisions because the Company’s constating documents contain provisions that restrict
+the voting rights of such securities in any election of the board of directors of the Company. See “Description of the Class A
+Shares”.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><a name="spaa_023"/><b>LEGAL
+MATTERS</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Unless
+otherwise specified in a Prospectus Supplement, certain matters of Canadian and United States law relating to the validity of the Securities
+will be passed upon for the Company by Torys in Toronto, Ontario, and New York, New York. The partners and associates of Torys, as a
+group, beneficially own, directly or indirectly, less than one percent of the outstanding securities of the Company.</p></body></html>

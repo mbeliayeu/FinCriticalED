@@ -1,0 +1,26 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="text-align: justify; margin-bottom: 9pt;">Source:   FactSet VWAP</div><div style="text-align: justify; margin-bottom: 9pt;">The Consideration was determined on the assumption that, prior to the Payment Date (as defined <font style="font-style: italic;">below</font>):</div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zdeab7b80bbcb46dfaeb8cb99537d5dd3" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">–</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">the Issuer and/or the Offeror do not approve or make any ordinary or extraordinary distribution of dividends from profits and/or other reserves; and</div>
+</td>
+</tr>
+</tbody></table>
+</div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zd958cf7d0dfb4727a288042c022348c4" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">–</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">the Issuer does not approve or carry out any transaction on its share capital (including, without limitation, capital increases or reductions) and/or on <reportingentity>Mediobanca</reportingentity> Shares (including,
+                without limitation, the amalgamation or cancellation of shares).</div>
+</td>
+</tr>
+</tbody></table>
+</div><div style="text-align: justify; margin-bottom: 9pt;">If, prior to the Payment Date (as defined below), the Issuer and/or the Offeror should pay a dividend (including an interim dividend) and/or make a distribution of reserves to its shareholders, or
+      in any event the <font style="font-style: italic;">ex</font> coupon (<font style="font-style: italic;">cedola</font>) relating to dividends resolved upon but not yet paid by the Issuer and/or <reportingentity>MPS</reportingentity>, as the case may be, is detached from the Mediobanca
+      Shares and/or the MPS Shares, respectively, the Consideration shall be adjusted to take into account the dividend distributed (or the interim dividend) or the reserve distributed.</div></body></html>

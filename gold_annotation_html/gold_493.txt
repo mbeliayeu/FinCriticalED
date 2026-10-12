@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The Guarantee Obligations
+(as defined herein) are unsecured and effectively subordinated in right of payment to all of the Company’s existing and future
+secured indebtedness, to the extent of the value of the assets securing such indebtedness. The Indenture for the notes does not restrict
+the Company’s or <reportingentity>BFI</reportingentity>’s ability to incur additional indebtedness, including secured indebtedness generally, which would have
+a prior claim on the assets securing that indebtedness. In the event of insolvency, bankruptcy, liquidation, reorganization, dissolution
+or winding up of the Company or <reportingentity>BFI</reportingentity>, their respective assets that serve as collateral for any secured indebtedness would be made available
+to satisfy their respective obligations to secured creditors before any payments are made on the notes or the Guarantee Obligations.
+See “Description of the Notes — General”.</p></body></html>

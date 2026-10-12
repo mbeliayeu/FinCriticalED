@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>) obligations of a Person the payment of which
+is unconditionally guaranteed as its full faith and credit obligation by such government which, in the case of either subclause (i) or
+(ii) of this clause (x), is not callable or redeemable at the option of the issuer thereof and (y) any depositary receipt issued
+by a bank (as defined in Section 3(a)(2) of the Securities Act, or, in the case of the BFI Senior Indenture and the Other Indentures,
+as defined in the <i>Bank Act </i>(Canada)), as custodian with respect to any Government Obligation which is specified in clause
+(x) above and held by such bank for the account of the holder of such depositary receipt, or with respect to any specific payment
+of principal of or interest on any Government Obligation which is so specified and held, provided that (except as required by law) such
+custodian is not authorized to make any deduction from the amount payable to the holder of such depositary receipt from any amount received
+by the custodian in respect of the Government Obligation or the specific payment of principal or interest evidenced by such depositary
+receipt.</body></html>

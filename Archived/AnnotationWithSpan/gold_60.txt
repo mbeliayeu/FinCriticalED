@@ -1,0 +1,27 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>="vertical-align: top"&gt;
+<td> </td>
+<td> </td>
+<tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Guarantee:</b></font></td>
+<td><font style="font-size: 10pt">The Notes (as defined below) will be fully and unconditionally guaranteed as to payment of principal, premium (if any) and interest and certain other amounts by Brookfield Corporation.</font></td></tr>
+<tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr>
+<tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Security:</b></font></td>
+<td><font style="font-size: 10pt"><number>5.813%</number> Notes due March 3, 2055 (the “Notes”)</font></td></tr>
+<tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr>
+<tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Expected Ratings*:</b></font></td>
+<td>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">A3 (Stable) (Moody’s Investors Service, Inc.)</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">A- (Stable) (S&amp;P Global Ratings)</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">A- (Stable) (Fitch Ratings, Inc.)</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">A (Stable) (DBRS Limited)</p></td></tr>
+<tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr>
+<tr style="vertical-align: top">
+<td><font style="font-siz&lt;/body&gt;&lt;/html&gt;"/></td></tr></body></html>

@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Events of Default</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Each of the following will
+constitute an Event of Default under the Indenture with respect to the notes: (a) failure to pay any interest on the notes when due,
+which failure continues for <temporal>30 days</temporal>; (b) failure to pay principal of, or any premium on, the notes when due; (c) failure to deposit any
+sinking fund payment, when due, in respect of the notes; (d) failure to perform any other covenant or warranty of BFI or the Company
+in the Indenture (other than a covenant or warranty included in the Indenture solely for the benefit of a series of notes other than
+the notes offered hereby), which failure continues for 60 days after written notice has been given by the Trustee or the holders of at
+least 25% in aggregate principal amount of outstanding notes, as provided in the Indenture; (e) the Company’s Guarantee Obligations
+shall, for any reason, cease to be, or the Company shall assert in writing to the Trustee or the holders thereof that such guarantee
+is not in full </p></body></html>

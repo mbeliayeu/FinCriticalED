@@ -1,0 +1,54 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the Available Reserve Account Amount for
+such Distribution Date or Special Payment Date, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the amount, if any, by which the
+Covered Amount for such Distribution Date or Special Payment Date exceeds the investment earnings (net of losses and investment expenses), if any, in the Principal Funding Account for the related Distribution Date; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><i>provided</i> that the amount of such withdrawal will be reduced to the extent that funds otherwise would be available to be deposited in
+the Reserve Account on such Distribution Date or Special Payment Date. On each Distribution Date, the amount available to be withdrawn from the Reserve Account will equal the Available Reserve Account Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Reserve Account will be terminated following the earliest to occur of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the termination of the trust pursuant to the pooling and servicing agreement, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the date on which the Invested Amount is paid in full, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   if the Controlled Accumulation Period has not commenced, the occurrence of a <font style="white-space:nowrap">Pay-Out</font> Event with respect to Series <font style="white-space:nowrap">2025-1</font> or, if the Controlled Accumulation Period has commenced, the earlier of the first Special Payment Date and the Expected Final
+Payment Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Upon the termination of the Reserve Account, all amounts on deposit therein (after giving effect to any
+withdrawal from the Reserve Account on such date as described above) will be distributed to the holder of the Collateral Interest. Any amounts withdrawn from the Reserve Account and distributed to the holder of the Collateral Interest as described
+above will not be available for distribution to the Class A certificateholders and the Class B certificateholders. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_32"/>Reallocation of Cash Flows </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Class A Required Amount </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Determination Date, the servicer will calculate the Class A Required Amount. If the Class A Required Amount
+is greater than zero, the following reallocations will occur: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Excess Spread and Excess Finance Charge Collections allocated to Series
+<font style="white-space:nowrap">2025-1</font> and available for such purpose will be used to fund the Class A Required Amount for the related Distribution Date; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">if such Excess Spread and Excess Finance Charge Collections are insufficient to fund the Class A Required
+Amount, Reallocated Principal Collections allocable first to the Collateral Interest and then to the Class B certificates will be used to fund the remaining Class A Required Amount; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">if Reallocated Principal Collections for the related Monthly Period, together with Excess Spread and Excess
+Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1,</font> are insufficient to fund the Class A Required Amount for such related Monthly Period, then the Collateral Invested Amount will be reduced by the
+amount of such excess (but not by more than the Class A Investor Default Amount for such related Distribution Date). </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event that such reduction would cause the Collateral Invested Amount to be a negative number, the Collateral Invested
+Amount will be reduced to zero, and the Class B Invested Amount will be reduced by the amount by which the Collateral Invested Amount would have been reduced below zero (but not by more than the excess of the Class A Investor Default
+Amount, if any, for such Distribution Date over the amount of such reduction, if any, of the Collateral Invested Amount for such Distribution Date). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event that such reduction would cause the Class B Invested Amount to be a negative number, the Class B
+Invested Amount will be reduced to zero and the Class A Invested Amount will be reduced by the amount by which the Class B Invested Amount would have been reduced below zero (but not by more than the excess, if any, of the
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">64 </p>
+
+</div></center></div></html>

@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><a name="spaa_006"/><b>BFI</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">BFI
+was incorporated on <date>March 31, 2015</date> under the <i>Business Corporations Act</i> (Ontario) and is an indirect 100% owned
+subsidiary of the Company. BFI has issued or become an obligor under approximately US$8.75 billion of unsecured senior <number>deb</number>t securities
+(the “<b>Existing BFI Senior Debt Securities</b>”) as of the date hereof. The Existing BFI Senior Debt Securities are fully
+and unconditionally guaranteed by the Company. BFI has also issued approximately US$400 million of unsecured subordinated debt securities
+(the “<b>Existing BFI Subordinated Debt Securities</b>”) as of the date hereof. The Existing BFI Subordinated Debt Securities
+are fully and unconditionally guaranteed, on a subordinated basis, by the Company. The Existing BFI Subordinated Debt Securities are
+listed for trading on the NYSE under the symbol “BNH”.</p></body></html>

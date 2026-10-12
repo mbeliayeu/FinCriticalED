@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>General</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Indentures do not limit the aggregate principal amount of Indenture Securities (which may include debentures, notes and other unsecured
+evidences of indebtedness) which may be issued thereunder, and Indenture Securities may be issued under each Indenture from time to time
+in one or more series and may be denominated and payable in foreign currencies or units based on or relating to foreign currencies, including
+European currency units, pounds sterling and Australian dollars. Special Canadian and United States federal income tax considerations
+applicable to any Indenture Securities so denominated will be described in the Prospectus Supplement relating thereto. Unless otherwise
+indicated in the applicable Prospectus Supplement, each Indenture permits the Company and each Finance Debt Issuer to increase the principal
+amount of any series of Indenture Securities previously issued by it and to issue such increased principal amount. (Section 301
+of the BN Indenture, and Section 3.1 of the BFI Senior Indenture and the Other Indentures.) In the case of additional Debt Securities
+of a series under the US LLC Indenture, the AUS Issuer Indenture and the UK Issuer Indentures, issued after the date of original issuance
+of Debt Securities of such series, if they are not fungible with the original Debt Securities of such series for U.S. federal income
+tax purposes, then such additional Debt Securities will be issued with a separate CUSIP or ISIN number so that they are distinguishable
+from the original Debt Securities of such series.</p></body></html>

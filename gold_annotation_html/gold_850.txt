@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z8d93fafefa1e44e385a2022fea03822b" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 72pt; vertical-align: top; font-style: italic;">3.2.5</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-style: italic;"><u>Consideration Payment Date</u></div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">Subject to the fulfilment (or waiver) of the Conditions of Effectiveness and to the completion of the Offer, the delivery of the Consideration to the holders of the Issuer’s Shares tendered to the
+      Offer, together with the transfer to the Offeror of the ownership of such Issuer’s Shares shall take place on the fifth trading day following the end of the Acceptance Period, to be agreed with Borsa Italiana, subject to any extensions or other
+      changes to the Offer which may occur in accordance with applicable laws or regulations (the “<font style="font-weight: bold;">Payment Date</font>”).</div><div style="text-align: justify; margin-bottom: 9pt;">The Consideration shall be net of stamp duty, <financialconcepts>registration tax</financialconcepts> and tax on financial transactions, if due, and of fees, commissions and expenses which shall remain payable by the Offeror.  On the
+      contrary, any income tax, withholding tax or substitute tax, if due, on the capital gain, if any, will remain the responsibility of the subscribers to the Offer.</div></body></html>

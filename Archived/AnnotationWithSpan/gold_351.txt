@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->12<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Company has been informed by its Canadian counsel, Torys LLP (“<b>Torys</b>”), that a court of competent jurisdiction in
+the Province of Ontario would enforce a final and conclusive judgment in <i>personam</i> of a court sitting in the Borough
+of Manhattan, the City of New York, New York (a “<b>New York Court</b>”) that is subsisting and unsatisfied respecting the
+enforcement of any of the Indentures and the Indenture Securities that is not impeachable as void or voidable under the internal laws
+of the State of New York for a sum certain if: (i) the court rendering such judgment had jurisdiction over the judgment debtor,
+as recognized by the courts of the Province of Ontario (and submission by the Company in the Indenture to the jurisdiction of the New
+York Court will be sufficient for the purpose); (ii) such judgment was not obtained by fraud or in a manner contrary to natural
+justice and the enforcement thereof would not be inconsistent with public policy, as such term is understood under the laws of the Province
+of Ontario, or contrary to any order made by the Attorney General of Canada under </p></body></html>

@@ -1,0 +1,32 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">BNP Paribas Securities Corp.	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">12,500,000</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Brookfield Securities LLC	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">12,500,000</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Desjardins Securities Inc.	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">12,500,000</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Itau BBA USA Securities, Inc.	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">12,500,000</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">MUFG Securities Americas Inc.	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">12,500,000</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">National Bank of Canada Financial Inc.	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">12,500,000</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Natixis Securities Americas LLC	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">12,500,000</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Santander US Capital Markets LLC	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">12,500,000</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt">SG Americas Securities, LLC	</td><td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt"> </td>
+<td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">12,500,000</td><td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt">Total	</td><td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt"> </td>
+<td style="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: left">$</td><td style="border-bottom: Black 2.5pt double; font: 10pt Times New Roman, Times, Serif; text-align: right">500,000,000</td><td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt; text-align: left"> </td></tr>
+</body></html>

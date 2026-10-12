@@ -1,0 +1,3 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The net proceeds from this
+offering, after deducting the underwriters’ fees and the estimated expenses of the offering of approximately US$<number>650,000</number>, will be
+approximately US$<number>494,975,250</number>. The net proceeds from the sale of the notes will be used for general corporate purposes.</p></body></html>

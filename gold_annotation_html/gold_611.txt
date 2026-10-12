@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">This prospectus supplement
+has not been registered as a prospectus with the Monetary Authority of Singapore. Accordingly, this prospectus supplement and any other
+document or material in connection with the offer or sale, or invitation for subscription or purchase, of the notes may not be circulated
+or distributed, nor may the notes be offered or sold, or be made the subject of an invitation for subscription or purchase, whether directly
+or indirectly, to persons in Singapore other than (i) to an institutional investor under Section 274 of the Securities and
+Futures Act, Chapter 289 of Singapore (the “SFA”), (ii) to a relevant person, or any person pursuant to Section 275(1A),
+and in accordance with the conditions, specified in Section 275 of the SFA, or (iii) otherwise pursuant to, and in accordance
+with the conditions of, any other applicable provision of the SFA. Where the notes are subscribed or purchased under Section 275
+by a relevant person which is: (i) a corporation (which is not an accredited investor) the sole business of which is to hold investments
+and the entire share capital of which is owned by one or more individuals, each of whom is an accredited investor; </p></body></html>

@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">“<b><i><financialconcepts>Lien</financialconcepts></i></b>”
+means, with respect to any property or asset, any mortgage, charge, hypothecation, pledge, encumbrance on, or other security interest
+in, such property or asset.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">“<b><i><financialconcepts>Qualifying Subordinated
+Debt</financialconcepts></i></b>” means Debt of the Company and its Subsidiaries which by its terms provides that the payment of principal of (and
+premium, if any) and interest on and all other payment obligations in respect of such Debt shall be subordinate to the prior payment
+in full of the Company’s obligations in respect of the notes to at least the extent that no payment of principal of (or premium,
+if any) or interest on or otherwise due in respect of such Debt may be made for so long as there exists any default in the payment of
+principal (or premium, if any) or interest on the notes.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"/></body></html>

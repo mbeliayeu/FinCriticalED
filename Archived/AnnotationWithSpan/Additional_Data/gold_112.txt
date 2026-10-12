@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_15"/><reportingentity>Bank Holding Company</reportingentity> Status </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express Company</reportingentity> and TRS are bank holding companies under the Bank Holding Company Act of 1956, as amended (BHC
+Act) and have elected to be treated as financial holding companies under the BHC Act. As bank holding companies under the BHC Act, American Express Company and TRS are subject to supervision and examination by The Board of Governors of the
+Federal Reserve System. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_16"/>The Trustee </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>The Bank of New York Mellon</reportingentity>, a New York banking corporation, is the trustee under the pooling and servicing agreement. Its
+principal corporate trust office is located at 240 Greenwich Street, Floor 7 West, New York, New York 10286, Attention: Asset-Backed Securities Unit. The Bank of New York Mellon has been, and currently is, serving as indenture trustee and trustee
+for numerous securitization transactions and programs involving pools of credit card receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the ordinary course
+of business, <reportingentity>The Bank of New York Mellon</reportingentity>, The Bank of New York Mellon Trust Company, N.A., and BNY Mellon Trust of Delaware (collectively, BNY Mellon) are named as a defendant in legal actions. In connection with its role as trustee of
+certain residential mortgage-backed securitization (RMBS) transactions, BNY Mellon has been named as a defendant in a number of legal actions brought by RMBS investors. These lawsuits allege that the trustee had expansive duties under
+the governing agreements, including the duty to investigate and pursue breach of representation and warranty claims against other parties to the RMBS transactions. While it is inherently difficult to predict the eventual outcomes of pending actions,
+BNY Mellon denies liability and intends to defend the litigations vigorously. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>The Bank of New York Mellon</reportingentity> has provided
+the abov<reportingentity>e information for purposes </reportingentity>of complying with Regulation AB. Other than the previous two paragraphs and the first three sentences under <i>Prospectus Summary  Trustee</i> in this prospectus, The Bank of New York Mellon has
+not participated in the preparation of, and is not responsible for, any other information contained in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor, the servicer, the account owner and their respective affiliates may from time to time enter into normal
+banking and trustee relationships with the trustee and its affiliates. The trustee or the transferor may hold certificates in their own names; however, any certificates so held shall not be entitled to participate in any decisions made or
+instructions given to the trustee by the certificateholders as a group. In addition, for purposes of meeting the legal requirements of certain local jurisdictions, the trustee shall have the power to appoint, with the consent of the transferor (who
+shall not unreasonably withhold its consent), a <font style="white-space:nowrap">co-trustee</font> or separate trustees of all or any part of the trust. In the event of such appointment, all rights, powers, duties and obligations shall be conferred
+or imposed upon the trustee and such separate trustee or <font style="white-space:nowrap">co-trustee</font> jointly or, in any jurisdiction in which the trustee shall be incompetent or unqualified to perform certain acts, singly upon such separate
+trustee or <font style="white-space:nowrap">co-trustee,</font> who shall exercise and perform such rights, powers, duties and obligations solely at the direction of the trustee. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See </i><i>The Pooling and Servicing Agreement Generally  The Trustee</i><i> in this prospectus</i>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="tx764677_17"/><reportingentity>AENB</reportingentity>s Revolving Credit Businesses </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_18"/>General </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The receivables transferred to the trust are generated from transactions made by holders of consumer <reportingentity>American Express</reportingentity>
+revolving credit card accounts and Pay Over Time revolving credit features and Plan It lending features associated with certain American Express credit card accounts, all issued by AENB. Cards issued by AENB are accepted
+worldwide, and may be used for the purchase of merchandise and services. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Subject to certain conditions, the transferor
+may convey to the trust receivables arising in credit accounts or other credit products that may be of a type not currently included as accounts. Such accounts and products may be originated, underwritten, used or collected in a different manner
+than the accounts described below and may differ with respect to loss and delinquency experience, revenue experience and historical payment rates. Such accounts and </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">50 </p>
+
+</div></center></div></html>

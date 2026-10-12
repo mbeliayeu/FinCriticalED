@@ -1,0 +1,33 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z9899de95b84d44a484ec23c55e456b75" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">consolidate the sustainability strategies of the two banks, leveraging their respective ESG capabilities to strengthen the combined entity’s positioning and promote its commitment to the
+                communities and territories where it has its roots.</div>
+</td>
+</tr>
+</tbody></table>
+</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zba640096da38412ea4a99ef54b28f90b" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; font-weight: bold;">1.3</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-weight: bold;">Industrial and strategic conisderations</div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">The combination with Mediobanca will create a new national champion, ready to support the country’s households and businesses with a distinctive business model, characterized by a balanced mix and a
+      solid capital and liquidity position.  The strong complementarity between the two banks represents an opportunity to evolve towards a single banking entity by leveraging innovative and specialised activities:</div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="za35e937c2c3f4ce191ceb3d965336c52" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">a best-in-class Wealth Management player, thanks to the combination of the capabilities of <reportingentity>Mediobanca</reportingentity> and <reportingentity>MPS</reportingentity> in <font style="font-style: italic;">private banking</font> and Banca Wibida
+                and Mediobanca Premier in asset gathering, including through approximately 1,200 promoters in aggregate;</div>
+</td>
+</tr>
+</tbody></table>
+</div></body></html>

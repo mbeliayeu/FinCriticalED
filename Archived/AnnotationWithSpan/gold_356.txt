@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->13<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Capital
+Stock</i></b>” of any Person means any and all shares, interests, participations or other equivalents (however designated) of corporate
+stock or other equity participations, including partnership interests whether general or limited, of such Person, and, in the case of
+the BFI Senior Indenture and Other Indentures including units of such Person.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Common
+Stock</i></b>” of any Person means Capital Stock of such Person that does not rank prior, as to the payment of dividends or as
+to the distribution of assets upon any voluntary or involuntary liquidation, dissolution or winding-up of such Person, to shares
+of Capital Stock of any other class of such Person.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Consolidated
+Net Worth</i></b>” of any Person means, with respect to the BN Indenture and the BFI Senior Indenture, the consolidated stockholders’
+equity of such Person, determined on a consolidated basis in accordance with generally accepted accounting principles, plus, without
+duplication, Qualifying Subordinated Debt and Deferred Credits; provided that with respect to the BN Indenture, adjustments following
+the date of the BN Indenture to the accounting books and records of the Company in accordance with U.S. Accounting Principles Board Opinions
+Nos. 16 and 17 (or successor opinions thereto), or comparable standards in Canada, or otherwise resulting from the acquisition of control
+of the Company by another Person shall not be given effect.</p></body></html>

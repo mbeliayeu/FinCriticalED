@@ -1,0 +1,19 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Use
+    of Proceeds	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    net proceeds from the sale of the notes will be used for general corporate purposes.</font></td></tr><tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Form and
+    Denominations	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    notes will be represented by one or more fully-registered global securities registered in the name of a nominee of The Depository
+    Trust Company. Beneficial interests in those fully-registered global securities will be in initial denominations of US$<number>2,000</number> and
+    subsequent multiples of US$1,000. Except as described under “Description of the Notes” in this prospectus supplement
+    and “Description of Debt Securities” in the accompanying base shelf prospectus, notes in definitive form will not be
+    issued.</font></td></tr><tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Change
+    of Control	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">BFI
+    will be required to make an offer to purchase the notes at a price equal to <number>101%</number> of their principal amount, plus accrued and unpaid
+    interest to the date of repurchase upon the occurrence of a Change of Control Triggering Event (as defined herein). See “Description
+    of the Notes — Change of Control”.</font></td></tr><p style="margin: 0"> </p><p style="margin: 0"/></body></html>

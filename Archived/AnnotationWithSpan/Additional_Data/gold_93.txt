@@ -1,0 +1,47 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">request a stay of proceedings or enforcement actions against AENB or its assets; or </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">reject AENBs sales contracts and limit the trusts or the transferors resulting claim to
+actual direct compensatory damages. </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Some interests could have priority over the
+trustees interest in the receivables, which could cause delayed or reduced payments to you. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Representations
+and warranties are made that the trustee has a perfected interest in the receivables. If any of these representations and warranties were found not to be true, however, payments to you could be delayed or reduced. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, the transaction documents permit certain tax liens to have priority over the trustees perfected interest in
+the receivables. If any of these tax liens were to arise, or if other interests in the receivables were found to have priority over those of the trustee, you could suffer a loss on your investment. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Furthermore, if a conservator or receiver for <reportingentity>AENB</reportingentity>, the transferor or a bankruptcy trustee for TRS or for the transferor were
+to argue that any of its administrative expenses relate to the receivables or the transaction documents, those expenses could be paid from collections on the receivables before the trustee receives any payments, which could result in losses on your
+investment. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>The trustee may not have a perfected interest in collections commingled by the servicer or any
+subservicer with its own funds, which could cause delayed or reduced payments to you. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer is obligated
+to deposit collections into the collection account no later than the second business day after the date of processing for those collections. In the event that certain conditions are met, however, the servicer is permitted to hold all collections
+received during a Monthly Period and to make only a single deposit of those collections on the business day immediately preceding the following distribution date. <i>See The Pooling and Servicing Agreement Generally  Deposits in
+Collection Account.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">All collections that the servicer is permitted to hold are commingled with its other funds
+or the funds of a subservicer and used for its own benefit. The trustee may not have a perfected interest in these amounts, and thus payments to you could be delayed or reduced if the servicer or any subservicer were to become bankrupt, enter
+conservatorship or receivership, were to become insolvent, or were to fail to perform its obligations under the transaction documents. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Changes to federal or state bankruptcy or debtor laws may impede collection efforts or alter timing and amount of
+collections, which may result in acceleration or reduction in payment of your certificates. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If an account holder
+sought protection under federal or state bankruptcy or debtor relief laws, a court could reduce or discharge completely the account holders obligations to repay amounts due on its revolving credit card account. As a result, the related
+receivables arising in that credit card account would be written off as uncollectible. You could suffer a loss if no funds were available from credit enhancement or other sources and collections of finance charge receivables allocated to the
+certificates to cover the applicable defaulted amount. In addition, the ability of <reportingentity>AENB</reportingentity> and its affiliates to manage credit risk may be adversely affected by legal or regulatory changes (such as bankruptcy laws and minimum payment regulations).
+<i>See The Pooling and Servicing Agreement Generally  Defaulted Receivables; Rebates and Fraudulent Charges in this prospectus.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b>Other Legal and Regulatory Risks </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Regulatory action could result in losses or delay in payments. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> is regulated, supervised and regularly examined by the Office of the Comptroller of the Currency (OCC). TRS
+is a bank holding company and, as such, is regulated, supervised and regularly examined by the Board of Governors of the Federal Reserve System. TRS and AENB are also subject to supervision, examination
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">31 </p>
+
+</div></center></div></html>

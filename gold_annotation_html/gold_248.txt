@@ -1,0 +1,38 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+amount by which the Collateral Invested Amount would have been reduced below zero, but not by more than the excess, if any, of the Class A Investor Default Amount for such Distribution Date
+over the amount of such reduction, if any, of the Collateral Invested Amount for such Distribution Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event
+that such reduction would cause the Class B Invested Amount to be a negative number, the Class B Invested Amount will be reduced to zero, and the Class A Invested Amount will be reduced by the amount by which the Class B Invested
+Amount would have been reduced below zero, but not by more than the excess, if any, of the Class A Investor Default Amount for such Distribution Date over the amount of the reductions, if any, of the Collateral Invested Amount and of the
+Class B Invested Amount with respect to such Distribution Date as described above. A reduction in the Class A Invested Amount as described in the preceding sentence is a Class A Investor
+<font style="white-space:nowrap">Charge-Off.</font> Such Class A Investor Charge-Offs will reduce the amounts allocable and available for payment and may have the effect of slowing or reducing the return of principal to your series. If
+the Class A Invested Amount has been reduced by the amount of any Class A Investor Charge-Offs, it will thereafter be increased on any Distribution Date (but not by an amount in excess of the aggregate Class A Investor Charge-Offs) by
+the amount of Excess Spread and Excess Finance Charge Collections allocable to Series <font style="white-space:nowrap">2025-1</font> available for such purpose as described above under <i> Application of Collections  Excess Spread;
+Excess Finance Charge Collections.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Reductions in Class B Invested Amount and Collateral Invested
+Amount </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, if the Class B Required Amount for such Distribution Date exceeds the sum
+of (i) Excess Spread and Excess Finance Charge Collections allocable to Series <font style="white-space:nowrap">2025-1</font> and not required to pay the Class A Required Amount or reimburse Class A Investor Charge-Offs, and
+(ii) Reallocated Principal Collections allocable to the Collateral Interest and not required to pay the Class A Required Amount, then the Collateral Invested Amount will be reduced by the amount of such excess, but not by more than the
+Class B Investor Default Amount for such Distribution Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event that such reduction would cause the
+Collateral Invested Amount to be a negative number, the Collateral Invested Amount will be reduced to zero, and the Class B Invested Amount will be reduced by the amount by which the Collateral Invested Amount would have been reduced below
+zero, but not by more than the excess, if any, of the Class B Investor Default Amount for such Distribution Date over the amount of such reduction, if any, of the Collateral Invested Amount for such Distribution Date. A reduction in the
+Class B Invested Amount as described in the preceding sentence is a Class B Investor <font style="white-space:nowrap">Charge-Off.</font> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Class B Invested Amount will also be reduced by the amount of Reallocated Principal Collections in excess of the
+Collateral Invested Amount and the amount of any portion of the Class B Invested Amount allocated to the Class A certificates to avoid a reduction in the Class A Invested Amount. Any reductions in the Class B Invested Amount will
+reduce the amounts allocable and available for payment and may have the effect of slowing or reducing the return of principal to your series. The Class B Invested Amount will thereafter be increased on any Distribution Date (but not by an
+amount in excess of the amount of such reductions in the Class B Invested Amount) by the amount of Excess Spread and Excess Finance Charge Collections allocable to Series <font style="white-space:nowrap">2025-1</font> available for such purpose
+as described above under  <i>Application of Collections  Excess Spread; Excess Finance Charge Collections</i>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, if the Collateral Default Amount for such Distribution Date exceeds the amount of Excess Spread and
+Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1</font> which is allocated and available to fund such amount as described above under  <i>Application of Collections  Excess Spread;
+Excess Finance Charge Collections</i>, the Collateral Invested Amount will be reduced by the amount of such excess but not by more than the lesser of the Collateral Default Amount and the Collateral Invested Amount for such Distribution Date.
+A reduction in the Collateral Invested Amount as described in the preceding sentence is a Collateral <font style="white-space:nowrap">Charge-Off.</font> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Collateral Interest will also be reduced by the amount of Reallocated Principal Collections and the amount of any portion
+of the Collateral Invested Amount allocated to the Class A certificates to avoid a reduction in the Class A Invested Amount or to the Class B certificates to avoid a reduction in the Class B Invested Amount. Any reductions in the
+Collateral Invested Amount will reduce the amounts allocable and available for payment and may have the effect of slowing or reducing the amount of payments to your series. The Collateral Invested Amount will thereafter be increased on any
+Distribution Date (but not by an amount in excess of the amount of such reductions in </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">69 </p>
+
+</div></center></div></html>

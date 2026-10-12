@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+until a successor asset representations reviewer is in place. The expenses associated with changing from one asset representations reviewer to another asset representations reviewer will be paid
+as agreed upon by the transferor and the asset representations reviewer and will not be paid out of collections received on the trusts assets. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="tx764677_95"/>Certain Legal Aspects of the Receivables </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_96"/>Certain Regulatory Matters </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The operations and financial condition of <reportingentity>AENB</reportingentity> are subject to extensive regulation and supervision under federal and state
+law. The appropriate banking regulatory authorities, including the FDIC, the OCC and the CFPB have broad enforcement powers over AENB. These enforcement powers may adversely affect the operation and financial condition of the trust and your rights
+under the pooling and servicing agreement prior to the appointment of a receiver or conservator. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If United States federal
+bank regulatory authorities supervising <reportingentity>AENB</reportingentity> were to find that any obligation of AENB or an affiliate under a securitization or other agreement, or any activity of AENB or such affiliate, constituted an unsafe or unsound practice or violated any
+law, rule, regulation or written condition or agreement applicable to AENB or such affiliate, such federal bank regulatory authorities have the power to order AENB or such affiliate, among other things, to rescind such agreement or contract, refuse
+to perform that obligation, terminate the activity, amend the terms of such obligation or take such other action as such regulatory authorities determine to be appropriate. In such an event, AENB or such affiliate may not be liable to you for
+contractual damages for complying with such an order and no recourse may be available against the relevant regulatory authority. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In one case, after the <reportingentity>OCC</reportingentity> found that a national bank was, contrary to safe and sound banking practices, receiving inadequate
+servicing compensation under its securitization agreements, that bank agreed to a consent order with the OCC. Such consent order required that bank, among other things, to immediately resign as servicer and to cease performing its duties as servicer
+within approximately 120 days, to immediately withhold and segregate funds from collections for payment of its servicing fee (notwithstanding the priority of payments in the securitization agreements and the perfected security interest of the
+relevant trust in those funds) and to increase its servicing fee percentage above that which was originally agreed upon in its securitization agreements. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">While <reportingentity>AENB</reportingentity> and its affiliates have no reason to believe that any obligation of AENB or an affiliate under the securitization
+agreements is unsafe or unsound or violative of any law, rule or regulation applicable to them, there can be no assurance that any such regulatory authority would not conclude otherwise in the future. If such a bank regulatory authority did reach
+such a conclusion, and ordered AENB or an affiliate to rescind or amend the securitization agreements, payments to you could be delayed or reduced. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See Risk Factors  Other Legal and Regulatory Risks  Regulatory action could result in losses or delay in
+payments and  Regulatory oversight and supervision could adversely affect the trust or your certificates, including by impeding origination or collection efforts, changing account holder use patterns, or reducing collections
+in this prospectus. </i></p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_97"/>Consumer Financial Products Regulation </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The relationship of the consumer and the provider of consumer credit is extensively regulated by federal and state consumer
+protection laws. With respect to credit accounts issued by <reportingentity>AENB</reportingentity>, the most significant federal laws include the federal Truth in Lending, Equal Credit Opportunity, Fair Credit Reporting and Fair Debt Collection Practices Acts. These statutes impose
+disclosure requirements before and when an account is opened, at the end of monthly billing cycles and on an annual basis, and, in addition, limit account holder liability for unauthorized use, prohibit certain discriminatory practices in extending
+credit, and regulate practices followed in collections. In addition, account holders are entitled under these laws to have payments and credits applied to the revolving credit account promptly and to request prompt resolution of billing errors. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The <reportingentity>CFPB</reportingentity> has broad rulemaking examination and enforcement authority with respect to certain federal consumer financial laws
+over providers of consumer financial products and services, including American Express </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">112 </p>
+
+</div></center></div></html>

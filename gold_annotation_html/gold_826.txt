@@ -1,0 +1,82 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div><br/>
+</div><div style="font-weight: bold;">Not for release, publication or distribution, in whole or in part, directly or indirectly in Australia, Canada, or Japan</div><div class="BRPFPageBreakArea" style="clear: both; margin-top: 10pt; margin-bottom: 10pt;">
+<div class="BRPFPageBreak" style="page-break-after: always;">
+<hr noshade="noshade" style="border-width: 0px; clear: both; margin: 4px 0px; width: 100%; height: 2px; color: #000000; background-color: #000000;"/></div>
+</div><img src="picture3.jpg"/><table cellpadding="0" cellspacing="0" id="z1e534955655b41a89bdd2a4b0c7e2236" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="background-color: #BFBFBF; border-bottom: 1px solid #000000; vertical-align: top; width: 35.26%;">
+<div style="text-align: justify; font-weight: bold;">Declarant or subject at the top of the participation chain</div>
+</td>
+<td style="background-color: #BFBFBF; border-bottom: 1px solid #000000; vertical-align: top; width: 28.04%;">
+<div style="text-align: center; font-style: normal; font-weight: bold;">Direct Shareholder</div>
+</td>
+<td style="background-color: #BFBFBF; border-bottom: 1px solid #000000; vertical-align: top; width: 36.7%;">
+<div style="text-align: justify; font-weight: bold;">% <financialconcepts>shareholding</financialconcepts></div>
+</td>
+</tr>
+<tr>
+<td rowspan="7" style="width: 35.26%; vertical-align: top;"> </td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>GAMMA SRL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.992%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>AZUFIN SPA</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>1.191%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>VM 2006 SRL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>1.746%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>MANTEGNA 87 SRL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.103%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>CALT 2004 SRL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.127%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>FINANZIARIA ITALIA 2005 SPA</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.159%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-style: italic; font-weight: bold;">Total</div>
+</td>
+<td style="width: 36.7%; vertical-align: top; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-weight: bold;"><number>5.026%</number></div>
+</td>
+</tr>
+</tbody></table><div><br/>
+</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z735acd8426264ee486f7d414f7a904ae" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; font-weight: bold;">2.2</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-weight: bold;"> Persons Acting in Concert</div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">Note that, in relation to the Offer, there are no persons acting in concert with the Offeror within the meaning of Article <font style="font-style: italic;">101-bis</font>, paragraphs 4, 4-<font style="font-style: italic;">bis</font> and <font style="font-style: italic;">4-ter</font>, of the TUF and Article <font style="font-style: italic;">44-quater</font> of the Issuers’ Regulation.</div></body></html>

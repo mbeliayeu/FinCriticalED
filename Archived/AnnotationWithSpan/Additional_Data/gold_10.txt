@@ -1,0 +1,38 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<div style="BORDER-BOTTOM:1.00pt solid #000000;BORDER-LEFT:1.00pt solid #000000;BORDER-RIGHT:1.00pt solid #000000;BORDER-TOP:1.00pt solid #000000;MARGIN-LEFT:0px; MARGIN-RIGHT:0px;max-width:100%"><div style="width:97%; margin-top:1.5%; margin-bottom:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>The Issuing Entity </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express Credit Account Master Trust</reportingentity> is the issuing entity of the certificates. It was formed in <temporal>1996</temporal> pursuant to a
+pooling and servicing agreement. This agreement, as it has been amended and restated from time to time, most recently as of <temporal>April 1, 2018</temporal>, and as may be further amended from time to time, is among American Express Travel Related Services
+Company, Inc., as servicer, American Express Receivables Financing Corporation III LLC, as transferor, and The Bank of New York Mellon, as trustee. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>We refer to the <reportingentity>American Express Credit Account Master Trust</reportingentity> as the </i><i>trust</i><i> or the
+</i><i>issuing entity</i>. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust is a master trust under which multiple series of certificates may be
+issued. The trust issues each series pursuant to a supplement to the pooling and servicing agreement. The terms of a series are set forth in the series supplement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Some classes or series may not be offered by this prospectus. They may be offered, for example, in a private placement
+offering. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Account Owner and Sponsor </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The receivables owned by the trust will arise in designated credit accounts owned by <reportingentity>American Express National Bank</reportingentity> or any of
+its affiliates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express National Bank</reportingentity>, a national banking association, owns revolving credit card and other
+credit accounts from which receivables are transferred to <reportingentity>American Express Receivables Financing Corporation III LLC</reportingentity>. American Express Receivables Financing Corporation III LLC may then, subject to certain conditions, add those receivables to the
+trust. <i>See </i><i>Transaction Parties  Account Owner and Sponsor,</i> <i>The Pooling and Servicing Agreement Generally  Additions of Accounts</i><i> and </i><i>Description of the Purchase
+Agreement</i>. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>We refer to <reportingentity>American Express National Bank</reportingentity> as </i><i><reportingentity>AENB</reportingentity>, the account
+owner or the</i> <i>bank.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Depositor and Transferor </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express Receivables Financing Corporation III LLC</reportingentity> is a limited liability company formed under the laws of the State
+of Delaware on <temporal>March 11, 2004</temporal>. It is a wholly-owned subsidiary of AENB. RFC III purchases from AENB receivables arising in revolving credit card and other credit accounts owned by AENB. RFC III may then, subject to certain conditions, add those
+receivables to the trust. <i>See </i><i>Description of the Purchase Agreement</i><i> in this prospectus</i>. American Express Receivables Financing Corporation III LLC structures the issuing entitys transactions. Its address is 115
+W Towne Ridge Pkwy, Room 454, Sandy, Utah 84070 and its phone number is (385) <font style="white-space:nowrap">308-6059.</font> <i>See </i><i>Transaction Parties  Depositor and Transferor.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>We refer to <reportingentity>American Express Receivables Financing Corporation III LLC</reportingentity> as </i><i><reportingentity>RFC III</reportingentity>,</i><i> the
+</i><i>depositor</i><i> or the </i><i>transferor</i>. <i/> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Servicer </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express Travel Related Services Company, Inc</reportingentity>. is the servicer of the trust. As servicer, it is responsible for
+servicing, managing and making collections on the receivables in the trust. <i>See Transaction Parties  Servicer and </i><i>The Pooling and Servicing Agreement Generally  Collection and Other Servicing
+Procedures</i><i> in this prospectus</i>. <reportingentity>American Express Travel Related Services Company, Inc</reportingentity>. has outsourced certain functions to affiliated and unaffiliated third parties, but it remains responsible for the overall servicing process. For
+information about certain affiliated and unaffiliated third-party service providers, including AENB, see <i>The Pooling and Servicing Agreement Generally  Outsourcing of Servicing</i><i> </i>in this prospectus. </p>
+</div></div>
+
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">3 </p>
+
+</div></center></div></html>

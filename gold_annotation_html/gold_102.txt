@@ -1,0 +1,57 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_64"/>Sharing of Excess Finance Charge Collections Among Excess Allocation Series
+</b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each series issued by the trust may be designated as an Excess Allocation Series. Series <font style="white-space:nowrap">2025-1</font> will be an Excess Allocation Series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If a series is an Excess Allocation Series,
+collections on finance charge receivables and Excess Finance Charge Collections may be applied to cover any shortfalls with respect to amounts payable from collections of finance charge receivables allocable to any other Excess Allocation Series
+<i>pro rata </i>based upon the amount of the shortfall, if any, with respect to each other Excess Allocation Series. The sharing of Excess Finance Charge Collections among Excess Allocation Series will stop if the transferor delivers to the trustee
+a certificate of an authorized representative to the effect that, in the reasonable belief of the transferor, the continued sharing of Excess Finance Charge Collections among Excess Allocation Series would have adverse regulatory implications with
+respect to the transferor or the account owner. Following the delivery by the transferor of any such certificates, there will be no further sharing of Excess Finance Charge Collections among such series in any such group. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In all cases, any Excess Finance Charge Collections remaining after covering shortfalls with respect to all outstanding Excess
+Allocation Series will be paid to the holders of the Transferor Certificates. While any series offered hereby may be designated as an Excess Allocation Series, there can be no assurance that: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">any other series will be designated as an Excess Allocation Series, </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">there will be any Excess Finance Charge Collections for any such other series for any Monthly Period,
+</p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">any agreement relating to any Series Enhancement will not be amended in such a manner as to increase payments
+to the providers of Series Enhancement and thereby decrease the amount of Excess Finance Charge Collections available from such series, or </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transferor will not at any time deliver a certificate as described above. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Although the transferor believes that, based upon applicable rules and regulations as currently in effect, the sharing of
+Excess Finance Charge Collections among Excess Allocation Series will not have adverse regulatory implications for the transferor, or the account owner, there can be no assurance that this will continue to be true in the future. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_65"/>Sharing of Principal Collections Among Principal Sharing Series </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each series issued by the trust may be designated as a principal sharing series. Series
+<font style="white-space:nowrap">2025-1</font> will be a principal sharing series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If a series is a principal sharing
+series, collections of principal receivables for any Monthly Period allocated to the certificateholders interest of any such series will first be used to cover certain amounts in respect of such series (including any required deposits into a
+principal funding account or required distributions to certificateholders of such series in respect of principal, if any). The servicer will determine the amount of collections of principal receivables for any Monthly Period (plus certain other
+amounts, including, with respect to Series <font style="white-space:nowrap">2025-1,</font> certain amounts described under <i>Series Provisions  Application of Collections  Payments of Principal</i> in this prospectus)
+allocated to such series remaining after covering such required deposits and distributions and any similar amount remaining for any other principal sharing series, collectively called Shared Principal Collections. The servicer will
+allocate the Shared Principal Collections to cover any principal distributions to certificateholders and deposits to principal funding accounts for any principal sharing series that are either scheduled or permitted and that have not been covered
+out of collections of principal receivables and certain other amounts allocable to the certificateholders interest of such series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If principal shortfalls exceed Shared Principal Collections for any Monthly Period, Shared Principal Collections will be
+allocated <i>pro rata </i>among the applicable series based on the respective principal shortfalls of such series. To </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">95 </p>
+
+</div></center></div></html>

@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_121"/>Glossary of Defined Terms </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Additional Accounts</b><b> </b>are any accounts in the Total Portfolio that are designated to the trust
+pursuant to an addition. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Adjusted Invested Amount</b> for any date of determination means the sum of the
+Class A Adjusted Invested Amount and the Class B Adjusted Invested Amount and the Collateral Invested Amount as of such date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Adverse Effect</b><b> </b>means, with respect to any action, that such action will (a) result in the
+occurrence of a <font style="white-space:nowrap">Pay-Out</font> Event or a Reinvestment Event or (b) materially adversely affect the amount or timing of distributions to be made to the investor certificateholders of any series or class under
+the pooling and servicing agreement. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Aggregate Addition Accounts</b><b> </b>means revolving credit or
+other charge or credit accounts established pursuant to a revolving credit agreement or other charge or credit agreement, respectively, between the account owner and the person or persons obligated to make payments thereunder, excluding any
+merchant, which is designated by such account owner to be included as an account. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>ARR Representations and
+Warranties</b> means the representations and warranties set forth as an exhibit to the asset representations review agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Available Principal Collections</b> means, with respect to any Monthly Period, an amount equal to the sum of:
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the Principal Allocation Percentage of the Series Allocation Percentage of all
+collections of principal receivables received during such Monthly Period (<i>minus</i> certain Reallocated Principal Collections used to fund the Class A Required Amount, the Class B Required Amount and the Collateral Senior Required
+Amount), </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   any Shared Principal Collections with respect to other principal sharing
+series that are allocated to Series <font style="white-space:nowrap">2025-1</font> and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)
+  certain other amounts which pursuant to the Series <font style="white-space:nowrap">2025-1</font> supplement are to be treated as Available Principal Collections with respect to the related Distribution Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Available Reserve Account Amount</b> means, on each Distribution Date, the amount available to be withdrawn
+from the Reserve Account equal to the lesser of the amount on deposit in the Reserve Account (before giving effect to any deposit to be made to the Reserve Account on such Distribution Date) and the Required Reserve Account Amount for such
+Distribution Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Average Rate</b><b> </b>means, with respect to any group, the percentage equivalent of
+a decimal equal to the sum of the amounts for each outstanding series (or each class within a series consisting of more than one class) within such group obtained by multiplying: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the certificate rate for such series or class (adjusted to take into account any payments
+received or payable pursuant to any interest rate agreements), and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   a fraction: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the numerator of which is the aggregate unpaid principal amount of the certificates of such
+series or class, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the denominator of which is the aggregate unpaid principal amount
+of all certificates within such group. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Base Rate</b> means, for any Monthly Period, the annualized
+percentage equivalent (which percentage shall never exceed <number>100%</number>) of a fraction: </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">131 </p>
+
+</div></center></div></html>

@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="text-align: justify; margin-bottom: 9pt;">The newly issued <reportingentity>MPS</reportingentity> shares will have regular dividend entitlement and the same characteristics as those in circulation on the issue date.</div><div style="text-align: justify; margin-bottom: 9pt;">For the purpose of the <financialconcepts>Share Capital Increase</financialconcepts> Reserved to the Offer, the <reportingentity>Board of Directors</reportingentity> of the Offeror will apply the rules contained in the Italian Civil Code for the valuation of the Issuer’s
+      Shares to be contributed.</div><div style="text-align: justify; margin-bottom: 9pt;">The Offeror, for the purpose of the Share Capital Increase Reserved to the Offer, will make available to the public, in accordance with the procedures and terms provided for by applicable laws and
+      regulations, the illustrative report of the directors provided for by article 2441, paragraph 6, of the Italian Civil Code and the opinion on the fairness of the issue consideration of the Offeror’s new shares, which will be issued by
+      <reportingentity>PricewaterhouseCoopers S.p.A.</reportingentity>, the company appointed to audit the Offeror’s capital increase, pursuant to Article 2441, paragraph 6, of the Italian Civil Code and Article 158 of the TUF, as well as the additional documentation required by the laws
+      and regulations in force.</div><br/><br/><hr align="left" noshade="noshade" style="background-color: #000000; border: 0px; height: 1px; width: 2in; margin-left: 0pt; margin-right: auto; color: #000000;"/><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z0431fced7ef04894b5ccb99912e79095" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 3pt;">
+<tbody><tr>
+<td style="width: 17.85pt; vertical-align: top;"><sup style="font-family: 'Times New Roman', serif; vertical-align: text-top; line-height: 1; font-size: smaller;">4</sup></td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>Source:   FactSet VWAP</div>
+</td>
+</tr>
+</tbody></table></body></html>

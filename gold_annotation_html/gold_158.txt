@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+in the Special Funding Account as of the last day of the Monthly Period preceding such Distribution Date and the Series Allocation Percentage with respect to such Monthly Period. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Servicing Fee</b><b> </b>has the meaning described in <i>Description of the Certificates  Servicing
+Compensation and Payment of Expenses </i>in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Servicing Fee Rate</b> means <number>2.0%</number> per
+year. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Shared Principal Collections</b><b> </b>has the meaning described in <i>The Pooling and
+Servicing Agreement Generally  Sharing of Principal Collections Among Principal Sharing Series </i>in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Special Funding Account</b><b> </b>means the account established as described under <i>The Pooling and
+Servicing Agreement Generally  Special Funding Account </i>in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Special Payment
+Date</b><b> </b>means any Distribution Date in a Monthly Period following a Monthly Period in which a <font style="white-space:nowrap">Pay-Out</font> Event occurs. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Supplemental Certificate</b> means any certificate that is received by the transferor in exchange for a portion
+of the Transferor Certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Tax Opinion</b><b> </b>means, with respect to any action, an opinion of
+counsel to the effect that, for federal income tax purposes, (a) such action will not adversely affect the tax characterization as debt of the certificates of any outstanding series or class that was characterized as debt at the time of its
+issuance, (b) following such action the trust will not be deemed to be an association (or publicly traded partnership) taxable as a corporation and (c) such action will not cause or constitute an event in which gain or loss would be
+recognized by any certificateholder. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Total Portfolio</b> is the revolving credit account portfolio of
+consumer <reportingentity>American Express</reportingentity> credit card accounts and Pay Over Time revolving credit features associated with credit card accounts owned by AENB and in the future may include other charge or credit accounts or products owned by AENB or other account
+owners, including revolving credit features of the charge card accounts, but excluding certain accounts owned by AENB issued to Latin American obligors. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Transferor Amount</b><b> </b>means, at any time of determination, an amount equal to the sum of (i) the
+total aggregate amount of principal receivables in the trust and (ii) the amount on deposit in the Special Funding Account at such time minus the aggregate Adjusted Invested Amounts for all outstanding series (specified in the
+prospectuses related to the offering of such series) at such time. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Transferor Certificates</b><b>
+</b>means, collectively, the original transferor certificate and any outstanding Supplemental Certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Travel</b><b/><b> &amp; Entertainment</b> means spend on travel and entertainment, which primarily
+includes airline, cruise, lodging and dining merchant categories. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Trust Adjusted Invested Amount</b><b>
+</b>means, for any Monthly Period, the sum of the Series Adjusted Invested Amounts (as adjusted in any supplement) for all outstanding series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Trust Portfolio</b> means certain accounts selected from the Total Portfolio and designated for the trust based
+on the eligibility criteria specified in the purchase agreement and the pooling and servicing agreement. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">151 </p>
+
+</div></center></div></html>

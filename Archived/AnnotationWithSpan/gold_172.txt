@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>text-indent: 0.5in"&gt;Within <date>30 days</date> following
+any Change of Control Triggering Event, BFI will be required to deliver a notice to holders of notes, with a copy to the Trustee, describing
+the transaction or transactions that constitute the Change of Control Triggering Event and offering to repurchase the notes on the date
+specified in the notice, which date will be no earlier than 30 days and no later than 60 days from the date such notice is
+delivered (the “<b>Change of Control Payment Date</b>”), pursuant to the procedures required by the notes and described
+in such notice. BFI must comply with the requirements of Rule 14e-1 under the Exchange Act and any other securities laws and regulations
+thereunder to the extent those laws and regulations are applicable in connection with the repurchase of the notes as a result of a Change
+of Control Triggering Event. To the extent that the provisions of any securities laws or regulations conflict with the Change of Control
+(as defined herein) provisions of the notes, BFI will be required to comply with the applicable securities laws and regulations
+and will not be deemed to have breached its obligations under the Change of Control provisions of the notes by virtue of such conflicts.</body></html>

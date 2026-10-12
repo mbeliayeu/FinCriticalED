@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+and <reportingentity>AENB</reportingentity>, and authority to prevent unfair, deceptive or abusive acts or practices. In addition, a number of U.S. states have significant consumer credit protection, disclosure and
+other laws (in certain cases more stringent than U.S. federal laws). U.S. federal law also regulates abusive debt collection practices which, along with bankruptcy and debtor relief laws, can affect the ability of American Express to collect amounts
+owed to it. American Express has been subject to regulatory actions by the CFPB and other regulators and may continue to be subject to such actions, including governmental inquiries, investigations and enforcement proceedings, in the event of
+noncompliance or alleged noncompliance with laws or regulations. Internal and regulatory reviews are likely to continue to result in changes to practices, products and procedures. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust may be liable for certain violations of consumer protection laws that apply to the receivables, either as assignee
+from the transferor with respect to obligations arising before transfer of the receivables to the trust or as the party directly responsible for obligations arising after the transfer. In addition, an account holder may be entitled to assert such
+violations by way of <font style="white-space:nowrap">set-off</font> against the obligation to pay the amount of receivables owing. All receivables that were not created in compliance in all material respects with the requirements of such laws (if
+such noncompliance has a material adverse effect on the certificateholders interest therein) will be reassigned to the transferor. The servicer has also agreed in the pooling and servicing agreement to indemnify the trust, among other things,
+for any liability arising from such violations caused by its servicing activities. For a discussion of the trusts rights if the receivables were not created in compliance in all material respects with applicable laws, see <i>The Pooling
+and Servicing Agreement Generally  Representations and Warranties </i>in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Servicemembers
+Civil Relief Act (SCRA) allows individuals on active duty in the military to cap the interest rate and fees on debts incurred before the call to active duty at <number>6%</number>. In addition, subject to judicial discretion, any action or court
+proceeding in which an individual in military service is involved may be stayed if the individuals rights would be prejudiced by denial of such a stay. Currently, some accountholders with outstanding balances have been placed on active duty in
+the military, and more may be placed on active duty in the future. In addition to the requirements of the SCRA, SCRA-covered American Express accountholders receive additional protections for the duration of their active duty status, including:
+(1) SCRA-eligible balances are subject to an interest rate of 0% for the life of the balance; (2) exclusion from increases to annual fees and annual percentage rates; and (3) exclusion from application of the penalty rate.
+Additionally, annual membership fees, late payment fees, return payment fees and return ATM fees are waived for covered accountholders for the duration of their active duty status. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Military Lending Act of <temporal>2006</temporal> and its implementing regulations (the MLA) apply to consumer credit cards offered
+by card issuers to covered borrowers, comprising active duty, active guard, or reserve personnel and their spouses and dependents. Specifically, credit card issuers are barred from imposing a MAPR greater than 36 percent in any
+covered borrowers billing cycle, with MAPR calculated by including not only the covered borrowers periodic rate but also credit insurance premiums, debt cancellation and suspension fees, ancillary product fees, and other fees which are
+not bona fide and reasonable. Card issuers may need to proactively identify covered borrowers by reference to a Department of Defense online database or a consumer report from a nationwide consumer reporting agency in order
+to ensure they do not impose an excessive MAPR on such individuals. In addition, disclosures of MAPR restrictions must be made to covered borrowers orally and in writing. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Application of federal and state bankruptcy and debtor relief laws would affect the interests of the certificateholders if
+such laws result in any receivables being charged off as uncollectible. <i>See</i> <i>The Pooling and Servicing Agreement Generally  Defaulted Receivables; Rebates and Fraudulent Charges in this prospectus</i>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See Risk Factors  Other Legal and Regulatory Risks  Regulatory oversight and supervision could adversely
+affect the trust or your certificates, including by impeding origination or collection efforts, changing account holder use patterns, or reducing collections and  Changes to consumer protection laws, including in the application or
+interpretation thereof, may impede origination or collection efforts, change account holder use patterns, or reduce collections, any of which may result in acceleration of or reduction in payment on the certificates in this prospectus.
+</i></p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">114 </p>
+
+</div></center></div></html>

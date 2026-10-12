@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Eligible Receivable</b><b> </b>means each receivable: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   that has arisen in an Eligible Account; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   that was created in compliance in all material respects with all requirements of law
+applicable to the account owner of such Eligible Account and pursuant to an account agreement that complies in all material respects with all requirements of law applicable to such account owner, in either case, the failure to comply with which
+would have a material adverse effect on certificateholders; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   with respect to which all
+material consents, licenses, approvals or authorizations of, or registrations or declarations with, any governmental authority required to be obtained, effected or given in connection with the creation of such receivable or the execution, delivery
+and performance by such account owner of the account agreement pursuant to which such receivable was created, have been duly obtained, effected or given and are in full force and effect; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv)   as to which at the time of the transfer of such receivable to the trust, the transferor or
+the trust will have good and marketable title thereto, free and clear of all liens (other than any lien for municipal or other local taxes of the transferor or the account owner if such taxes are not then due and payable or if the transferor or the
+account owner is then contesting the validity thereof in good faith by appropriate proceedings and has set aside on its books adequate reserves with respect thereto); </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v)   that has been the subject of either a valid transfer and assignment from the transferor to
+the trust of all of the transferors right, title and interest therein (including any proceeds thereof), or the grant of a first-priority perfected security interest therein (and in the proceeds thereof), effective until the termination of the
+trust; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi)   that is the legal, valid and binding payment obligation of the obligor thereon,
+enforceable against such obligor in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws, now or hereafter in effect, affecting the enforcement
+of creditors rights in general and except as such enforceability may be limited by general principles of equity (whether considered in a suit at law or in equity); </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vii)   that, at the time of transfer to the trust, has not been waived or modified except as
+permitted in accordance with the credit guidelines and which waiver or modification is reflected in the servicers computer file of accounts; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(viii)   that, at the time of transfer to the trust, is not subject to any right of rescission,
+setoff, counterclaim or any other defense (including defenses arising out of violations of usury laws) of the obligor, other than defenses arising out of applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting
+the enforcement of creditors rights in general; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ix)   as to which, at the time of
+transfer to the trust, the transferor thereof has satisfied all its obligations required to be satisfied by such time; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(x)   as to which, at the time of transfer to the trust, none of the transferor, <reportingentity>AENB</reportingentity>, or any
+other account owner, as the case may be, has taken any action which would impair, or omitted to take any action the omission of which would impair, the rights of the trust or the certificateholders therein; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(xi)   that constitutes either an account or a general intangible under
+and as defined in Article 9 of the UCC as then in effect in any state where the filing of a financing statement is then required to perfect the trusts interest in the receivables and the proceeds thereof. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Eligible Servicer</b> means, the trustee, <reportingentity>TRS</reportingentity> or AENB, or, if the trustee, TRS or AENB is not acting as
+servicer, an entity, the appointment of which satisfies the Rating Agency Condition, or an entity that, at the time of its appointment as servicer, (1) services a portfolio of charge or credit accounts, (2) is legally qualified and has the
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">143 </p>
+
+</div></center></div></html>

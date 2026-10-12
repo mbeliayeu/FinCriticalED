@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Beneficial owners of book-entry certificates should also realize that
+book-entry certificates may be more difficult to pledge because of the lack of a physical certificate. Beneficial owners may also experience delays in receiving distributions on their certificates since distributions will initially be made to <reportingentity>DTC</reportingentity>
+and must be transferred through the chain of intermediaries to the beneficial owners account. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i><reportingentity>The Depository
+Trust Company</reportingentity> </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>DTC</reportingentity> is a limited-purpose trust company organized under the New York Banking Law and is a
+banking organization within the meaning of the New York Banking Law. DTC is also a member of the Federal Reserve System, a clearing corporation within the meaning of the New York Uniform Commercial Code, and a clearing
+agency registered under Section 17A of the Securities Exchange Act of 1934, as amended. DTC was created to hold securities deposited by its participants and to facilitate the clearance and settlement of securities transactions among its
+participants through electronic book-entry changes in accounts of the participants, thus eliminating the need for physical movement of securities. DTC is a wholly-owned subsidiary of The Depository Trust &amp; Clearing Corporation
+(DTCC). DTCC is the holding company for DTC, National Securities Clearing Corporation and Fixed Income Clearing Corporation, all of which are registered clearing agencies. DTCC is owned by the users of its regulated subsidiaries. The
+rules applicable to DTC and its participants are on file with the SEC. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i><reportingentity>Clearstream Banking</reportingentity> </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>Clearstream Banking</reportingentity> is registered as a bank in Luxembourg and is regulated by the Banque Centrale du Luxembourg, the
+Luxembourg Central Bank, which supervises Luxembourg banks. Clearstream Banking holds securities for its customers and facilitates the clearance and settlement of securities transactions by electronic book-entry transfers between their accounts.
+Clearstream Banking provides various services, including safekeeping, administration, clearance and settlement of internationally traded securities and securities lending and borrowing. Clearstream Banking also deals with over 50 securities markets
+worldwide through established depository and custodial relationships. Clearstream Banking has established an electronic bridge with Euroclear in Brussels to facilitate settlement of trades between Clearstream Banking and Euroclear. Clearstream
+Banking. Over 300,000 domestic and internationally traded bonds, equities, and investment funds are currently deposited with Clearstream Banking. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>Clearstream Banking</reportingentity>s customers are worldwide financial institutions including underwriters, securities brokers and
+dealers, banks, trust companies and clearing corporations. Clearstream Bankings U.S. customers are limited to securities brokers and dealers and banks. Currently, Clearstream Banking has approximately 2,500 customers located in over 110
+countries, including all major European countries, Canada, and the United States. Indirect access to Clearstream Banking is available to other institutions that clear through or maintain a custodial relationship with an account holder of Clearstream
+Banking. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i><reportingentity>Euroclear</reportingentity> </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>Euroclear</reportingentity> was created in 1968 to hold securities for participants of Euroclear and to clear and settle transactions between
+Euroclear participants through simultaneous electronic book-entry delivery against payment. This system eliminates the need for physical movement of securities and any risk from lack of simultaneous transfers of securities and cash. Euroclear
+includes various other services, including securities lending and borrowing and interfaces with domestic markets in several countries. The Euroclear system is operated by Euroclear Bank, S.A./N.V. The Euroclear operator conducts all operations. All
+Euroclear securities clearance accounts and Euroclear cash accounts are accounts with the Euroclear operator. The Euroclear operator establishes policy for Euroclear on behalf of Euroclear participants. Euroclear participants include banks,
+including central banks, securities brokers and dealers and other professional financial intermediaries and may include the underwriters. Indirect access to Euroclear is also available to other firms that clear through or maintain a custodial
+relationship with a Euroclear participant, either directly or indirectly. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Securities clearance accounts and cash accounts
+with the <reportingentity>Euroclear</reportingentity> operator are governed by the Terms and Conditions Governing Use of Euroclear and the related Operating Procedures of the Euroclear System and applicable Belgian law. These Terms and Conditions govern transfers of securities and
+cash within Euroclear, withdrawals of securities and cash from Euroclear, and receipts of payments with respect to securities in Euroclear. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">76 </p>
+
+</div></center></div></html>

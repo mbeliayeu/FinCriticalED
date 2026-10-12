@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_20"/>Billing and Payments </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Consumer accounts owned by <reportingentity>AENB</reportingentity> have various billing and payment structures, including various annual fees and monthly finance
+charges. Each account holder is subject to an agreement governing the terms and conditions of the American Express credit card account and any applicable Pay Over Time feature. Pursuant to each such agreement, AENB reserves the right to add, change
+or terminate any terms, conditions, services or features of the account (including increasing or decreasing monthly finance charges on new transactions, fees or minimum payments). Such changes are subject to the requirements of applicable laws,
+including the Credit Card Accountability, Responsibility and Disclosure Act of 2009, and to certain limitations in the pooling and servicing agreement described herein. Any announced increase in the formula used to calculate the APR, or other change
+making the terms of an account more stringent, generally becomes effective on a designated future date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>Credit Card
+Accounts. </i>Generally, an <reportingentity>American Express</reportingentity> credit card account holder is charged: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   An
+annual fee of <monetaryunit>$</monetaryunit>0.00 to $695.00. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   Finance charges on purchases, cash advances, and
+balance transfers, based on variable <reportingentity>APRs</reportingentity> <reportingentity>equa</reportingentity>l<reportingentity> to </reportingentity>an index (currently the prime rate)<number> plus</number> a margin. The margin for purchases currently ranges from <number>9.74%</number> to 21.49%, depending on the Card Members risk profile, product, and date of acquisition.
+The margin for cash advances is currently 21.99%. Credit card account holders who violate certain payment terms may be subject to a penalty APR with a current margin of 26.74%. All variable APRs are capped at 29.99%. A number of products have 0.00%
+introductory APRs and low <font style="white-space:nowrap">non-variable</font> APRs for balance transfers. Few customers (accounting for less than 3% of the receivables in the Total Portfolio) have standard
+<font style="white-space:nowrap">non-variable</font> APRs, currently ranging generally from 0.00% to 19.99%. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   Amounts payable for certain uses of the <reportingentity>American Express</reportingentity> credit card, including the
+standard network fee of the greater of $10.00 or 5% on cash advances obtained through an automated teller machine. Certain cards also have foreign exchange fees equal to 2.7% of each transaction after conversion to U.S. dollars. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv)   If applicable, late fees, returned payment fees and other fees. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v)   If Card Members choose to use the Plan It feature, they will generally be charged a monthly
+fee of up to <number>1.33%</number> of each purchase amount moved into a plan based on the plan duration, either the APR that would otherwise apply to the purchase amount (for purchases in a Pay Over Time balance) or the APR that applies to the Pay Over Time feature
+at the time the plan is created (for purchases in a Pay in Full balance), and other factors. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the Pay It
+feature, Card Members can select qualifying purchase amounts under <monetaryunit>$</monetaryunit><number>100</number> for immediate payment in full, thereby reducing their balance by the amount paid. Under the Plan It feature, Card Members can select qualifying purchases over $100
+to split up into monthly payments with a fixed fee. The Card Member is offered up to 3 plan duration options (ranging from 3 to 24 months). The monthly plan payment will be added to the Card Members minimum payment due each month. The fixed
+monthly plan fees applied to accounts designated for the trust in connection with the Plan It feature will be treated as finance charge receivables. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express</reportingentity> credit card accounts are billed on a cycle basis. Payments on American Express traditional credit card
+accounts are generally applied, up to the minimum payment due, first to any plan amounts included in the minimum payment due, then to the balance with the lowest interest rate, and then to balances with higher interest rates. After the minimum
+payment has been paid, payments are applied to the balance with the highest interest rate, and then to balances with lower interest rates. Within each balance, payments are applied first to finance charges, then fees, then principal. If there is any
+past due amount, that amount is paid first. American Express Card Members are required to make a minimum payment each cycle. For traditional credit card accounts, the calculation of the minimum payment starts with the highest of (1) interest
+charged on the billing statement plus 1% of the new balance (excluding any overlimit amount, penalty fees, interest, and plan balances); (2) 2% of the new balance (excluding any penalty fees, overlimit amount, and plan balances); or (3) $40; then we
+add any penalty fees, up to 1/24th of any </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">53 </p>
+
+</div></center></div></html>

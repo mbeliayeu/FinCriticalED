@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">“<b>Rating Agencies</b>”
+means (1) each of Moody’s, S&amp;P, Fitch and DBRS and (2) if any of the foregoing Rating Agencies ceases to rate the
+notes or fails to make a rating of the notes publicly available for reasons outside of BFI or the Company’s control, a “nationally
+recognized statistical rating organization” within the meaning of Section 3(a)(62) under the Exchange Act, selected by BFI
+(as certified by a resolution of the board of directors of BFI) as a replacement agency for Moody’s, S&amp;P, Fitch or DBRS,
+or some or all of them, as the case may be.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The failure by BFI to comply
+with the obligations described under “— Change of Control” will constitute an Event of Default with respect to
+the notes.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The Change of Control Triggering
+Event feature of the notes may in certain circumstances make more difficult or discourage a sale or takeover of the Company and, thus,
+the removal of incumbent management. Subject to the limitations discussed below, we could, in the future, enter into certain transactions,
+including acquisitions, refinancings or other recapitalizations, that would not constitute a Change of Control under the notes, but that
+could increase the amount of indebtedness outstanding at such time or otherwise affect our capital structure or credit ratings on the
+notes. Restrictions on our ability to incur liens are contained in the covenants as described in this prospectus supplement under “— Covenants — Negative Pledge”.</p></body></html>

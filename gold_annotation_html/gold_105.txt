@@ -1,0 +1,44 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_70"/>Servicer Covenants </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the pooling and servicing agreement, the servicer has agreed as to each receivable and related account that it will: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) duly fulfill all obligations on its part to be fulfilled under or in connection with the receivables or
+the related accounts, and will maintain in effect all qualifications required in order to service the receivables or accounts, the failure to comply with which would have a material adverse effect on the certificateholders; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) not authorize any rescission or cancellation of the receivables except as ordered by a court of competent
+jurisdiction or other governmental authority; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c) take no action to impair the rights of the trustee in
+the receivables or the related accounts; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(d) not reschedule, revise or defer payments due on the
+receivables except in accordance with its guidelines for servicing receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the terms of the pooling and
+servicing agreement, if the servicer discovers, or receives written notice from the trustee, that: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">any covenant of the servicer set forth in clauses (a) through (d) above has not been complied with in all
+material respects, and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">such noncompliance has not been cured within <temporal>60 days</temporal> (or such longer period as may be agreed to by the trustee
+and the transferor) thereafter and has a material adverse effect on the certificateholders interest in such receivables, </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">then all receivables in the related account will be assigned and transferred to the servicer and the account will no longer be included as an
+account in the Trust Portfolio. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Such assignment and transfer will be made when the servicer deposits an amount equal to
+the amount of such receivables in the Collection Account on the Business Day preceding the Distribution Date following the Monthly Period during which such obligation arises. This transfer and assignment to the servicer constitutes the sole remedy
+available to the certificateholders if such covenant or warranty of the servicer is not satisfied and the trusts interest in any such assigned receivables will be automatically assigned to the servicer. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_71"/>Certain Matters Regarding the Servicer </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer may not resign from its obligations and duties under the pooling and servicing agreement except: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) upon determination that the performance of such obligations and duties is no longer permissible under
+applicable law or </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) if such obligations and duties are assumed by an entity that has satisfied the
+Rating Agency Condition. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">No such resignation will become effective until the trustee or a successor to the servicer has
+assumed the servicers obligations and duties under the pooling and servicing agreement. Notwithstanding the foregoing, the servicer may assign part or all of its obligations and duties as servicer under the pooling and servicing agreement if
+such assignment satisfies the Rating Agency Condition. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Any person into which, in accordance with the pooling and
+servicing agreement, the servicer may be merged or consolidated or any person resulting from any merger or consolidation to which the servicer is a party, or any person succeeding to the business of the servicer, will be the successor to the
+servicer under the pooling and servicing agreement. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">98 </p>
+
+</div></center></div></html>

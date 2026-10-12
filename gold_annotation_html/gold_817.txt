@@ -1,0 +1,24 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zbf0f8e035e9c46fd95e8c59324baf16d" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(ii)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>that, within the second trading day prior to the Payment Date (as defined below), the competent <reportingentity>antitrust authorities</reportingentity> approve, without conditions, limitations and prescriptions, the transaction for the acquisition of Mediobanca proposed by
+              the Offeror with this Offer (the “<font style="font-weight: bold;">Antitrust Condition</font>”);</div>
+</td>
+</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z3731385d509f4c9380db05ffa3af75ce" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(iii)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>that, by the second trading day prior to the Payment Date (as defined below) further Other Authorizations are granted without any requirements, conditions or limitations (the “<font style="font-weight: bold;">Other Authorizations Condition</font>”);</div>
+</td>
+</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z4d8f7a9c26b5497483dea470549bfb6b" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(iv)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>that, by the second trading day prior to the Payment Date (as defined below), no competent authority, including any court or tribunal, shall issue any resolution or measure which would preclude, restrict or render more onerous the
+              possibility for the Offeror and/or <reportingentity>Mediobanca</reportingentity> to realize the Offer or its objectives;</div>
+</td>
+</tr>
+</tbody></table></body></html>

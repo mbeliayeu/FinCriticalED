@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Trade Date:</b></font></td>
+<td><font style="font-size: 10pt"><date>February 27, 2025</date></font></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Expected Settlement Date**:</b></font></td>
+<td><font style="font-size: 10pt"><date>March 3, 2025</date> (T+2)</font></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Maturity Date:</b></font></td>
+<td><font style="font-size: 10pt"><date>March 3, 2055</date></font></td></tr></body></html>

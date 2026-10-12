@@ -1,0 +1,48 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the premium percentage then in effect, and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="10%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">collections of receivables with respect to the accounts on or after the date such option is exercised that
+otherwise would be finance charge receivables, will be deemed collections of principal receivables and will be applied accordingly, unless otherwise provided in the related supplement. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The premium percentage is currently <number>0%</number>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_55"/>Indemnification </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement provides that the servicer will indemnify the trust and the trustee from and against any
+loss, liability, expense, damage or injury suffered or sustained arising out of certain of the servicers actions or omissions with respect to the trust pursuant to the pooling and servicing agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement, the transferor has agreed to be liable directly to an injured party for the entire
+amount of any liabilities of the trust (other than those incurred by a certificateholder in the capacity of an investor in the certificates of any series) arising out of or based on each of the arrangements created by the pooling and servicing
+agreement and the actions of the transferor taken pursuant thereto as though the pooling and servicing agreement created a partnership under the New York Uniform Partnership Act in which the transferor was a general partner. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Except as provided in the two preceding paragraphs, the pooling and servicing agreement provides that neither the transferor
+nor the servicer nor any of their respective directors, officers, employees or agents will be under any other liability to the trust, the trustee, the certificateholders, any provider of Series Enhancement or any other person for any action taken,
+or for refraining from taking any action, in good faith pursuant to the pooling and servicing agreement. However, neither the transferor nor the servicer will be protected against any liability which would otherwise be imposed by reason of willful
+misfeasance, bad faith or gross negligence of any such person in the performance of duties or by reason of reckless disregard of its obligations and duties thereunder. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, the pooling and servicing agreement provides that the servicer is not under any obligation to appear in,
+prosecute or defend any legal action which is not incidental to its servicing responsibilities under the pooling and servicing agreement. The servicer may, in its sole discretion, undertake any such legal action which it may deem necessary or
+desirable for the benefit of certificateholders with respect to the pooling and servicing agreement and the rights and duties of the parties thereto and the interests of the certificateholders thereunder. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_56"/>Collection and Other Servicing Procedures </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>TRS</reportingentity> has been servicing credit card accounts since <temporal>1987</temporal> and charge card accounts since 1958 when American Express began
+offering such accounts. TRS has been the servicer for the trust since the trusts formation in 1996. It has been servicing securitized consumer card receivables since 1992 in its capacity as the servicer of the American Express Master Trust.
+TRS currently is the servicer of the American Express Issuance Trust II and, in the future, may be the servicer of other master trusts or other securitization special purpose entities. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Pursuant to the pooling and servicing agreement, the servicer, whether acting itself or through one or more subservicers, is
+responsible for servicing, collecting, enforcing and administering the receivables in accordance with customary and usual procedures for servicing similar card receivables. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Servicing activities to be performed by the servicer include collecting and recording payments, communicating with account
+holders, investigating payment delinquencies, evaluating the increase of credit limits and the issuance of credit cards and credit accounts, providing billing and tax records to account holders and maintaining internal records with respect to each
+account. Managerial and custodial services performed by the servicer on behalf of the trust include providing assistance in any inspections of the documents and records relating to the accounts and receivables by the trustee pursuant to the pooling
+and servicing agreement, maintaining the agreements, documents and files relating to the accounts and receivables as custodian for the trust and providing related data processing and reporting services for certificateholders and on behalf of the
+trustee. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">87 </p>
+
+</div></center></div></html>

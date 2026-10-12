@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+in the future. Such events could also result in legislation and additional regulatory requirements. <i>See Other Legal and Regulatory Risks  Regulatory oversight and supervision could
+adversely affect the trust or your certificates, including by impeding origination or collection efforts, changing account holder use patterns, or reducing collections and  Changes to consumer protection laws, including in the
+application or interpretation thereof, may impede origination or collection efforts, change account holder use patterns, or reduce collections, any of which may result in acceleration of or reduction in payment on the certificates.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Disruptions in <reportingentity>American Express</reportingentity> information systems could adversely affect the trust, <reportingentity>TRS</reportingentity>, AENB, the transferor or their
+affiliates. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express</reportingentity> rely extensively on its information technology systems and those of its third
+parties, including American Express transaction authorization, clearing and settlement systems and data centers, which have experienced and may continue to experience service disruptions or degradation that may result from technology
+malfunction, sudden increases in processing or other volumes, natural disasters and weather events, fires, accidents, technology change management issues, power outages, internet outages, telecommunications failures, fraud, <font style="white-space:nowrap"><font style="white-space:nowrap">denial-of-service,</font></font> ransomware and other cyberattacks, inadequate infrastructure, technology capacity management issues, terrorism, computer viruses, vulnerabilities or
+failures in hardware or software, physical or electronic <font style="white-space:nowrap">break-ins,</font> or similar events. Due to the interconnectivity and complexity of information systems and their reliance on common systems, software and
+vendors, disruptions or degradations have had, and will likely continue to have, wide-reaching consequences, including the potential to disrupt the overall financial system and other key systems in the global economy. Service disruptions or
+degradations impacting American Express or its partners can prevent access to online services and account information, compromise or limit access to company or customer data, impede transaction processing, communications to customers and financial
+reporting, disrupt ordinary business operations, result in contractual penalties or obligations, trigger regulatory reporting obligations, and lead to regulatory investigations and fines, increased regulatory oversight and litigation (including
+class action litigation). Any such interruption or degradation could adversely affect the perception of the reliability of American Express products and services and have a materially adverse impact on the trust, TRS, the bank, the transferor or
+their affiliates, including on their ability to originate new accounts and to generate and service receivables, the level of receivables in the trust, collections of such receivables and the amount of certificates issued in the future. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i><reportingentity>American Express</reportingentity> reliance on third party providers could have a material adverse effect on the trust, TRS, AENB, the transferor or
+their affiliates. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express</reportingentity> relies on third party service providers,
+<font style="white-space:nowrap">co-brand</font> partners, merchants, affiliate marketing firms, processors, aggregators, network partners and other third parties for services integral to its operations and is subject to the risk that activities of
+any such third party may adversely affect its business. As outsourcing, specialization of functions, third-party digital services and technology innovation within the payments industry increase (including with respect to mobile technologies,
+tokenization, big data, artificial intelligence and cloud-based solutions), more third parties are involved in processing card transactions, handling of data and providing operational support. For example, American Express relies on third parties
+for the timely transmission of accurate information across its global network, card acquisition and provision of services to its customers. In addition, TRS has outsourced the performance of certain servicing functions to third-party service
+providers. <i>See The Pooling and Servicing Agreement Generally  Outsourcing of Servicing in this prospectus</i>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>American Express</reportingentity> has experienced in certain limited circumstances and may continue to experience disruptions or other events
+at its third parties or its third parties service providers, including their failure to fulfill their obligations and the information, cybersecurity and operational incidents described above. Such disruptions or other events could interrupt or
+compromise the quality of American Express services to customers, impact the confidentiality, integrity, availability and security of American Express data, lead to fraudulent transactions on American Express-branded cards, impact its
+business, cause brand or reputation damage, and lead to costs associated with responding to such a disruption, including notification and remediation costs, costs to switch servicer providers or move operations in house, regulatory investigations
+and fines, and increased regulatory oversight and litigation. Third parties may face similar or greater risks as American Express, including as a result of their relationship with American Express. However, they may be less prepared to mitigate
+those risks and may be targeted by bad actors as a result, which can result in greater disruptions and other risk events. Third parties may also act in other ways that are inconsistent with American Express interests or contrary to American
+Express </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">21 </p>
+
+</div></center></div></html>

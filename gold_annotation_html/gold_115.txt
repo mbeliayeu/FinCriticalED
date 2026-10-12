@@ -1,0 +1,56 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">as of the date of creation of any new receivable, such receivable is an Eligible Receivable; and
+</p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">no selection procedures reasonably believed by it to be materially adverse to the interests of the purchaser
+have been used in selecting the accounts. </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">As described under <i>The Pooling and Servicing
+Agreement Generally  Representations and Warranties </i>in this prospectus, the purchaser, in its capacity as transferor to the trust, makes corresponding representations to the trust and the trustee. The pooling and servicing agreement
+provides that if the transferor materially breaches any of such representations, subject to certain conditions, the transferor will be required to accept reassignment of the related Ineligible Receivables. The purchase agreement provides that if
+<reportingentity>AENB</reportingentity> materially breaches any of the representations and warranties described above and, as a result, the purchaser is required under the pooling and servicing agreement to accept a reassignment of the related Ineligible Receivables transferred to
+the trust by the purchaser, then AENB will accept reassignment of such Ineligible Receivables and pay to the purchaser an amount equal to the unpaid balance of such Ineligible Receivables. <i>See  Representations and Warranties in
+this prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_85"/>Reassignment of Other Receivables </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> al<reportingentity>so r</reportingentity>epresents and warrants in the purchase agreement that (a) the purchase agreement and any supplemental
+conveyance each constitutes a legal, valid and binding obligation of AENB and (b) the purchase agreement and any supplemental conveyance constitute a valid sale to the purchaser of all right, title and interest of AENB of the receivables,
+including all Issuer Rate Fees, insurance proceeds, Recoveries, all monies due or to become due, all amounts received or receivable, all collections and all proceeds, each as it relates to such receivables, and that the sale is perfected under the
+applicable UCC. If a representation described in (a) or (b) of the preceding sentence is not true and correct in any material respect and as a result of the breach the purchaser is required under the pooling and servicing agreement to accept a
+reassignment of all of the receivables previously sold by AENB pursuant to the purchase agreement, AENB will accept a reassignment of those receivables. <i>See  Representations and Warranties in this prospectus. </i>If AENB is
+required to accept such reassignment, AENB will pay to the purchaser an amount equal to the unpaid balance of the reassigned receivables. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_86"/>Modifications </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> also agrees in the purchase agreement that: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">except (i) as otherwise required by any requirements of law or (ii) as is deemed by AENB to be
+necessary in order for it to maintain its credit card business or a program operated by such credit card business on a competitive basis based on a good faith assessment by it of the nature of the competition with respect to such credit card
+business or such program, AENB shall not at any time reduce the annual percentage rate of the periodic rate finance charges assessed on the receivables or take any other action with respect to any of the accounts if, as a result of any such action,
+such action would reasonably be expected to cause a <font style="white-space:nowrap">Pay-Out</font> Event or a Reinvestment Event to occur under the pooling and servicing agreement based on the insufficiency of Portfolio Yield or any similar test.
+In addition, except as otherwise required by any requirements of law, AENB shall not at any time reduce the annual percentage rate of the periodic rate finance charges assessed on the receivables or take any other action with respect to any of the
+accounts if, as a result of any such action, such action would reasonably be expected to cause the Portfolio Yield under the pooling and servicing agreement to be less than the then-current highest Average Rate for any group. </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">subject to compliance with all requirements of law and the bullet above, AENB may change the terms and
+provisions of the account agreements or the credit guidelines applicable to the accounts in any respect (including the calculation of the amount or the timing of charge-offs and the periodic rate finance charges to be assessed thereon).
+Notwithstanding the above, unless required by requirements of law or as permitted by the bullet above, AENB will not take any action with respect to such account agreements or such credit guidelines which, at the time of such action, would
+reasonably be expected to have a material adverse effect on the transferor. </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">108 </p>
+
+</div></center></div></html>

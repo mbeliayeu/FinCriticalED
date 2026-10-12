@@ -1,0 +1,55 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">if such Excess Spread and Excess Finance Charge Collections are insufficient to fund the Class B Required
+Amount, Reallocated Principal Collections allocable to the Collateral Interest and not required to pay the Class A Required Amount will then be used to fund the remaining Class B Required Amount; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">if such Reallocated Principal Collections allocable to the Collateral Interest for the related Monthly Period
+are insufficient to fund the remaining Class B Required Amount, then the Collateral Invested Amount will be reduced by the amount of such insufficiency (but not by more than the Class B Investor Default Amount for such related Distribution
+Date). </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event that such reduction would cause the Collateral Invested Amount to be a negative
+number, the Collateral Invested Amount will be reduced to zero, and the Class B Invested Amount will be reduced by the amount by which the Collateral Invested Amount would have been reduced below zero (but not by more than the excess of the
+Class B Investor Default Amount for such Distribution Date over the amount of such reduction of the Collateral Invested Amount). Any such reduction in the Class B Invested Amount may have the effect of slowing or reducing the return of
+principal and interest to the Class B certificateholders. In that case, the Class B certificateholders will bear directly the credit and other risks associated with their undivided interests in the trust. <i>See  Defaulted
+Receivables; Investor Charge-Offs below.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Collateral Senior Required Amount </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Determination Date, the servicer will calculate the Collateral Senior Required Amount. If the Collateral Senior
+Required Amount is greater than zero, Reallocated Principal Collections allocable to the Collateral Interest and not required to pay the Class A Required Amount or the Class B Required Amount will be used to fund the Collateral Senior
+Required Amount. Reallocated Principal Collections will only be applied to fund the Collateral Senior Required Amount to the extent the Collateral Invested Amount will be no lower than the Collateral Senior Invested Amount following the reduction in
+the Collateral Invested Amount. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_33"/>Application of Collections </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Payment of Interest, Fees and Other Items </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, the trustee, acting pursuant to the servicers instructions, will apply the Class A
+Available Funds, Class B Available Funds and Collateral Available Funds on deposit in the Collection Account in the following priority: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="4%"> </td>
+<td width="5%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">(A)</p></td>
+<td align="left" valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " align="justify">an amount equal to the Class A Available Funds will be distributed in the following priority:
+</p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) an amount equal to Class A Monthly Interest for such Distribution Date,
+<i>plus</i> the amount of any Class A Outstanding Monthly Interest, <i>plus</i> the amount of any Class A Additional Interest for such Distribution Date and any Class A Additional Interest previously due but not distributed to the
+Class A certificateholders on a prior Distribution Date, will be distributed to the Class A certificateholders; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) if TRS or an affiliate of <reportingentity>TRS</reportingentity> is no longer the servicer, an amount equal to the Class A Servicing
+Fee for such Distribution Date, <i>plus</i> the amount of any Class A Servicing Fee previously due but not distributed to the servicer on a prior Distribution Date, will be distributed to the servicer; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) an amount equal to the Class A Investor Default Amount for such Distribution Date will be treated
+as a portion of Available Principal Collections for such Distribution Date; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv) the balance, if any,
+shall constitute Excess Spread and shall be allocated and distributed as described under  <i>Excess Spread; Excess Finance Charge Collections</i> below. </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="4%"> </td>
+<td width="5%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">(B)</p></td>
+<td align="left" valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " align="justify">an amount equal to the Class B Available Funds will be distributed in the following priority:
+</p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">65 </p>
+
+</div></center></div></html>

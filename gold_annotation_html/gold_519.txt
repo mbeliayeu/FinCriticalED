@@ -1,0 +1,16 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tbody><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%">S-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->14<!-- Field: /Sequence --></td></tr></tbody></table></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><font style="text-transform: uppercase"><b><a name="psa_011"/>DESCRIPTION
+OF THE NOTES</b></font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><i>The following description
+of the particular terms and provisions of the notes supplements and, to the extent inconsistent therewith, replaces, the description
+of the Debt Securities set forth in the accompanying base shelf prospectus under “Description of Debt Securities”, to which
+reference is hereby made. Other capitalized terms used and not defined in this prospectus supplement have the meanings ascribed to them
+in the accompanying base shelf prospectus or in the Indenture (as defined herein).</i></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The notes will be issued
+as a separate series of debt securities under a twelfth supplemental indenture to be dated as of the date of the issuance of the notes
+(the “<b>Twelfth Supplemental Indenture</b>”) to the base indenture dated as of <temporal>June 2, 2016</temporal> (the “<b>Base Indenture</b>”
+and, toget<reportingentity>her</reportingentity> with the Twelfth Supplemental Indenture, the “<b>Indenture</b>”), between BFI, the Company, as guarantor,
+and Computershare Trust Company of Canada, as trustee (the “<b>Trustee</b>”). For a description of the rights attaching to
+different series of Debt Securities under the Indenture, see “Description of Debt Securities” in the accompanying base shelf
+prospectus. The Indenture is subject to the provisions of the <i>Business Corporations Act</i> (Ontario). The following statements relating
+to the notes and the Indenture are summaries and should be read in conjunction with the statements under “Description of Debt Securities”
+in the accompanying base shelf prospectus. Such information does not purport to be complete and is qualified in its entirety by reference
+to all of the provisions of the notes and the Indenture, including the definition of certain terms therein. It is the Indenture, and
+not these statements, that govern the rights of holders of the notes.</p></body></html>

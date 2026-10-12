@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(f) the Plan investing in the senior certificates is an
+accredited investor as defined in Rule 501(a)(1) of Regulation D of the Securities Act; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(g)
+the trustee is a substantial financial institution or trust company experienced in trust activities; is familiar with its duties, responsibilities and liabilities as a fiduciary under ERISA; and, as the legal owner of (or holder of a perfected
+security interest in) the receivables, enforces all the rights created in favor of the certificateholders, including Plans; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(h) prior to the issuance of any new series, confirmation is received from the Rating Agencies that such
+issuance will not result in the reduction or withdrawal of the then current rating of the senior certificates held by any Plan pursuant to the authorization; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) to protect against fraud, chargebacks or other dilution of the receivables, the pooling and servicing
+agreement and the Rating Agencies require the transferor to maintain a transferors interest of not less than <number>2%</number> of the principal balance of the receivables contained in the trust; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(j) each receivable is an Eligible Receivable, based on criteria of the Rating Agencies and as specified in
+the pooling and servicing agreement, and the pooling and servicing agreement requires that any change in the terms of the card agreements must be made applicable to a comparable segment of accounts which are owned or serviced by <reportingentity>Centurion</reportingentity>, RFC II or
+any of their affiliates and are part of the same program or have the same or substantially similar characteristics. The pooling and servicing agreement complies with this condition by specifying that any such change either must be required by law,
+or, if not so required, must not have a material adverse effect on the trust or the certificateholders; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(k) the pooling and servicing agreement must limit the number of receivables in newly originated accounts to
+be designated to the trust, without the Rating Agencies prior written consent, to the following amounts: (i) with respect to any <temporal>three-month</temporal> period, 15% of the number of existing accounts designated to the trust as of the first day of
+such period, and (ii) with respect to any twelve-month period, 20% of the number of existing accounts designated to the trust as of the first day of such twelve-month period. The pooling and servicing agreement complies with this condition by
+specifying that the Rating Agencies prior written consent is required for any designation of newly originated accounts to the trust; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(l) the pooling and servicing agreement requires the transferor to deliver an opinion of counsel semiannually
+confirming the validity and perfection of the transfer of receivables in newly originated accounts to the trust if such an opinion is not delivered with respect to each interim addition; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(m) the pooling and servicing agreement requires the transferor and the trustee to receive confirmation from
+each Rating Agency that such Rating Agency will not reduce or withdraw its then-current rating of the senior certificates as a result of (i) a proposed transfer of receivables in newly originated accounts to the trust, or (ii) will have
+resulted from the transfer of receivables in all newly originated accounts added to the trust during the preceding <temporal>three-month</temporal> period (beginning at quarterly intervals specified in the pooling and servicing a<temporal>greement an</temporal>d ending in the calendar month
+prior to the date such confirmation is issued); <i>provided </i>that a rating agency confirmation shall not be required under clause (ii) for any three-month period in which any transfers of newly originated accounts occurred only after receipt
+of prior rating agency confirmation pursuant to clause (i) above. This condition is complied with because the pooling and servicing agreement currently in effect permits the transferor to transfer newly originated accounts to the trust only in
+compliance with clause (i) above. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust also must meet the following requirements: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(1) the corpus of the trust must consist only of receivables of the type which have been included in other
+investment pools; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(2) certificates evidencing interests in such other investment pools have been rated in
+one of the two highest generic rating categories by at least one of the rating agencies for at least <temporal>one year</temporal> prior to the Plans acquisition of senior certificates; and </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">123 </p>
+
+</div></center></div></html>

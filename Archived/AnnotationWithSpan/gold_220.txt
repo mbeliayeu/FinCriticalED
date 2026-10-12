@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">  </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><b><i>Non-Residents of Canada</i></b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The following portion of
+the summary is generally applicable to a Note Holder who, at all relevant times, for purposes of the Tax Act, is not, and is not
+deemed to be, a resident of Canada, does not use or hold and is not deemed to use or hold the notes in or in the course of carrying on
+business in Canada, deals at arm’s length with any person resident in Canada to whom the Note Holder disposes of a note and is
+not a “specified shareholder” (as defined in subsection 18(5) of the Tax Act) of BFI of the Company or
+a person who does not deal at arm’s length with such specified shareholder (a “<b>Non-Resident Note Holder</b>”).
+Special rules, which are not discussed below, may apply to a non-resident of Canada that is an insurer which carries on business in Canada
+and elsewhere. This portion of the summary assumes that no interest paid on a Non-Resident Note Holder’s notes will be in respect
+of a debt or other obligation to pay an amount to a person with whom BFI or the Company does not deal at arm’s length within the
+meaning of the Tax Act.</p></body></html>

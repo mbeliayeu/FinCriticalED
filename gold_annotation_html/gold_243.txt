@@ -1,0 +1,61 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+Interest as described above will not be available for distribution to the Class A certificateholders and the Class B certificateholders. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_32"/>Reallocation of Cash Flows </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Class A Required Amount </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Determination Date, the servicer will calculate the Class A Required Amount. If the Class A Required Amount
+is greater than zero, the following reallocations will occur: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Excess Spread and Excess Finance Charge Collections allocated to Series
+<font style="white-space:nowrap">2025-1</font> and available for such purpose will be used to fund the Class A Required Amount for the related Distribution Date; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">if such Excess Spread and Excess Finance Charge Collections are insufficient to fund the Class A Required
+Amount, Reallocated Principal Collections allocable first to the Collateral Interest and then to the Class B certificates will be used to fund the remaining Class A Required Amount; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">if Reallocated Principal Collections for the related Monthly Period, together with Excess Spread and Excess
+Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1,</font> are insufficient to fund the Class A Required Amount for such related Monthly Period, then the Collateral Invested Amount will be reduced by the
+amount of such excess (but not by more than the Class A Investor Default Amount for such related Distribution Date). </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event that such reduction would cause the Collateral Invested Amount to be a negative number, the Collateral Invested
+Amount will be reduced to zero, and the Class B Invested Amount will be reduced by the amount by which the Collateral Invested Amount would have been reduced below zero (but not by more than the excess of the Class A Investor Default
+Amount, if any, for such Distribution Date over the amount of such reduction, if any, of the Collateral Invested Amount for such Distribution Date). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event that such reduction would cause the Class B Invested Amount to be a negative number, the Class B
+Invested Amount will be reduced to zero and the Class A Invested Amount will be reduced by the amount by which the Class B Invested Amount would have been reduced below zero (but not by more than the excess, if any, of the Class A
+Investor Default Amount for such Distribution Date over the amount of the reductions, if any, of the Collateral Invested Amount and the Class B Invested Amount with respect to such Distribution Date as described above). Any such reduction in
+the Class A Invested Amount may have the effect of slowing or reducing the return of principal and interest to the Class A certificateholders. In such case, the Class A certificateholders will bear directly the credit and other risks
+associated with their undivided interest in the trust. <i>See  Defaulted Receivables; Investor Charge-Offs below.</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Reductions of the Class A Invested Amount and Class B Invested Amount will thereafter be reimbursed and the
+Class A Invested Amount and Class B Invested Amount increased on each Distribution Date by the amount, if any, of Excess Spread and Excess Finance Charge Collections allocable to Series <font style="white-space:nowrap">2025-1</font> and
+available to reimburse such reductions. <i>See  Application of Collections  Excess Spread; Excess Finance Charge Collections below</i>. When such reductions of the Class A Invested Amount and Class B Invested Amount
+have been fully reimbursed, reductions of the Collateral Invested Amount will be reimbursed and the Collateral Invested Amount increased in a similar manner. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Class B Required Amount </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Determination Date, the servicer will calculate the Class B Required Amount. If the Class B Required Amount
+is greater than zero, the following reallocations will occur: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Excess Spread and Excess Finance Charge Collections allocated to Series
+<font style="white-space:nowrap">2025-1</font> and not required to pay the Class A Required Amount or reimburse Class A Investor Charge-Offs will be used to fund the Class B Required Amount for the related Distribution Date;
+</p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">64 </p>
+
+</div></center></div></html>

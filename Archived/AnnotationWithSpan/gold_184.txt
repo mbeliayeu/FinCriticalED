@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body> (e) any Tax imposed as a result of the failure of a Holder or beneficial owner to comply
+with certification, identification, declaration, filing or similar reporting requirements concerning the nationality, residence, identity
+or connection with Canada or any province or territory thereof or therein of such Holder or beneficial owner, if such compliance is required
+by statute or by regulation, as a precondition to reduction of, or exemption, from such Tax; (f) any (i) tax, assessment, withholding
+or deduction required pursuant to Sections 1471 to 1474 of the U.S. Internal Revenue Code of <date>1986</date>, as amended (“<b>FATCA</b>”),
+or any successor version thereof, or any similar legislation imposed by any other governmental authority, or (ii) Tax or penalty
+arising from the Holder’s or beneficial owner’s failure to properly comply with the Holder’s or beneficial owner’s
+obligations imposed under the Canada-United States Enhanced Tax Information Exchange Agreement Implementation Act (Canada) or any treaty,
+law or regulation or other official guidance enacted by Canada implementing FATCA or an intergovernmental agreement with respect to FATCA
+or any similar legislation imposed by any other governmental authority, including, for greater certainty, Part XVIII and Part XIX
+of the Tax Act; or (g) any combination of the foregoing clauses (a) to (f).</body></html>

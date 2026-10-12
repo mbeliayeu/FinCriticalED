@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) a valid sale, transfer and assignment to the trust of
+all right, title and interest of the transferor in the receivables, whether then existing or thereafter created and the proceeds thereof (including proceeds in any of the accounts established for the benefit of the certificateholders) and in
+recoveries or the grant of a first-priority perfected security interest under the applicable <reportingentity>UCC</reportingentity> in such receivables and the proceeds thereof (including proceeds in any of the accounts established for the benefit of the certificateholders) and in
+Recoveries, which is effective as to each receivable then existing on such date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event of a material breach of any
+of the representations and warranties described in the above paragraphs that has a material adverse effect on the certificateholders interest in the receivables or the availability of the proceeds thereof to the trust (which determination will
+be made without regard to whether funds are then available pursuant to any series enhancement), either the trustee or certificateholders holding certificates evidencing not less than <number>50%</number> of the aggregate unpaid principal amount of all outstanding
+certificates, by written notice to the transferor and the servicer (and to the trustee if given by the certificateholders), may direct the related transferor to accept the reassignment of the receivables in the trust within 60 days of such notice,
+or within such longer period specified in such notice. The transferor will be obligated to accept the reassignment of such receivables on the Distribution Date following the Monthly Period in which such reassignment obligation arises. Such
+reassignment will not be required to be made, however, if: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) at the end of such applicable period, the
+representations and warranties shall then be true and correct in all material respects, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) any
+material adverse effect caused by such breach shall have been cured. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The price for such reassignment will be an amount
+equal to the sum of the amounts specified therefor with respect to each series in the related supplement. The payment of such reassignment price in immediately available funds will be considered a payment in full of the certificateholders
+interest and such funds will be distributed upon presentation and surrender of the certificates. If the trustee or certificateholders give a notice as provided above, the obligation of the related transferor to make any such deposit will constitute
+the sole remedy respecting a breach of the representations and warranties available to certificateholders or the trustee on behalf of certificateholders. <i>See Description of the Purchase Agreement  Representations and Warranties
+in this prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each series closing date, the trustee will authenticate and deliver one or more certificates
+representing the series or class of certificates, in each case against payment to the transferor of the net proceeds of the sale of the certificates. In the case of the first series closing date, the trustee delivered the original transferor
+certificate, representing the transferors interest. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In connection with each transfer of receivables to the trust,
+the computer records relating to such receivables will be marked to indicate that those receivables have been conveyed to the trust. In addition, the trustee will be provided with a computer file or a microfiche list containing a true and complete
+list showing for each account, as of the applicable <font style="white-space:nowrap">cut-off</font> date: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) its account number, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) except in the case of new accounts and the list delivered on the substitution date, the aggregate amount
+of receivables in such account. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor and <reportingentity>AENB</reportingentity> will retain and will not deliver to the trustee any other records
+or agreements relating to the accounts or the receivables, as applicable. Except as set forth above, the records and agreements relating to the accounts and the receivables will not be segregated from those relating to other credit accounts and
+receivables, and the physical documentation relating to the accounts or receivables will not be stamped or marked to reflect the transfer of receivables to the transferor or the trust. The transferor has filed and is required to file UCC financing
+statements for the transfer of the receivables to the trust meeting the requirements of applicable state law. <i>See Certain Legal Aspects of the Receivables in this prospectus.</i> </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">80 </p>
+
+</div></center></div></html>

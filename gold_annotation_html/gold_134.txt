@@ -1,0 +1,129 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="rom764677_114"/>Underwriting </b></p>
+<p style="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Subject to the terms and conditions set forth in the underwriting agreement relating to the offered certificates among the
+transferor, <monetaryunit>AENB</monetaryunit> and the underwriters named below, the transferor has agreed to cause the trust to sell to the underwriters, and the underwriters have agreed to purchase, the principal amount of the Class A certificates set forth opposite their
+names: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="84%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="71%"/>
+
+<td valign="bottom" width="29%"/>
+<td/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="bottom" nowrap="nowrap"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:10pt; font-family:Times New Roman; "><b>Underwriters of the Class A Certificates</b></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" align="center" style="border-bottom:1.00pt solid #000000"><b><financialconcepts>Aggregate Principal Amount</financialconcepts></b><br/><b>of Class A Certificates</b></td></tr></table>
+<table cellspacing="0" cellpadding="0" width="84%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="81%"/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/></tr>
+
+
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Wells Fargo Securities, LLC</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center">$[●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom" nowrap="nowrap" align="center">    </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><reportingentity>Barclays Capital Inc</reportingentity>.</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center"> [●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><reportingentity>Mizuho Securities USA LLC</reportingentity></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center"> [●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><reportingentity>TD Securities (USA) LLC</reportingentity></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center"> [●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">[●]</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center"> [●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">[●]</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center"> [●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">[●]</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center"> [●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">[●]</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center"> [●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">[●]</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center"> [●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">[●]</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center"> [●]</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr style="font-size:1pt">
+<td height="8"/>
+<td height="8" colspan="2"/>
+<td height="8" colspan="2"/></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Total</p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="center">$500,000,000</td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom">  </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> </td>
+<td valign="bottom"/></tr>
+</table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the Initial Invested Amount is increased or decreased as discussed under <i>Series
+Provisions</i> in this prospectus, the amounts set forth above will be adjusted. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The underwriting agreement
+provides that the obligation of the underwriters to pay for and accept delivery of the offered certificates is subject to the approval of certain legal matters by their counsel and to certain other conditions. All of the offered certificates offered
+hereby will be issued if any are issued. Offering expenses are estimated to be <monetaryunit>$</monetaryunit>[●]. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The underwriters propose
+initially to offer the Class A certificates to the public at the price set forth on the cover page hereof and to certain dealers at such price less concessions not in excess of [●]% of the principal amount of the Class A
+certificates. The underwriters may allow, and such dealers may reallow, concessions not in excess of [●]% of the principal amount of the Class A certificates to certain brokers and dealers. After the initial public offering, the public
+offering price and other selling terms may be changed by the underwriters. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The underwriters may engage in over-allotment
+transactions, stabilizing transactions, syndicate covering transactions and penalty bids with respect to the offered certificates in accordance with Regulation M under the Securities Exchange Act of <temporal>1934</temporal>, as amended. Over-allotment transactions
+involve syndicate sales in excess of the offering size, which creates a syndicate short position. Stabilizing transactions permit bids to purchase the offered certificates so long as the stabilizing bids do not exceed a specified maximum. Syndicate
+covering transactions involve purchases of the offered certificates in the open market after the distribution has been completed in order to cover syndicate short positions. Penalty bids permit the underwriters to reclaim a selling concession from a
+syndicate member when the offered certificates originally sold by such syndicate member are purchased in a syndicate covering transaction. Such over-allotment transactions, stabilizing transactions, syndicate-covering transactions and penalty bids
+may cause the prices of the offered certificates to be higher than they would be in the absence of such transactions. Neither the transferor nor any of the underwriters represent that the underwriters will engage in any such transactions or that
+such transactions, once commenced, will not be discontinued without notice at any time. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the ordinary course of their
+respective businesses, the underwriters and their respective affiliates have engaged and may in the future engage in investment banking or commercial banking transactions with the transferor, <reportingentity>TRS</reportingentity>, AENB or any of their affiliates. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">127 </p>
+
+</div></center></div></html>

@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Upon the sale, exchange,
+redemption or other taxable disposition of a note, a U.S. Holder generally will recognize gain or loss, if any, for U.S. federal
+income tax purposes, equal to the difference between (i) the amount realized on such sale or other taxable disposition (other than
+amounts received that are attributable to accrued but unpaid interest, which will be taxed as interest to the extent not previously included
+in income, as described above) and (ii) the U.S. Holder’s adjusted tax basis in the note. A U.S. Holder’s
+adjusted tax basis in a note generally will be the amount paid for the note, reduced by the amount of any payments on the note other
+than interest.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Gain or loss recognized by
+a U.S. Holder on a sale or other taxable disposition of the notes generally will constitute capital gain or loss and will be long-term
+capital gain or loss if the notes were held by the U.S. Holder for more than one year. For non-corporate U.S. Holders, the
+net amount of long-term capital gain generally will be subject to taxation at reduced rates. A U.S. Holder’s ability to offset
+capital losses against ordinary income is limited. Gains recognized by a U.S. Holder on a sale or other taxable disposition of the
+notes generally will be treated as U.S.-source income for U.S. foreign tax credit purposes.</p></body></html>

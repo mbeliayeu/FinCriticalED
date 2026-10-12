@@ -1,0 +1,14 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Indenture Securities will be direct unsecured obligations of the Company and the Finance Debt Issuers and will be unsecured senior or
+subordinated, as applicable, indebtedness of each of them as described in the applicable Prospectus Supplement.<b> </b>(Section 301
+of the BN Indenture, and Section 3.1 of the BFI Senior Indenture and the Other Indentures.)</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Company’s guarantee of the Indenture Securities issued by the Finance Debt Issuers will be unsecured senior or subordinated, as
+applicable, indebtedness of the Company, including the Company’s obligations under the Indenture Securities issued under the BN
+Indenture.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+guarantees will be unsecured general obligations of the Company and will rank equal in right of payment with, or junior to, other unsecured
+and senior or subordinated debt (other than subordinated debt that has been further subordinated in accordance with its terms), as applicable,
+of the Company. The Debt Securities and the guarantees will be effectively subordinated to any secured indebtedness of the applicable
+Issuer or to the Company to the extent of the value of the assets securing such indebtedness. The guarantee by the Company of the Indenture
+Securities will guarantee the due and punctual payment of the principal of, premium, if any, and interest on the Indenture Securities
+issued by the applicable Issuer, when and as the same shall become due and payable, whether at maturity, upon redemption, by acceleration
+or otherwise.</p></body></html>

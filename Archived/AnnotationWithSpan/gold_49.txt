@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><h1>24F-2NT:Series/Class (Contract) Information</h1><div class="form1"/><div class="content"><div class="label"><h1>24F-2NT:Annual Filing Information</h1><div class="form1"><table role="presentation"><tbody><tr><td><h4><em>Form 24F-2 Annual Filing</em></h4>
+					Filers submitting a Form 24F-2 where the total fee due is based upon the
+					aggregate
+					net sales of all series and classes with the same fiscal year should
+					only complete
+					one copy of the form. To begin the form select "Add 24F-2 Form".
+				</td></tr><tr><td>
+					Filers calculating fees on a class-by-class or series-by-series
+					basis must complete a
+					separate Form 24F-2 for each class or series. The application will allow
+					you to create a
+					separate form for each series or class within a single submission. Simply
+					select "Add 24F-2 Form" to begin each additi</td></tr></tbody></table></div></div></div></body></html>

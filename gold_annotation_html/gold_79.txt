@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the case of any event described above in subparagraph (c), (d) or (f),
+after the applicable grace period, if any, set forth in such subparagraphs, either the trustee or the holders of Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest evidencing more than <number>50%</number> of the aggregate
+unpaid principal amount of Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest by notice then given in writing to the transferor and the servicer (and to the trustee if given by the Series <font style="white-space:nowrap">2025-1</font> certificateholders and the holder of the Collateral Interest) may declare that a <font style="white-space:nowrap">Pay-Out</font> Event has occurred with respect to Series
+<font style="white-space:nowrap">2025-1</font> as of the date of such notice, and, in the case of any event described in subparagraph (b), (e), (g) or (h), a <font style="white-space:nowrap">Pay-Out</font> Event shall occur with respect to Series <font style="white-space:nowrap">2025-1</font> without any notice or other action on the part of the trustee immediately upon the occurrence of such event. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the case of any event described in subparagraph (a), (i), (j) or (k), a <font style="white-space:nowrap">Pay-Out</font>
+Event shall occur with respect to Series <font style="white-space:nowrap">2025-1</font> without any notice or other action on the part of the trustee, the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the
+Collateral Interest immediately upon the occurrence of such event (or, in the case of clause (y) below, immediately following the expiration of the <font style="white-space:nowrap"><temporal>60-day</temporal></font> grace period), but only to the extent that: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(x)  as of the date of such event, the average of the Monthly Receivables Percentage for the immediately
+preceding three Monthly Periods is equal to or greater than <number>10%</number>, or </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(y)  as of the date of such
+event, the average of the Monthly Receivables Percentage for the immediately preceding three Monthly Periods is less than <number>10%</number>, and within 60 days following the occurrence of the related insolvency event or inability to transfer receivables, the
+aggregate amount of principal receivables outstanding in the trust does not at least equal the Required Minimum Principal Balance (without giving effect to principal receivables attributable to the transferor or the account owner with respect to
+which the insolvency event or the inability to transfer receivables has occurred). </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_38"/>Servicing Compensation and Payment of
+Expenses </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The share of the Servicing Fee allocable to Series <font style="white-space:nowrap">2025-1</font> for any
+Distribution Date, called the Monthly Servicing Fee, will be equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the Servicing Fee Rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the Servicing Base Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The share of the Monthly Servicing Fee allocable to the Class A certificateholders for any Distribution Date, called the
+Class A Servicing Fee, shall be equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the Class A Floating Percentage, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the Servicing Fee Rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   the Servicing Base Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The share of the Monthly Servicing Fee allocable to the Class B certificateholders for any Distribution Date, called the
+Class B Servicing Fee, shall be equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the Class B Floating Percentage, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the Servicing Fee Rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   the Servicing Base Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The share of the Monthly Servicing Fee allocable to the holder of the Collateral Interest for any Distribution Date, called
+the Collateral Interest Servicing Fee, shall be equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">72 </p>
+
+</div></center></div></html>

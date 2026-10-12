@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body> with or perform services for the Issuers or their subsidiaries and/or the Selling Shareholders in
+the ordinary course of business. Insofar as indemnification for liabilities arising under the Securities Act may be permitted to directors,
+officers and controlling persons of the Issuers, the Issuers have been advised that, in the opinion of the Commission, such indemnification
+is against public policy as expressed in the Securities Act and is, therefore, unenforceable. In the event that a claim for indemnification
+against such liabilities (other than the payment by the Issuers of expenses incurred or paid by a director, officer or controlling person
+of the Issuers in the successful defense of any action, suit or proceeding) is asserted by such director, officer or controlling person
+in connection with the securities being registered, the Issuers will, unless in the opinion of its counsel the matter has been settled
+by controlling precedent, submit to a court of appropriate jurisdiction the question whether such indemnification by it is against public
+policy as expressed in the Securities Act and will be governed by the final adjudication of such issue.</body></html>

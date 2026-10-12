@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zbc7e7f40b88a4a048e1b866bbb3fbeb6" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 72pt; vertical-align: top; font-style: italic;">3.2.2</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-style: italic;"><u>Maximum aggregate Offer Consideration</u></div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">If all of the Shares subject to the Offer issued as of the date of this Notice should be tendered, a maximum of no. 1,916,543,285 newly issued shares of MPS, as the maximum total amount of the Offer
+      Consideration, shall be issued to the tendering shareholders of Mediobanca, representing approximately 60% of the share capital of MPS following the execution of the Capital Increase Reserved to the Offer (as defined below).</div><div style="text-align: justify; margin-bottom: 9pt;">On the basis of the official price of the Offeror’s shares recorded at the close of <date>23 January 2025</date> (the last trading day prior to the date of this Notice) equal to Euro 6.953<sup style="font-family: 'Times New Roman', serif; vertical-align: text-top; line-height: 1; font-size: smaller;">4</sup>, the to<number>tal co</number>untervalue of the Offer, again in the event of full acceptance, will be approximately Euro 13.3 billion, an amount, the latter, equal to the “monetary” valuation of the Offer
+      Consideration <font style="font-style: italic;">(i.e</font>., Euro 15.992 per Issuer’s Share).</div></body></html>

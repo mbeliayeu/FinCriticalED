@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>r potentially applicable future) taxes, duties, levies, imposts, assessments or other governmental
+charges imposed or levied by or on behalf of the applicable governmental authority in respect of payments made by such Non-U.S. Co-Obligor
+under or with respect to the notes, including any exceptions thereto as the Company and such Non-U.S. Co-Obligor shall reasonably determine
+would be customary and appropriate for U.S. and Canadian bondholders and (ii) the right of any issuer to redeem the notes at <number>100%</number>
+of the aggregate principal amount thereof plus accrued interest thereon in the event that Other Additional Amounts become payable by
+a Non-U.S. Co-Obligor in respect of the notes as a result of any change in law or official position regarding the application or interpretation
+of any law that is announced or becomes effective after the date of such supplemental indenture.</body></html>

@@ -1,0 +1,32 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Monthly Receivables Percentage</b> means, for any day, the
+percentage equivalent of a fraction: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the numerator of which is an amount equal to the
+sum of the aggregate amount of principal receivables outstanding in the trust attributable to the transferor or the account owner with respect to which an insolvency event has occurred or to the transferor that is unable to transfer receivables to
+the trust, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the denominator of which is an amount equal to the sum of the aggregate
+amount of principal receivables outstanding in the trust, </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">in each case as of the last day of the immediately preceding Monthly Period.
+</p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Monthly Servicing Fee</b> has the meaning described in <i>Series Provisions  Servicing
+Compensation and Payment of Expenses</i> in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Note Trust Transfer</b> means the
+transfer of the Collateral Interest by the transferor to a trust established for the purpose of issuing notes collateralized by the Collateral Interest. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><font style="white-space:nowrap">Pay-Out</font> Event</b><b> </b>means, with respect to Series <font style="white-space:nowrap">2025-1,</font> each event described in <i>Series Provisions  <font style="white-space:nowrap">Pay-Out</font> Events </i>in this prospectus and, with respect to another series, each event specified as such
+in the related supplement. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Plans</b><b> </b>mean certain pension, profit sharing or other employee benefit
+plans, individual retirement accounts or annuities and employee annuity plans and Keogh plans regulated under Section 406 of ERISA and Section 4975 of the Internal Revenue Code, and entities whose underlying assets are deemed to include
+assets of the foregoing plans, accounts and annuities by reason of the investment by such plans, accounts and annuities in such entities. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Portfolio Yield</b><b> </b>means, with respect to the trust as a whole and, with respect to any Monthly Period,
+the annualized percentage equivalent of a fraction: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the numerator of which is the
+aggregate of the sum of the Series Allocable Finance Charge Collections for all series during the immediately preceding Monthly Period calculated on a cash basis after subtracting therefrom the Series Allocable Defaulted Amount for all series for
+such Monthly Period and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the denominator of which is the total amount of principal
+receivables as of the last day of such immediately preceding Monthly Period. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Prefunding Amount</b><b>
+</b>has the meaning described in <i>The Pooling and Servicing Agreement Generally  Funding Period </i>in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Principal Allocation Percentage</b> means, with respect to any Monthly Period, the percentage equivalent (which
+percentage shall never exceed <number>100%</number>) of a fraction: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the numerator of which is: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   during the Revolving Period, the Series Adjusted Invested Amount for Series <font style="white-space:nowrap">2025-1</font> as of the last day of the immediately preceding Monthly Period (or, with respect to the first Monthly Period, the Initial Invested Amount), and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   during the Controlled Accumulation Period or the Early Amortization Period, the Series
+Adjusted Invested Amount for Series <font style="white-space:nowrap">2025-1</font> as of the last day of the Revolving Period, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the denominator of which is the product of: </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">146 </p>
+
+</div></center></div></html>

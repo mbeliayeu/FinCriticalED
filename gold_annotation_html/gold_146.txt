@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the amount of Excess Spread and Excess
+Finance Charge Collections available to be applied on the related Distribution Date to pay the Collateral Senior Minimum Monthly Interest for such Distribution Date, any Collateral Senior Outstanding Minimum Monthly Interest and any Collateral
+Senior Additional Interest. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Collection Account</b><b> </b>means the account established as described under
+<i>The Pooling and Servicing Agreement Generally  Collection Account </i>in this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Controlled Accumulation Amount</b> means <monetaryunit>$</monetaryunit>43,452,416.67; <i>provided</i>, <i>however</i>, that, if the start of
+the Controlled Accumulation Period is delayed and, therefore, the length of the Controlled Accumulation Period is shortened as described under <i>Series Provisions  Principal Payments</i> in this prospectus, the Controlled
+Accumulation Amount may be different for each Distribution Date for the Controlled Accumulation Period and will be determined by the servicer in accordance with the Series <font style="white-space:nowrap">2025-1</font> supplement based on the
+principal payment rates for the accounts and on the invested amounts of other principal sharing series that are scheduled to be in their revolving periods and able to create Shared Principal Collections during the Controlled Accumulation Period. If
+the Initial Invested Amount is increased or decreased as discussed under <i>Series Provisions</i> in this prospectus, the Controlled Accumulation Amount will be adjusted accordingly. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Controlled Deposit Amount</b> means, for any Distribution Date relating to the Controlled Accumulation Period,
+an amount equal to the sum of the Controlled Accumulation Amount for such Distribution Date and any Deficit Controlled Accumulation Amount for the immediately preceding Distribution Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Controlled Accumulation Period</b><b> </b>means: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   for Series <font style="white-space:nowrap">2025-1,</font> the period that is scheduled to
+begin at the close of business on the last day of the <temporal>November 2026</temporal> Monthly Period (which date may be delayed as described under <i>Series Provisions  Principal Payments</i> in this prospectus) and will continue until the earliest
+of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the commencement of the Early Amortization Period, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   payment in full of the Series <font style="white-space:nowrap">2025-1</font> certificates,
+and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   the Series <font style="white-space:nowrap">2025-1</font> Termination Date, and
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   for any other applicable series or class of such series, the period that begins on a
+date certain or on a date determined in the manner described in the related supplement and will continue until the earliest of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the commencement of the Early Amortization Period or an Early Accumulation Period for that
+series, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   payment in full of the certificates of that series or class, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c)   the series termination date for that series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Controlled Amortization Period</b> means, for another applicable series or class of such series, the period
+that begins on a date certain or on a date determined in the manner described in the related supplement and will continue until the earliest of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the commencement of the Early Amortization Period for that series, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   payment in full of the certificates of that series or class, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   the series termination date for that series. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">139 </p>
+
+</div></center></div></html>

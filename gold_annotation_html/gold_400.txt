@@ -1,0 +1,62 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>"FormData"&gt;11747
+
+<hr width="98%"/>
+<table border="0" width="100%"><tbody><tr>
+<td class="MedSmallFormText" width="33%">(City)</td>
+<td class="MedSmallFormText" width="33%">(State)</td>
+<td class="MedSmallFormText" width="33%">(Zip)</td>
+</tr></tbody></table>
+
+<td rowspan="3" valign="top" width="15%">
+<span class="MedSmallFormText">2. Date of Event Requiring Statement
+         (Month/Day/Year)</span><br/><span class="FormData"><temporal>02/12/2025</temporal></span>
+</td>
+<td colspan="2" valign="top">
+<span class="MedSmallFormText">3. Issuer Name <b>and</b> Ticker or Trading Symbol
+      </span><br/><a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001000228">HENRY SCHEIN INC</a>
+     [ <span class="FormData">HSIC</span> ]
+   </td>
+
+<tr>
+<td rowspan="2" valign="top" width="30%">
+<span class="MedSmallFormText">4. Relationship of Reporting Person(s) to Issuer
+      </span><br/><span class="MedSmallFormText">(Check all applicable)</span><table border="0" width="100%">
+<tbody><tr>
+<td align="center" width="15%"/>
+<td class="MedSmallFormText" width="35%">Director</td>
+<td align="center" width="15%"/>
+<td class="MedSmallFormText" width="35%"><number>10%</number> Owner</td>
+</tr>
+<tr>
+<td align="center"><span class="FormData">X</span></td>
+<td class="MedSmallFormText">Officer (give title below)</td>
+<td align="center"/>
+<td class="MedSmallFormText">Other (specify below)</td>
+</tr>
+<tr>
+<td align="center" width="15%"/>
+<td align="left" style="color: blue" width="35%">CEO, Henry Schein Products</td>
+<td align="center" width="15%"/>
+<td align="left" style="color: blue" width="35%"/>
+</tr>
+</tbody></table>
+</td>
+<td valign="top">
+<span class="MedSmallFormText"><temporal>5. If Amen</temporal>dment, Date of Original Filed
+         (Month/Day/Year)</span><br/><span class="FormData">02/21/2025</span>
+</td>
+</tr>
+<tr><td valign="top">
+<span class="MedSmallFormText">6. Individual or Joint/Group Filing (Check Applicable Line)
+      </span><table border="0" width="100%">
+<tbody><tr>
+<td align="center" width="15%"><span class="FormData">X</span></td>
+<td class="MedSmallFormText" width="85%">Form filed by One Reporting Person</td>
+</tr>
+<tr>
+<td align="center" width="15%"/>
+<td class="MedSmallFormText" width="85%">Form filed by More than One Reporting Person</td>
+</tr>
+</tbody></table>
+</td></tr>
+</body></html>

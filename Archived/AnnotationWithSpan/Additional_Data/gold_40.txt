@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each of the transferor and <reportingentity>AENB</reportingentity> makes representations and warranties about
+its compliance with legal requirements. The transferor also makes certain representations and warrantie<reportingentity>s in the pooling an</reportingentity>d servicing agreement about the validity and enforceability of the accounts and the receivables. However, the trustee will not
+make any examination of the receivables or the records about the receivables for the purpose of establishing the presence or absence of defects, compliance with such representations or warranties, or for any other purpose. However, under certain
+circumstances, investors in the Series <font style="white-space:nowrap">2025-1</font> certificates and all other outstanding series issued by the issuing entity will have the right to vote to initiate a review of all receivables in the Trust
+Portfolio that are more than 60 days contractually delinquent and the accounts relating to such receivables for compliance with the certain representations and warranties on the receivables and the accounts. If certain representations or warranties,
+including the representations and warranties regarding compliance with legal requirements, validity and enforceability, are breached, the only remedy is that the transferor or the servicer, as the case may be, must accept reassignment of receivables
+affected by the breach. <i>See Description of the Purchase Agreement  Representations and Warranties, The Pooling and Servicing Agreement Generally  Representations and Warranties and Asset Representations
+Review.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">As a result of these developments in the area of consumer protection laws and regulations, any future
+consumer protection laws or regulations, changes in the regulatory application or judicial interpretation of the foregoing, and the establishment of the <reportingentity>CFPB</reportingentity> under the Dodd-Frank Act, it may be more difficult for AENB or its affiliates to originate
+additional accounts or for the servicer to collect payments on the receivables, and the finance charges and other fees that AENB or its affiliates can charge on credit card account balances may be reduced. Furthermore, account holders may choose to
+use credit cards less as a result of these consumer protection laws. Each of these results, independently or collectively, may reduce the effective yield of revolving credit card accounts and could result in a
+<font style="white-space:nowrap">pay-out</font> event and an acceleration of payment or reduced payment on the certificates. <i>See Series Provisions  <font style="white-space:nowrap">Pay-Out</font> Events and Certain Legal
+Aspects of the Receivables  <reportingentity>Consumer Financial Products Regulation</reportingentity>.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Regulatory oversight and supervision could
+adversely affect the trust or your certificates, including by impeding origination or collection efforts, changing account holder use patterns, or reducing collections. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The marketing, sale and servicing of consumer financial products by <reportingentity>AENB</reportingentity> and its affiliates and their compliance with certain
+federal consumer financial laws are supervised and examined by the CFPB, which has broad rulemaking, examination and enforcement authority over providers of credit, savings and payment services and products and authority to prevent unfair, deceptive
+or abusive acts or practices (UDAAP) under federal law. The CFPB has applied, and is likely to continue to apply, its broad UDAAP authority to a wide range of market conduct. The CFPB has the authority to write regulations under federal
+consumer financial protection laws, and to enforce those laws against and examine for compliance financial institutions like American Express, TRS and AENB. It is also authorized to collect fines and require consumer restitution in the event of
+violations, engage in consumer financial education, track consumer complaints, request data and promote the availability of financial services to underserved consumers and communities. In addition, a number of U.S. states have significant consumer
+credit protection, disclosure and other laws (in certain cases more stringent than U.S. federal laws). U.S. federal law also regulates abusive debt collection practices which, along with bankruptcy and debtor relief laws, can affect the ability to
+collect amounts owed. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Recently, one <reportingentity>federal district court</reportingentity>, in denying the defendants motion to dismiss, concluded
+that securitization trusts that hold consumer loans and hire third parties to service those loans may be viewed as engaged in offering or providing a consumer financial product or service and are, therefore, covered persons subject to
+the <reportingentity>CFPB</reportingentity>s enforcement authority under the Consumer Financial Protection Act (the <reportingentity>CFPA</reportingentity>). On <temporal>March 19, 2024</temporal>, the United States Court of Appeals for the Third Circuit issued its decision on the appeal of the district court
+decision, holding that the defendant trusts are covered persons under the CFPA and subject to the CFPBs enforcement authority. The Third Circuits ruling raises the prospect of further actions being brought by the CFPB, state
+attorneys general and state regulators, who have the independent authority to enforce the Dodd-Frank Act, and potentially other consumer protection laws, and who may continue this approach of investigating and bringing enforcement actions against
+other trusts and securitization vehicles, including the issuing entity, in the future, subjecting the issuing entity to significant exposure. If this were to occur with respect to the issuing entity, you may suffer a delay in payment or incur losses
+on your investment. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">34 </p>
+
+</div></center></div></html>

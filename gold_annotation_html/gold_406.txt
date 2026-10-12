@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>onal form.
+				<tr><td>
+					Read instructions at end of Form before preparing Form. See
+					"INSTRUCTIONS" link above.
+				</td></tr>
+					Annual Filing Information Record:
+					1<table role="presentation"><tbody><tr/></tbody></table><h4><em>1. Name and address of issuer:</em></h4><table role="presentation"><tbody><tr/><tr><td class="label">Name of Issuer</td><td><p/><div class="fakeBox"><reportingentity>FIRST EAGLE VARIABLE FUNDS</reportingentity><span> </span></div><p/></td></tr><tr><td class="label">Street 1 </td><td><p/><div class="fakeBox">1345 Avenue of the Americas<span> </span></div><p/></td></tr><tr><td class="label">Street 2 </td><td><p/><div class="fakeBox"><span> </span></div><p/></td></tr><tr><td class="label">City</td><td><p/><div class="fakeBox">New York<span> </span></div></td></tr></tbody></table></body></html>

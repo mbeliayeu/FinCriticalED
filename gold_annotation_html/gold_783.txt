@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>&gt;€<number> 12.6911</number> 
+<td style="vertical-align: bottom; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif">€ <number>24,999,996.16</number> </font></td>
+<tr>
+<td style="vertical-align: top; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><temporal>27/12/2024</temporal></font></td>
+<td style="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><number>1,944,698</number> </font></td>
+<td style="white-space: nowrap; vertical-align: bottom; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif">€ <number>12.8555</number> </font></td>
+<td style="vertical-align: bottom; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif">€ <number>24,999,997.07</number> </font></td></tr>
+<tr>
+<td style="vertical-align: top; border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>Total</b></font></td>
+<td style="white-space: nowrap; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b><number>3,914,579</number></b></font></td>
+<td style="white-space: nowrap; vertical-align: bottom; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>€ <number>12.7728</number> </b></font></td>
+<td style="vertical-align: bottom; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding-right: 3.5pt; padding-left: 3.5pt; text-align: center; "><font style="font-family: Times New Roman, Times, Serif"><b>€ <number>49,999,993.23</number> </b></font></td></tr>
+</body></html>

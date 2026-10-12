@@ -1,0 +1,40 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>oman, Times, Serif; text-align: left"&gt; <td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">204,558</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Accounts payable and other	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">55,502</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">55,502</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Deferred income tax liabilities	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">25,267</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">25,267</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Subsidiary equity obligations	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">4,759</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">4,759</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Liabilities associated with assets classified as held for
+    sale	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">4,721</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">4,721</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif">Equity</td><td style="font-size: 10pt"> </td>
+<td style="font-size: 10pt; text-align: left"> </td><td style="font-size: 10pt; text-align: right"> </td><td style="font-size: 10pt; text-align: left"> </td><td style="font-size: 10pt"> </td>
+<td style="font-size: 10pt; text-align: left"> </td><td style="font-size: 10pt; text-align: right"> </td><td style="font-size: 10pt; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; padding-left: 0.125in; text-align: left">Non-controlling interests	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">119,406</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">119,406</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; padding-left: 0.125in; text-align: left">Preferred equity	</td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">4,103</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif"> </td>
+<td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td><td style="font: 10pt Times New Roman, Times, Serif; text-align: right">4,103</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: White">
+<td style="font: 10pt Times New Roman, Times, Serif; padding-left: 0.125in; padding-bottom: 1pt; text-align: left">Common equity	</td><td style="padding-bottom: 1pt; font-size: 10pt"> </td>
+<td style="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left"> </td><td style="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">41,874</td><td style="padding-bottom: 1pt; font-size: 10pt; text-align: left"> </td><td style="padding-bottom: 1pt; font-size: 10pt"> </td>
+<td style="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left"> </td><td style="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">41,874</td><td style="padding-bottom: 1pt; font-size: 10pt; text-align: left"> </td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 2.5pt; text-align: left">Total capitalization	</td><td style="padding-bottom: 2.5pt; font-size: 10pt"> </td>
+<td style="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</td><td style="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">490,424</td><td style="padding-bottom: 2.5pt; font-size: 10pt; text-align: left"> </td><td style="padding-bottom: 2.5pt; font-size: 10pt"> </td>
+<td style="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</td><td style="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">490,419 </td><td style="padding-bottom: 2.5pt; font-size: 10pt; text-align: left"> </td></tr>
+</body></html>

@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Amounts which are, or are
+deemed to be, interest for purposes of the Tax Act paid or credited by <reportingentity>BFI</reportingentity> or the Company on the notes to a Non-Resident Note Holder
+will not be subject to non-resident withholding tax and no non-resident withholding tax will apply to the proceeds received by a Non-Resident
+Note Holder on a disposition of a note, including a redemption, payment on maturity or repurchase.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Generally, no other tax on
+income or gains under the Tax Act will be payable by a Non-Resident Note Holder on interest, principal, premium, bonus or penalty
+on a note or on the proceeds received by a Non-Resident Note Holder on the disposition of a note, including a redemption, payment on
+maturity or repurchase.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"/></body></html>

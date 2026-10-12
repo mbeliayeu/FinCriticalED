@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The notes will not be secured
+by any assets of the Company or BFI. Therefore, holders of secured indebtedness of the Company or BFI would have a claim on the assets
+securing such indebtedness that effectively ranks prior to the claim of holders of the notes and would have a claim that ranks equal
+with the claim of holders of notes to the extent that such security did not satisfy the secured indebtedness. Furthermore, although covenants
+given by the Company in various agreements may restrict incurring secured indebtedness, such indebtedness may, subject to certain conditions,
+be incurred.</p><p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The notes will rank equal
+in right of payment to the existing BFI senior notes and any of BFI’s future unsecured, unsubordinated senior indebtedness. BFI
+issued or became an obligor under (as the case may be) the existing BFI senior notes, which are in an aggregate principal amount of approximately
+US$<number>9.15</number> billion and such indebtedness will rank equally to the notes offered hereby. In addition, the notes will be effectively subordinated
+in right of payment to any of BFI’s future secured indebtedness, to the extent of the value of the assets securing such indebtedness.
+BFI will not be restricted in its ability to make investments or incur debt.</p></body></html>

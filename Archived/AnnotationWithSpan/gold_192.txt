@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>force and effect and enforceable against the Company in accordance with its terms; (f) default by the Company in the payment
+of principal of, premium, if any, or interest on, any obligation for borrowed money indebtedness (other than an obligation payable on
+demand or maturing less than <date>12 months</date> from the creation or issue thereof) in an outstanding principal amount in excess of <number>5%</number> of Consolidated
+Net Worth in the aggregate at the time of default, or any failure in the performance of any other covenant of the Company contained in
+any instrument under which such obligations are created or issued, provided that in each such case all cure periods relating to such
+default have expired and the holders of such borrowed money indebtedness or a trustee for such holders (if any) declares such indebtedness
+to be due and payable prior to its stated maturity, and provided further that if any such default is waived at any time by such holders
+or trustee in accordance with the terms of such instrument, then the Event of Default under the Indenture shall be deemed to be waived
+without further action on the part of the Trustee or the holders; (g) certain events of bankruptcy, insolvency or reorganization affecting
+the Company or BFI; and (h) the failure by BFI to comply with the obligations described herein under “— Change of Control”.</body></html>

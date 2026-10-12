@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">For the first Distribution Date, however, interest on the Class B certificates will
+equal <monetaryunit>$</monetaryunit><number>281,066.67</number>. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Interest due on the Class B certificates but not paid on any Distribution Date will be payable on
+the next succeeding Distribution Date together with additional interest on such amount at the Class B certificate rate plus <number>2%</number> per year. Such additional interest shall accrue on the same basis as interest on the Class B certificates, and
+shall accrue from and including the 15<sup style="font-size:75%; vertical-align:top">th</sup> day of the month of the Distribution Date such overdue interest became due, to but excluding 15<sup style="font-size:75%; vertical-align:top">th</sup> of
+month of the Distribution Date on which such additional interest is paid. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The Class B certificates will bear
+interest from and including the closing date to but excluding <temporal>March 17, 2025</temporal>, and during each Interest Period thereafter, at the rate of 4.96% per year. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, Class B Outstanding Monthly Interest due but not paid to the Class B certificateholders
+and any Class B Additional Interest will be paid, to the extent funds are available, to the Class B certificateholders. Payments to the Class B certificateholders in respect of interest on the Class B certificates on any
+Distribution Date will be funded from Class B Available Funds for the related Monthly Period. To the extent Class B Available Funds allocated to the holders of the Class B certificates for such Monthly Period are insufficient to pay
+such interest, Excess Spread and Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1</font> and Reallocated Principal Collections allocable to the Collateral Invested Amount and not required to pay the
+Class A Required Amount or reimburse Class A Investor Charge-Offs will be used to make such payments. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Interest
+will accrue on the Collateral Interest at the Collateral Minimum Interest Rate from the closing date. Interest will be distributed on each Distribution Date, beginning <temporal>March 17, 2025</temporal>, to the holder of the Collateral Interest in an amount equal
+to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the Collateral Minimum
+Interest Rate for that Interest Period, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the Collateral Invested Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">For the first Distribution Date, however, interest on the Collateral Interest will equal <monetaryunit>$</monetaryunit><number>795,316.67</number>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">A portion of the interest payable on the Collateral Interest will be paid as interest on the Collateral Senior Invested
+Amount, which will accrue at the Collateral Senior Minimum Interest Rate from the closing date. Interest payable on the Collateral Senior Invested Amount on each Distribution Date, beginning <temporal>March 17, 2025</temporal>, to the holder of the Collateral
+Interest will equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the
+Collateral Senior Minimum Interest Rate; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) the Collateral Senior Invested Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">For the first Distribution Date, however, interest on the Collateral Senior Invested Amount will equal <monetaryunit>$</monetaryunit><number>404,222.22</number>. The Collateral Interest
+will also provide for additional interest as provided herein and in the Series <font style="white-space:nowrap">2025-1</font> supplement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, Collateral Senior Outstanding Minimum Monthly Interest due but not paid to the holder of the
+Collateral Interest and any Collateral Senior Additional Interest will be paid, to the extent funds are available, to the holder of the Collateral Interest. Payments to the holder of the Collateral Interest in respect of interest on the Collateral
+Senior Invested Amount on any Distribution Date will be funded from Excess Spread and Excess Finance Charge Collections, but only after such amounts are applied to make certain other payments. To the extent Excess Spread and Excess Finance Charge
+Collections allocated to the holder of the Collateral Interest for such Monthly Period are insufficient to pay such interest, Reallocated Principal Collections allocable to the portion of Collateral Invested Amount not represented by the Collateral
+Senior Invested Amount and not required to make certain other payments will be used to make such interest payments to the holder of the Collateral Interest. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">59 </p>
+
+</div></center></div></html>

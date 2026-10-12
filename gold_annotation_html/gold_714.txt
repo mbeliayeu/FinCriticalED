@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">“<b><i>Debt</i></b>”
+means (without duplication), with respect to any Person, whether recourse is to all or a portion of the assets of such Person and whether
+or not contingent, (i) every obligation of such Person for money borrowed, (ii) every obligation of such Person evidenced by
+bonds, debentures, notes or other similar instruments, including obligations incurred in connection with the acquisition of property,
+assets or businesses, (iii) every reimbursement obligation of such Person with respect to letters of credit, bankers’ acceptances
+or similar facilities issued for the account of such Person, (iv) every obligation of such Person issued or assumed as the deferred
+purchase price of property or services (but excluding trade accounts payable or accrued liabilities arising in the ordinary course of
+business which are not overdue or which are being contested in good faith), (v) every Capital Lease Obligation of such Person, (vi) every
+obligation that could not be considered as interest in accordance with generally accepted accounting principles under Interest Rate or
+Currency Protection Agreements of such Person and (vii) every obligation of the type referred to in clauses (i) through (vi) of
+another Person and all dividends of another Person the payment of which, in either case, such Person has Guaranteed or is responsible
+or liable for, directly or indirectly, as obligator, Guarantor or otherwise.</p></body></html>

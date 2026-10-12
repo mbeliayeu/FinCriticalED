@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+Amount and outstanding dollar principal amount of that series or class will be increased to reflect the principal amount of the additional certificates. If the additional certificates are part of
+a series or class of certificates that has the benefit of a derivative agreement, the transferor will cause the trust to enter into a derivative agreement for the benefit of the additional certificates. Furthermore, the targeted deposits, if any, to
+any trust account will be increased proportionately to reflect the principal amount of the additional certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">When
+issued, the additional certificates of a series or class will be identical in all respects to the other outstanding certificates of that series or class equally and ratably entitled to the benefits of the pooling and servicing agreement as
+applicable to the previously issued certificates of such series or class without preference, priority or distinction. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_59"/>Collection Account </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer has established and maintains for the benefit of the certificateholders of each series, in the name of the
+trustee, on behalf of the trust, an Eligible Deposit Account called the Collection Account. The Collection Account, which is maintained with <reportingentity>The Bank of New York Mellon</reportingentity>, bears a designation clearly indicating that the funds deposited therein are
+held for the benefit of the certificateholders of each series. If at any time the Collection Account is no longer an Eligible Deposit Account, the Collection Account must be moved so that it will again be qualified as an Eligible Deposit Account.
+</p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Funds on deposit in the Collection Account generally will be invested by the trustee, at the direction of the servicer,
+in Eligible Investments. The servicer may appoint as its agent under a separate agreement a registered investment advisor to give instruction on its behalf to the trustee for funds to be invested in Eligible Investments. Any earnings (net of losses
+and investment expenses) on funds in the Collection Account will be paid to the transferor. The servicer will have the revocable power to withdraw funds from the Collection Account and to instruct the trustee to make withdrawals and payments from
+the Collection Account for the purpose of carrying out its duties under the pooling and servicing agreement and any supplement. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_60"/>Deposits in Collection Account </b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer, no later than two Business Days after each Date of Processing, will
+deposit collections, up to the aggregate amount of collections required to be deposited on or prior to the related Distribution Date, into the Collection Account. It will then make the deposits and payments to the accounts and parties shown below on
+the date of such deposit. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Subject to the express terms of the related supplement, for as long as <reportingentity>TRS</reportingentity> or an affiliate of
+TRS remains the servicer under the pooling and servicing agreement and any of the following applies: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)
+  the servicer maintains a short-term credit rating (which may be an implied rating) of not less than <font style="white-space:nowrap">P-1</font> from Moodys and <font style="white-space:nowrap">A-1</font> from S&amp;P (or such
+other rating below <font style="white-space:nowrap">P-1</font> or <font style="white-space:nowrap">A-1,</font> as the case may be, which is acceptable to such Rating Agency), </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the servicer obtains a guarantee with respect to its deposit and payment obligations under
+the pooling and servicing agreement (in form and substance satisfactory to the Rating Agencies) from a guarantor having a short-term credit rating of not less than <font style="white-space:nowrap">P-1</font> from Moodys and <font style="white-space:nowrap">A-1</font> from S&amp;P (or such other rating below <font style="white-space:nowrap">P-1</font> or <font style="white-space:nowrap">A-1,</font> as the case may be, which is acceptable to such Rating Agency), or </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   the Rating Agency Condition will have been satisfied despite the servicers inability
+to satisfy the rating requirement specified in clause (i) above, </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">the servicer need not deposit collections into the Collection
+Account on the day indicated in the preceding paragraph (including for five Business Days following any such reduction of any such rating or failure to satisfy the conditions specified in clause (ii) or (iii) above). Instead it may use for its
+own benefit such collections until the Business Day immediately preceding the related Distribution Date. On that Business Day, the servicer will make such deposits in </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">90 </p>
+
+</div></center></div></html>

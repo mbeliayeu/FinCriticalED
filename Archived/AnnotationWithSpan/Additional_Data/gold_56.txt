@@ -1,0 +1,256 @@
+<document>
+<type>424B5
+<sequence>1
+<filename>d764677d424b5.htm
+<description>424B5
+<text>
+
+<title>424B5</title>
+
+ 
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="right"><b>Filed Pursuant to Rule 424(B)(5)<br/>Registration File No. 333-263871, 333-263871-01
+</b></p> <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="15%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="70%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="13%"/></tr>
+
+
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:11pt">
+<td valign="bottom">
+
+
+<img src="g764677g89f80.jpg" alt="LOGO" style="width:0.876194in;height:0.790297in;"/>
+</td>
+<td valign="bottom"> </td>
+<td valign="top"> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>Prospectus dated <temporal>February 4, 2025</temporal></b></p>
+<p style="font-size:3pt; margin-top:0pt; margin-bottom:0pt" align="left"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:13.5pt; font-family:Times New Roman" align="center"><b><reportingentity>American Express Credit Account Master Trust</reportingentity></b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:Times New Roman" align="center"><b><i>(Central Index Key Number 0001003509)</i></b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:11pt; font-family:Times New Roman" align="center"><b>Issuing Entity</b></p> <p style="font-size:3pt; margin-top:0pt; margin-bottom:1pt" align="left"> </p></td>
+<td valign="bottom"> </td>
+<td valign="top"/></tr>
+</table> <p style="margin-top:12pt; margin-bottom:0pt; font-size:13.5pt; font-family:Times New Roman" align="center"><b><reportingentity>American Express Receivables Financing Corporation III LLC</reportingentity> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:Times New Roman" align="center"><b><i/></b><b/><b><i>(Central Index Key Number 0001283434) </i></b></p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="51%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="48%"/></tr>
+
+
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top" colspan="3" align="center"><font style="font-size:11pt"><b>Depositor and Transferor</b></font></td></tr>
+<tr style="font-size:1pt">
+<td height="16" colspan="3"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top" colspan="3" align="center"><font style="font-size:13.5pt"><b><reportingentity>American Express Travel Related Services Company, Inc.</reportingentity></b></font></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top" colspan="3" align="center"><font style="font-size:11pt"><b>Servicer</b></font></td></tr>
+</table> <p style="margin-top:6pt; margin-bottom:0pt; font-size:13.5pt; font-family:Times New Roman" align="center"><b><reportingentity>American Express National Bank</reportingentity> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:9pt; font-family:Times New Roman" align="center"><b/><b><i>(Central Index Key Number 0000949348)</i></b><b> </b></p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="51%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="48%"/></tr>
+
+
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top" colspan="3" align="center"><font style="font-size:11pt"><b>Sponsor</b></font></td></tr>
+<tr style="font-size:1pt">
+<td height="16" colspan="3"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top" colspan="3" align="center"><font style="font-size:13.5pt"><b>SERIES <font style="white-space:nowrap">2025-1</font></b></font></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top" colspan="3" align="center"><font style="font-size:11pt"><b>$1,400,000,000 Fixed Rate Asset Backed Certificates</b></font></td></tr>
+</table> <div style="position:relative;float:left; width:23%;padding-right:0%;padding-bottom:8pt;overflow:visible;padding-top:3pt">
+
+<div style="BORDER-BOTTOM:1px solid #000000;BORDER-LEFT:1px solid #000000;BORDER-RIGHT:1px solid #000000;BORDER-TOP:1px solid #000000;MARGIN-LEFT:0px; MARGIN-RIGHT:0px;max-width:100%">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:1%; margin-right:1%; font-size:8pt; font-family:Times New Roman"><b> Consider carefully the <a href="#tx764677_2">risk factors</a>
+beginning on page 18 in this prospectus. </b></p> <p style="margin-top:3pt; margin-bottom:0pt; margin-left:1%; margin-right:1%; font-size:8pt; font-family:Times New Roman"><b> A certificate is not a deposit and neither the certificates
+nor the underlying accounts or receivables are insured or guaranteed by the <reportingentity>Federal Deposit Insurance Corporation</reportingentity> or any other governmental agency. </b></p>
+<p style="margin-top:3pt; margin-bottom:0pt; margin-left:1%; margin-right:1%; font-size:8pt; font-family:Times New Roman"><b> The certificates will represent interests in the issuing entity only and will not represent interests in or
+obligations of <reportingentity>American Express Company</reportingentity>, the Sponsor, the Depositor, the Servicer or any of their affiliates. </b></p>
+</div>
+</div><div style="position:relative;float:left; margin-left:3%; width:74%;padding-right:0%;padding-bottom:8pt;overflow:visible;padding-top:3pt">
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" align="center">
+
+
+<tr>
+
+<td width="44%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="28%"/>
+
+<td valign="bottom"/>
+<td width="26%"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8.5pt">
+<td valign="bottom" colspan="5" nowrap="nowrap"><b>The issuing entity will issue </b></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"><b><u>Class A certificates    </u></b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"><b><u>Class B certificates*  </u></b></td></tr>
+
+
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman"><financialconcepts>Principal amount</financialconcepts></p></td>
+<td valign="bottom"> </td>
+<td valign="bottom">$1,400,000,000</td>
+<td valign="bottom"> </td>
+<td valign="bottom">$<number>60,000,000</number></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"><financialconcepts>Certificate rate</financialconcepts></td>
+<td valign="bottom"> </td>
+<td valign="top"><number>4.56%</number> per year</td>
+<td valign="bottom"> </td>
+<td valign="bottom"><number>4.96%</number> per year</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"><financialconcepts>Interest paid</financialconcepts></td>
+<td valign="bottom"> </td>
+<td valign="bottom">Monthly</td>
+<td valign="bottom"> </td>
+<td valign="bottom">Monthly</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"><financialconcepts>First interest payment date</financialconcepts></td>
+<td valign="bottom"> </td>
+<td valign="bottom">March 17, 2025</td>
+<td valign="bottom"> </td>
+<td valign="bottom">March 17, 2025</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"><financialconcepts>Expected final payment date</financialconcepts></td>
+<td valign="bottom"> </td>
+<td valign="bottom">December 15, 2027</td>
+<td valign="bottom"> </td>
+<td valign="bottom">December 15, 2027</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"><financialconcepts>Legal final maturity</financialconcepts></td>
+<td valign="bottom"> </td>
+<td valign="bottom">December 17, 2029</td>
+<td valign="bottom"> </td>
+<td valign="bottom">December 17, 2029</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"><financialconcepts>Price to public</financialconcepts></td>
+<td valign="bottom"> </td>
+<td valign="bottom">$<number>1,399,689,060</number> (<number>99.97779%</number>)</td>
+<td valign="bottom"> </td>
+<td valign="bottom">*</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"><financialconcepts>Underwriting discount</financialconcepts></td>
+<td valign="bottom"> </td>
+<td valign="bottom">$<number>3,500,000</number> (<number>0.250%</number>)</td>
+<td valign="bottom"> </td>
+<td valign="bottom">*</td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"><financialconcepts>Proceeds to transferor</financialconcepts></td>
+<td valign="bottom"> </td>
+<td valign="bottom">$<number>1,396,189,060</number> (<number>99.72779%</number>)</td>
+<td valign="bottom"> </td>
+<td valign="bottom">*</td></tr>
+<tr style="font-size:1pt">
+<td height="8" colspan="5"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8.5pt">
+<td valign="bottom" colspan="5"> <p style=" margin-top:0pt ; margin-bottom:0pt; text-indent:1.62em; font-size:8pt; font-family:Times New Roman">The primary assets of the issuing entity are receivables generated in a portfolio of designated consumer
+revolving credit accounts or features and, in the future, may include other charge or credit accounts or features or products.</p></td></tr>
+<tr style="font-size:1pt">
+<td height="8" colspan="5"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8.5pt">
+<td valign="bottom" colspan="5"><b>Credit Enhancement </b></td></tr>
+<tr style="font-size:1pt">
+<td height="8" colspan="5"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8.5pt">
+<td valign="bottom" colspan="5"> <p style="margin-top:0pt; margin-bottom:0pt; text-indent:1.62em; font-size:8pt; font-family:Times New Roman">The Class B certificates are subordinated to the Class A certificates. Subordination of the
+Class B certificates provides credit enhancement for the Class A certificates.</p> <p style="font-size:6pt; margin-top:0pt; margin-bottom:0pt"> </p>
+<p style="margin-top:0pt; margin-bottom:1pt; text-indent:1.62em; font-size:8pt; font-family:Times New Roman">The issuing entity is also issuing a collateral interest in the amount of $<number>140,000,000</number> that is subordinated to the Class A certificates
+and the Class B certificates. Subordination of the collateral interest provides credit enhancement for both the Class A certificates and the Class B certificates.</p></td></tr>
+</table> </div><div style="clear:both; height:0pt; font-size:0pt"> </div>
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:8pt; font-family:Times New Roman">This prospectus relates only to the offering of the Class A certificates. </p>
+<p style="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:8pt; font-family:Times New Roman">* The Class B certificates are not being offered by this prospectus and will be retained by the transferor or an affiliate of the
+transferor, but will be entitled to certain payments as described herein. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:8pt; font-family:Times New Roman"><b>Neither the <reportingentity>SEC</reportingentity> nor any state securities commission has
+approved the certificates or determined that this prospectus is accurate or complete. Any representation to the contrary is a criminal offense. </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><i>Joint Bookrunners </i></p> <p style="font-size:6pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" align="center">
+
+
+<tr>
+
+<td width="32%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="33%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="33%"/></tr>
+
+
+<tr style="font-size:1pt">
+<td height="4"/>
+<td height="4" colspan="2"/>
+<td height="4" colspan="2"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:12pt">
+<td valign="top"><b><reportingentity>Wells Fargo Securities</reportingentity></b></td>
+<td valign="bottom"> </td>
+<td valign="top"/>
+<td valign="bottom"> </td>
+<td valign="top" align="right"><b><reportingentity>Barclays</reportingentity></b></td></tr>
+<tr style="font-size:1pt">
+<td height="4"/>
+<td height="4" colspan="2"/>
+<td height="4" colspan="2"/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:12pt">
+<td valign="top"><b><reportingentity>Mizuho</reportingentity></b></td>
+<td valign="bottom"> </td>
+<td valign="top"/>
+<td valign="bottom"> </td>
+<td valign="top" align="right"><b><reportingentity>TD Securities</reportingentity></b></td></tr></table> <p style="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><i>Co-Managers </i></p>
+<p style="font-size:6pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="32%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="33%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="33%"/></tr>
+
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; font-size:10pt; font-family:Times New Roman"><b><reportingentity>BNP PARIBAS</reportingentity></b></p></td>
+<td valign="bottom"> </td>
+<td valign="top" align="center"><b><reportingentity>HSBC</reportingentity></b></td>
+<td valign="bottom"> </td>
+<td valign="top" align="right"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-right:1.00em; font-size:10pt; font-family:Times New Roman" align="right"><b><reportingentity>R. Seelaus &amp; Co., LLC</reportingentity></b></p></td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; font-size:10pt; font-family:Times New Roman"><b><reportingentity>SOCIETE GENERALE</reportingentity></b></p></td>
+<td valign="bottom"> </td>
+<td valign="top" align="center"><b><reportingentity>Drexel Hamilton</reportingentity></b></td>
+<td valign="bottom"> </td>
+<td valign="top" align="right"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-right:1.00em; font-size:10pt; font-family:Times New Roman" align="right"><b><reportingentity>Siebert Williams Shank</reportingentity></b></p></td></tr>
+</table>
+</div></center></text></description></filename></sequence></type></document></body></html>

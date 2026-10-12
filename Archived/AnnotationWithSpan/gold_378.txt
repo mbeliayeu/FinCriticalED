@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="margin-top: 0; margin-bottom: 0"> </p><p style="margin-top: 0; margin-bottom: 0"/><div style="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><div style="border-top: Black 1pt solid; font-size: 1pt"> </div></div><p style="margin-top: 0; margin-bottom: 0"/><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr style="vertical-align: top">
+<td style="width: 4%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">†</font></td>
+<td style="text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Includes $<number>139,050</number> registration
+    fees that were carried forward from a prior registration statement.</font></td></tr>
+<tr style="vertical-align: top">
+<td style="width: 4%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">*</font></td>
+<td style="text-align: justify"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The applicable Prospectus
+    Supplement will set forth the estimated aggregate amount of expenses payable in respect of any offering of Securities.</font></td></tr>
+</tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"> </p></body></html>

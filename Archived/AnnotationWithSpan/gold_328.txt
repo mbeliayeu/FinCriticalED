@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">We
+expect that the Depositary for a Registered Global Security or its nominee, upon receipt of any payment of principal, premium or interest,
+will immediately credit participants’ accounts with payments in amounts proportionate to their respective beneficial interests
+in the principal amount of such Registered Global Security as shown on the records of such Depositary or its nominee. We also expect
+that payments by participants to owners of beneficial interests in a Registered Global Security held through such participants will be
+governed by standing instructions and customary practices, as is now the case with securities held for the accounts of customers registered
+in “street name”, and will be the responsibility of such participants.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"/></body></html>

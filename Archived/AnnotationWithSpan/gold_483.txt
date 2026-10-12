@@ -1,0 +1,60 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>order-left: 1px solid #000000; border-right: 1px solid; border-top: 1px solid #000000; vertical-align: top; width: 35.56%; padding: 0px 2px;"&gt;
+<div style="text-align: justify;"><number>5.03%</number></div>
+
+
+<tr>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 37.48%; padding: 0px 2px;">
+<div style="text-align: justify;"><date>1 month</date> prior to 23 January 2025 (inclusive)</div>
+</td>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 26.96%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>14.795</number></div>
+</td>
+<td style="border-left: 1px solid #000000; border-right: 1px solid; border-top: 1px solid #000000; vertical-align: top; width: 35.56%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>8.11%</number></div>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 37.48%; padding: 0px 2px;">
+<div style="text-align: justify;"><date>2 months</date> prior to <date>23 January 2025</date> (inclusive)</div>
+</td>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 26.96%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>14.363</number></div>
+</td>
+<td style="border-left: 1px solid #000000; border-right: 1px solid; border-top: 1px solid #000000; vertical-align: top; width: 35.56%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>4.84%</number></div>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 37.48%; padding: 0px 2px;">
+<div style="text-align: justify;"><date>3 months</date> prior to <date>23 January 2025</date> (inclusive)</div>
+</td>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 26.96%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>14.508</number></div>
+</td>
+<td style="border-left: 1px solid #000000; border-right: 1px solid; border-top: 1px solid #000000; vertical-align: top; width: 35.56%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>(3.31)%</number></div>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 37.48%; padding: 0px 2px;">
+<div style="text-align: justify;"><date>6 months</date> prior to <date>23 January 2025</date> (inclusive)</div>
+</td>
+<td style="border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 26.96%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>14.703</number></div>
+</td>
+<td style="border-left: 1px solid #000000; border-right: 1px solid; border-top: 1px solid #000000; vertical-align: top; width: 35.56%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>(12.91)%</number></div>
+</td>
+</tr>
+<tr>
+<td style="border-bottom: 1px solid; border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 37.48%; padding: 0px 2px;">
+<div style="text-align: justify;"><date>12 months</date> prior to <date>23 January 2025</date> (inclusive)</div>
+</td>
+<td style="border-bottom: 1px solid; border-left: 1px solid #000000; border-top: 1px solid #000000; vertical-align: top; width: 26.96%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>13.928</number></div>
+</td>
+<td style="border-bottom: 1px solid; border-left: 1px solid #000000; border-right: 1px solid; border-top: 1px solid #000000; vertical-align: top; width: 35.56%; padding: 0px 2px;">
+<div style="text-align: justify;"><number>(21.99)%</number></div>
+</td>
+</tr>
+</body></html>

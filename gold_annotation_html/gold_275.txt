@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Funds on deposit in the Special Funding Account will be invested by the
+trustee, at the direction of the servicer, in Eligible Investments or, if no such direction is provided, will remain uninvested. Any earnings (net of losses and investment expenses) earned on amounts on deposit in the Special Funding Account during
+any Monthly Period will be withdrawn from the Special Funding Account and treated as collections of finance charge receivables for that Monthly Period. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_68"/>Funding Period </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">For any series, the related supplement may specify that during a Funding Period, the aggregate amount of principal receivables
+in the trust allocable to such series may be less than the aggregate principal amount of the certificates of such series. If so specified in the related supplement, the amount of such deficiency, called the Prefunding Amount, will be held in a
+prefunding account pending the transfer of additional principal receivables to the trust or pending the reduction of the invested amounts of other series issued by the trust. The related supplement will specify the initial invested amount for such
+series, the aggregate principal amount of the certificates of such series and the date by which the invested amount is expected to equal the aggregate principal amount of the certificates. The invested amount will increase as receivables are
+delivered to the trust or as the invested amounts of other series of the trust are reduced. The invested amount may also decrease due to the occurrence of a <font style="white-space:nowrap">Pay-Out</font> Event for that series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">During the Funding Period, funds on deposit in the prefunding account for a series of certificates will be withdrawn and paid
+to the transferor to the extent of any increases in the invested amount. If the invested amount does not for any reason equal the aggregate principal amount of the certificates by the end of the Funding Period, any amount remaining in the prefunding
+account and any additional amounts specified in the related supplement will be payable to the certificateholders of such series in the manner and at such time as set forth in the related supplement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If so specified in the related supplement, moneys in the prefunding account will be invested by the trustee in Eligible
+Investments or will be subject to a guaranteed rate or investment agreement or other similar arrangement. In connection with each Distribution Date during the Funding Period, investment earnings on funds in the prefunding account during the related
+Monthly Period will be withdrawn from the prefunding account and deposited, together with any applicable payment under a guaranteed rate or investment agreement or other similar arrangement, into the Collection Account for distribution in respect of
+interest on the certificates of the related series in the manner specified in the related supplement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_69"/>Defaulted Receivables; Rebates and Fraudulent Charges </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Receivables in any account will be charged off as uncollectible in accordance with the account guidelines and the
+servicers customary and usual policies and procedures for servicing card receivables comparable to the receivables. The current policy of <reportingentity>AENB</reportingentity> is to charge off the receivables in an account when the account is six contractual payments past due
+(i.e., approximately 180 days delinquent) or sooner if the death or bankruptcy of the account holder has been confirmed. This policy may change in the future to conform with regulatory requirements and applicable law. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the servicer adjusts downward the amount of any principal receivable (other than Ineligible Receivables that have been, or
+are to be, reassigned to the transferor) because of a rebate, refund, counterclaim, defense, error, fraudulent charge or counterfeit charge to an account holder, or such principal receivable was created in respect of merchandise that was refused or
+returned by an account holder, or if the servicer otherwise adjusts downward the amount of any principal receivable without receiving collections therefor or charges off such amount as uncollectible, the Transferor Amount  and not the
+investors interests  will be reduced by the amount of the adjustment. Furthermore, in the event that the exclusion of any such receivables would cause the Transferor Amount at such time to be less than the Required Transferor Amount, the
+transferor will be required to pay an amount equal to such deficiency into the Special Funding Account. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">96 </p>
+
+</div></center></div></html>

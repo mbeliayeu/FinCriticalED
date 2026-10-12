@@ -1,0 +1,63 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity>, on behalf of itself and RFC III, will indemnify the underwriters
+against certain liabilities, including liabilities under the Securities Act of 1933, as amended, or contribute to payments the underwriters may be required to make in respect thereof. </p>
+<p style="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_115"/>Offering Restrictions </b></p>
+<p style="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">We and the underwriters are offering to sell the certificates only under the circumstances and in jurisdictions where offers
+and sales are permitted. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each underwriter of the offered certificates has agreed, severally and not jointly, that: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">it has complied and will comply with all applicable provisions of the Financial Services and Markets Act 2000,
+or the FSMA, with respect to anything done by it in relation to any Series <font style="white-space:nowrap">2025-1</font> certificates in, from or otherwise involving the United Kingdom; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">it has only communicated or caused to be communicated and will only communicate or cause to be communicated an
+invitation or inducement to engage in investment activity (within the meaning of Section 21 of the FSMA) in connection with the issue or sale of any Series <font style="white-space:nowrap">2025-1</font> certificates in circumstances in which
+Section 21(1) of the FSMA does not apply to the trust or the transferor. </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each underwriter has
+represented and agreed, severally and not jointly, that it has not offered, sold or otherwise made available and will not offer, sell or otherwise make available any of the Series <font style="white-space:nowrap">2025-1</font> certificates to any
+retail investor in the United Kingdom. For the purposes of this provision: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the expression retail investor means a person who is one (or more) of the following: (i) a
+retail client as defined in point (8) of Article 2 of Regulation (EU) No 2017/565 as it forms part of assimilated law by virtue of the European Union (Withdrawal) Act <temporal>2018</temporal> (as amended, the EUWA), (ii) a customer within the meaning
+of the provisions of the FSMA and any rules or regulations made under the FSMA to implement Directive 2016/97 (as amended, the Insurance Distribution Directive), where that customer would not qualify as a professional client as defined
+in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms part of assimilated law by virtue of the EUWA or (iii) not a qualified investor as defined in Regulation (EU) 2017/1129 as it forms part of assimilated law by virtue
+of the EUWA; and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the expression offer includes the communication in any form and by any means of sufficient
+information on the terms of the offer and the certificates to be offered so as to enable an investor to decide to purchase or subscribe for the certificates. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the United Kingdom, this document is only being distributed to and is only directed at (i) investment professionals
+falling within Article 19(5) of the Financial Services and Markets Act <temporal>2000</temporal> (Financial Promotion) Order 2005 (as amended, the Order) or (ii) high net worth companies, and other persons to whom it may lawfully be communicated,
+falling within Article 49(2)(a) to (d) of the Order (all such persons together being referred to as relevant persons). This document is only available to relevant persons, and any person who is not a relevant person should not act
+or rely on this document or any of its contents. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each underwriter has represented and agreed, severally and not jointly,
+that it has not offered, sold or otherwise made available and will not offer, sell or otherwise make available any of the Series <font style="white-space:nowrap">2025-1</font> certificates to any retail investor in the European Economic Area. For
+the purposes of this provision: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the expression retail investor means a person who is one (or more) of the following: (i) a
+retail client as defined in point (11) of Article 4(1) of MiFID II, (ii) a customer within the meaning of the Insurance Distribution Directive, where that customer would not qualify as a professional client as defined in point (10) of
+Article 4(1) of MiFID II or (iii) not a qualified investor as defined in Regulation (EU) 2017/1129 (as amended); and </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">128 </p>
+
+</div></center></div></html>

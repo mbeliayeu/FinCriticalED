@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+Markets Act 2000 (the FSMA); (b) a reinsurance undertaking as defined in section 417(1) of the FSMA; (c) the trustees or managers of an occupational pension scheme as defined in
+section 1(1) of the Pension Schemes Act 1993 that has its main administration in the UK, or a fund manager of such a scheme appointed under section 34(2) of the Pensions Act 1995 that, in respect of activity undertaken pursuant to that appointment
+is authorized for the purposes of section 31 of the FSMA; (d) an AIFM as defined in regulation 4(1) of the Alternative Investment Fund Managers Regulation 2013 (the AIFM Regulations) that has permission under the FSMA for managing
+an AIF (as defined in the AIFM Regulations) and which markets or manages AIFs (as defined in regulation 3 of the AIFM Regulations) in the UK, or a small registered UK AIFM, as defined in the AIFM Regulations; (e) a management company as defined
+in section 237(2) of the FSMA; (f) a UCITS as defined by section 236A of the FSMA, which is an authorized open ended investment company as defined in section 237(3) of the FSMA; (g) a CRR firm as defined by Article 4(1)(2A) of the EU CRR
+as it forms part of UK assimilated law by virtue of the EUWA, and as amended (the UK CRR); and (h) an <reportingentity>FCA</reportingentity> investment firm as defined by Article 4(1)(2AB) of the UK CRR. The UK Due Diligence Requirements may also apply to investments
+by certain consolidated affiliates, wherever established or located (such affiliates, together with all institutional investors, UK Affected Investors and, together with EU Affected Investors, the Affected Investors). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Prior to investing in (or otherwise holding an exposure to) a securitisation position (as defined in the UK
+Securitisation Framework), a UK Affected Investor, other than the originator, sponsor or original lender (each as defined in the UK Securitisation Regulation) must, among other things: (i) verify that, if established in a third country (i.e.
+not the UK), the originator, sponsor or original lender retains on an ongoing basis a material net economic interest which, in any event, shall not be less than <number>5%</number>, determined in accordance with Article 6 of the UK Securitisation Regulation, and
+discloses the risk retention to UK Affected Investors; (ii) verify that if established in a third country (i.e. not the UK), the originator, sponsor or the SSPE (as defined in the UK Securitization Framework) has made available sufficient
+information to enable the institutional investor independently to assess the risks of holding the securitization position, including the information specified in SECN 4.2.1R(1)(e) and Article 5(1)(e) of Chapter 2 of the PRASR (as applicable), and
+has committed to make further information available on an ongoing basis, as appropriate; (iii) verify that, where the originator or original lender is established in a third country (i.e. not the UK), the originator or original lender grants
+all the credits giving rise to the underlying exposures on the basis of sound and well-defined criteria and clearly established processes for approving, amending, renewing and financing those credits and has effective systems in place to apply those
+criteria and processes to ensure that credit-granting is based on a thorough assessment of the obligors creditworthiness; and (iv) carry out a <font style="white-space:nowrap">due-diligence</font> assessment which enables the UK Affected
+Investor to assess the risks involved, considering at least (A) the risk characteristics of the securitisation position and the underlying exposures, and (B) all the structural features of the securitisation that can materially impact the
+performance of the securitisation position. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Prospective investors should be aware that none of the sponsor, the
+transferor, the servicer, the issuing entity, the trustee, the underwriters or any other party to the transaction described in this prospectus, their respective affiliates or any other person will retain a material net economic interest in the
+securitization constituted by the issue of the certificates, or take any other action, in a manner prescribed by the EU Securitization Regulation or the UK Securitization Framework. In addition, no such person makes or intends to make any
+representation or agreement that it or any other party is undertaking or will undertake to take or refrain from taking any action to facilitate or enable compliance by any Affected Investor with the applicable Due Diligence Requirements.
+Consequently, the certificates may not be a suitable investment for any person that is now or may in the future be subject to the Due Diligence Requirements. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Failure by an Affected Investor to comply with the applicable Due Diligence Requirements with respect to an investment in the
+certificates offered by this prospectus may result in the imposition of a penalty regulatory capital charge on that investment or of other regulatory sanctions by the competent authority of such Affected Investor. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><font style="white-space:nowrap">Non-compliance</font> of the transaction described in this prospectus with the EU
+Securitization Regulation or the UK Securitization Framework and any other changes to the regulation or regulatory treatment of the certificates for some or all investors may negatively impact the regulatory position of Affected Investors and have
+an adverse impact on the value and liquidity of the certificates offered by this prospectus in the secondary market. Prospective investors should analyze their own regulatory position, and should consult with their own investment and legal advisors
+regarding application of, and compliance with, the applicable Due Diligence Requirements or other applicable regulations and the suitability of the certificates for investment. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">37 </p>
+
+</div></center></div></html>

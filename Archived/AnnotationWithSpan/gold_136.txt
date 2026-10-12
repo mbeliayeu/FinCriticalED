@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify"><b><i>Interest rate risks.</i></b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Prevailing interest rates
+may affect the market price or value of the notes. The market price or value of the notes may decline as prevailing interest rates for
+comparable debt instruments rise, and increase as prevailing interest rates for comparable debt instruments decline.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify"><b><i>The notes may be redeemed at
+any time at BFI’s option.</i></b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">BFI may choose to redeem
+the notes from time to time, especially when prevailing interest rates are lower than the interest rate borne by the notes. If prevailing
+interest rates are lower at the time of redemption, a purchaser may not be able to reinvest the redemption proceeds in a comparable security
+at an effective interest rate that is greater than or equal to the interest rate on the notes being redeemed. BFI’s redemption
+right may also adversely impact a purchaser’s ability to sell notes as the optional redemption date or period approaches and/or
+may adversely impact the price at which notes can be sold.</p></body></html>

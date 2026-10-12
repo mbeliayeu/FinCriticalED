@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+specific terms of the depositary arrangement with respect to any portion of a particular series of Indenture Securities to be represented
+by a Registered Global Security will be described in the Prospectus Supplement relating to such series. We anticipate that the following
+provisions will apply to all depositary arrangements.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Upon
+the issuance of a Registered Global Security, the Depositary therefor or its nominee will credit, on its book entry and registration
+system, the respective principal amounts of the Indenture Securities represented by such Registered Global Security to the accounts of
+such persons having accounts with such Depositar</p></body></html>

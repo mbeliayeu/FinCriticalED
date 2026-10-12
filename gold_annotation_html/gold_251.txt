@@ -1,0 +1,38 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_38"/>Servicing Compensation and Payment of Expenses </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The share of the Servicing Fee allocable to Series <font style="white-space:nowrap">2025-1</font> for any Distribution Date,
+called the Monthly Servicing Fee, will be equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) the Servicing Fee Rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the Servicing Base Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The share of the Monthly Servicing Fee allocable to the Class A certificateholders for any Distribution Date, called the
+Class A Servicing Fee, shall be equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) the Class A Floating Percentage, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the Servicing Fee Rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c) the Servicing Base Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The share of the Monthly Servicing Fee allocable to the Class B certificateholders for any Distribution Date, called the
+Class B Servicing Fee, shall be equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) the Class B Floating Percentage, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the Servicing Fee Rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c) the Servicing Base Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The share of the Monthly Servicing Fee allocable to the holder of the Collateral Interest for any Distribution Date, called
+the Collateral Interest Servicing Fee, shall be equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) the Collateral Floating Percentage, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the Servicing Fee Rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c) the Servicing Base Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The remainder of the Servicing Fee shall be paid by the holders of the Transferor Certificates or the certificateholders of
+other series (as provided in the related supplements). In no event will the trust, the trustee, the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the Collateral Interest be liable for the share of the
+Servicing Fee to be paid by the holders of the Transferor Certificates or the certificateholders of any other series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The
+servicer will pay from its servicing compensation certain expenses incurred in connection with servicing the receivables including, without limitation, payment of the fees and disbursements of the trustee, paying agent, transfer agent and registrar
+and independent accountants. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_39"/>Optional Repurchase </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">So long as the transferor is the servicer or an affiliate of the servicer, on any Distribution Date occurring on or after the
+date that the sum of the Class A Invested Amount, the Class B Invested Amount and the Collateral Invested Amount is reduced to an amount equal to <number>5%</number> of the initial outstanding aggregate principal amount of the Class A certificates,
+the Class B certificates and the Collateral Interest or less, the transferor will have the option to repurchase the Class A certificateholders interest, the Class B certificateholders interest and the Collateral Interest.
+The purchase price will be equal to the sum of the Adjusted Invested Amount and accrued and unpaid interest on the Class A certificates, the Class B certificates and the Collateral Interest (and accrued and unpaid interest with respect to
+interest amounts that were due but not paid on such Distribution Date or any prior Distribution Date) through </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">72 </p>
+
+</div></center></div></html>

@@ -1,0 +1,18 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zd234c5bb1edd415bafa7e14f9bac14bd" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(v)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>application to IVASS for the authorization to acquire the qualified indirect <financialconcepts>shareholding</financialconcepts> in <reportingentity>Assicurazioni Generali S.p.A.</reportingentity>, pursuant to Articles 68 et seq. of Legislative Decree no. 209 of <temporal>7 September 2005</temporal>;</div>
+</td>
+</tr>
+</tbody></table><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="ze9897782790c4fe0835a1a7ac8a359b9" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(vi)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>all other applications for prior authorizations that, pursuant to the industry-specific regulations, shall be required in connection with the Offer, including those that may be required from the competent foreign authorities;</div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">(collectively, the “<font style="font-weight: bold;">Prior Authorizations</font>”).</div><div style="text-align: justify; margin-bottom: 9pt;">It should be noted that, pursuant to Article 102, paragraph 4 of the TUF, Consob’s approval of the Offer Document may occur only after obtaining each of the Preliminary Authorizations.</div><div style="text-align: justify; margin-bottom: 9pt;">Furthermore, the Offeror shall submit, within the date of submission of the Offer Document to Consob, (i) the necessary communications to the competent authorities on the control of concentrations
+      between companies; (ii) the necessary communications to the Presidency of the Council of Ministers pursuant to Article 2 of Legislative Decree no. 21 of <temporal>15 March 2012</temporal>, as amended (the so-called golden power); (iii) the necessary communications
+      pursuant to the discipline on foreign subsidies distorting the internal market (FSR); and (iv) all other applications for the obtainment of authorizations that shall be required by any authority for the purpose of completing the Offer (collectively,
+      the “<font style="font-weight: bold;">Other Authorizations</font>” and, together with the Prior Authorizations, the “<font style="font-weight: bold;">Authorizations</font>”).</div></body></html>

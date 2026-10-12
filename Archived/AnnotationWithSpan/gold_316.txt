@@ -1,0 +1,14 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><font style="font-size: 10pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></font></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+BN Indenture, the BFI Indentures and the BFI II Indenture are subject to the provisions of the <i>Business Corporations Act</i> (Ontario)
+and, consequently, are exempt from the operation of certain provisions of the Trust Indenture Act of <date>1939</date> (the “<b>Trust Indenture
+Act</b>”) pursuant to Rule 4d-9 thereunder. The US LLC Indenture, the AUS Issuer Indenture and the UK Issuer Indentures
+are subject to the Trust Indenture Act. Executed copies or forms of the Indentures will or have been filed with the Commission as exhibits
+to the Registration Statement. Each Indenture is or will also be available on each Issuer’s respective SEDAR+ profile at <u>www.sedarplus.ca</u>.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+following statements with respect to the Indentures and the Debt Securities issued or to be issued thereunder are brief summaries of
+certain provisions of the Indentures and do not purport to be complete; such statements are subject to the detailed referenced provisions
+of the applicable Indenture, including the definition of capitalized terms used under this caption. Wherever a particular section or
+defined term of an Indenture is referred to, the statement is qualified in its entirety by such section or term. References to the “<b>Issuer</b>”
+and “<b>Indenture Securities</b>” refer to the Company and each Finance Debt Issuer, as issuer, and the Debt Securities issued
+or to be issued by it under the Indentures. References to the “<b>Trustee</b>” or “<b>Trustees</b>” and any particular
+Indenture or Debt Securities refer to the BN Trustee, the BFI Trustee, the US LLC Trustees, the BFI II Trustee, the AUS Issuer Trustees
+or the UK Issuer Trustees as trustee or trustees under the applicable Indenture.</p></body></html>

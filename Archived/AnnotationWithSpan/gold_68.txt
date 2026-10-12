@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Consolidation, merger, amalgamation and sale of substantially all assets</p><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Redemption Provisions:</b></font></td>
+<td> </td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Make-Whole Call:</b></font></td>
+<td><font style="font-size: 10pt">Prior to <date>September 3, 2054</date> (six months prior to maturity), treasury rate <i>plus</i> 20 basis points </font></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr></body></html>

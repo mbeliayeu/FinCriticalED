@@ -1,0 +1,60 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+securities. The laws of some jurisdictions, however, may require some purchasers to take physical delivery of their certificates in definitive form. These laws may impair the ability to own or
+transfer book-entry certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Purchasers of certificates in the United States may hold interests in the global
+certificates through <reportingentity>DTC</reportingentity>, either directly, if they are participants in that system  such as a bank, brokerage house or other institution that maintains securities accounts for its customers with DTC or its nominee  or otherwise
+indirectly through a participant in DTC. Purchasers of certificates in Europe may hold interests in the global certificates through Clearstream Banking or through Euroclear Bank S.A./N.V., as operator of the Euroclear system. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Because <reportingentity>DTC</reportingentity> will be the only registered owner of the global certificates, Clearstream Banking and Euroclear will hold
+positions through their respective U.S. depositories, which in turn will hold positions on the books of DTC. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">As long as
+the certificates are in book-entry form, they will be evidenced solely by entries on the books of <reportingentity>DTC</reportingentity>, its participants and any indirect participants. DTC will maintain records showing: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the ownership interests of its participants, including the U.S. depositories; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">all transfers of ownership interests between its participants. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The participants and indirect participants, in turn, will maintain records showing: </p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the ownership interests of their customers, including indirect participants, that hold the certificates
+through those participants; and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">all transfers between these persons. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Thus, each beneficial owner of a book-entry certificate will hold its certificate indirectly through a hierarchy of
+intermediaries, with <reportingentity>DTC</reportingentity> at the top and the beneficial owners own securities intermediary at the bottom. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust, the trustee and their agents will not be liable for the accuracy of, and are not responsible for maintaining
+supervising or reviewing, <reportingentity>DTC</reportingentity>s records or any participants records relating to book-entry certificates. The trust, the trustee and their agents also will not be responsible or liable for payments made on account of the book-entry
+certificates. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Until definitive certificates are issued to the beneficial owners as described under 
+<i>Definitive Certificates</i> in this prospectus, all references to holders of certificates means <reportingentity>DTC</reportingentity>. The trust, the trustee and any paying agent or transfer agent and registrar may treat DTC as the absolute owner of the
+certificates for all purposes. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Beneficial owners of book-entry certificates should realize that the trust will make all
+distributions of principal and interest on the certificates to <reportingentity>DTC</reportingentity> and will send all required reports and notices solely to DTC as long as DTC is the registered holder of the certificates. DTC and the participants are generally required by law to
+receive and transmit all distributions, notices and directions from the trustee to the beneficial owners through the chain of intermediaries. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Similarly, the trustee will accept notices and directions solely from <reportingentity>DTC</reportingentity>. Therefore, in order to exercise any rights of a
+holder of certificates under the pooling and servicing agreement, each person owning a beneficial interest in the certificates must rely on the procedures of DTC and, in some cases, Clearstream Banking or Euroclear. If the beneficial owner is not a
+participant in that system, then it must rely on the procedures of the participant through which that person owns its interest. DTC has advised the trust that it will take actions under the pooling and servicing agreement only at the direction of
+its participants, which in turn will act only at the direction of the beneficial owners. Some of these actions, however, may conflict with actions it takes at the direction of other participants and beneficial owners. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Notices and other communications by <reportingentity>DTC</reportingentity> to participants, by participants to indirect participants, and by participants and
+indirect participants to beneficial owners will be governed by arrangements among them. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">75 </p>
+
+</div></center></div></html>

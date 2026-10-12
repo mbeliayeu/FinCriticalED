@@ -1,0 +1,15 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>therwise made available to any retail investor
+in the United Kingdom (“<b>UK</b>”). For these purposes, a retail investor means a person who is one (or more) of 
+(i) a retail client, as defined in point (8) of Article 2 of Regulation (EU) 2017/565 as it forms part of domestic law
+by virtue of the European Union (Withdrawal) Act 2018 (as amended “<b>EUWA</b>”); or (ii) a customer within the meaning
+of the provisions of the Financial Services and Markets Act 2000 (as amended, the “<b>FSMA</b>”) and any rules or regulations
+made under the FSMA to implement Directive (EU) 2016/97, where that customer would not qualify as a professional client, as defined in
+point (8) of Article 2(1) of Regulation (EU) 600/2014 as it forms part of domestic law by virtue of the EUWA; or (iii) not
+a qualified investor as defined in Regulation (EU) 2017/1129 as it forms part of domestic law by virtue of the EUWA (the “<b>UK
+Prospectus Regulation</b>”). Consequently, no key information document required by Regulation (EU) 1286/2014 as it forms part of
+domestic law by virtue of the EUWA (the “<b>UK PRIIPs Regulation</b>”) for offering or selling the notes or otherwise making
+them available to retail investors in the UK has been prepared and therefore offering or selling the notes or otherwise making them available
+to any retail investor in the UK may be unlawful under the UK PRIIPs Regulation. This Prospectus has been prepared on the basis that
+any offer of notes in the UK will be made pursuant to an exemption under the UK Prospectus Regulation and the FSMA from the requirement
+to publish a prospectus for offers of notes. This Prospectus is not a prospectus for the purposes of the UK Prospectus Regulation or
+the FSMA.</body></html>

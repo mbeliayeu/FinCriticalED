@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify"><b><i>Information Reporting and Backup
+Withholding</i></b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">In general, information reporting
+will apply to payments of interest on a note and payments of the proceeds from a sale or other taxable disposition of a note made to
+U.S. Holders other than certain exempt recipients (such as corporations). In addition, a U.S. Holder may be subject to backup
+withholding tax on such payments if the U.S. Holder does not provide a taxpayer identification number, fails to certify that the
+holder is not subject to backup withholding tax, or otherwise fails to comply with applicable backup withholding tax rules. Any amounts
+withheld under the backup withholding rules will be allowed as a credit against a U.S. Holder’s U.S. federal income
+tax liability, provided that the required information is timely furnished to the IRS. Certain U.S. Holders that own “specified
+foreign financial assets” with an aggregate value exceeding certain United States dollar thresholds may be required to include
+certain information with respect to such assets with their U.S. federal income tax returns. U.S. Holders are urged to consult
+their tax advisers regarding the foregoing requirements with respect to the notes.</p></body></html>

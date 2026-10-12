@@ -1,0 +1,14 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>tive Trustee or the Holders of at least <number>25%</number> in aggregate principal amount of Outstanding Securities of that
+series, as provided in the relevant Indenture; (f) the Company’s guarantee of all obligations related to that series shall,
+for any reason, cease to be, or the Company shall assert in writing to the relevant Trustee or the Holders thereof that such guarantee
+is not in full force and effect and enforceable against the Company in accordance with its terms; (g) failure by the Company to
+make any payment of principal of, or interest on, any obligation for borrowed money (other than an obligation payable on demand or maturing
+less than 12 months from the creation or issue thereof) having an outstanding principal amount in excess of 5% of the Company’s
+Consolidated Net Worth in the aggregate at the time of default or any failure in the performance of any other covenant of the Company
+contained in any instrument under which such obligations are created or issued and if the holders thereof, or a trustee, if any, for
+such holders declare such obligations to be due and payable prior to the stated maturities thereof, provided that if such default is
+waived by such holders or trustee, then the Event of Default under the applicable Indenture shall be deemed to be waived without further
+action on the part of the applicable Trustee(s) or the Holders; (h) certain events of bankruptcy, insolvency or reorganization
+affecting the Company and/or the Finance Debt Issuers; and (i) any other Events of Default provided with respect to the Indenture
+Securities of such series, as described in the applicable Prospectus Supplement. (Section 501 of the BN Indenture, and Section 6.1
+of the BFI Senior Indenture and the Other Indentures.)</body></html>

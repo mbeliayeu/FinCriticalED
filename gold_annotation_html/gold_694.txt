@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">No
+Holder of an Indenture Security of any series will have any right to institute any proceeding with respect to the particular Indenture,
+or for the appointment of a receiver or a trustee, or for any other remedy thereunder, unless (i) such Holder has previously given
+to the applicable Trustee(s) written notice of a continuing Event of Default with respect to the Indenture Securities of that series,
+(ii) the Holders of at least <number>25%</number> in aggregate principal amount of the Outstanding Securities of that series have made a written
+request, and such Holder or Holders have offered reasonable indemnity, or in the case of the Other Indentures, indemnity reasonably satisfactory
+to each Trustee, to the applicable Trustee(s) to institute such proceeding as trustee, and (iii) the applicable Trustee(s) has
+failed to institute such proceeding, and has not received from the Holders of a majority in aggregate principal amount of the Outstanding
+Securities of that series a direction inconsistent with such request, within 60 days after such notice, request and offer. (Section 507
+of the BN Indenture, Section 6.7 of the BFI Senior Indenture and the Other Indentures.) However, such limitations do not apply to
+a suit instituted by a Holder of an Indenture Security for the enforcement of payment of the principal of, or of any premium or interest
+on, such Indenture Security on or after the applicable due date specified in such Indenture Security. (Section 508 of the BN Indenture,
+Section 6.8 of the BFI Senior Indenture and the Other Indentures.)</p></body></html>

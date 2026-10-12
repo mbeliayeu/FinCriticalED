@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Par Call:</b></font></td>
+<td><font style="font-size: 10pt">At any time on or after <temporal>September 3, 2054</temporal> (six months prior to maturity), at 100% of the principal amount of the Notes to be redeemed</font></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Use of Proceeds:</b></font></td>
+<td><font style="font-size: 10pt">The net proceeds from the sale of the Notes will be used for general corporate purposes</font></td></tr><tr style="vertical-align: top">
+<td> </td></tr></body></html>

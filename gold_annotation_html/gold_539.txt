@@ -1,0 +1,19 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Company Additional Amounts</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">All payments made by <reportingentity>BFI</reportingentity>
+or the Company under or with respect to the notes will be made free and clear of, and without withholding or deduction for or on account
+of, any present or future tax, duty, levy, impost, assessment or other governmental charge imposed or levied by or on behalf of the Government
+of Canada or of any province or territory thereof or therein or by any authority or agency therein or thereof having power to tax (hereinafter
+ “<b>Taxes</b>”), unless BFI or the Company (as applicable) is required to withhold or deduct Taxes by law or by the interpretation
+or administration thereof. If BFI or the Company is so required to withhold or deduct any amount for or on account of Taxes from any
+payment made by it under or with respect to the notes and the notes are not redeemed in accordance with the provisions described under
+ “— Redemption for Changes in Canadian Withholding Taxes”, BFI or the Company (as applicable) will pay such additional
+amounts (“<b>Company Additional Amounts</b>”) as may be necessary so that the net amount received (including Company Additional
+Amounts) by each Holder (including, as applicable, the beneficial owners in respect of any such Holder) after such withholding or deduction
+will not be less than the amount the Holder (including, as applicable, the beneficial owners in respect of any such Holder) would have
+received if such Taxes had not been withheld or deducted; provided that no Company Additional Amounts will be payable with respect to:
+(a) any payment to a Holder or beneficial owner who is liable for such Taxes in respect of such note (i) by reason of such
+Holder or beneficial owner, or any other person entitled to payments on the note, being a person with whom BFI or the Company does not
+deal at arm’s length (within the meaning of the <i>Income Tax Act</i> (Canada) (the “<b>Tax Act</b>”)),
+(ii) by reason of the existence of any present or former connection between such Holder or beneficial owner (or between a fiduciary,
+settlor, beneficiary, member or shareholder of, or possessor of power over, such Holder or beneficial owner, if such Holder or beneficial
+owner is an estate, trust, partnership, limited liability company or corporation) and Canada or any province or territory thereof or
+therein other than the mere ownership, or receiving payments under or </p></body></html>

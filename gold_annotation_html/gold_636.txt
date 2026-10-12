@@ -1,0 +1,15 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">In
+this Prospectus, unless the context otherwise indicates, references to the “<b>Company</b>” refer to Brookfield Corporation
+and references to “<b>we</b>”, “<b>us</b>”, “<b>our</b>” and “<b><reportingentity>Brookfield</reportingentity></b>” refer
+to the Company and its direct and indirect subsidiaries including <reportingentity>BFI</reportingentity>, the US LLC Issuer, BFI II, the AUS Issuer, the UK Issuer and the
+US Pref Issuer. All dollar amounts set forth in this Prospectus and any Prospectus Supplement are in U.S. dollars, except where otherwise
+indicated.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b><a name="spaa_001"/>DOCUMENTS
+INCORPORATED BY REFERENCE</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+following documents, filed with the securities regulatory authorities in each of the provinces and territories of Canada, and filed with,
+or furnished to, the Commission, are specifically incorporated by reference in this Prospectus:</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 9%"> </td>
+<td style="vertical-align: top; width: 4%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)</font></td>
+<td style="text-align: justify; vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1001085/000100108524000007/a2023-40xfex991aif.htm" style="-sec-extract: exhibit"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">the
+    Company’s annual information form for the financial year ended December 31, 2023 (the “<b>AIF</b>”);</font></a></td></tr>
+</tbody></table></body></html>

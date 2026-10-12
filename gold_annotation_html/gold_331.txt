@@ -1,0 +1,392 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+finance charges and certain fees for that period. Under the pooling and servicing agreement, recoveries are treated as collections of finance charge receivables. Total net charge-offs are an
+amount equal to total gross charge-offs minus total recoveries, each for the applicable period. Average principal receivables outstanding for each indicated period is the average of the month-end principal receivables balances for that period. We
+cannot provide any assurance that the loss experience for the receivables in the Trust Portfolio in the future will be similar to the historical experience set forth below. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><financialconcepts>Loss Experience of the Trust Portfolio</financialconcepts> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>(Dollars in <monetaryunit>Thousands</monetaryunit>) </b></p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" align="center">
+
+
+<tr>
+
+<td width="55%"/>
+
+<td valign="bottom"/>
+<td/>
+<td/>
+<td valign="bottom" width="1%"/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="18" align="center" style="border-bottom:1.00pt solid #000000"><b>Year Ended <temporal>December 31</temporal>,</b></td>
+<td valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" nowrap="nowrap" align="center" style="border-bottom:1.00pt solid #000000"><b><temporal>2024</temporal></b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" nowrap="nowrap" align="center" style="border-bottom:1.00pt solid #000000"><b><temporal>2023</temporal></b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" nowrap="nowrap" align="center" style="border-bottom:1.00pt solid #000000"><b><temporal>2022</temporal></b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" nowrap="nowrap" align="center" style="border-bottom:1.00pt solid #000000"><b><temporal>2021</temporal></b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" nowrap="nowrap" align="center" style="border-bottom:1.00pt solid #000000"><b><temporal>2020</temporal></b></td>
+<td valign="bottom"> </td></tr>
+
+
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Average Principal Receivables Outstanding</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right">25,842,782</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>26,150,182</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>25,625,777</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>23,958,730</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>25,433,730</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Total Gross Charge-Offs</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>508,119</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right">425,286</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>314,756</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>349,066</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>614,951</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Total Recoveries</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">148,619</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">131,197</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>150,283</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>183,439</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>162,146</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Total Net Charge-Offs</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>359,500</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>294,089</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>164,473</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>165,626</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right">452,806</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman"><financialconcepts>Total Gross Charge-Offs as a Percentage of Average Principal Receivables Outstanding</financialconcepts></p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">1.97</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">1.63</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">1.23</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">1.46</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">2.42</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman"><financialconcepts>Total Recoveries as a Percentage of Average Principal Receivables Outstanding</financialconcepts></p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>0.58</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.50</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>0.59</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>0.77</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.64</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman"><financialconcepts>Total Net Charge-Offs as a Percentage of Average Principal Receivables Outstanding</financialconcepts></p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">1.39</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">1.12</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.64</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.69</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">1.78</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman">Number of Accounts Experiencing a Loss(1)</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>82,806</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>78,019</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">68,214</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>72,512</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>106,919</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman"><financialconcepts>Number of Accounts Experiencing a Recovery</financialconcepts>(1)</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">316,189</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>268,384</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>281,723</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>339,024</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">358,918</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:8pt; font-family:Times New Roman"><financialconcepts>Average Net Loss per Account Experiencing a Loss</financialconcepts>(1)(2)</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4.34</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>3.77</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right">2.41</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right">2.28</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right">4.24</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+</table> <p style="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="4%" valign="top" align="left">(1)</td>
+<td align="left" valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " align="justify">Calculated by totaling the number of accounts experiencing a recovery in each of the months during the
+indicated period. Therefore, an account that has experienced a recovery in multiple months during the indicated period will be counted more than once. </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="4%" valign="top" align="left">(2)</td>
+<td align="left" valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " align="justify">Calculated as Net Charge-Offs divided by Number of Accounts Experiencing a Loss. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The following tables set forth the delinquency experience for the Trust Portfolio for each indicated period. With respect to
+the <i><financialconcepts>Average Receivables Delinquent as a Percentage of the Trust Portfolio</financialconcepts></i> table below, the average receivables delinquent is the average of the month-end delinquent amounts, while the average receivables outstanding is the average
+of month-end receivables balances, each for the applicable period. With respect to the <i><financialconcepts>Average Number of Delinquent Accounts as a Percentage of the Trust Portfolio</financialconcepts></i> table below, the average number of delinquent accounts is the
+average of the month-end delinquent accounts, while the average number of outstanding accounts is the average of total month-end accounts, each for the applicable period. We cannot provide any assurance that the delinquency experience for the
+receivables in the Trust Portfolio in the future will be similar to the historical experience set forth below. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">A-I-2 </p>
+
+</div></center></div></html>

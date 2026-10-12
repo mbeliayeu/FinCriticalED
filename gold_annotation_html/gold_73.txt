@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_33"/>Application of Collections </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Payment of Interest, Fees and Other Items </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, the trustee, acting pursuant to the servicers instructions, will apply the Class A
+Available Funds, Class B Available Funds and Collateral Available Funds on deposit in the Collection Account in the following priority: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman" align="justify">(A)   an amount equal to the Class A Available Funds will be distributed in the following priority: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   an amount equal to Class A Monthly Interest for such Distribution Date, <i>plus</i> the
+amount of any Class A Outstanding Monthly Interest, <i>plus</i> the amount of any Class A Additional Interest for such Distribution Date and any Class A Additional Interest previously due but not distributed to the Class A
+certificateholders on a prior Distribution Date, will be distributed to the Class A certificateholders; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   if <reportingentity>TRS</reportingentity> or an affiliate of TRS is no longer the servicer, an amount equal to the
+Class A Servicing Fee for such Distribution Date, <i>plus</i> the amount of any Class A Servicing Fee previously due but not distributed to the servicer on a prior Distribution Date, will be distributed to the servicer; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   an amount equal to the Class A Investor Default Amount for such Distribution Date
+will be treated as a portion of Available Principal Collections for such Distribution Date; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv)
+  the balance, if any, shall constitute Excess Spread and shall be allocated and distributed as described under  <i>Excess Spread; Excess Finance Charge Collections</i> below. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman" align="justify">(B)   an amount equal to the Class B Available Funds will be distributed in the following priority: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   an amount equal to Class B Monthly Interest for such Distribution Date, <i>plus</i> the
+amount of any Class B Outstanding Monthly Interest, <i>plus</i> the amount of any Class B Additional Interest for such Distribution Date and any Class B Additional Interest previously due but not distributed to the Class B
+certificateholders on a prior Distribution Date, will be distributed to the Class B certificateholders; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   if <reportingentity>TRS</reportingentity> or an affiliate of TRS is no longer the servicer, an amount equal to the
+Class B Servicing Fee for such Distribution Date, <i>plus</i> the amount of any Class B Servicing Fee previously due but not distributed to the servicer on a prior Distribution Date, will be distributed to the servicer; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   the balance, if any, shall constitute Excess Spread and shall be allocated and distributed
+as described under  <i>Excess Spread; Excess Finance Charge Collections</i> below. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman" align="justify">(C)   an
+amount equal to the Collateral Available Funds will be distributed in the following priority: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)
+  if <reportingentity>TRS</reportingentity> or an affiliate of TRS is no longer the servicer, an amount equal to the Collateral Interest Servicing Fee for such Distribution Date, <i>plus</i> the amount of any Collateral Interest Servicing Fee previously due but not
+distributed to the servicer on a prior Distribution Date, will be paid to the servicer; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)
+  the balance, if any, will constitute a portion of Excess Spread and will be allocated and distributed as described under  <i>Excess Spread; Excess Finance Charge Collections</i> below. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Excess Spread; Excess Finance Charge Collections </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, the trustee, acting pursuant to the servicers instructions, will apply Excess Spread and
+Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1</font> for the related Monthly Period to make the following distributions in the following priority: </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">66 </p>
+
+</div></center></div></html>

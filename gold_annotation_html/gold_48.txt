@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Finally, even if none of the representations and warranties concerning the
+receivables are untrue, the receivables may still suffer from delinquencies and charge offs, and the certificates may incur losses or have reduced market values. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>The certification provided by the chief executive officer of the depositor does not guarantee that the securitization will produce
+expected cash flows at times and in amounts to service scheduled payments of interest and the ultimate repayment of principal on the offered certificates in accordance with their terms as described in this prospectus. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">One of the transaction requirements for the use of a shelf registration statement is the filing at the time of each offering
+from the shelf of a certification from the chief executive officer of the depositor of the issuing entity concerning the disclosure contained in the prospectus and the structure of the securitization. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">While in the certification the chief executive officer expresses a belief that there is a reasonable basis to conclude that
+the securitization is structured to produce expected cash flows at times and in amounts to service scheduled repayments of interest and the ultimate payment of principal on the offered securities in accordance with their terms, investors should be
+aware that the certification does not guarantee that the securitization will produce those expected cash flows or that you will not suffer from delays or reductions in or acceleration of repayment on your certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>Issuances of additional series or additional certificates in outstanding series by the trust may adversely affect your certificates.
+</i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The trust is a master trust that has issued other series of certificates and is expected to issue additional
+series from time to time. The trust may also reopen or later issue additional certificates in an outstanding series, including Series <font style="white-space:nowrap">2025-1,</font> as described under <i>Series Provisions 
+Additional Issuances of Series <font style="white-space:nowrap">2025-1</font> Certificates.</i> All such certificates are payable from the receivables in the trust. The trust may issue additional series or additional certificates in an
+outstanding series with terms that are different from your series without notice to you (or the existing certificateholders) and without your (or their) prior review or consent. Before the trust can issue a new series, or additional certificates in
+an outstanding series, each rating agency that has rated an outstanding series must confirm in writing that the issuance of the new series or additional certificates will not result in a reduction or withdrawal of its earlier rating. Nevertheless,
+the issuance of a new series, or additional certificates in an outstanding series, could affect the timing and amounts of payments on any outstanding certificates. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The holders of the certificates of any new series or of any additional certificates issued in an outstanding series will have
+voting rights that will reduce the percentage interest represented by your certificates. Such voting rights may relate to the ability to approve waivers and give consents. The actions which may be affected include directing the appointment of a
+successor servicer following a servicer default, amending the pooling and servicing agreement and directing a reassignment of the entire portfolio of accounts. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See The Pooling and Servicing Agreement Generally  Groups of Series in this prospectus. </i></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman"><b><i>You may have limited or no ability to control actions under the pooling and servicing agreement. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement, some actions require the consent of certificateholders holding more than a
+specified percentage of the aggregate unpaid principal amount of the certificates of a series or class of certificates or all of the certificates. In the case of votes by holders of a series or class of certificates or votes by holders of all the
+certificates, the unpaid principal amount of the senior-most class of certificates will generally be substantially greater than the unpaid principal amount of the subordinated certificates. Consequently, the holders of the senior-most class of
+certificates will generally have the ability to determine whether and what actions should be taken. The subordinated certificates will generally need the concurrence of the senior-most certificateholders to cause actions to be taken. As a result,
+you may not be able to control certain actions with respect to the trust, which could affect the timing and amount of payments on your certificates. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">41 </p>
+
+</div></center></div></html>

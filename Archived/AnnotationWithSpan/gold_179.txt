@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>be deemed to have occurred in respect of a particular Change of Control (and thus shall not be
+deemed a Below Investment Grade Rating Event for purposes of the definition of Change of Control Triggering Event hereunder) if the Rating
+Agencies making the redu<date>ction(</date>s) in rating to which this definition would otherwise apply do not announce or publicly confirm or
+inform the Trustee in writing at its request that the reduction(s) were the result, in whole or in part, of any event or circumstance
+comprised of or arising as a result of, or in respect of, the applicable Change of Control (whether or not the applicable Change of Control
+shall have occurred at the time of the ratings event) (the “<b>Change of Control Event</b>”). For the purpose of this definition,
+an “Extension Period” shall occur and continue for so long as the aggregate of (i) the number of Rating Agencies that
+have placed the notes on publicly announced consideration for possible downgrade during the initial 60-day period as a result, in whole
+or in part, of the applicable Change of Control Event and (ii) the number of Rating Agencies that have downgraded the notes to below
+an Investment Grade Rati</body></html>

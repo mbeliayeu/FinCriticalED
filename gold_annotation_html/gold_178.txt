@@ -1,0 +1,248 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" align="center">
+
+
+<tr>
+
+<td width="96%"/>
+
+<td valign="bottom" width="1%"/>
+<td width="3%"/></tr>
+
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_53">Discount Option</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">84</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_54">Premium Option</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">85</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_55">Indemnification</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">86</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_56">Collection and Other Servicing Procedures</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">87</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_57">Outsourcing of Servicing</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">87</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_58">New Issuances</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">88</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_59">Collection Account</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">89</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_60">Deposits in Collection Account</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">90</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_61">Allocations</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">91</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_62">Groups of Series</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">91</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_63">Reallocations Among Different Series Within a Reallocation Group</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">92</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_64">Sharing of Excess Finance Charge Collections Among Excess Allocation
+ Series</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">94</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_65">Sharing of Principal Collections Among Principal Sharing Series</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">94</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_66">Paired Series</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">95</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_67">Special Funding Account</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">95</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_68">Funding Period</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">96</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_69">Defaulted Receivables; Rebates and Fraudulent
+Charges</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">96</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_70">Servicer Covenants</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">97</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_71">Certain Matters Regarding the Servicer</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">97</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_72">Servicer Default</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">98</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_73">Evidence as to Compliance</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">98</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_74">Transferor Insolvency</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">99</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_75">Amendments</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">100</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_76">Defeasance</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">101</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_77">List of Certificateholders</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">102</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_78">The Trustee</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">102</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_79">Merger or Consolidation of the Transferor or the
+Servicer</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">103</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_80">Assumption of the Transferors
+Obligations</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">104</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_81">Description of the Purchase Agreement</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">105</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_82">Sale of Receivables</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">105</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_83">Representations and Warranties</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">106</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_84">Repurchase Obligations</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">106</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_85">Reassignment of Other Receivables</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">107</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_86">Modifications</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">107</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_87">Amendments</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">108</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_88">Termination</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">108</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_89">Asset Representations Review</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">108</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_90">Delinquency Event</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">108</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_91">Voting Event</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">110</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_92">Asset Representations Review Process</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">110</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_93">Asset Representations Reviewer</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">111</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_94">Other Matters Relating to the Asset Representations Reviewer</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">111</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_95">Certain Legal Aspects of the Receivables</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">112</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_96">Certain Regulatory Matters</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">112</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_97">Consumer Financial Products Regulation</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">112</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_98">Legal Proceedings</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">114</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_99">Tax Matters</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">115</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_100">Federal Income Tax Consequences 
+General</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">115</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_101">Treatment of the Certificates as Debt</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">115</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_102">Description of Opinions</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">116</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_103">Treatment of the Trust</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">116</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_104">Taxation of U.S. Certificate Owners</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">117</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_105">Foreign Certificate Owners</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">119</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_106">Backup Withholding and Information Reporting</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">120</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_107">Foreign Account Tax Compliance Act</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">121</td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:3.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman" align="justify"><a href="#tx764677_108">State and Local Taxation</a></p></td>
+<td valign="bottom">  </td>
+<td valign="bottom" nowrap="nowrap" align="right">121</td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">v </p>
+
+</div></center></div></html>

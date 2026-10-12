@@ -1,0 +1,19 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>REGARDING THE USE OF NON-IFRS MEASURES
+<td style="text-align: right"><a href="#psa_003"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-3</font></a></td>
+<tr style="vertical-align: top; background-color: White">
+<td><a href="#psa_004"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">PRESENTATION
+    OF FINANCIAL INFORMATION</font></a></td>
+<td style="text-align: right"><a href="#psa_004"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-4</font></a></td></tr>
+<tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td><a href="#psa_005"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">EXCHANGE
+    RATE DATA</font></a></td>
+<td style="text-align: right"><a href="#psa_005"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-5</font></a></td></tr>
+<tr style="vertical-align: top; background-color: White">
+<td><a href="#psa_006"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">Summary</font></a></td>
+<td style="text-align: right"><a href="#psa_006"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-6</font></a></td></tr>
+<tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td><a href="#psa_007"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">RISK
+    FACTORS</font></a></td>
+<td style="text-align: right"><a href="#psa_007"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-9</font></a></td></tr>
+<tr style="vertical-align: top; background-color: White">
+<td><a href="#psa_008"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; &lt;/body&gt;&lt;/html&gt;"/></a></td></tr></body></html>

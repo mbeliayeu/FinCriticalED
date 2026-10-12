@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">We caution that the foregoing
+list of important factors that may affect future results is not exhaustive and other factors could also adversely affect future results.
+Nonetheless, all of the forward-looking statements contained in this Prospectus or in documents incorporated by reference herein are
+qualified by these cautionary statements. Readers are urged to consider these risks, as well as other uncertainties, factors and assumptions
+carefully in evaluating the forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements.
+Except as required by law, <reportingentity>Brookfield</reportingentity> undertakes no obligation to publicly update or revise any forward-looking statements, whether written
+or oral, that may need to be updated as a result of new information, future events or otherwise.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><a name="psa_003"/><font style="text-transform: uppercase"><b>CAUTIONARY
+STATEMENT REGARDING THE USE OF NON-IFRS MEASURES</b></font></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The Company prepares its
+financial statements in accordance with <financialconcepts>IFRS Accounting Standards</financialconcepts>. We disclose a number of financial measures in this Prospectus and
+the documents incorporated by reference herein that are calculated and presented using methodologies other than in accordance with <financialconcepts>IFRS
+Accounting Standards</financialconcepts>. We utilize these measures in managing our business, including for performance measurement, capital allocation and
+valuation purposes and believe that providing these performance measures on a supplemental basis to our IFRS results is helpful to investors
+in assessing our overall performance.</p></body></html>

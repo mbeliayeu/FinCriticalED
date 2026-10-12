@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   the numerator of which is the Collateral
+Invested Amount as of the end of the Revolving Period, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   the denominator of which is
+the Invested Amount as of such day. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Collateral Senior Additional Interest</b> means, for any Distribution
+Date, additional interest on Collateral Senior Minimum Monthly Interest due but not paid to the holder of the Collateral Interest in respect of the Collateral Senior Invested Amount on a prior Distribution Date at a rate equal to the Collateral
+Senior Minimum Interest Rate. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Collateral Senior Initial Invested Amount</b> means <monetaryunit>$</monetaryunit><number>28,572,000</number>, subject to
+increase or decrease as discussed under <i>Series Provisions</i> in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Collateral
+Senior Invested Amount</b> for any date of determination means an amount equal to the Collateral Senior Initial Invested Amount <i>minus</i> the aggregate amount of principal payments made to the holders of the Collateral Interest in respect
+of the Collateral Senior Invested Amount on all prior Distribution Dates (or, in the case of the first Distribution Date, as of the closing date). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Collateral Senior Minimum Interest Rate</b> means (i) initially, a <i>per annum </i>rate equal to
+[●]%, and (ii) following a Note Trust Transfer, the rate specified in the applicable agreement among <reportingentity>RFC III</reportingentity>, TRS and the holder of the Collateral Interest relating to the transfer of the Collateral Interest from RFC III to the holder of
+the Collateral Interest, which rate will not exceed [●]%. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Collateral Senior Minimum Monthly
+Interest</b> means, for any Distribution Date, an amount equal to <font style="white-space:nowrap">one-twelfth</font> of the product of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   the Collateral Senior Minimum Interest Rate, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   the Collateral Senior Invested Amount; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><i>provided</i>, <i>however</i>, that for the first Distribution Date, Collateral Senior Minimum Monthly Interest shall be equal to
+<monetaryunit>$</monetaryunit>[●]. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Collateral Senior Outstanding Minimum Monthly Interest</b> means, for any Distribution Date,
+the amount of Collateral Senior Minimum Monthly Interest previously due but not paid to the holder of the Collateral Interest on a prior Distribution Date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b>Collateral Senior Required Amount</b> means, for any Determination Date, the amount equal to the excess of the
+sum of: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   if <reportingentity>TRS</reportingentity> or an affiliate is no longer the servicer, the Collateral Interest
+Servicing Fee for the related Distribution Date and any unpaid Collateral Interest Servicing Fee, <i>plus</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   Collateral Senior Minimum Monthly Interest for the related Distribution Date, <i>plus</i>
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   any Collateral Senior Outstanding Minimum Monthly Interest, <i>plus</i> </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv)   any Collateral Senior Additional Interest; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">over the sum of: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   if TRS or an affiliate is no longer the servicer, the amount of Collateral Available Funds
+to be applied on such Distribution Date to pay the Collateral Interest Servicing Fee and any unpaid Collateral Interest Servicing Fee; <i>plus</i> </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">138 </p>
+
+</div></center></div></html>

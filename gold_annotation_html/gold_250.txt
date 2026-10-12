@@ -1,0 +1,34 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman" align="justify">
+incorrect in any material respect for a period of <temporal>60 days</temporal> after written notice and as a result of which the interests of the Series <font style="white-space:nowrap">2025-1</font>
+certificateholders and the holder of the Collateral Interest are materially and adversely affected; <i>provided</i>, <i>however</i>, that a <font style="white-space:nowrap">Pay-Out</font> Event shall not be deemed to occur thereunder if the
+transferor has repurchased the related receivables or all such receivables, if applicable, during such period (or such longer period as the trustee may specify not to exceed an additional 60 days) in accordance with the provisions of the pooling and
+servicing agreement; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(e) a failure by the transferor to convey receivables in additional accounts to the
+trust within <temporal>five Business Days</temporal> after the day on which it is required to convey such receivables pursuant to the pooling and servicing agreement or the Series <font style="white-space:nowrap">2025-1</font> supplement; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(f) the occurrence of any Servicer Default which would have an Adverse Effect; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(g) a reduction of the average Series Adjusted Portfolio Yield for any three consecutive Monthly Periods to a
+rate less than the average of the Base Rates for such three Monthly Periods; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(h) the failure to pay in
+full the Class A Invested Amount, the Class B Invested Amount and the Collateral Invested Amount on the Expected Final Payment Date; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the transferor is unable for any reason to transfer receivables to the trust in accordance with the
+pooling and servicing agreement or the Series <font style="white-space:nowrap">2025-1</font> supplement; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(j) the occurrence of an insolvency event as defined in the purchase agreement relating to the account owner;
+and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(k) the account owner is unable for any reason to transfer receivables to the transferor in
+accordance with the purchase agreement. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the case of any event described above in subparagraph (c), (d) or (f), after
+the applicable grace period, if any, set forth in such subparagraphs, either the trustee or the holders of Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest evidencing more than <number>50%</number> of the aggregate
+unpaid principal amount of Series <font style="white-space:nowrap">2025-1</font> certificates and the Collateral Interest by notice then given in writing to the transferor and the servicer (and to the trustee if given by the Series <font style="white-space:nowrap">2025-1</font> certificateholders and the holder of the Collateral Interest) may declare that a <font style="white-space:nowrap">Pay-Out</font> Event has occurred with respect to Series
+<font style="white-space:nowrap">2025-1</font> as of the date of such notice, and, in the case of any event described in subparagraph (b), (e), (g) or (h), a <font style="white-space:nowrap">Pay-Out</font> Event shall occur with respect to Series <font style="white-space:nowrap">2025-1</font> without any notice or other action on the part of the trustee immediately upon the occurrence of such event. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the case of any event described in subparagraph (a), (i), (j) or (k), a <font style="white-space:nowrap">Pay-Out</font>
+Event shall occur with respect to Series <font style="white-space:nowrap">2025-1</font> without any notice or other action on the part of the trustee, the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the
+Collateral Interest immediately upon the occurrence of such event (or, in the case of clause (y) below, immediately following the expiration of the <font style="white-space:nowrap"><temporal>60-day</temporal></font> grace period), but only to the extent that: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(x) as of the date of such event, the average of the Monthly Receivables Percentage for the immediately
+preceding three Monthly Periods is equal to or greater than <number>10%</number>, or </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(y) as of the date of such event, the
+average of the Monthly Receivables Percentage for the immediately preceding three Monthly Periods is less than <temporal>10%</temporal>, and within 60 days following the occurrence of the related insolvency event or inability to transfer receivables, the aggregate
+amount of principal receivables outstanding in the trust does not at least equal the Required Minimum Principal Balance (without giving effect to principal receivables attributable to the transferor or the account owner with respect to which the
+insolvency event or the inability to transfer receivables has occurred). </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">71 </p>
+
+</div></center></div></html>

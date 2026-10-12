@@ -1,0 +1,16 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Pursuant
+to the BFI Senior Indenture and the Other Indentures, neither the applicable Finance Debt Issuer nor the Company (in each case for purposes
+of this description, a “<b>Predecessor</b>”) shall enter into any transaction (whether by way of reorganization, reconstruction,
+consolidation, amalgamation, merger, transfer, sale or otherwise) whereby all or substantially all of its undertaking, property and assets
+would become the property of any other Person (in each case for purposes of this description, a “<b>Successor</b>”) unless:
+(a) the Predecessor and the Successor shall have executed, prior to or contemporaneously with the consummation of such transaction,
+such instruments and done such things as, in the opinion of counsel, are necessary or advisable to establish that, upon the consummation
+of such transaction, (i) the Successor will have assumed all the covenants and obligations of the Predecessor under the applicable
+Indenture in respect of the Indenture Securities of every series issued thereunder, and in the case of the Company, its guarantee of
+the Indenture Securities and (ii) the Indenture Securities of every series issued by the Predecessor will be valid and binding obligations
+of the Successor, entitling the Holders thereof, as against the Successor, to all the rights of Holders of Indenture Securities under
+the applicable Indenture; and (b) such transaction shall be on such terms and shall be carried out at such times and otherwise in
+such manner as shall not be prejudicial to the interests of the Holders of applicable Indenture Securities of each and every series or
+to the rights and powers of the applicable Trustee(s) under the applicable Indenture; provided, however, that such restrictions
+are not applicable to any sale or transfer by the applicable Finance Debt Issuer or the Company to any one or more of their subsidiaries.
+(Section 9.1 of the BFI Senior Indenture and the Other Indentures.)</p></body></html>

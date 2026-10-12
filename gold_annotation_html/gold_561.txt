@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>The Trustee and the Paying Agent</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The address of the Trustee
+is 100 University Avenue, 8th Floor, Toronto, Ontario M5J 2Yl. The “<b>Place of Payment</b>” for the notes will be at the
+address of the Paying Agent, currently located at 1505 Energy Park Drive, St Paul, MN 55108.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Book-Entry System</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Each of the notes will be
+represented by one or more global notes (collectively, the “<b><financialconcepts>Global Notes</financialconcepts></b>”) registered in the name of The Depository
+Trust Company, or its nominee, as Depositary (the “<b><financialconcepts>Depositary</financialconcepts></b>”). The provisions set forth under “Description
+of Debt Securities — Registered Global Securities” in the accompanying base shelf prospectus will be applicable to the
+notes. Accordingly, beneficial interests in the notes will be shown on, and transfers thereof will be effected only through, records
+maintained by the Depositary and its Participants (as defined herein). Except as described under “Description of Debt Securities —
+Registered Global Securities” in the accompanying base shelf prospectus, owners of beneficial interests in the Global Notes will
+not be entitled to receive notes in definitive form and will not be considered holders of notes under the Indenture.</p></body></html>

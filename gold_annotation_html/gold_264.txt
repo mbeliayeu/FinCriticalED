@@ -1,0 +1,63 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+determines that the exercise of the discount option is needed to provide a sufficient yield on the receivables to cover interest and other amounts due and payable from collections of finance
+charge receivables or to avoid the occurrence of a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event relating to the reduction of the average yield on the portfolio of accounts in the trust, if the related supplement
+provides for such a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event. The existence of discount option receivables will result in an increase in the amount of collections of finance charge receivables, a reduction in the
+balance of principal receivables outstanding and a reduction in the Transferor Amount. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">After any such designation,
+pursuant to the pooling and servicing agreement, the transferor may, without notice to or consent of the certificateholders, from time to time increase, reduce or withdraw the percentage of receivables subject to such designation. The transferor
+must provide <temporal>30 days</temporal> prior written notice to the servicer, the trustee, each Rating Agency and any provider of Series Enhancement of any such designation or increase, reduction or withdrawal. Such designation or increase, reduction or withdrawal
+will become effective on the date specified therein only if: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transferor delivers to the trustee and certain providers of Series Enhancement a certificate of an
+authorized officer of that transferor to the effect that, based on the facts known to that transferor at the time, such designation or increase, reduction or withdrawal will not at the time of its occurrence cause a
+<font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event or an event that, with notice or the lapse of time or both, would constitute a <font style="white-space:nowrap">Pay-Out</font> Event or Reinvestment Event, to occur with
+respect to any series, </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the Rating Agency Condition is satisfied with respect to such designation or increase, reduction or
+withdrawal, and </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">only in the case of a reduction or withdrawal of the discount percentage, the transferor will have:
+</p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:13%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) delivered to the trustee an opinion of counsel to the effect that such reduction
+of the percentage of discount option receivables will not adversely affect the tax characterization as debt of any certificates of any outstanding series or class that were characterized as debt at the time of their issuance and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:13%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) in certain circumstances, obtained the prior written consent of each provider of Series Enhancement
+entitled to consent thereto. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On the Date of Processing of any collections on or after the date the exercise of the
+discount option takes effect, the product of: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the discount percentage then in effect, and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">collections of receivables with respect to the accounts on or after the date such option is exercised that
+otherwise would be principal receivables, </p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">will be deemed collections of finance charge receivables and will be applied
+accordingly. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor has increased and decreased the discount percentage from time to time, but the discount
+percentage is currently <number>0%</number>. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_54"/>Premium Option </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement provides that the transferor may at any time and from time to time designate a specified
+fixed or variable percentage, known as the premium percentage, of the amount of finance charge receivables existing arising in all or any specified portion of the accounts existing on and after the date such designation becomes effective to be
+treated as principal receivables, which will be called premium receivables. Although there can be no assurance that the transferor will exercise the option to designate premium receivables, the transferor may do so if, among other things, the
+transferor determines that the exercise of such option is needed to cover shortfalls of the principal receivables available to make scheduled principal payments on the certificates or </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">85 </p>
+
+</div></center></div></html>

@@ -1,0 +1,15 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Holders of a majority in aggregate principal amount of the Outstanding Securities of any series, on behalf of all Holders of Outstanding
+Securities of such series, may waive compliance by the Issuer with certain restrictive provisions of the particular Indenture. (Section 1009
+of the BN Indenture, Section 11.10 of the BFI Senior Indenture and Section 11.6 of the Other Indentures.) Subject to certain
+rights of the particular Trustee, as provided in the applicable Indenture, the Holders of a majority in aggregate principal amount of
+the Outstanding Securities issued under such Indenture, on behalf of all holders of Outstanding Securities of such series, may waive
+any past default under such Indenture, except a default in the payment of principal, premium or interest or in respect of a covenant
+or provision of such Indenture which under the Indenture cannot be modified or amended without the consent of the Holder of each Outstanding
+Security of such series affected. (Section 513 of the BN Indenture, Section 6.13 of the BFI Senior Indenture and the Other
+Indentures.)</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Consent to Jurisdiction and Service under
+BN Indenture</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+BN Indenture provides that the Company irrevocably appoints <reportingentity>CT Corporation System</reportingentity>, 1633 Broadway, New York, New York, 10019, as its agent
+for service of process in any suit, action or proceeding arising out of or relating to the BN Indenture and the Indenture Securities
+and for actions brought under federal or state securities laws brought in any federal or state court located in the Borough of Manhattan
+in the City of New York and submit to such jurisdiction.</p></body></html>

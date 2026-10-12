@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">For purposes of this summary,
+a “<b>U.S. Holder</b>” is a beneficial owner of a note that, for U.S. federal income tax purposes, is (i) a
+citizen or individual resident of the United States; (ii) a corporation, or other entity treated as a corporation for U.S. federal
+income tax purposes, that is created in or organized under the laws of the United States, any state thereof, or the District of
+Columbia; (iii) an estate the income of which is includible in gross income for U.S. federal income tax purposes regardless
+of its source; or (iv) a trust if (A) a U.S. court is able to exercise primary supervision of the administration of the
+trust and one or more U.S. persons have the authority to control all substantial decisions of the trust or (B) the trust has
+made a valid election to be treated as a U.S. person under applicable Treasury Regulations.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><b>If a partnership, or other
+entity or arrangement classified as a partnership for U.S. federal income tax purposes, owns a note, the tax treatment of a partner
+in the partnership will depend upon the status of the partner and the activities of the partnership. Partners in a partnership that owns
+a note are urged to consult their tax advisers as to the particular U.S. federal income tax consequences applicable to them.</b></p></body></html>

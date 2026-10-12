@@ -1,0 +1,82 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+position that any of these transfers constitutes only the grant of a security interest under applicable law, that <reportingentity>AENB</reportingentity> continues to own receivables, and that the FDIC, as conservator or receiver
+for AENB, should control and administer the receivables transferred by AENB. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the current version of the <reportingentity>FDIC</reportingentity>s
+regulation on securitization transactions (the Securitization Rule), the FDIC has surrendered its rights to reclaim, recover, or recharacterize a depository institutions transfer of financial assets (such as the receivables) with
+respect to obligations of a revolving trust or a master trust if: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">one or more obligations were issued by the trust as of <temporal>September 27, 2010</temporal>; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transfer satisfied specified conditions for sale accounting treatment under generally accepted accounting
+principles in effect for reporting periods before <temporal>November 15, 2009</temporal>; </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transfer involved a securitization of the financial assets; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the depository institution received adequate consideration for the transfer; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the financial assets were not transferred fraudulently, in contemplation of the depository institutions
+insolvency, or with the intent to hinder, delay, or defraud the depository institution or its creditors. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each transfer of receivables by <reportingentity>AENB</reportingentity> has been intended to satisfy all of these conditions. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If any of these conditions were found not to have been met, then a statutory injunction automatically preventing the trustee
+and the certificateholders from exercising their rights, remedies, and interests for up to 90 days would apply. The delay caused by this injunction could result in losses to you. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, the <reportingentity>FDIC</reportingentity>, as conservator or receiver for AENB, could seek to reclaim, recover, or recharacterize the transfer of
+the receivables by AENB. If the FDIC were successful, the Federal Deposit Insurance Act, as amended by the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA), would limit any damages to actual direct
+compensatory damages determined as of the date that the FDIC was appointed as conservator or receiver for AENB. The FDIC may not be subject to an express time limit in deciding whether to take these actions, and a delay by the FDIC in making a
+decision could result in losses on your investment. If the FDIC were successful in any of these actions, moreover, you may not be entitled under applicable law to the full amount of your damages. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Even if the <reportingentity>FDIC</reportingentity> did not reclaim, recover, or recharacterize the transfer of the receivables by AENB, payments to you could be
+delayed or reduced if AENB entered conservatorship or receivership. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">For instance, the <reportingentity>FDIC</reportingentity> may argue that the sta<reportingentity>tuto</reportingentity>ry
+injunction nevertheless applies to automatically prevent the trustee and the certificateholders from exercising their rights, remedies, and interests for up to 90 days. The FDIC also may be able to obtain a stay of any action to enforce the
+transaction documents or the certificates beyond the <font style="white-space:nowrap">90-day</font> statutory period. The FDIC also may require that its claims process be followed before payments on the receivables are released. The delay caused by
+any of these actions could result in losses to you. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The <reportingentity>FDIC</reportingentity>, moreover, may have the power to choose whether or not the
+terms of the transaction documents will continue to apply. Thus, regardless of what the transaction documents provide, the FDIC could: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">prevent or limit the commencement of an early amortization period or a rapid accumulation period, or instead
+do the opposite and require those to commence; </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">prevent or limit the early liquidation of the receivables and the termination of the trust, or instead do the
+opposite and require those to occur; or </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="5%"> </td>
+<td width="3%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">prevent or limit the continued transfer of receivables, or instead do the opposite and require those to
+continue. </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">28 </p>
+
+</div></center></div></html>

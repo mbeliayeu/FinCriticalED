@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) on each Distribution Date with respect to the
+Controlled Accumulation Period, all such Available Principal Collections will be distributed or deposited in the following priority: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(A) an amount equal to the lesser of (x) the Controlled Deposit Amount and (y) the sum of the
+Class A Adjusted Invested Amount and the Class B Adjusted Invested Amount will be deposited in the Principal Funding Account; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(B) for each Distribution Date beginning on the Distribution Date on which the Class B Invested Amount is
+paid in full, an amount up to the Collateral Invested Amount will be paid to the holder of the Collateral Interest; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(C) for each Distribution Date, the balance, if any, of Available Principal Collections not applied pursuant
+to paragraphs (A) and (B) (as applicable) above will be treated as Shared Principal Collections and applied as described under <i>The Pooling and Servicing Agreement Generally  Sharing of Principal Collections Among Principal
+Sharing Series</i> in this prospectus; and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) on each Distribution Date with respect to the
+Early Amortization Period, all such Available Principal Collections will be distributed as follows: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(A)
+an amount up to the Class A Adjusted Invested Amount will be distributed to the Class A certificateholders; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(B) for each Distribution Date beginning on the Distribution Date on which the Class A Invested Amount is
+paid in full, an amount up to the Class B Adjusted Invested Amount will be distributed to the Class B certificateholders; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(C) for each Distribution Date beginning on the Distribution Date on which the Class B Invested Amount is
+paid in full, an amount up to the Collateral Invested Amount will be distributed to the holder of the Collateral Interest; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(D) for each Distribution Date, the balance, if any, of Available Principal Collections not applied pursuant
+to paragraphs (A), (B) and (C) (as applicable) above will be treated as Shared Principal Collections and applied as described under <i>The Pooling and Servicing Agreement Generally  Sharing of Principal Collections Among Principal
+Sharing Series</i> in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_34"/>Defaulted Receivables; Investor Charge-Offs </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Determination Date, the servicer will calculate the Investor Default Amount for the related Distribution Date. An
+amount equal to the Class A Investor Default Amount for each Distribution Date will be paid from Class A Available Funds, Excess Spread and Excess Finance Charge Collections allocated to Series
+<font style="white-space:nowrap">2025-1</font> and from Reallocated Principal Collections, if applicable, and applied as described above in  <i>Application of Collections  Payment of Interest, Fees and Other Items</i>. An
+amount equal to the Class B Investor Default Amount for each Distribution Date will be paid from Excess Spread and Excess Finance Charge Collections allocated to Series <font style="white-space:nowrap">2025-1</font> and from Reallocated
+Principal Collections allocable to the Collateral Invested Amount, if applicable, and applied as described above in  <i>Application of Collections  Excess Spread; Excess Finance Charge Collections</i>. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Class A Investor Charge-Offs </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each Distribution Date, if the Class A Required Amount for such Distribution Date exceeds the sum of (i) Excess
+Spread and Excess Finance Charge Collections allocable to Series <font style="white-space:nowrap">2025-1</font> and (ii) Reallocated Principal Collections, the Collateral Invested Amount will be reduced by the amount of such excess, but not by
+more than the Class A Investor Default Amount for such Distribution Date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event that such reduction would
+cause the Collateral Invested Amount to be a negative number, the Collateral Invested Amount will be reduced to zero, and the Class B Invested Amount will be reduced by the </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">68 </p>
+
+</div></center></div></html>

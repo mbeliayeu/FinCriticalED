@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>y or its nominee (“<b>participants</b>”) as shall be designated by the underwriters,
+investment dealers or agents participating in the distribution of such Indenture Securities or by the particular Issuer if such Indenture
+Securities are offered and sold directly by the Issuer. Ownership of beneficial interests in a Registered Global Security will be limited
+to participants or persons that may hold beneficial interests through participants. Ownership of beneficial interests in a Registered
+Global Security will be shown on, and the transfer of such ownership will be effected only through, records maintained by the Depositary
+therefor or its nominee (with respect to beneficial interests of participants) or by participants or persons that hold through participants
+(with respect to interests of persons other than participants). The laws of some states in the United States require certain purchasers
+of securities to take physical delivery thereof in definitive form. Such depositary arrangements and such laws may impair the ability
+to transfer beneficial interests in a Registered Global Security.</body></html>

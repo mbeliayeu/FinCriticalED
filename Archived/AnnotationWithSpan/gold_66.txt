@@ -1,0 +1,26 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><td> </td><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>CUSIP / ISIN:</b></font></td>
+<td>11271L AP7 / US11271LAP76</td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Joint Book-Running Managers:</b></font></td>
+<td>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Deutsche Bank Securities Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">SMBC Nikko Securities America, Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Citigroup Global Markets Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Mizuho Securities USA LLC</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">BofA Securities, Inc.</p></td></tr><tr style="vertical-align: top">
+<td> </td>
+<td> </td></tr><tr style="vertical-align: top">
+<td><font style="font-size: 10pt"><b>Co-Managers:</b></font></td>
+<td>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Banco Bradesco BBI S.A.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">BNP Paribas Securities Corp.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Brookfield Securities LLC</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Desjardins Securities Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Itau BBA USA Securities, Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">MUFG Securities Americas Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">National Bank of Canada Financial Inc.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Natixis Securities Americas LLC</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Santander US Capital Markets LLC</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">SG Americas Securities, LLC</p></td></tr></body></html>

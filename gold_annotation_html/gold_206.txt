@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+with applicable laws. A <font style="white-space:nowrap">pay-out</font> event could occur if <reportingentity>AENB</reportingentity> reduced the finance charges and other fees it charges, and a corresponding decrease in finance
+charges resulted. In addition, changes in the credit card account terms may alter payment patterns. If payment rates decrease significantly at a time when you are scheduled to receive principal, you might receive principal more slowly than expected.
+</p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> will not reduce the interest rate it charges on the receivables or other fees if that action would result in a
+payout event, unless it is required by law to do so or it determines that such reduction is necessary to maintain its credit card business on a competitive basis, based on its good faith assessment of its business competition. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> does not have restrictions on its ability to change the terms of the credit card accounts except as described above or in
+this prospectus. Changes in relevant law, changes in the marketplace or prudent business practices could cause AENB to change credit card account terms. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Credit card rates may decline without a corresponding change in the amounts needed to pay the certificates, which could
+result in a delay or reduction in payments of your certificates. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Some accounts may have finance charges set at a
+variable rate based on a designated index (for example, the prime rate). A series or class of certificates may bear interest either at a fixed rate or at a floating rate based on a different index. If the rate charged on the accounts declines,
+collections of finance charge receivables may be reduced without a corresponding reduction in the amounts payable as interest on the certificates and other amounts paid from collections of finance charge receivables. This could result in delayed or
+reduced principal and interest payments to you. </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>The effects of climate-related risks, as well as efforts to
+mitigate the impact of climate-related risks, including through related legislation and regulation, may have an adverse impact on the timing and amount of payments on your certificates. </i></b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">There are increasing and rapidly evolving concerns over climate-related risks and related environmental sustainability and
+recovery matters. The physical risks related to climate, including rising average global temperatures, rising sea levels and an increase in the frequency and severity of extreme weather events and natural disasters. Additionally, climate-related
+risks could result in transition risk, which includes changes in consumer preferences or technology, additional legislation, regulatory and legal requirements, including those associated with the transition to a
+<font style="white-space:nowrap">low-carbon</font> economy. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The physical risks related to climate could disrupt <reportingentity>American
+Express</reportingentity> operations or the operations of customers or third parties on which it relies and could result in market volatility or negatively impact accountholders spending behaviors or ability to pay outstanding debt. For example,
+accountholders living in areas affected by extreme weather and natural disasters may suffer financial harm, reducing their ability to make timely payments on their account balances. The impact of extreme weather and natural disasters may be
+concentrated in a particular geographic region. If such extreme weather or a natural disaster were to occur in a geographic region in which a large number of accountholders are located, these risks would be exacerbated. <i>See The Receivables
+ Composition by Geographic Distribution in Annex I to this prospectus</i>. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b>Insolvency and Security Interest Risks </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>The conservatorship, receivership, bankruptcy, or insolvency of <reportingentity>AENB</reportingentity>, TRS, the transferor, the trust, or any of their
+affiliates could result in accelerated, delayed, or reduced payments to you. </i></b></p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> is a national banking
+association, and its deposits are insured by the Federal Deposit Insurance Corporation (FDIC). If certain events occur involving AENBs financial condition or the propriety of its actions, the FDIC could be appointed as conservator
+or receiver for AENB and, in that capacity, could exercise broad powers over AENB and its assets, obligations, and operations. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>AENB</reportingentity> transfers receivables to RFC III, and RFC III transfers the receivables to the trustee. Each transfer of receivables by
+AENB is treated by AENB as a sale. The FDIC or other interested parties, however, could take the </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">27 </p>
+
+</div></center></div></html>

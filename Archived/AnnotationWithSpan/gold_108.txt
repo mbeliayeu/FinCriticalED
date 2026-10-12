@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">We make reference to Distributable
+Earnings (“<b>DE</b>”) in the documents incorporated by reference herein. We define DE as the sum of distributable earnings
+from our asset management business, distributable operating earnings from our wealth solutions business, distributions received from
+our ownership of investments, realized carried interest and disposition gains from principal investments, net of earnings from our corporate
+activities, preferred share dividends and equity-based compensation costs. We also make reference to DE before realizations, which refers
+to DE before realized carried interest and realized disposition gains from principal investments and DE before realizations per share,
+which refers to DE before realizations divided by the average number of Company shares outstanding on a fully diluted, time-weighted
+average basis during the applicable period. We believe these measures provide insight into earnings received by the Company that are
+available for distribution to common shareholders or to be reinvested into the business. Realized carried interest and realized disposition
+gains are further described below.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Realized carried interest
+represents our contractual share of investment gains generated within a private fund after considering our clients’ minimum return
+requirements. Realized carried interest is determined on third-party capital that is no longer subject to future investment performance.</p></body></html>

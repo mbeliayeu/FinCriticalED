@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Eligible Institution</financialconcepts></b><b> </b>means either: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) a depository institution (which may be the trustee) organized under the laws of the United States, any one
+of the states thereof (including the District of Columbia) or any domestic branch of a foreign bank, so long as such depository institutions long-term unsecured debt rating or its certificate of deposit rating satisfies the publicly published
+controlling and applicable ratings criteria established by each Rating Agency; or </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) any other
+institution that is acceptable to each Rating Agency. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><b><financialconcepts>Eligible Investment</financialconcepts></b><b> </b>means: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) obligations fully guaranteed by the United States of America, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii) demand deposits, time deposits or certificates of deposit of depository institutions or trust companies
+incorporated under the laws of the United States of America or any state thereof and subject to supervision and examination by federal or state banking or depository institution authorities; <i>provided </i>that, at the time of the trusts
+investment therein, the short-term debt of such depository institution or trust company shall be rated at least <font style="white-space:nowrap">A-1+</font> (or any other rating subject to receipt by the transferor, the servicer and the
+trustee of written notification from S&amp;P that investments of such type at such other minimum rating will not result in S&amp;P reducing or withdrawing its then existing rating of the certificates of any outstanding series or class with respect
+to which it is a Rating Agency) by <reportingentity>S&amp;P</reportingentity> and shall be satisfactory to each other Rating Agency, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)
+commercial paper that, at the time of the trusts investment or a contractual commitment to invest therein, shall be rated at least <font style="white-space:nowrap">A-1+</font> (or any other rating subject to receipt by the
+transferor, the servicer and the trustee of written notification from <reportingentity>S&amp;P</reportingentity> that investments of such type at such other minimum rating will not result in <reportingentity>S&amp;P</reportingentity> reducing or withdrawing its then existing rating of the certificates of any
+outstanding series or class with respect to which it is a Rating Agency) by S&amp;P and shall be satisfactory to each other Rating Agency, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iv) demand deposits, time deposits or certificates of deposit which are fully insured by the <reportingentity>FDIC</reportingentity> having, at
+the time of the trusts investment therein, a rating satisfactory to each Rating Agency, </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(v)
+bankers acceptances issued by any depository institution or trust company described in (ii) above, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vi) time deposits, other than as referred to in (iv) above (having maturities not later than the
+business day preceding the next distribution date), with an entity, the commercial paper of which shall be rated at least <font style="white-space:nowrap">A-1+</font> (or any other rating subject to receipt by the transferor, the
+servicer and the trustee of written notification from S&amp;P that investments of such type at such other minimum rating will not result in S&amp;P reducing or withdrawing its then existing rating of the certificates of any outstanding series or
+class with respect to which it is a Rating Agency) by S&amp;P and shall be satisfactory to each other Rating Agency, </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(vii) only to the extent permitted by Rule <font style="white-space:nowrap">3a-7</font> under the Investment
+Company Act of 1940, as amended, (a) money market funds that, at the time of the trusts investment therein, shall be rated at least <font style="white-space:nowrap">AAA-m</font> or
+<font style="white-space:nowrap">AAAm-G</font> by <reportingentity>S&amp;P</reportingentity> (or any other rating subject to receipt by the transferor, the servicer and the trustee of written notification from S&amp;P that investments of such type at such other minimum
+rating will not result in S&amp;P reducing or withdrawing its then existing rating of the certificates of any outstanding series or class with respect to which it is a Rating Agency) and shall be satisfactory to each other Rating Agency, and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(viii) any other investment if the Rating Agency Condition has been satisfied; <i>provided, however, </i>that
+Eligible Investments shall not include securities issued by, or other obligations of, the account owner; and <i>provided further </i>that no Eligible Investments shall be contrary to the status of the trust as a qualified special purpose entity
+under existing accounting literature. </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">141 </p>
+
+</div></center></div></html>

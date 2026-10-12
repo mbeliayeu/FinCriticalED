@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>pan&gt;<p/><tr><td class="label">
+					(iii) Aggregate price of securities redeemed or repurchased during any prior
+					fiscal year ending no earlier than the date the issuer became eligible to use
+					this form that were not previously used to reduce registration fees payable to
+					the Commission:
+				</td><td><p/><div class="fakeBox"><number>351781541.00</number><span> </span></div><p/></td></tr><tr><td class="label">(iv) Total available redemption credits [add Items
+					5(ii) and 5(iii)]:</td><td><p/><div class="fakeBox"><number>397351628.00</number><span> </span></div><p/></td></tr><tr><td class="label">(v) Net sales -- if Item 5(i)
+					is greater than Item 5(iv) [subtract Item 5(iv) from Item 5(i)]:</td><td><p/><div align="left"><div class="fakeBox">0.00<span> </span></div></div><p/></td></tr><tr><td class="label">(vi) Redemption credits available for use in future
+					years -- if
+					Item 5(i) is less than Item 5(iv) [subtract Item 5(iv) from Item 5(i)]:</td><td><p/><div align="left"><div class="fakeBox"><number>(377983384.00)</number><span> </span></div></div><p/></td></tr><tr><td class="label">(vii) Multiplier for determining registration fee (See
+					Instruction C.9):</td><td><p/><div align="left"><div class="fakeBox"><number>0.0001531</number><span> </span></div></div><p/></td></tr><tr><td class="label">(viii) Registration fee due [multiply Item 5(v) by Item
+					5(vii)] (enter "0" if no fee is due):</td><td><p/><div align="left"><div class="fakeBox">0.00<span> </span></div></div><p/></td></tr></body></html>

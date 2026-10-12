@@ -1,0 +1,39 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zc0446944e8f7473e811b3b03484f1063" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">significant revenue synergies, preliminarily estimated at approximately EUR <number>0.3</number> billion per year, due to the expansion of the service offering and the strengthening of factory capacities,
+                as well as increased penetration in key segments.  A significant contribution to synergies is expected in particular from the increased penetration of consumer finance and mortgage products, the integration of the value chain in the
+                investment sector, the sharing of best practices in the asset gathering sector, the offering of Advisory services to MPS’s corporate customers, and the enhancement of the offering to small business and small economic operators by leveraging
+                the combined entity’s network;</div>
+</td>
+</tr>
+</tbody></table>
+</div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z3acc53a15e494d66a74c61f528674a71" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">a reduction in operating costs by minimizing duplication with synergies estimated at approximately Euro <number>0.3</number> billion through optimization of central functions and IT and administrative
+                expenses;</div>
+</td>
+</tr>
+</tbody></table>
+</div><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zc3bc59370860463fb465472654408f4c" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">a more balanced funding mix, due to MPS’s commercial financing capacity, resulting in estimated synergies of approximately Euro <number>0.1</number> billion per year, optimizing the wholesale funding
+                position of the combined entity;</div>
+</td>
+</tr>
+</tbody></table>
+</div></body></html>

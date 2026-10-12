@@ -1,0 +1,21 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+underwriters propose to offer the notes initially at the public offering price on the cover page of this prospectus supplement and to
+selling group members at that price less a selling concession of 0.500</font>% of the principal amount per note. The underwriters and
+selling group members may allow a discount of <number>0.250%</number> of the principal amount per note on sales to other brokers/dealers. After the initial
+public offering, the underwriters may change the public offering price and concession and discount to brokers/dealers.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"/><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">After a reasonable effort
+has been made to sell all of the notes at the public offering price on the cover page of this prospectus supplement, the underwriters
+may subsequently reduce and thereafter change, from time to time, the price at which the notes are offered, provided that the notes are
+not at any time offered at a price greater than the public offering price on the cover page of this prospectus supplement. The compensation
+realized by the underwriters will be decreased by the amount that the aggregate price paid by purchasers for the notes is less than the
+gross proceeds paid by the underwriters to BFI.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The following table shows
+the underwriting fees and commissions that we are to pay to the underwriters in connection with this offering (expressed as a percentage
+of the principal amount of the notes).</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+<tbody><tr style="vertical-align: bottom">
+<td style="font-size: 10pt; text-align: center"><b> </b></td><td style="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt"><b> </b></td>
+<td colspan="2" style="border-bottom: Black 1pt solid; text-align: center; font: bold 10pt Times New Roman, Times, Serif"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; font-style: normal"><b>Paid
+    by BFI<sup>(1)</sup></b></font></td><td style="font: bold 10pt Times New Roman, Times, Serif; padding-bottom: 1pt"><b> </b></td></tr>
+<tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 87%; text-indent: -10pt; padding-left: 10pt">Per note	</td><td style="width: 1%; font-size: 10pt"> </td>
+<td style="width: 1%; font-size: 10pt; text-align: left"> </td><td style="width: 10%; font-size: 10pt; text-align: right"><number>0</number>.921 </td><td style="width: 1%; font-size: 10pt; text-align: left">%</td></tr>
+</tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(1)</font>            <font style="font-size: 10pt">There
+will be no underwriting discount or commissions paid for any BWS purchased notes.</font></p></body></html>

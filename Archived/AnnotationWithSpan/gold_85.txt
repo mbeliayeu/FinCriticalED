@@ -1,0 +1,16 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><td style="text-align: right"><a href="#psa_008"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-12</font></a></td><tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td><a href="#psa_009"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">EARNINGS
+    COVERAGE RATIOS OF THE COMPANY</font></a></td>
+<td style="text-align: right"><a href="#psa_009"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-13</font></a></td></tr><tr style="vertical-align: top; background-color: White">
+<td><a href="#psa_010"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">CONSOLIDATED
+    CAPITALIZATION OF THE COMPANY</font></a></td>
+<td style="text-align: right"><a href="#psa_010"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-14</font></a></td></tr><tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td><a href="#psa_011"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">DESCRIPTION
+    OF THE NOTES</font></a></td>
+<td style="text-align: right"><a href="#psa_011"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-15</font></a></td></tr><tr style="vertical-align: top; background-color: White">
+<td><a href="#psa_012"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">CERTAIN
+    CANADIAN FEDERAL INCOME TAX CONSIDERATIONS</font></a></td>
+<td style="text-align: right"><a href="#psa_012"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-25</font></a></td></tr><tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td><a href="#psa_013"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">CERTAIN
+    UNITED STATES FEDERAL INCOME TAX CONSIDERATIONS</font></a></td>
+<td style="text-align: right"><a href="#psa_013"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt; text-transform: uppercase">S-28</font></a></td></tr></body></html>

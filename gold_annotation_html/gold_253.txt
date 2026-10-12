@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(e) the aggregate outstanding balance of accounts that were
+<temporal>31, 61, 91 and 121 days</temporal> or more delinquent as of the end of such Monthly Period; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(f) the Class A
+Investor Default Amount, the Class B Investor Default Amount and the Collateral Default Amount and the Defaulted Amount with respect to the related Distribution Date; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(g) the aggregate amount, if any, of Class A Investor Charge-Offs, Class B Investor Charge-Offs, any
+reductions in the Class B Invested Amount pursuant to clauses (iii), (iv) and (v) of the definition of Class B Invested Amount, and the amounts by which the Collateral Invested Amount has been reduced pursuant to clauses (iii), (iv)
+and (v) of the definition of Collateral Invested Amount and any Class A Investor Charge-Offs, Class B Investor Charge-Offs or Collateral Charge-Offs reimbursed on the related Monthly Period, for such Monthly Period; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(h) the Monthly Servicing Fee, Class A Servicing Fee, Class B Servicing Fee and Collateral Interest
+Servicing Fee for such Monthly Period; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i) the Series Adjusted Portfolio Yield for such Monthly Period;
+</p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(j) the Base Rate for such Monthly Period; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(k) Reallocated Principal Collections; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(1) Shared Principal Collections. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><a name="tx764677_42"/>Description of the Certificates </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_43"/>General </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The certificates will evidence undivided beneficial interests in the trust assets allocated to such certificates, representing
+the right to receive from such trust assets funds up to (but not in excess of) the amounts required to make payments of interest and principal in the manner described below. The certificates will be issued in minimum denominations of <monetaryunit>$</monetaryunit><number>100,000</number> and
+integral multiples of $1,000 in book-entry form. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Payments of interest and principal will be made on each related interest
+payment date to the certificateholders in whose names the certificates were registered on the last day of the calendar month preceding such interest payment date, known as the record date. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_44"/>Book-Entry Registration </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The certificates offered by this prospectus will be delivered in book-entry form. This means that, except in the limited
+circumstances described in <i> Definitive Certificates </i>below, purchasers of certificates will not be entitled to have the certificates registered in their names. Furthermore, these purchasers will not be entitled to receive
+physical delivery of the certificates in definitive paper form. Instead, upon issuance, all the certificates of a class will be represented by one or more fully registered permanent global certificates, without interest coupons. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Each global certificate will be deposited with a securities depository named <reportingentity>The Depository Trust Company</reportingentity> and will be
+registered in the name of its nominee, Cede &amp; Co. No global certificate representing book-entry certificates may be transferred except as a whole by DTC to a nominee of DTC, or by a nominee of DTC to another nominee of DTC. Thus, DTC or its
+nominee will be the only registered holder of the certificates and will be considered the sole representative of the beneficial owners of certificates for purposes of the pooling and servicing agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The registration of the global certificates in the name of Cede &amp; Co. will not affect beneficial ownership and is
+performed merely to facilitate subsequent transfers. The book-entry system, which is also the system through which most publicly traded common stock is held, is used because it eliminates the need for physical movement of
+</p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">74 </p>
+
+</div></center></div></html>

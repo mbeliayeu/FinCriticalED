@@ -1,0 +1,1165 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><financialconcepts>Average Receivables Delinquent as a Percentage of the Trust Portfolio</financialconcepts> </b></p>
+<p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b>(Dollars in <monetaryunit>Thousands</monetaryunit>) </b></p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:7pt" align="center">
+
+
+<tr>
+
+<td width="70%"/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:6pt">
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="38" align="center" style="border-bottom:1.00pt solid #000000"><b>Year Ended December 31,</b></td>
+<td valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:6pt">
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2024</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2023</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2022</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2021</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2020</b></td>
+<td valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:6pt">
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Dollar<br/>Amount</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage<br/>of Avg.<br/>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Dollar</b><br/><b>Amount</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage of<br/>Avg.<br/>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Dollar<br/>Amount</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage<br/>of Avg.<br/>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Dollar<br/>Amount</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage of<br/>Avg.<br/>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Dollar<br/>Amount</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage of<br/>Avg.<br/>Receivables<br/>Outstanding</b></td>
+<td valign="bottom"> </td></tr>
+
+
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman"><financialconcepts>Average Receivables Outstanding</financialconcepts></p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>27,266,208</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>27,500,105</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>26,715,531</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>24,951,710</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>26,500,354</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">Average Receivables Delinquent:</p></td>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">31 to 60 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>67,823</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.25</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>60,949</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.22</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>44,315</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.17</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>37,279</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.15</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>68,327</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.26</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">61 to 90 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>50,176</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.18</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>43,088</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.16</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>30,155</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.11</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>26,916</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.11</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>52,933</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>0.20</number></td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">91 to 120 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>41,208</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.15</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>34,529</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>0.13</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>24,162</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.09</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>22,961</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.09</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>46,576</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.18</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">121 to 150 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>31,280</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.11</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>26,844</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.10</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>19,078</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.07</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>18,414</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.07</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>41,086</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.16</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">151 Days to 180 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>27,886</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.10</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>23,491</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.09</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>16,966</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.06</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>17,126</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.07</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>39,469</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.15</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">181 Days or More</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">78</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>77</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>112</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">62</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>207</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">Total</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>218,451</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.80</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>188,979</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.69</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>134,789</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.50</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>122,760</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.49</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom">$</td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>248,599</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.94</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td></tr>
+</table> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center"><b><financialconcepts>Average Number of Delinquent Accounts as a Percentage of the Trust Portfolio</financialconcepts> </b></p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:7pt" align="center">
+
+
+<tr>
+
+<td width="75%"/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/>
+
+<td valign="bottom" width="1%"/>
+<td/>
+<td/>
+<td/></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:6pt">
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="38" align="center" style="border-bottom:1.00pt solid #000000"><b>Year Ended December 31,</b></td>
+<td valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:6pt">
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2024</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2023</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2022</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2021</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="6" align="center" style="border-bottom:1.00pt solid #000000"><b>2020</b></td>
+<td valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:6pt">
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage<br/>of Total<br/>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage<br/>of Total<br/>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage<br/>of Total<br/>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage of<br/>Total Number<br/>of Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Number of<br/>Accounts</b></td>
+<td valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td valign="bottom" colspan="2" align="center" style="border-bottom:1.00pt solid #000000"><b>Percentage of<br/>Total Number<br/>of Accounts</b></td>
+<td valign="bottom"> </td></tr>
+
+
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman"><financialconcepts>Average Number of Accounts Outstanding</financialconcepts></p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>14,734,768</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">15,124,212</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>15,411,014</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>15,596,182</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>15,726,662</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">100.00</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman"><financialconcepts>Average Number of Accounts Delinquent</financialconcepts>:</p></td>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"/>
+<td valign="bottom"/>
+<td valign="bottom"/></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">31 to 60 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>8,379</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.06</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>8,239</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.05</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>7,297</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.05</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>6,387</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.04</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>9,857</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.06</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">61 to 90 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>5,343</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.04</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4,978</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.03</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4,073</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.03</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>3,751</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.02</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>6,298</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.04</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">91 to 120 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4,205</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.03</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>3,748</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.02</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>3,040</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.02</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,904</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.02</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>5,253</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.03</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">121 to 150 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>3,229</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.02</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,907</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.02</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,366</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.02</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,321</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.01</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4,631</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.03</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">151 Days to 180 Days</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,880</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.02</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,526</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.02</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,092</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.01</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>2,125</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.01</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>4,413</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.03</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:2.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">181 Days or More</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">7</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">4</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">10</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">7</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">15</td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.00</td>
+<td nowrap="nowrap" valign="bottom"> </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:1.00px solid #000000"> </p></td>
+<td> </td></tr>
+<tr bgcolor="#cceeff" style="page-break-inside:avoid ; font-family:Times New Roman; font-size:7pt">
+<td valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:7pt; font-family:Times New Roman">Total</p></td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>24,042</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.16</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>22,403</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.15</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>18,878</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.12</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>17,494</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.11</td>
+<td nowrap="nowrap" valign="bottom">% </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right"><number>30,466</number></td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom"> </td>
+<td nowrap="nowrap" valign="bottom" align="right">0.19</td>
+<td nowrap="nowrap" valign="bottom">% </td></tr>
+<tr style="font-size:1px; ">
+<td valign="bottom"/>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td>
+<td valign="bottom"> </td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td valign="bottom"> <p style=" margin-top:0pt ; margin-bottom:0pt; border-top:3.00px double #000000"> </p></td>
+<td> </td></tr>
+</table> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b>Revenue Experience </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:3%; font-size:10pt; font-family:Times New Roman" align="justify">The following table sets forth the revenue experience for the Trust Portfolio from total finance charge and fee collections
+for each indicated period. Total finance charge and fee collections set forth in the table below include periodic finance charges, cash advance fees, annual membership fees, other fees, discount option yield, Issuer Rate Fees and recoveries on
+charged-off accounts. Under the pooling and servicing agreement, recoveries on charged-off accounts are treated as collections of finance charge receivables. There can be no assurance that the revenues for the Trust Portfolio in the future will be
+similar to the historical experience of the Trust Portfolio set forth below. </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">A-I-3 </p>
+
+</div></center></div></html>

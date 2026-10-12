@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>res), except that, at the option of the particular Issuer, payment of any interest may be made (i) by
+check mailed to the address of the Person entitled thereto at such address as shall appear in the applicable Security Register or (ii) by
+wire transfer to an account maintained by the Person entitled thereto as specified in the applicable Security Register. (Sections 305,
+307, and 1002 of the BN Indenture, and Sections 3.5, 3.7 and 11.2 of the BFI Senior Indenture and the Other Indentures.) Unless otherwise
+indicated in the applicable Prospectus Supplement, payment of any interest due on Registered Debt Securities will be made to the Persons
+in whose name such Registered Debt Securities are registered at the close of business on the Regular Record Date for such interest payment.
+(Section 307 of the BN Indenture, and Section 3.7 of the BFI Senior Indenture and Other Indentures.)</body></html>

@@ -1,0 +1,18 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-bottom: 9pt;"><img src="picture3.jpg"/> </div><div style="text-align: justify; margin-bottom: 9pt;">The Offeror specifies that, in defining the applications for the Authorizations required by the applicable regulations in relation to the Offer, it has relied exclusively on information in the
+      public domain concerning the qualifying shareholdings directly or indirectly held by Mediobanca.</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="zd949bce80d8a45298447ade6ab35e2da" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; font-weight: bold;">1.5</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div style="font-weight: bold;">Conditions of Effectiveness of the Offer</div>
+</td>
+</tr>
+</tbody></table><div style="text-align: justify; margin-bottom: 9pt;">The Offer shall be subject to the approval of the proposal of Delegation for the Capital Increase Reserved to the Offer (as defined below) by the shareholders’ meeting of the Offeror and of the
+      Offer Document by Consob upon completion of the relevant preliminary investigation within the terms set forth by Article 102, paragraph 4, of the TUF.</div><div style="text-align: justify; margin-bottom: 9pt;">In addition, the Offer is also subject to the occurrence of each of the following conditions of effectiveness (acknowledging that they are set forth below in an order which is not mandatory), which
+      will be further detailed in the Offer Document (the “<font style="font-weight: bold;">Conditions of Effectiveness</font>”):</div><table cellpadding="0" cellspacing="0" class="DSPFListTable" id="za4e4fc8fd0c14ee7a1340929d289be1a" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; text-align: left; color: #000000; margin-bottom: 9pt;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top;">(i)</td>
+<td style="width: auto; vertical-align: top; text-align: justify;">
+<div>that Prior Authorizations are issued without any requirements, conditions or limitations (the “<font style="font-weight: bold;">Prior Authorizations Condition</font>”);</div>
+</td>
+</tr>
+</tbody></table></body></html>

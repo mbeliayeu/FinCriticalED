@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+Transferor Amount to be less than the Required Transferor Amount, on the Distribution Date following the Monthly Period in which such reassignment obligation arises, the transferor will make a
+deposit into the Special Funding Account in immediately available funds in an amount equal to the amount by which the Transferor Amount would be reduced below the Required Transferor Amount. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The reassignment of any Ineligible Receivable to the transferor, and the obligation of the transferor to make deposits into
+the Special Funding Account as described in the preceding paragraph, is the sole remedy respecting any breach of the representations and warranties described in the preceding paragraphs with respect to such receivable available to the
+certificateholders or the trustee on behalf of the certificateholders. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The transferor will also make representations and
+warranties to the trust to the effect, among other things, that, as of each series closing date: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)
+  it is a corporation or a limited liability company, as applicable; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   it
+has the authority to consummate the transactions contemplated by the pooling and servicing agreement and each supplement; and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii)   the pooling and servicing agreement and each supplement constitute: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a)   a valid, binding and enforceable agreement of the transferor and </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b)   a valid sale, transfer and assignment to the trust of all right, title and interest of the
+transferor in the receivables, whether then existing or thereafter created and the proceeds thereof (including proceeds in any of the accounts established for the benefit of the certificateholders) and in recoveries or the grant of a first-priority
+perfected security interest under the applicable UCC in such receivables and the proceeds thereof (including proceeds in any of the accounts established for the benefit of the certificateholders) and in Recoveries, which is effective as to each
+receivable then existing on such date. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In the event of a material breach of any of the representations and warranties
+described in the above paragraphs that has a material adverse effect on the certificateholders interest in the receivables or the availability of the proceeds thereof to the trust (which determination will be made without regard to whether
+funds are then available pursuant to any series enhancement), either the trustee or certificateholders holding certificates evidencing not less than <number>50%</number> of the aggregate unpaid principal amount of all outstanding certificates, by written notice to
+the transferor and the servicer (and to the trustee if given by the certificateholders), may direct the related transferor to accept the reassignment of the receivables in the trust within 60 days of such notice, or within such longer period
+specified in such notice. The transferor will be obligated to accept the reassignment of such receivables on the Distribution Date following the Monthly Period in which such reassignment obligation arises. Such reassignment will not be required to
+be made, however, if: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(i)   at the end of such applicable period, the representations and
+warranties shall then be true and correct in all material respects, and </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(ii)   any material
+adverse effect caused by such breach shall have been cured. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The price for such reassignment will be an amount equal to
+the sum of the amounts specified therefor with respect to each series in the related supplement. The payment of such reassignment price in immediately available funds will be considered a payment in full of the certificateholders interest and
+such funds will be distributed upon presentation and surrender of the certificates. If the trustee or certificateholders give a notice as provided above, the obligation of the related transferor to make any such deposit will constitute the sole
+remedy respecting a breach of the representations and warranties available to certificateholders or the trustee on behalf of certificateholders. <i>See Description of the Purchase Agreement  Representations and Warranties in this
+prospectus.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">On each series closing date, the trustee will authenticate and deliver one or more certificates
+representing the series or class of certificates, in each case against payment to the transferor of the net proceeds of the sale of the </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">80 </p>
+
+</div></center></div></html>

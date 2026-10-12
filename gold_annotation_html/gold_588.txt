@@ -1,0 +1,7 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><reportingentity>BFI</reportingentity> intends to <reportingentity>tak</reportingentity>e the position
+that the likelihood of such repurchase of the notes at a premium is remote or incidental, and thus that the notes should not be treated
+as contingent payment debt instruments. BFI’s determination that such a contingency is remote or incidental is binding on a U.S. Holder,
+unless the U.S. Holder discloses a contrary position in the manner required by applicable Treasury Regulations. BFI’s determination,
+however, is not binding on the U.S. Internal Revenue Service (“<b>IRS</b>”), and the IRS could challenge this determination.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The remainder of this summary
+assumes that <reportingentity>BFI</reportingentity>’s determination that such a contingency is remote or incidental is correct. U.S. Holders are urged to consult
+their tax advisers regarding the possible application of the special rules related to contingent payment debt instruments.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"/></body></html>

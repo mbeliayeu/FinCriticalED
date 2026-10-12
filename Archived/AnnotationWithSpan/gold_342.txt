@@ -1,0 +1,9 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"><b>Modification and Waiver</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Modifications
+and amendments of an Indenture may be made by the Company, the Issuer (if other than the Company) and the applicable Trustee(s) with
+the consent of the Holders of a majority in aggregate principal amount of the Outstanding Securities of each series of Indenture Securities
+affected by such modification or amendment; provided, however, that no such modification or amendment may, without the consent of the
+Holder of each Outstanding Security affected thereby, (a) change the Stated Maturity of the principal of, or any instalment of interest
+on, any Outstanding Security, (b) reduce the principal amount of (or the premium), or interest on, any Outstanding Security, (c) reduce
+the amount of the principal of any Outstanding Security payable upon the acceleration of the maturity thereof, (d) change the currency
+(or, with respect to the BN Indenture and the BFI Senior Indenture, the place) of payment of principal of (or the premium), or interest
+on, any Outstanding Security, (e) impair the right to institute suit for the enforcem</p></body></html>

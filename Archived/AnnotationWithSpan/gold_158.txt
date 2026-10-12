@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+<tbody><tr style="vertical-align: bottom">
+<td style="font: italic 10pt Times New Roman, Times, Serif"> </td><td style="font-size: 10pt; padding-bottom: 1pt"> </td>
+<td colspan="6" style="border-bottom: Black 1pt solid; text-align: center; font-size: 10pt">As at <date>December 31, 2024</date></td><td style="padding-bottom: 1pt; font-size: 10pt"> </td></tr>
+<tr style="vertical-align: bottom">
+<td style="font-size: 10pt; text-align: center"> </td><td style="font-size: 10pt; padding-bottom: 1pt"> </td>
+<td colspan="2" style="border-bottom: Black 1pt solid; text-align: center; font-size: 10pt">Actual</td><td style="padding-bottom: 1pt; font-size: 10pt"> </td><td style="font-size: 10pt; padding-bottom: 1pt"> </td>
+<td colspan="2" style="border-bottom: Black 1pt solid; text-align: center; font-size: 10pt">As adjusted<sup>(1)</sup></td><td style="padding-bottom: 1pt; font-size: 10pt"> </td></tr>
+<tr style="vertical-align: bottom">
+<td style="font-size: 10pt; text-align: center"><font style="font-size: 0pt"> </font></td><td style="font-size: 10pt; padding-bottom: 1pt"><font style="font-size: 0pt"> </font></td>
+<td colspan="2" style="text-align: center; font-si&lt;/body&gt;&lt;/html&gt;"/></tr></tbody></table></body></html>

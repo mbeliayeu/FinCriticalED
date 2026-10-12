@@ -1,0 +1,33 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(iii) either is: </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(A) part of a class of securities registered under Section 12(b) or 12(g) of the Securities Exchange Act
+of <temporal>1934</temporal>, as amended, or </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:9%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(B) sold to the Plan as part of an offering of securities to the public pursuant
+to an effective registration statement under the Securities Act of <temporal>1933</temporal>, as amended, and the class of securities of which such security is a part is registered under the Exchange Act within 120 days (or such later time as may be allowed by the SEC)
+after the end of the fiscal year of the issuer during which the offering of such securities to the public occurred. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">For
+purposes of the <number>100</number> independent investor criterion, each class of certificates should be deemed to be a class of securities that would be tested separately from any other securities that may be issued by the trust. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_111"/>The Department of Labor Authorization </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">In addition, a second exception may be available. On <temporal>July 16, 2000</temporal>, the Department of Labor authorized Centurion and RFC
+II (as the transferors to the trust at the time) to rely upon the exemptive relief from certain of the prohibited transaction provisions of ERISA and Sectio<number>n 4975</number> of the Internal Revenue Code available under Prohibited Transaction
+Class Exemption <font style="white-space:nowrap">96-62</font> relating to (i) the initial purchase, the holding and the subsequent resale by Plans of classes of senior certificates representing an undivided interest in a credit card trust
+with respect to which Centurion, RFC II or any of their affiliates is the sponsor, and (ii) the servicing, operation and management of such trust if, in either case, the general conditions and certain other conditions set forth in the
+authorization are satisfied. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The authorization will apply to the acquisition, holding and resale of senior certificates
+by, on behalf of or with plan assets of a Plan if the conditions are met. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Among the conditions that must be
+satisfied for the authorization to apply are the following: </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(a) the acquisition of the senior
+certificates by a Plan is on terms (including the price for such senior certificates) that are at least as favorable to the investing Plan as they would be in an <font style="white-space:nowrap">arms-length</font> transaction with an unrelated
+party; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(b) the rights and interests evidenced by the senior certificates acquired by the Plan are not
+subordinated to the rights and interests evidenced by other certificates of the trust; </p> <p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(c) the senior
+certificates acquired by the Plan have received a rating at the time of such acquisition that is either in one of the two highest generic rating categories from a Rating Agency or, for senior certificates that have a maturity of one year or less,
+the highest short-term generic rating category from a Rating Agency; <i>provided </i>that, notwithstanding such rating, credit support is provided to the senior certificates through a senior-subordinated structure or other form of third-party credit
+support which, at a minimum, represents <number>5%</number> of the outstanding principal balance of the senior certificates at the time of such acquisition; </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(d) the trustee is not an affiliate of any member of the restricted group (as defined below); </p>
+<p style="margin-top:12pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">(e) the sum of all payments made to and retained by the underwriters in connection with the distribution of
+the senior certificates represents not more than reasonable compensation for underwriting such senior certificates; the consideration received by the transferor as a consequence of the assignment of receivables to the trust, to the extent allocable
+to the senior certificates, represents not more than the fair market value of such receivables; and the sum of all payments made to and retained by the servicer, to the extent allocable to the senior certificates, represents not more than reasonable
+compensation for the servicers services under the related supplement to the pooling and servicing agreement and reimbursement of the servicers reasonable expenses in connection therewith; </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">123 </p>
+
+</div></center></div></html>

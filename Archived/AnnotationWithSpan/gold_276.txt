@@ -1,0 +1,51 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt"> </p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b>TABLE OF CONTENTS</b></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr style="vertical-align: top; background-color: White">
+<td style="padding-right: 0; padding-left: 0"> </td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><b><u>Page</u></b></td></tr>
+<tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td style="width: 95%; padding-right: 0; padding-left: 0"><a href="#spaa_001"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">DOCUMENTS
+    INCORPORATED BY REFERENCE</font></a></td>
+<td style="text-align: right; width: 5%; padding-right: 0; padding-left: 0"><a href="#spaa_001"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">i</font></a></td></tr>
+<tr style="vertical-align: top; background-color: White">
+<td style="padding-right: 0; padding-left: 0"><a href="#spaa_002"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">AVAILABLE
+    INFORMATION</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_002"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">ii</font></a></td></tr>
+<tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td style="padding-right: 0; padding-left: 0"><a href="#spaa_003"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">CAUTIONARY
+    NOTE REGARDING FORWARD-LOOKING INFORMATION</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_003"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">iii</font></a></td></tr>
+<tr style="vertical-align: top; background-color: White">
+<td style="padding-right: 0; padding-left: 0"><a href="#spaa_004"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">SUMMARY</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_004"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">1</font></a></td></tr>
+<tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td style="padding-right: 0; padding-left: 0.25in"><a href="#spaa_005"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    Company</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_005"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">1</font></a></td></tr>
+<tr style="vertical-align: top; background-color: White">
+<td style="padding-right: 0; padding-left: 0.25in"><a href="#spaa_006"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">BFI</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_006"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">1</font></a></td></tr>
+<tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td style="padding-right: 0; padding-left: 0.25in"><a href="#spaa_007"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    US LLC Issuer</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_007"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">1</font></a></td></tr>
+<tr style="vertical-align: top; background-color: White">
+<td style="padding-right: 0; padding-left: 0.25in"><a href="#spaa_008"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">BFI
+    II</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_008"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">1</font></a></td></tr>
+<tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td style="padding-right: 0; padding-left: 0.25in"><a href="#spaa_009"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    AUS Issuer</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_009"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">1</font></a></td></tr>
+<tr style="vertical-align: top; background-color: White">
+<td style="padding-right: 0; padding-left: 0.25in"><a href="#spaa_010"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    UK Issuer</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_010"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">1</font></a></td></tr>
+<tr style="vertical-align: top; background-color: rgb(204,238,255)">
+<td style="padding-right: 0; padding-left: 0.25in"><a href="#spaa_011"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    US Pref Issuer</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_011"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">2</font></a></td></tr>
+<tr style="vertical-align: top; background-color: White">
+<td style="padding-right: 0; padding-left: 0.25in"><a href="#spaa_012"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    Offering</font></a></td>
+<td style="text-align: right; padding-right: 0; padding-left: 0"><a href="#spaa_012"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">2</font></a></td></tr>
+<tr style="vertical-align: top; backgro&lt;/body&gt;&lt;/html&gt;"/></tbody></table></body></html>

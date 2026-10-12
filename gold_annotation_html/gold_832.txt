@@ -1,0 +1,66 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>fy;"&gt;<number>1.880%</number>
+
+
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>FINANCIAL INSTITUTION 2012 SPA</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>3.203%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic; font-weight: bold;"><reportingentity>GAMMA SRL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.416%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic; font-weight: bold;">Total</div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;"><number>5.499%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 35.26%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;"><reportingentity>DELFIN SARL</reportingentity></div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>DELFIN SARL</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify; font-weight: bold;"><number>19.390%</number></div>
+</td>
+</tr>
+<tr>
+<td rowspan="3" style="width: 35.26%; vertical-align: top; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-weight: bold;"><reportingentity>BANCA MEDIOLANUM SPA</reportingentity></div>
+</td>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>MEDIOLANUM VITA SPA</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>0.741%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top;">
+<div style="text-align: justify; font-style: italic;"><reportingentity>BANCA MEDIOLANUM SPA</reportingentity></div>
+</td>
+<td style="width: 36.7%; vertical-align: top;">
+<div style="text-align: justify;"><number>2.602%</number></div>
+</td>
+</tr>
+<tr>
+<td style="width: 28.04%; vertical-align: top; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-style: italic; font-weight: bold;">Total</div>
+</td>
+<td style="width: 36.7%; vertical-align: top; border-bottom: #000000 1px solid;">
+<div style="text-align: justify; font-weight: bold;"><number>3.343%</number></div>
+</td>
+</tr>
+</body></html>

@@ -1,0 +1,39 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+interest will fluctuate each day to reflect the changes in the amount of the principal receivables in the trust. In addition, the transferors interest will generally increase to reflect
+reductions in the invested amount of any series, including as the result of payments of principal, and will generally decrease as a result of the issuance of a new series of investor certificates or of additional investor certificates in an
+outstanding series. Neither the sponsor nor the depositor will sell or otherwise transfer an interest in the transferors interest in a manner that is prohibited under the Regulation RR, nor will they enter into any prohibited hedging
+arrangement with respect to the transferors interest. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Though similar in concept, the obligation to retain the
+sellers interest for purposes of compliance with Regulation RR and the requirement to maintain the transferors interest as set forth in the pooling and servicing agreement are independent obligations and are calculated differently. The
+transferors interest is reported in the monthly distribution reports as a percentage of the aggregate amount of principal receivables in the trust, while the sellers interest under Regulation RR is required to be maintained at an amount
+equal to not less than <number>5%</number> of the adjusted outstanding investor ABS interests. Generally, the obligation to maintain the transferors interest in accordance with the pooling and servicing agreement will result in a higher minimum
+transferors interest than the minimum sellers interest required under Regulation RR. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">For purposes of
+compliance with Regulation RR, the sellers interest will equal the excess of the aggregate amount of principal receivables in the trust over the aggregate investor interest in receivables for all outstanding series of certificates. As of the
+closing date, through the ownership of the transferors interest, we expect to have a sellers interest equal to <monetaryunit>$</monetaryunit>10,415,477,596.12 which will equal 71.97% of the adjusted outstanding investor ABS interest. For purposes of determining the
+sellers interest on the closing date, we have used the aggregate principal balance of the receivables in the trust as of the last day of the December 2024 Monthly Period and the principal balance of the certificates expected to be outstanding
+as of the closing date, including $571,430,000<sup style="font-size:75%; vertical-align:top">*</sup> of Series <font style="white-space:nowrap">2025-1.</font> The issuing entity will disclose on Form <font style="white-space:nowrap">8-K</font>
+within a reasonable time after the closing date the amount of the sellers interest as of the closing date if materially different from that disclosed in this prospectus. In addition, the transferor will disclose in each of the trusts
+monthly distribution report on Form <font style="white-space:nowrap">10-D</font> the amount of the sellers interest as of each measurement date described below. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The sellers interest will be calculated as a percentage of the adjusted outstanding investor <reportingentity>ABS</reportingentity> interest as of the last
+day of each Monthly Period. If, as of the end of any Monthly Period, the sellers interest is less than the required sellers interest under Regulation RR, the transferor will be required to designate Additional Accounts to increase the
+amount of the sellers interest to at least equal the required sellers interest within ten Business Days. Any failure by the transferor to designate such Additional Accounts, if not cured within five Business Days, will result in a <font style="white-space:nowrap">Pay-Out</font> Event. <i>See </i><i>The Pooling and Servicing Agreement Generally  Additions of Accounts and Series Provisions  <font style="white-space:nowrap">Pay-Out</font>
+Events.</i> </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_14"/>Servicer </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>TRS</reportingentity> is the servicer of the trust. As servicer, it is responsible for servicing, managing and making collections on the
+receivables in the trust. <i>See </i><i>The Pooling and Servicing Agreement Generally  Collection and Other Servicing Procedures</i><i> in this prospectus</i>. TRS has outsourced certain functions to affiliated and unaffiliated
+third parties, but it remains responsible for the overall servicing process. For information about certain affiliated and unaffiliated third-party service providers that provide these services, including AENB, see <i>The Pooling and Servicing
+Agreement Generally  Outsourcing of Servicing</i><i> </i>in this prospectus. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>TRS</reportingentity>, a company incorporated
+under the laws of the State of New York on <temporal>May 3, 1982</temporal>, is a wholly-owned subsidiary of American Express Company and the direct parent company of AENB. TRS, directly or through its subsidiaries, provides a variety of products and services
+worldwide, including credit and charge card and other payment and financing products, network services, merchant acquisition and processing, servicing and settlement, fraud prevention, and <font style="white-space:nowrap"><font style="white-space:nowrap">point-of-sale</font></font> marketing and information products and services for merchants, other fees services, expense management products and services, travel and lifestyle services and stored value/prepaid products.
+TRS various products and services are offered to a broad range of customers, including consumers, small </p> <p style="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="2%" valign="top" align="left"><sup style="font-size:75%; vertical-align:top">*</sup> </td>
+<td align="left" valign="top"> <p style=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " align="justify">Subject to increase or decrease as discussed under <i>Series Provisions</i> in this prospectus.
+</p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">49 </p>
+
+</div></center></div></html>

@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Each
+Indenture provides that the applicable Trustee(s) will be under no obligation to exercise any of its rights or powers under the
+applicable Indenture (or, in the case of the BFI Senior Indenture and the Other Indentures, commence or continue any act, action or proceeding
+for enforcing any rights of the Trustee(s)) at the request or direction of any of the applicable Holders, unless such Holders shall have
+offered to such Trustee(s) indemnity satisfactory to such Trustee(s) (or, in the case of the BFI Senior Indenture and the Other
+Indentures, sufficient funds to commence or continue compliance with such request and an indemnity to protect the Trustee(s) against
+losses suffered in compliance with such request). (Section 603 of the BN Indenture, Section 7.5 of the BFI Senior Indenture
+and the Other Indentures.) Subject to such provisions for the indemnification of the particular Trustee(s), the Holders of a majority
+in aggregate principal amount of the Outstanding Securities of any series issued under the applicable Indenture will have the right to
+direct the time, method and place of conducting any proceeding for any remedy available to such Trustee(s) or exercising any trust
+or power conferred on such Trustee(s) with respect to the Indenture Securities of that series. (Section 512 of the BN Indenture
+and Section 6.12 of the BFI Senior Indenture and the Other Indentures.)</p></body></html>

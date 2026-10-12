@@ -1,0 +1,63 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+
+<div style="BORDER-BOTTOM:1.00pt solid #000000;BORDER-LEFT:1.00pt solid #000000;BORDER-RIGHT:1.00pt solid #000000;BORDER-TOP:1.00pt solid #000000;MARGIN-LEFT:0px; MARGIN-RIGHT:0px;max-width:100%"><div style="width:97%; margin-top:1.5%; margin-bottom:1.5%; margin-left:1.5%; margin-right:-1.25%">
+
+ <p style="margin-top:0pt; margin-bottom:0pt; margin-left:2%; font-size:10pt; font-family:Times New Roman" align="justify"><b><i>Fees and Expenses Payable from Collections </i></b></p>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Fees and expenses payable from collections of finance charge receivables: 2.0% of invested amount paid to the
+servicer (as described below). </p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Fees and expenses payable from collections of principal receivables: servicing fee shortfall.
+</p></td></tr></table> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b>Servicing Fee </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicer is entitled to receive a monthly servicing fee as compensation for its servicing activities and as reimbursement
+for any expenses incurred by it as servicer. For each month, the servicing fee will equal <font style="white-space:nowrap">one-twelfth</font> of the product of: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">2.0% per year; and </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the invested amount for the related monthly period. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The servicing fee will be allocated among the transferors interest and the certificateholders. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b>Revolving Period </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The revolving period begins on the closing date and ends upon the commencement of the controlled accumulation period or, if
+earlier, the early amortization period. During the revolving period, no principal payments will be made to or for the benefit of the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the collateral interest.
+Unless a <font style="white-space:nowrap">pay-out</font> event has occurred, the controlled accumulation period is scheduled to begin at the close of business on the last day of the <temporal>November 2026</temporal> monthly period, but may be delayed as described
+herein. During the controlled accumulation period, no principal payments will be made to the Series <font style="white-space:nowrap">2025-1</font> certificateholders or the holder of the collateral interest. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><font style="white-space:nowrap">Pay-Out</font> Events </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Certain adverse events called <font style="white-space:nowrap">pay-out</font> events might lead to the end of the revolving
+period or the controlled accumulation period and the start of an early amortization period. A <font style="white-space:nowrap">pay-out</font> event may affect more than one series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>The <font style="white-space:nowrap">pay-out</font> events for your series are described in Series Provisions  <font style="white-space:nowrap">Pay-Out</font> Events in this prospectus. In addition, see The Pooling and Servicing Agreement Generally  Transferor Insolvency in this prospectus for a discussion of the consequences of an
+insolvency or receivership of the transferor. </i></p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b>Reallocated Investor Finance Charge Collections </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Collections of finance charge receivables allocated to each series in group I will be combined and will be available for
+certain required payments to all series in group I. These amounts will be reallocated pro rata, based on the size of the required payment for each of the series in group I as compared with the total required payments for all of the series in group
+I. Any issuance of a new series in a reallocation group, or any increase in the invested amount of any outstanding series in a reallocation group due to an issuance of additional certificates of that series, may reduce or increase the amount of
+finance charge collections allocated to any other series of certificates in that group. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>See The Pooling and
+Servicing Agreement Generally  Reallocations Among Different Series Within a Reallocation Group and Risk Factors  Transaction Structure Risks  Issuances of additional series or additional certificates in outstanding
+series by the trust may adversely affect your certificates in this prospectus. </i></p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b>Shared Principal Collections </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Your series will be included in a group of series designated as principal sharing series. To the extent that
+collections of principal receivables allocated to your series are not needed to make payments or deposits to a trust </p>
+</div></div>
+
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">15 </p>
+
+</div></center></div></html>

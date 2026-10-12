@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div>
+<table cellpadding="0" cellspacing="0" class="DSPFListTable" id="z6c2b7d4f7c504bc9abd832895d4c9af3" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; margin-bottom: 9pt; width: 100%; text-align: left; color: #000000;">
+<tbody><tr>
+<td style="width: 36pt; vertical-align: top; text-align: right;">
+<div style="text-align: left; margin-left: 18pt; margin-bottom: 9pt;">•</div>
+</td>
+<td style="width: auto; vertical-align: top;">
+<div style="text-align: justify; margin-bottom: 9pt;">a combination from the two banks’ strategic technology and digital investment initiatives, which have multiple areas of similarity.  By way of example, reference is made to <financialconcepts>investment</financialconcepts>
+                initiatives related to Wealth Management, with the aim of developing a distinctive digital platform in Wealth Management, business CIB and Consumer Finance;</div>
+</td>
+</tr>
+</tbody></table>
+</div><div style="font-weight: bold;">Not for release, publication or distribution, in whole or in part, directly or indirectly in Australia, Canada, or Japan</div></body></html>

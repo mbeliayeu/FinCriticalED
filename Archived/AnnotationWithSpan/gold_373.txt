@@ -1,0 +1,11 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">The
+Registration Rights Agreement also provides the Selling Shareholders with the right (the “<b>Piggyback Registration Right</b>”)
+to require the Company to include Registrable Securities in any future public distribution of Class A Shares in Canada or the United
+States undertaken by the Company (a “<b>Distribution</b>”). The Company shall include in a Distribution all of the Registrable
+Securities the Selling Shareholders request to be included therein pursuant to the Piggyback Registration Right; provided, however, that
+if the Distribution occurs by way of an underwritten offering and the managing underwriter(s) advises the Company that, in their
+opinion, the total number of Class A Shares to be included in such Distribution should be limited for certain prescribed reasons,
+the Class A Shares to be included in the Distribution shall first be registered for the account of the Company.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">In
+connection with an underwritten offering, the Company will agree to refrain from issuing any equity securities of the Company for a period
+of up to <date>60 days</date>, subject to customary exceptions. The Company will generally be responsible for all reasonable expenses under the Registration
+Rights Agreement, excluding any underwriting discounts or commissions on any Registrable Securities sold by a Selling Shareholder.</p></body></html>

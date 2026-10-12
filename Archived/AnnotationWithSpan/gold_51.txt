@@ -1,0 +1,13 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><br/><table role="presentation"><tbody><tr><td class="label">4(a). Last day of <date>fiscal year</date> for which this Form is
+					filed:</td><td><div class="fakeBox2"><date>12/31/2024</date><span> </span></div></td></tr><tr><td class="label">
+					4(b). Check box if this Form is being filed late
+					(i.e., more than <date>90 calendar days</date> after the end of the issuer’s fiscal
+					year).
+					(See Instruction A.2)
+					<br/><i>Note: If the Form is being filed late, interest must be paid on
+						the registration fee due.</i></td><td><img alt="Checkbox not checked" src="/Images/box-unchecked.jpg"/></td></tr><tr><td class="label">4(c). Check box if this is the last time the issuer
+					will be filing this Form.</td><td><img alt="Checkbox not checked" src="/Images/box-unchecked.jpg"/></td></tr></tbody></table><br/><h4><em>5. Calculation of registration fee (if calculating on a
+						class-by-class or series-by- series basis,
+						provide the EDGAR identifier for each such class or series):</em></h4><table role="presentation"><tbody><tr/><tr><td class="label">Series or Class (Contract) ID</td><td><p/><div class="fakeBox2"><span> </span></div><p/></td></tr><tr><td class="label">(i) Aggregate sale price of securities sold during the
+					<date>fiscal year</date> pursuant to section 24(f) or rule 456(e):</td><td><p/><div class="fakeBox"><number>19368244.00</number><span> </span></div><p/></td></tr><tr><td class="label">(ii) Aggregate price of securities redeemed or
+					repurchased during the <date>fiscal year</date>:</td><td><p/><div class="fakeBox"><number>45570087.00</number><span> </span></div></td></tr></tbody></table></body></html>

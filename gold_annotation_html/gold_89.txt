@@ -1,0 +1,51 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">If the requesting party selects mediation as the resolution method, the
+mediation will be administered by a nationally recognized mediation association, and the fees and expenses of the mediation shall be allocated as mutually agreed upon by the representing party and the requesting party as part of the mediation. The
+mediator(s) will be appointed from a list of neutrals maintained by the <reportingentity>American Arbitration Association (the AAA)</reportingentity>. If the requesting party selects third-party arbitration as the resolution method, the third-party arbitration will be
+administered by a nationally recognized arbitration association mutually agreed upon by the representing party and the requesting party. The arbitrator(s) will be appointed from a list of neutrals maintained by the AAA. The arbitrator(s) will
+determine the allocation of the costs and expenses of the third-party arbitration. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">A failure by the parties to resolve a
+disputed matter through mediation or <font style="white-space:nowrap">non-binding</font> arbitration shall not preclude either party from seeking a resolution through other options available to it, including the initiation of a judicial proceeding
+in a court of competent jurisdiction, subject to the provisions specified below as applicable to both mediations and arbitrations. By selecting binding arbitration, the requesting party will give up the right to sue in court, including the right to
+a trial by jury. No person may bring a putative or certified class action to arbitration. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The following provisions will
+apply to both mediations and third-party arbitrations: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="8%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Any mediation or arbitration will be held in New York, New York. </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="8%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Notwithstanding this dispute resolution provision, the parties will have the right to seek provisional or
+ancillary relief from a competent court of law, including a temporary restraining order, preliminary injunction or attachment order, provided such relief would otherwise be available by law. </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="8%"> </td>
+<td width="2%" valign="top" align="left"></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">The details and/or existence of any unfulfilled repurchase request, any informal meetings, mediations or
+arbitration proceedings, including all offers, promises, conduct and statements, whether oral or written, made in the course of the parties attempt to informally resolve an unfulfilled repurchase request, and any discovery taken in connection
+with any arbitration, will be confidential, privileged and inadmissible for any purpose, including impeachment, in any mediation, arbitration or litigation, or other proceeding; <i>provided, however</i>, that any discovery taken in any arbitration
+will be admissible in that particular arbitration. Such information will be kept strictly confidential and will not be disclosed or discussed with any third party (excluding a partys attorneys, experts, accountants and other agents and
+representatives, as reasonably required in connection with the related resolution procedure and who are bound by substantially equivalent confidentiality obligations). Information will not be subject to the foregoing obligation of confidentiality
+(a) to the extent that such information is or becomes publicly available through no wrongful act of the party making the disclosure and (b) to the extent a party is required to disclose such information under applicable law, regulatory
+requirement or court order, provided that such party where reasonably practicable and to the extent legally permissible, provides the other party to the resolution procedure with prompt prior notice of the required disclosure so that such other
+party may object to the production of its confidential information or seek a protective order or other appropriate remedy. </p></td></tr></table>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">A requesting party may not initiate a mediation or arbitration as described above with respect to a receivable that is, or has
+been, the subject of an ongoing or previous mediation or arbitration (whether by that requesting party or another requesting party) but will have the right to join an existing mediation or arbitration with respect to that receivable if the mediation
+or arbitration has not yet concluded. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_50"/>The Transferor Certificates; Additional Transferors </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement provides that the transferor may exchange a portion of the original transferor certificate
+for a Supplemental Certificate for transfer or assignment to a person designated by the transferor upon the execution and delivery of a supplement to the pooling and servicing agreement (which supplement shall be subject to the amendment section of
+the pooling and servicing agreement to the extent that it amends any of the terms of the pooling and servicing agreement; <i>see  Amendments)</i>; <i>provided </i>that prior to such transfer or assignment: </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">82 </p>
+
+</div></center></div></html>

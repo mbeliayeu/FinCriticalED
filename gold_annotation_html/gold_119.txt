@@ -1,0 +1,35 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+accounts. With respect to any such noncompliance with representations and warranties identified during the asset representations review, the sponsor will be the party to determine whether a
+contractual breach has occurred relating to the receivables or the accounts. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_93"/>Asset Representations Reviewer </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><reportingentity>Clayton Fixed Income Services LLC</reportingentity>, a Delaware limited liability company or Clayton, will act as the asset
+representations reviewer under the asset representations review agreement. Clayton is a wholly-owned subsidiary of Covius Services, LLC. Clayton and its affiliates have provided independent due diligence loan review and servicer oversight services
+since 1989. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Clayton and its affiliates are providers of targeted due diligence reviews of securitized assets and policies
+and procedures of originators and servicers to assess compliance with representations and warranties, regulatory and legal requirements, investor guidelines and settlement agreements. Clayton and its affiliates have performed over <number>17</number> million
+loan reviews and provided ongoing oversight on over $2 trillion of securitization transactions on behalf of investors, sponsors, issuers and originators, including government sponsored enterprises and other governmental agencies. These services have
+been performed primarily on residential mortgage loan and residential mortgage-backed security transactions, although Clayton and its affiliates have also performed these services for transactions involving auto loans, equipment leases, credit
+cards, commercial mortgage loans, student loans, timeshare loans and boat and recreational vehicle loans. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The asset
+representations reviewer is not, and so long as the Series <font style="white-space:nowrap">2025-1</font> certificates are outstanding will not be, affiliated with <reportingentity>AENB</reportingentity>, RFC III, TRS, the trustee or any of their affiliates. The asset representations
+reviewer is not the same party or an affiliate of any party hired by any sponsor or any underwriter to perform <font style="white-space:nowrap">pre-closing</font> due diligence work on the receivables. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><b><a name="rom764677_94"/>Other Matters Relating to the Asset Representations Reviewer </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The asset representations reviewer will be paid an annual fee by the transferor, or the sponsor at the direction of the
+transferor, in accordance with the asset representations review agreement. However, the annual fee does not include the fees and expenses payable to the asset representations reviewer in connection with an asset representations review. Under the
+asset representations review agreement, the asset representations reviewer will be entitled to receive an additional fee in connection with an asset representations review, which fee will be paid by the transferor, or the sponsor at the direction of
+the transferor. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The asset representations review agreement provides that the asset representations reviewer will have no
+liability for any action taken or for refraining from the taking of any action in good faith or for errors in judgment, whether arising from express or implied duties under the asset representations review agreement, with exceptions for liability
+imposed by reason of the asset representations reviewers willful misfeasance, bad faith or negligence or its reckless disregard of its obligations. In addition, the asset representations reviewer will be entitled to rely in good faith on the
+documents provided to it in connection with the performance of its duties under the asset representations review agreement. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The asset representations reviewer will be replaced if it no longer meets the eligibility requirements under the asset
+representations review agreement. In addition, the transferor may remove and replace the asset representations reviewer (i) in connection with a material breach or failure to perform by the asset representations reviewer under the asset
+representations review agreement, (ii) in connection with certain bankruptcy events with respect to the asset representations reviewer or (iii) if the asset representations reviewer becomes a competitor of, or an affiliate of a competitor
+of, <reportingentity>American Express</reportingentity>. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The asset representations reviewer may not resign as asset representations reviewer except
+(i) upon determination that (A) the performance of its duties under the asset representations review agreement is no longer permitted under applicable law and (B) there is no reasonable action that it could take to make the
+performance of its obligations under the asset representations review agreement permitted under applicable law, or (ii) on or after <temporal>July 20, 2021</temporal>, upon one years written notice. No resignation of the asset representations reviewer
+will become effective </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">112 </p>
+
+</div></center></div></html>

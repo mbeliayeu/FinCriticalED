@@ -1,0 +1,4 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0">You may get these documents for free by visiting <reportingentity>EDGAR</reportingentity> on the
+SEC website at www.sec.gov. Alternatively, the Issuer, any underwriter or any dealer participating in the offering will arrange to send
+you the prospectus if you request it by calling Deutsche Bank Securities Inc. at 1-800-503-4611 or by emailing prospectus.CPDG@db.com,
+or by calling SMBC Nikko Securities America, Inc. at 212-224-5135 or by emailing prospectus@smbcnikko-si.com.</p></body></html>

@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt">-<!-- Field: Sequence; Type: LowerRoman; Name: PageNo -->i<!-- Field: /Sequence -->-</p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in; background-color: white">Any
+documents of the Company, and if applicable, the Finance Debt Issuers and the US Pref Issuer, of the type described in item 11.1
+of Form 44-101F1 —<i> Short Form Prospectus</i>, and any “template version” of “marketing
+materials” (each as defined in National Instrument 41-101 — <i>General Prospectus Requirements</i> (“<b>NI 41-101</b>”)),
+that are required to be filed by the Company, and if applicable, the Finance Debt Issuers and the US Pref Issuer with the applicable
+securities regulatory authorities in Canada, after the date of this Prospectus and prior to the termination of the applicable offering
+of Securities shall be deemed to be incorporated by reference into this Prospectus. Each annual report on Form 40-F filed by
+the Company will be incorporated by reference into this Prospectus and the U.S. registration statement on Forms F-10 and F-3 of
+which it forms a part (the “<b>Registration Statement</b>”). In addition, any report on Form 6-K filed by the Company
+with the Commission after the date of this Prospectus shall be deemed to be incorporated by reference into this Prospectus and the Registration
+Statement if and to the extent expressly provided in such report. The Company’s reports on Form 6-K and its annual report
+on Form 40-F are available at the Commission’s website at <u>www.sec.gov</u>.</p></body></html>

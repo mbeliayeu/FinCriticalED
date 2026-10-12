@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body>actions <font style="font-style: italic;">(x)</font> which may result in a significant change, even prospectively, in the capital, assets, economic, prudential and/or financial situation and/or activity of the Issuer (and/or one of its directly or
+              indirectly controlled or affiliated companies) as represented in the Issuer’s annual financial report as at 30 June 2024; <font style="font-style: italic;">(y)</font> which restrict the free operation of the subsidiaries, branches and
+              networks in the placement of products to customers (including through the renewal, extension – also due to lack of notice – or renegotiation of existing and/or expiring distribution agreements) or <font style="font-style: italic;">(z)</font>
+              that are in any case inconsistent with the Offer and the underlying industrial and commercial motivations, unless this is due to compliance with legal obligations and/or following a request of the Supervisory Authorities, without prejudice to
+              what is provided for by the condition under point (viii) below.  The foregoing shall be deemed to refer, purely by way of example, to capital increases (even when carried out in execution of the powers granted to the board of directors
+              pursuant to Article 2443 of the Italian Civil Code), capital reductions, distributions of reserves, payments of extraordinary dividends (i.e.<sub style="vertical-align: bottom; line-height: 1; font-size: smaller;">,</sub> those exceeding the profit reported in the latest approved financial statements at the
+              time of distribution), uses of equity, purchases or acts of disposition of treasury shares, mergers, demergers, transformations, amendments to the by-laws in general, cancellation or amalgamation of shares, sales, acquisitions, exercise of
+              purchase rights, or transfers, even temporarily, of assets, of participations (or of related equity or economic rights), of contracts for the supply of services, of commercial contracts or contracts for the distribution of banking, financial
+              or insurance products, of companies or branches of companies (including, by way of example, those operating in the insurance sector), bond issuances or assumption of debt (the “<font style="font-weight: bold;">Relevant Acts Condition</font>”);
+
+
+</body></html>

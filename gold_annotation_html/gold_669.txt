@@ -1,0 +1,27 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 5%"> </td>
+<td style="vertical-align: top; width: 3%"><font style="font-family: Symbol">·</font></td>
+<td style="vertical-align: top; width: 1%"> </td>
+<td style="text-align: justify; vertical-align: top"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">any
+    accumulated and unpaid distributions (as described in the applicable share designation) that have been declared by the board of managers
+    of the <financialconcepts>US Pref Issuer</financialconcepts> to be paid on the US Preferred Shares out of funds legally available for such distributions;</font></td></tr>
+</tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 5%"> </td>
+<td style="vertical-align: top; width: 3%"><font style="font-family: Symbol">·</font></td>
+<td style="vertical-align: top; width: 1%"> </td>
+<td style="text-align: justify; vertical-align: top"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">any
+    <financialconcepts>redemption price</financialconcepts> (as described in the applicable share designation), plus all accrued and unpaid distributions to the date of redemption
+    with respect to any US Preferred Shares called for redemption by the US Pref Issuer or otherwise required to be redeemed by the terms
+    of the applicable share designation; and</font></td></tr>
+</tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"> </p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr>
+<td style="width: 5%"> </td>
+<td style="vertical-align: top; width: 3%"><font style="font-family: Symbol">·</font></td>
+<td style="vertical-align: top; width: 1%"> </td>
+<td style="text-align: justify; vertical-align: top"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">upon
+    a voluntary or involuntary dissolution, winding-up or liquidation of the <financialconcepts>US Pref Issuer</financialconcepts>, the aggregate stated liquidation
+    preference and all accumulated and unpaid distributions, whether or not declared, without regard to whether the <financialconcepts>US Pref Issuer</financialconcepts> has
+    sufficient assets to make full payment as required on liquidation.</font></td></tr>
+</tbody></table></body></html>

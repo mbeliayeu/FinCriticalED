@@ -1,0 +1,141 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataBiases": "cr:dataBiases",
+    "dataCollection": "cr:dataCollection",
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "name": "FinCriticalED",
+  "description": "FinCriticalED is a financial document OCR evaluation benchmark. It contains 848 open-source samples pairing rendered page images from SEC EDGAR financial documents with their corresponding HTML, plus human expert annotations marking financially critical numeric and temporal entities (Numbers and Dates) in structured HTML format. The dataset supports evaluation of vision-language models on structured OCR with entity-level fact verification.",
+  "citeAs": "@article{he2025fincriticed, title={FinCriticalED: A Financial Document OCR Benchmark with Critical Entity Detection}, author={He, Yueru and others}, journal={arXiv preprint arXiv:2511.14998}, year={2025}}",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0.html",
+  "url": "https://huggingface.co/datasets/TheFinAI/FinCriticalED",
+  "version": "1.1.0",
+  "datePublished": "2025-11-25",
+  "keywords": [
+    "finance",
+    "ocr",
+    "document-understanding",
+    "named-entity-recognition",
+    "vision-language-model",
+    "SEC-filings"
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "Yueru He",
+      "email": "yh3507@columbia.edu"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "repo",
+      "name": "repo",
+      "description": "The HuggingFace dataset repository.",
+      "contentUrl": "https://huggingface.co/datasets/TheFinAI/FinCriticalED",
+      "encodingFormat": "application/x-git+https",
+      "sha256": "https://github.com/mlcommons/croissant/issues/80"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "raw_input",
+      "name": "raw_input.csv",
+      "description": "848 open-source samples: base64-encoded page images paired with matched HTML. Excludes 11 Tax & Compliance Forms samples sourced from Candid (candid.org) which cannot be redistributed.",
+      "containedIn": {"@id": "repo"},
+      "contentUrl": "raw_input.csv",
+      "encodingFormat": "text/csv",
+      "sha256": "97ea7eedda6869b1a0c50a74215934b1e36ae41e3b435408e2e70b04a4877594"
+    },
+    {
+      "@type": "cr:FileSet",
+      "@id": "gold_annotation_html_files",
+      "name": "gold_annotation_html_files",
+      "description": "Human expert annotated gold-standard HTML files with <Number> and <Date> entity spans. Each file corresponds to one sample by index.",
+      "containedIn": {"@id": "repo"},
+      "encodingFormat": "text/html",
+      "includes": "gold_annotation_html/gold_*.txt"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "raw_input_records",
+      "name": "raw_input",
+      "description": "Open-source OCR input samples: image-HTML pairs from SEC EDGAR financial documents.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "raw_input_records/id",
+          "name": "id",
+          "description": "Zero-based sample index.",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {"@id": "raw_input"},
+            "extract": {"column": "id"}
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "raw_input_records/image",
+          "name": "image",
+          "description": "Base64-encoded PNG image of the rendered financial document page.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {"@id": "raw_input"},
+            "extract": {"column": "image"}
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "raw_input_records/matched_html",
+          "name": "matched_html",
+          "description": "HTML chunk corresponding to the rendered page image.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {"@id": "raw_input"},
+            "extract": {"column": "matched_html"}
+          }
+        }
+      ]
+    }
+  ]
+}

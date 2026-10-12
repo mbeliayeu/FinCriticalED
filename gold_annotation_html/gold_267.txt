@@ -1,0 +1,58 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+underwrite accounts and formulate risk management and credit criteria. The logic and rules inherent in the systems used by outside service providers to route customer inquiries and to make
+decisions about accounts are developed by <reportingentity>TRS</reportingentity> and its affiliates. Third-party service providers are required to follow detailed account management procedures and policies of TRS in connection with any decisions made with respect to accounts with
+respect to which they provide services. TRS and its affiliates regularly audit and assess the performance of third-party service providers to measure service quality and compliance. All third-party service providers are required to comply with the
+account owners security and information protection requirements. Decisions to retain a third-party service provider are based on compliance with standards, cost, the ability of third parties to provide greater flexibility to TRS and its
+affiliates, financial stability and various other factors. </p> <p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_58"/>New Issuances </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement provides that, pursuant to one or more supplements, the transferor may cause the trust to
+issue one or more series of certificates and may define all principal terms of such series. Each series may have different terms and enhancements than any other series. None of the transferor, the servicer, the trustee or the trust is required or
+intends to provide prior notice to, or obtain the consent of, any certificateholder of any other series issued prior to the issuance of a new series. The transferor may offer any series to the public under a prospectus or other disclosure document
+in transactions either registered under the Securities Act of <temporal>1933</temporal>, as amended, or exempt from registration thereunder directly, through one or more purchasers or placement agents, in fixed-price offerings or in negotiated transactions or otherwise.
+The transferor intends to offer, from time to time, additional series. Each issuance of a new series will have the effect of decreasing the Transferor Amount to the extent of the initial invested amount of such new series. You can review a summary
+of each series previously issued and currently outstanding under the caption <i>Annex II: Other Series</i> included at the end of this prospectus. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The pooling and servicing agreement provides that the transferor may designate principal terms such that each series has a
+Controlled Accumulation Period or a Controlled Amortization Period that may have a different length and begin on a different date than such periods for any other series. Further, one or more series may be in their Controlled Accumulation Period or
+Controlled Amortization Period while other series are not. Moreover, each series may have the benefits of Series Enhancement issued by enhancement providers different from the providers of Series Enhancement with respect to any other series. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement, the trustee shall hold any such Series Enhancement only on behalf of the
+certificateholders of the series to which such Series Enhancement relates. With respect to each such Series Enhancement, the transferor may deliver a different form of Series Enhancement agreement. The transferor also has the option under the
+pooling and servicing agreement to vary among series the terms upon which a series may be repurchased by the transferor or remarketed to other investors. There is no limit to the number of new issuances the transferor may cause under the pooling and
+servicing agreement. The trust will terminate only as provided in the pooling and servicing agreement. There can be no assurance that the terms of any series might not have an impact on the timing and amount of payments received by a
+certificateholder of another series. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Under the pooling and servicing agreement and pursuant to a supplement, a new
+issuance may only occur upon the satisfaction of certain conditions. The obligation of the trustee to authenticate the certificates of such new series and to execute and deliver the related supplement is subject to the satisfaction of the following
+conditions: </p> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">on or before the fifth day immediately preceding the date upon which the new issuance is to occur, the
+transferor will give to the trustee, the servicer and each Rating Agency written notice of such new issuance and the date upon which the new issuance is to occur; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transferor will deliver to the trustee the related supplement, specifying the terms of the series;
+</p></td></tr></table> <p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the transferor will deliver to the trustee any related Series Enhancement agreement; </p></td></tr></table>
+<p style="font-size:12pt;margin-top:0pt;margin-bottom:0pt"> </p>
+<table style="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr style="page-break-inside:avoid">
+<td width="9%"> </td>
+<td width="3%" valign="top" align="justify"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"></p></td>
+<td width="1%" valign="top"> </td>
+<td align="left" valign="top"> <p align="justify" style=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">the Rating Agency Condition will be satisfied with respect to the new issuance; </p></td></tr></table>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">88 </p>
+
+</div></center></div></html>

@@ -1,0 +1,36 @@
+<div><hr size="3" style="COLOR:#999999" width="100%" align="CENTER"/>
+<h5 align="left" style="font-size:10pt;font-weight:bold"><a href="#toc">Table of Contents</a></h5>
+
+
+<center><div style="width:8.5in" align="left">
+ <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify">
+other information, which is either publicly available or provided by the applicant in response to the application process or by third parties. The underwriting process also verifies the identity
+of the applicant, and that the information on the application is accurate as provided by the true applicant and incorporates legal requirements. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Virtually all underwriting and authorization decisions use an automated system to capture the relevant information, execute
+the scoring logic, compare the proprietary risk scores against <font style="white-space:nowrap">cut-off</font> levels, apply business rules and legal requirements and then execute the approve or decline decision. In specified circumstances,
+including for certain product applications or where certain information is unavailable, the framework incorporates manual decision-making by a dedicated, specialized and experienced team to evaluate the available information to assess the
+applicants predicted risk, adhering to the same underwriting policies and standards. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Credit limits are determined
+based upon the Card Members past spending patterns in relation to available credit, the Card Members payment behavior and the proprietary risk assessment, as well as the Card Members experience with other creditors and personal
+resources. Credit limits are assigned at the time a new account is approved. <reportingentity>AENB</reportingentity> reevaluates credit limits proactively based on monitoring the Card Members account activity, and reactively after a Card Member initiates a request for a line
+increase. In both cases the evaluation includes a risk assessment. A stricter policy is applied to customer requests for a higher credit limit made by new customers shortly after account openings (e.g., within 60 days). </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">The credit limits for <reportingentity>American Express</reportingentity> credit card accounts generally range from $500 to $50,000. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>Credit Monitoring</i>. To monitor and control the quality of the portfolio, accounts are monitored monthly and on
+significant events like delinquency, inquiry, etc. by obtaining refreshed credit bureau information. <reportingentity>AENB</reportingentity> uses behavioral scoring models to score each active account with refreshed data. The behavioral scoring models are then used to dynamically
+evaluate whether or not credit limits should be increased or decreased. </p> <p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>Point of Sale Authorization</i>. <reportingentity>AENB</reportingentity> uses an
+automated process to approve or decline transactions at the point of sale based on proprietary risk models. Merchant <font style="white-space:nowrap"><font style="white-space:nowrap">point-of-sale</font></font> and online terminals connect with a
+proprietary authorization system. Card Member transactions are passed through the authorization system which considers the credit limit and other behavioral and risk factors to determine whether each transaction should be approved or declined. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>Fraud</i>. <reportingentity>AENB</reportingentity> contracts with TRS to monitor and manage the risk of different types of fraud. TRS uses a variety of tools
+and proprietary models to identify suspicious transactions resulting from different types of fraud, such as fraud rings, new account fraud and transactional fraud. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify"><i>Pay Over Time Features (for Certain Card Members). </i><reportingentity>AENB</reportingentity> allows qualifying Card Members with accounts that generally
+require balances to be paid in full to pay certain charges over time using Pay Over Time, Cash Advance and Plan It. While there generally is no preset spending limit on these card accounts, the total of a Card Members Pay Over Time, Cash
+Advance and Plan It balances generally may not exceed $50,000; for the majority of Card Members, the sum of these balances is capped at or below $35,000. This Pay Over Time Limit is set at the account level and therefore is shared across all the
+features that allow the Card Member to pay over time: Pay Over Time, Cash Advance, and Plan It. It is not a committed line of credit but a cap that applies to the total of the Pay Over Time, Cash Advance and Plan It balances. If a purchase that is
+otherwise eligible for Pay Over Time would cause the total of the Pay Over Time, Cash Advance and Plan It balances to exceed the Card Members Pay Over Time Limit, then a portion of that purchase will be added to the Pay Over Time balance, up
+to the Pay Over Time Limit. The remaining portion of the purchase will remain in the due in full balance. Charges are subject to approval at the time of utilization through a credit authorization process prior to being approved. </p>
+<p style="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="justify"><b><a name="tx764677_20"/>Billing and Payments </b></p>
+<p style="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" align="justify">Consumer accounts owned by <reportingentity>AENB</reportingentity> have various billing and payment structures, including various annual fees and monthly finance
+charges. Each account holder is subject to an agreement governing the terms and conditions of the American Express credit card account and any applicable Pay Over Time feature. Pursuant to each such agreement, AENB reserves the right to add, change
+or terminate any terms, conditions, services or features of the </p>
+ <p style="margin-top:0pt;margin-bottom:0pt ; font-size:8pt"> </p> <p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" align="center">52 </p>
+
+</div></center></div></html>

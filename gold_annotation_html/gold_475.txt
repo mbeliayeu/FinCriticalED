@@ -1,0 +1,10 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tbody><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%">S-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></td></tr></tbody></table></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><div style="border: Black 1pt solid; padding-right: 5pt; padding-left: 5pt; width: 98%"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><a name="psa_006"/><font style="text-transform: uppercase"><b>Summary</b></font></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>The Company</b></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">The Company is a leading
+global investment firm focused on building long-term wealth for institutions and individuals around the world. We have three core businesses:
+<financialconcepts>Alternative Asset Management</financialconcepts>, Wealth Solutions, and our Operating Businesses which are in renewable power, infrastructure, business and
+industrial services, and real estate. Our conservatively managed balance sheet, extensive operational experience, and global sourcing
+networks allow us to consistently access unique opportunities. The Company’s Class A Limited Voting </p></div></body></html>

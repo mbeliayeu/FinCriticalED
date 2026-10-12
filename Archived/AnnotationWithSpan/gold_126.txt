@@ -1,0 +1,8 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tbody><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%">S-<!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence --></td></tr></tbody></table></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"> </p></div><div style="border: Black 1pt solid; padding-right: 5pt; padding-left: 5pt; width: 98%"><p style="margin: 0"> </p>
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tbody><tr style="vertical-align: top">
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify; width: 24%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Certain
+    Covenants	</b></font></td>
+<td style="padding-top: 2pt; padding-bottom: 2pt; text-align: justify; width: 76%"><font style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+    Indenture (as defined herein) governing the notes contains covenants that, among other things, restrict the ability of the Company
+    and/or BFI to</font></td></tr></tbody></table></div></body></html>

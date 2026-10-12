@@ -1,0 +1,12 @@
+<html><head><style>html,body{margin:0;padding:0} img{max-width:100%;height:auto}</style></head><body><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">In connection with such optional
+redemption, the following defined terms apply:</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">“<b>Treasury Rate</b>”
+means, with respect to any redemption date, the yield determined by BFI in accordance with the following paragraphs (1) and (2).</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> </p><table cellpadding="0" cellspacing="0" style="width: 100%; font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><tbody><tr style="vertical-align: top">
+<td style="width: 0.5in"/><td style="width: 0.5in">(1)</td><td style="text-align: justify">The Treasury Rate shall be determined
+                                            by BFI after 4:15 p.m., New York City time (or after such time as yields on U.S. government
+                                            securities are posted daily by the Board of Governors of the Federal Reserve System), on
+                                            the third Business Day preceding the redemption date based upon the yield or yields for the
+                                            most recent day that appear after such time on such day in the most recent statistical release
+                                            published by the Board of Governors of the Federal Reserve System designated as “Selected
+                                            Interest Rates (Daily) – H.15” (or any successor designation or publication)
+                                            (“<b>H.15</b>”) under the caption “U.S. government securities–Treasury
+                                  </td></tr></tbody></table></body></html>
